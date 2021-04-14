@@ -1,4 +1,5 @@
 name: Validate Markdown
+on: [push, pull_request]
 
 jobs:
  build:
