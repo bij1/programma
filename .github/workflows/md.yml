@@ -1,0 +1,25 @@
+name: Validate Markdown
+
+jobs:
+ build:
+  runs-on: ubuntu-latest
+  steps:
+  - uses: actions/checkout@master
+    with:
+      ref: ${{ github.head_ref }}
+  # lint markdown
+  - name: markdownlint-cli
+    uses: nosborn/github-action-markdown-cli@v1.1.1
+    with:
+      files: .
+      # config_file: ".markdownlint.yaml"
+      # ignore_files: "examples/ignore/*"
+      # rules: "examples/rules/custom.js"
+  # verify markdown links
+  - uses: gaurav-nelson/github-action-markdown-link-check@v1
+    with:
+      config-file: 'mlc_config.json'
+      # Quiet mode only shows errors in output not successful links too
+      use-quiet-mode: 'yes'
+      # Specify yes to show detailed HTTP status for checked links.
+      use-verbose-mode: 'yes'
