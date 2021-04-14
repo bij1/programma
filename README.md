@@ -134,16 +134,16 @@
 - [Achtergrondstukken](#achtergrondstukken)
     <!-- - [ZEGGENSCHAP OVER WERK](#zeggenschap-over-werk) -->
     <!-- - [GENDERRECHTVAARDIGHEID EN WERK](#genderrechtvaardigheid-en-werk) -->
-        <!-- - [En in ons welvarende en moderne land dan?](#en-in-ons-welvarende-en-moderne-land-dan) -->
-        <!-- - [Welk feminisme?](#welk-feminisme) -->
-        <!-- - [Gelijke beloning, maar gelijk met wie?](#gelijke-beloning-maar-gelijk-met-wie) -->
-        <!-- - [Niet om de winst, maar om de mensen](#niet-om-de-winst-maar-om-de-mensen) -->
+    <!--     - [En in ons welvarende en moderne land dan?](#en-in-ons-welvarende-en-moderne-land-dan) -->
+    <!--     - [Welk feminisme?](#welk-feminisme) -->
+    <!--     - [Gelijke beloning, maar gelijk met wie?](#gelijke-beloning-maar-gelijk-met-wie) -->
+    <!--     - [Niet om de winst, maar om de mensen](#niet-om-de-winst-maar-om-de-mensen) -->
     <!-- - [VAN ARMOEDEBESTRIJDING NAAR ARMOEDEPREVENTIE](#van-armoedebestrijding-naar-armoedepreventie) -->
     <!-- - [ERVARINGSDESKUNDIGHEID IN DE ZORG](#ervaringsdeskundigheid-in-de-zorg) -->
-        <!-- - [Van plofparticipatie naar eigenaarschap](#van-plofparticipatie-naar-eigenaarschap) -->
-        <!-- - [Vrije ruimte voor de leefwereld](#vrije-ruimte-voor-de-leefwereld) -->
-        <!-- - [Op alle plekken in verschillende vormen](#op-alle-plekken-in-verschillende-vormen) -->
-        <!-- - [Gelijkwaardige positionering](#gelijkwaardige-positionering) -->
+    <!--     - [Van plofparticipatie naar eigenaarschap](#van-plofparticipatie-naar-eigenaarschap) -->
+    <!--     - [Vrije ruimte voor de leefwereld](#vrije-ruimte-voor-de-leefwereld) -->
+    <!--     - [Op alle plekken in verschillende vormen](#op-alle-plekken-in-verschillende-vormen) -->
+    <!--     - [Gelijkwaardige positionering](#gelijkwaardige-positionering) -->
     <!-- - [ZORG VOOR TRANS PERSONEN](#zorg-voor-trans-personen) -->
     <!-- - [ONDERWIJSSEGREGATIE](#onderwijssegregatie) -->
     <!-- - [DE ONDERWIJSVISIE VAN BIJ1](#de-onderwijsvisie-van-bij1) -->
@@ -156,8 +156,8 @@
     <!-- - [ABORTUS](#abortus) -->
     <!-- - [KLIMAATRACISME](#klimaatracisme) -->
     <!-- - [PALESTINA](#palestina) -->
-        <!-- - [De politiek van de staat Israël](#de-politiek-van-de-staat-israël) -->
-        <!-- - [De Internationale BDS-beweging](#de-internationale-bds-beweging) -->
+    <!--     - [De politiek van de staat Israël](#de-politiek-van-de-staat-israël) -->
+    <!--     - [De Internationale BDS-beweging](#de-internationale-bds-beweging) -->
     <!-- - [GENDER-GERELATEERD GEWELD](#gender-gerelateerd-geweld) -->
 <!-- /TOC -->
 
