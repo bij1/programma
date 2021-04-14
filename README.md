@@ -583,8 +583,6 @@ Nederlandse werknemers.
     Surinaams-Nederlandse ouderen en ouderen met een
     migratieachtergrond mee te maken hebben, wordt gedicht.
 
-7.  
-
 # ECONOMIE
 
 De huidige verdeling van welvaart, bezit en macht komt slechts een klein
