@@ -1,55 +1,191 @@
-**INHOUDSOPGAVE**
+# INHOUDSOPGAVE
 
+<!-- TOC -->
+<!-- - [INHOUDSOPGAVE](#inhoudsopgave) -->
+- [Antiracisme en dekolonisatie](#antiracisme-en-dekolonisatie)
+    <!-- - [Structureel probleem](#structureel-probleem) -->
+    <!-- - [Racisme is geen bijzaak](#racisme-is-geen-bijzaak) -->
+    <!-- - [Aanpak van racistisch geweld](#aanpak-van-racistisch-geweld) -->
+    <!-- - [Excuses en rechtsherstel](#excuses-en-rechtsherstel) -->
+    <!-- - [Geen plek voor nazisme en haat](#geen-plek-voor-nazisme-en-haat) -->
+- [Werk, inkomen en participatie](#werk-inkomen-en-participatie)
+    <!-- - [Bestaanszekerheid en eerlijke waardering](#bestaanszekerheid-en-eerlijke-waardering) -->
+    <!-- - [Zeggenschap en zelfbeschikking](#zeggenschap-en-zelfbeschikking) -->
+    <!-- - [Bestaanszekerheid en eerlijke waardering van werk voorop](#bestaanszekerheid-en-eerlijke-waardering-van-werk-voorop) -->
+    <!-- - [Meer zeggenschap over je eigen werk](#meer-zeggenschap-over-je-eigen-werk) -->
+    <!-- - [Naar een inclusieve en toegankelijke arbeidsmarkt](#naar-een-inclusieve-en-toegankelijke-arbeidsmarkt) -->
+    <!-- - [Geen plek voor discriminatie](#geen-plek-voor-discriminatie) -->
+    <!-- - [Sekswerk is werk](#sekswerk-is-werk) -->
+    <!-- - [Bestaanszekerheid, ook als je niet (meer) werkt](#bestaanszekerheid-ook-als-je-niet-meer-werkt) -->
+- [Economie](#economie)
+    <!-- - [Weg met de dictatuur van de ‘vrije’ markt](#weg-met-de-dictatuur-van-de-vrije-markt) -->
+    <!-- - [Geen kloof tussen arm en rijk](#geen-kloof-tussen-arm-en-rijk) -->
+    <!-- - [Help mensen uit de schulden, niet erin](#help-mensen-uit-de-schulden-niet-erin) -->
+    <!-- - [Klimaatrechtvaardigheid](#klimaatrechtvaardigheid) -->
+    <!-- - [Haal het geld waar het zit](#haal-het-geld-waar-het-zit) -->
+    <!-- - [Van een markteconomie naar een economie voor iedereen](#van-een-markteconomie-naar-een-economie-voor-iedereen) -->
+    <!-- - [Produceren naar vermogen, nemen naar behoefte](#produceren-naar-vermogen-nemen-naar-behoefte) -->
+    <!-- - [Einde aan de schuldeneconomie](#einde-aan-de-schuldeneconomie) -->
+    <!-- - [Een circulaire en toekomstbestendige economie](#een-circulaire-en-toekomstbestendige-economie) -->
+    <!-- - [Internationale rechtvaardigheid](#internationale-rechtvaardigheid) -->
+- [Zorg](#zorg)
+    <!-- - [De zorg is geen markt](#de-zorg-is-geen-markt) -->
+    <!-- - [Zorgmedewerkers en ervaringsdeskundigen aan zet](#zorgmedewerkers-en-ervaringsdeskundigen-aan-zet) -->
+    <!-- - [Geen discriminatie, maar inclusie](#geen-discriminatie-maar-inclusie) -->
+    <!-- - [Zorg van iedereen: maak de zorg van ons allen](#zorg-van-iedereen-maak-de-zorg-van-ons-allen) -->
+    <!-- - [Zorg van ons allemaal: maak de zorg toegankelijk](#zorg-van-ons-allemaal-maak-de-zorg-toegankelijk) -->
+    <!-- - [Zorg door deskundigen](#zorg-door-deskundigen) -->
+    <!-- - [Zorg voor iedereen](#zorg-voor-iedereen) -->
+- [Wonen en bouwen](#wonen-en-bouwen)
+    <!-- - [Rechtvaardig wonen](#rechtvaardig-wonen) -->
+    <!-- - [Bouwen en duurzaamheid](#bouwen-en-duurzaamheid) -->
+    <!-- - [Een plek voor iedereen](#een-plek-voor-iedereen) -->
+    <!-- - [Rechtvaardig huren, bouwen en renoveren](#rechtvaardig-huren-bouwen-en-renoveren) -->
+    <!-- - [Kwetsbare groepen en alternatieve (woon)groepen](#kwetsbare-groepen-en-alternatieve-woongroepen) -->
+- [Onderwijs en wetenschap](#onderwijs-en-wetenschap)
+    <!-- - [Sterke onderwijsinstellingen en betere in- en doorstroming](#sterke-onderwijsinstellingen-en-betere-in--en-doorstroming) -->
+    <!-- - [Waardering voor leraren en wetenschappers](#waardering-voor-leraren-en-wetenschappers) -->
+    <!-- - [Gelijke kansen voor alle leerlingen](#gelijke-kansen-voor-alle-leerlingen) -->
+    <!-- - [Een divers en inclusief aanbod op school](#een-divers-en-inclusief-aanbod-op-school) -->
+    <!-- - [Betere werkomstandigheden voor leraren](#betere-werkomstandigheden-voor-leraren) -->
+    <!-- - [Toegankelijk beroeps- en hoger onderwijs en verbeterde doorstroom](#toegankelijk-beroeps--en-hoger-onderwijs-en-verbeterde-doorstroom) -->
+    <!-- - [Meer waardering, democratie en diversiteit in het hoger onderwijs](#meer-waardering-democratie-en-diversiteit-in-het-hoger-onderwijs) -->
+- [Kunst, cultuur en media](#kunst-cultuur-en-media)
+    <!-- - [Ruimte voor vernieuwing en toegankelijkheid](#ruimte-voor-vernieuwing-en-toegankelijkheid) -->
+    <!-- - [Ondersteuning van de makers](#ondersteuning-van-de-makers) -->
+    <!-- - [Representatie van de samenleving](#representatie-van-de-samenleving) -->
+    <!-- - [Erken de makers, erken de geschiedenis](#erken-de-makers-erken-de-geschiedenis) -->
+    <!-- - [Voor de makers](#voor-de-makers) -->
+    <!-- - [Diversiteit en representatie](#diversiteit-en-representatie) -->
+    <!-- - [Toegankelijkheid](#toegankelijkheid) -->
+- [Toegankelijkheid](#toegankelijkheid)
+    <!-- - [Aanpassing wetgeving en naleving bestaande verdragen](#aanpassing-wetgeving-en-naleving-bestaande-verdragen) -->
+    <!-- - [Maatregelen om de samenleving toegankelijker te maken](#maatregelen-om-de-samenleving-toegankelijker-te-maken) -->
+- [Recht op zelfbeschikking](#recht-op-zelfbeschikking)
+    <!-- - [Toegankelijke anticonceptie en abortus](#toegankelijke-anticonceptie-en-abortus) -->
+    <!-- - [Zwanger worden, bevallen en adoptie](#zwanger-worden-bevallen-en-adoptie) -->
+    <!-- - [Geslachtsontwikkeling en gender (niet-standaard)](#geslachtsontwikkeling-en-gender-niet-standaard) -->
+    <!-- - [Diverse gezinsvormen](#diverse-gezinsvormen) -->
+    <!-- - [Ondraaglijk lijden en euthanasie](#ondraaglijk-lijden-en-euthanasie) -->
+    <!-- - [Zelfbeschikking over religieuze uitingen](#zelfbeschikking-over-religieuze-uitingen) -->
+- [Klimaatrechtvaardigheid](#klimaatrechtvaardigheid)
+    <!-- - [Nederland: beleid, uitstoot en energie](#nederland-beleid-uitstoot-en-energie) -->
+    <!-- - [Natuur en vervoer](#natuur-en-vervoer) -->
+    <!-- - [Internationale samenwerking: industrie, handel & lobby’s](#internationale-samenwerking-industrie-handel--lobbys) -->
+- [Dierenrechten en dierenwelzijn](#dierenrechten-en-dierenwelzijn)
+    <!-- - [Een einde aan de bio-industrie en leed in de visserij](#een-einde-aan-de-bio-industrie-en-leed-in-de-visserij) -->
+    <!-- - [Dieren zijn geen vermaak of product](#dieren-zijn-geen-vermaak-of-product) -->
+- [Landbouw, visserij en voedsel](#landbouw-visserij-en-voedsel)
+    <!-- - [Klimaatcrisis](#klimaatcrisis) -->
+    <!-- - [Landbouw van de toekomst](#landbouw-van-de-toekomst) -->
+    <!-- - [Visserij](#visserij) -->
+    <!-- - [(Gezonde) voedselzekerheid voorop](#gezonde-voedselzekerheid-voorop) -->
+    <!-- - [De overgang naar een duurzame landbouw](#de-overgang-naar-een-duurzame-landbouw) -->
+    <!-- - [Het beschermen van de vissen en het tegengaan van overvisserij](#het-beschermen-van-de-vissen-en-het-tegengaan-van-overvisserij) -->
+    <!-- - [Een duurzaam en eerlijk voedselbeleid](#een-duurzaam-en-eerlijk-voedselbeleid) -->
+- [Asiel en migratie](#asiel-en-migratie)
+    <!-- - [Onderdeel van het probleem, dus onderdeel van de oplossing](#onderdeel-van-het-probleem-dus-onderdeel-van-de-oplossing) -->
+    <!-- - [Migratiecrisis? Nee, humanitaire crisis.](#migratiecrisis-nee-humanitaire-crisis) -->
+    <!-- - [Falend Europees opvangbeleid](#falend-europees-opvangbeleid) -->
+    <!-- - [Wanbeleid bij IND en AZC’s](#wanbeleid-bij-ind-en-azcs) -->
+    <!-- - [Oplossingen op de korte en lange termijn](#oplossingen-op-de-korte-en-lange-termijn) -->
+    <!-- - [Korte termijn: een einde aan geweld en een begin van solidariteit](#korte-termijn-een-einde-aan-geweld-en-een-begin-van-solidariteit) -->
+    <!-- - [Korte termijn: betere opvang en procedures](#korte-termijn-betere-opvang-en-procedures) -->
+- [Europa](#europa)
+    <!-- - [Ondoorzichtig en anti-democratisch](#ondoorzichtig-en-anti-democratisch) -->
+    <!-- - [Verspilling en gierigheid](#verspilling-en-gierigheid) -->
+    <!-- - [Rechtsstaat en mensenrechten staan onder druk](#rechtsstaat-en-mensenrechten-staan-onder-druk) -->
+    <!-- - [Meer democratie en betere bescherming van mensenrechten](#meer-democratie-en-betere-bescherming-van-mensenrechten) -->
+    <!-- - [Meer geld naar mensen en klimaat](#meer-geld-naar-mensen-en-klimaat) -->
+    <!-- - [Tegengaan van militarisering en afschaffing van onnodige uitgaven](#tegengaan-van-militarisering-en-afschaffing-van-onnodige-uitgaven) -->
+- [Internationale samenwerking](#internationale-samenwerking)
+    <!-- - [Problemen die we samen moeten bestrijden](#problemen-die-we-samen-moeten-bestrijden) -->
+    <!-- - [Inlossen koloniale schuld](#inlossen-koloniale-schuld) -->
+    <!-- - [Economische rechtvaardigheid](#economische-rechtvaardigheid) -->
+    <!-- - [Mensenrechten en verduurzaming](#mensenrechten-en-verduurzaming) -->
+    <!-- - [Internationale rechtvaardigheid](#internationale-rechtvaardigheid-1) -->
+- [Staatsinrichting en rechtsstaat](#staatsinrichting-en-rechtsstaat)
+    <!-- - [Een rechtsstaat voor iedereen](#een-rechtsstaat-voor-iedereen) -->
+    <!-- - [Een vrije en veilige rechtsstaat](#een-vrije-en-veilige-rechtsstaat) -->
+    <!-- - [Een gezonde en directe democratie](#een-gezonde-en-directe-democratie) -->
+- [Veiligheid en justitie](#veiligheid-en-justitie)
+    <!-- - [Herstelrecht in plaats van afstraffing](#herstelrecht-in-plaats-van-afstraffing) -->
+    <!-- - [Naar een veilig, medemenselijk en rechtvaardig Nederland](#naar-een-veilig-medemenselijk-en-rechtvaardig-nederland) -->
+    <!-- - [Van strafketen naar een eerlijke rechtsstaat](#van-strafketen-naar-een-eerlijke-rechtsstaat) -->
+    <!-- - [Van klassenjustitie naar bescherming van rechten](#van-klassenjustitie-naar-bescherming-van-rechten) -->
+    <!-- - [Van politiegeweld naar betere regels voor de politie](#van-politiegeweld-naar-betere-regels-voor-de-politie) -->
+    <!-- - [Aanpak van gendergerelateerd geweld](#aanpak-van-gendergerelateerd-geweld) -->
+- [BES-Eilanden en Koninkrijk](#bes-eilanden-en-koninkrijk)
+    <!-- - [Zelfbeschikkingsrecht en autonomie](#zelfbeschikkingsrecht-en-autonomie) -->
+    <!-- - [Het herstellen van de schade](#het-herstellen-van-de-schade) -->
+    <!-- - [Gelijkwaardigheid in onderwijs](#gelijkwaardigheid-in-onderwijs) -->
+- [Defensie](#defensie)
+    <!-- - [Oorlog de wereld uit](#oorlog-de-wereld-uit) -->
+    <!-- - [Vrede, zelfbeschikking en internationale rechtvaardigheid](#vrede-zelfbeschikking-en-internationale-rechtvaardigheid) -->
+    <!-- - [Ontwapening en omvorming wapenindustrie](#ontwapening-en-omvorming-wapenindustrie) -->
+    <!-- - [Een veilige en rechtvaardige werkomgeving](#een-veilige-en-rechtvaardige-werkomgeving) -->
+- [Digitale rechten en technologie](#digitale-rechten-en-technologie)
+    <!-- - [De risico’s van digitale technologie](#de-risicos-van-digitale-technologie) -->
+    <!-- - [Bevooroordeelde algoritmes en discriminerend beleid](#bevooroordeelde-algoritmes-en-discriminerend-beleid) -->
+    <!-- - [Toegankelijkheid en bescherming voor iedereen](#toegankelijkheid-en-bescherming-voor-iedereen) -->
+    <!-- - [Privacy en data van gebruikers beschermen](#privacy-en-data-van-gebruikers-beschermen) -->
+    <!-- - [Het gebruik van data beveiligen en controleren](#het-gebruik-van-data-beveiligen-en-controleren) -->
+- [Woordenlijst](#woordenlijst)
+- [Achtergrondstukken](#achtergrondstukken)
+    <!-- - [ZEGGENSCHAP OVER WERK](#zeggenschap-over-werk) -->
+    <!-- - [GENDERRECHTVAARDIGHEID EN WERK](#genderrechtvaardigheid-en-werk) -->
+        <!-- - [En in ons welvarende en moderne land dan?](#en-in-ons-welvarende-en-moderne-land-dan) -->
+        <!-- - [Welk feminisme?](#welk-feminisme) -->
+        <!-- - [Gelijke beloning, maar gelijk met wie?](#gelijke-beloning-maar-gelijk-met-wie) -->
+        <!-- - [Niet om de winst, maar om de mensen](#niet-om-de-winst-maar-om-de-mensen) -->
+    <!-- - [VAN ARMOEDEBESTRIJDING NAAR ARMOEDEPREVENTIE](#van-armoedebestrijding-naar-armoedepreventie) -->
+    <!-- - [ERVARINGSDESKUNDIGHEID IN DE ZORG](#ervaringsdeskundigheid-in-de-zorg) -->
+        <!-- - [Van plofparticipatie naar eigenaarschap](#van-plofparticipatie-naar-eigenaarschap) -->
+        <!-- - [Vrije ruimte voor de leefwereld](#vrije-ruimte-voor-de-leefwereld) -->
+        <!-- - [Op alle plekken in verschillende vormen](#op-alle-plekken-in-verschillende-vormen) -->
+        <!-- - [Gelijkwaardige positionering](#gelijkwaardige-positionering) -->
+    <!-- - [ZORG VOOR TRANS PERSONEN](#zorg-voor-trans-personen) -->
+    <!-- - [ONDERWIJSSEGREGATIE](#onderwijssegregatie) -->
+    <!-- - [DE ONDERWIJSVISIE VAN BIJ1](#de-onderwijsvisie-van-bij1) -->
+    <!-- - [DIGITALISERING IN HET ONDERWIJS](#digitalisering-in-het-onderwijs) -->
+    <!-- - [HET MBO](#het-mbo) -->
+    <!-- - [HET WO](#het-wo) -->
+    <!-- - [HET LERARENTEKORT](#het-lerarentekort) -->
+    <!-- - [TOEGANKELIJKHEID](#toegankelijkheid-1) -->
+    <!-- - [HET RECHT OP ZELFBESCHIKKING VAN MOSLIMS](#het-recht-op-zelfbeschikking-van-moslims) -->
+    <!-- - [ABORTUS](#abortus) -->
+    <!-- - [KLIMAATRACISME](#klimaatracisme) -->
+    <!-- - [PALESTINA](#palestina) -->
+        <!-- - [De politiek van de staat Israël](#de-politiek-van-de-staat-israël) -->
+        <!-- - [De Internationale BDS-beweging](#de-internationale-bds-beweging) -->
+    <!-- - [GENDER-GERELATEERD GEWELD](#gender-gerelateerd-geweld) -->
+<!-- /TOC -->
+
+<!--
 1.  Antiracisme en dekolonisatie
-
 2.  Werk, inkomen en participatie
-
 3.  Economie
-
 4.  Zorg
-
 5.  Wonen en bouwen
-
 6.  Onderwijs en wetenschap
-
 7.  Kunst, cultuur en media
-
 8.  Toegankelijkheid
-
 9.  Recht op zelfb eschikking
-
 10. Klimaatrechtvaardigheid
-
 11. Dierenrechten- en welzijn
-
 12. Landbouw, visserij en voedsel
-
 13. Asiel en migratie
-
 14. Europa
-
 15. Internationale samenwerking
-
 16. Staatsinrichting en rechtsstaat
-
 17. Veiligheid en justitie
-
 18. BES-Eilanden en Koninkrijk
-
 19. Defensie
-
 20. Digitale rechten en technologie
-
 21. Woordenlijst
+-->
 
-**Legenda**
-
-Blauw verwijst naar het woord in de begrippenlijst
-
-<u>Onderstreept</u> met een nummer erachter: verwijst naar het
-betreffende achtergrondstuk in de bijlage
-
-**ANTIRACISME EN DEKOLONISATIE**
+# ANTIRACISME EN DEKOLONISATIE
 
 BIJ1 staat voor een samenleving met respect en waardering voor onze
 verschillen en met focus op wat ons bindt. Hierin is geen plaats is voor
@@ -70,7 +206,7 @@ hooghouden. Alleen op deze manier kunnen we *met elkaar* bouwen aan een
 eerlijke en voor iedereen veilige samenleving. Daarom moeten we
 gezamenlijk de strijd aangaan tégen racisme en vóór dekolonisatie.
 
-**Structureel probleem**
+## Structureel probleem
 
 Waar de huidige politiek er te vaak van uitgaat dat racisme in Nederland
 eigenlijk niet bestaat en alleen gaat over ‘losse’ gebeurtenissen, wil
@@ -104,113 +240,113 @@ plaatsvinden op allerlei vlakken. Onderstaande punten zijn de eerste
 stappen die we concreet kunnen zetten *tegen* racisme en *voor*
 dekolonisatie.
 
-**Racisme is geen bijzaak**
+## Racisme is geen bijzaak
 
 1.  De aanpak van racisme in alle facetten van onze samenleving wordt
-    > topprioriteit. Er komt een Ministerie van Gelijkwaardigheid dat
-    > zich actief bezighoudt met de bestrijding van racisme en andere
-    > vormen van ongelijkwaardigheid.
+    topprioriteit. Er komt een Ministerie van Gelijkwaardigheid dat
+    zich actief bezighoudt met de bestrijding van racisme en andere
+    vormen van ongelijkwaardigheid.
 
 2.  Er komt breed onafhankelijk onderzoek naar racisme binnen
-    > overheidsinstanties op alle niveaus: van gemeenten tot
-    > ministeries, van de belastingdienst tot de politie.
+    overheidsinstanties op alle niveaus: van gemeenten tot
+    ministeries, van de belastingdienst tot de politie.
 
 3.  Registratie van etniciteit door overheidsinstanties mag enkel
-    > gebeuren nadat er een grondige toetsing heeft plaatsgevonden van
-    > het nut van die registratie.
+    gebeuren nadat er een grondige toetsing heeft plaatsgevonden van
+    het nut van die registratie.
 
 4.  We gaan artikel 1 van onze Grondwet beter naleven. Er wordt beter
-    > gehandhaafd op het bedenken en uitvoeren van racistisch beleid en
-    > op racistische uitingen.
+    gehandhaafd op het bedenken en uitvoeren van racistisch beleid en
+    op racistische uitingen.
 
 5.  We verbieden en ontbinden organisaties waar racistisch ideeëngoed
-    > verspreid en uitgewisseld wordt.
+    verspreid en uitgewisseld wordt.
 
-**Aanpak van racistisch geweld**
+## Aanpak van racistisch geweld
 
 1.  Er komt meer aandacht voor de aanpak van racistische terreur.
-    > Racistische aanvallen, waaronder aanvallen op synagogen en
-    > moskeeën, worden keihard bestreden door de-radicalisering en
-    > educatieve maatregelen. Verdere radicalisering in gevangenissen
-    > moet voorkomen worden.
+    Racistische aanvallen, waaronder aanvallen op synagogen en
+    moskeeën, worden keihard bestreden door de-radicalisering en
+    educatieve maatregelen. Verdere radicalisering in gevangenissen
+    moet voorkomen worden.
 
 2.  Aangiftes en meldingen over racistisch geweld worden serieuzer
-    > opgepakt. Een veilige samenleving voor iedereen wordt
-    > topprioriteit. Bovendien wordt nationaliteit toegevoegd als
-    > discriminatiegrond aan Artikel 137 van het Wetboek van Strafrecht.
+    opgepakt. Een veilige samenleving voor iedereen wordt
+    topprioriteit. Bovendien wordt nationaliteit toegevoegd als
+    discriminatiegrond aan Artikel 137 van het Wetboek van Strafrecht.
 
 3.  Er komen juridische definities van racisme, anti-zwart racisme,
-    > antisemitisme, anti-Aziatisch racisme, moslimhaat en haat tegen
-    > Roma en Sinti. Deze worden expliciet opgenomen in
-    > antidiscriminatiewetgeving en hebben betrekking op het structurele
-    > karakter van deze vormen van onderdrukking.
+    antisemitisme, anti-Aziatisch racisme, moslimhaat en haat tegen
+    Roma en Sinti. Deze worden expliciet opgenomen in
+    antidiscriminatiewetgeving en hebben betrekking op het structurele
+    karakter van deze vormen van onderdrukking.
 
 4.  *Blackfacing*, zoals zwarte piet, wordt verboden in de openbare
-    > ruimte.
+    ruimte.
 
 5.  Racistisch politiegeweld en etnisch profileren worden voorkomen en
-    > aangepakt.
+    aangepakt.
 
-**Excuses en rechtsherstel**
+## Excuses en rechtsherstel
 
 1.  De overheid maakt officiële excuses voor ons slavernijverleden en de
-    > koloniale bezettingen. Daarbij erkent Nederland de Indonesische
-    > onafhankelijkheidsdatum van 17 augustus 1945. Nederland draagt
-    > alle (juridische en financiële) consequenties die voortvloeien uit
-    > die excuses en erkenning.
+    koloniale bezettingen. Daarbij erkent Nederland de Indonesische
+    onafhankelijkheidsdatum van 17 augustus 1945. Nederland draagt
+    alle (juridische en financiële) consequenties die voortvloeien uit
+    die excuses en erkenning.
 
 2.  Er komt volledig rechtsherstel voor de Indische gemeenschap. Kosten
-    > noch moeite worden hierin gespaard.
+    noch moeite worden hierin gespaard.
 
 3.  Er komt uitgebreid en onafhankelijk onderzoek naar de roof van
-    > kapitaal en eigendom uit voormalige koloniën en van Joden in de
-    > Tweede Wereldoorlog, de waarde van gestolen arbeid van tot slaaf
-    > gemaakten en contractarbeiders, en de gelden die Indonesië heeft
-    > betaald in ruil voor de soevereiniteitsoverdracht. Nederland zet
-    > zich onvoorwaardelijk in voor herstel.
+    kapitaal en eigendom uit voormalige koloniën en van Joden in de
+    Tweede Wereldoorlog, de waarde van gestolen arbeid van tot slaaf
+    gemaakten en contractarbeiders, en de gelden die Indonesië heeft
+    betaald in ruil voor de soevereiniteitsoverdracht. Nederland zet
+    zich onvoorwaardelijk in voor herstel.
 
 4.  Keti Koti wordt een nationale feestdag. Het herdenken van het leed
-    > van de slavernij en het vieren van het einde ervan wordt onderdeel
-    > van de Nederlandse cultuur.
+    van de slavernij en het vieren van het einde ervan wordt onderdeel
+    van de Nederlandse cultuur.
 
 5.  Koloniale straatnamen krijgen duiding of worden weggehaald. Beelden
-    > van koloniale figuren en de Gouden Koets krijgen een nieuwe
-    > bestemming in musea. De vrijgekomen plaats in de openbare ruimte
-    > wordt bijvoorbeeld gevuld door beelden van antikoloniale
-    > verzetshelden. Kunstenaars en experts met wortels in de voormalige
-    > koloniën, alsmede omwonenden, krijgen hierbij doorslaggevende
-    > inspraak.
+    van koloniale figuren en de Gouden Koets krijgen een nieuwe
+    bestemming in musea. De vrijgekomen plaats in de openbare ruimte
+    wordt bijvoorbeeld gevuld door beelden van antikoloniale
+    verzetshelden. Kunstenaars en experts met wortels in de voormalige
+    koloniën, alsmede omwonenden, krijgen hierbij doorslaggevende
+    inspraak.
 
-**Geen plek voor nazisme en haat**
+## Geen plek voor nazisme en haat
 
 1.  Er komen landelijke programma’s om antisemitisme, anti-zwart racisme
-    > en moslimhaat aan te pakken. Tot deze programma’s behoort een
-    > onafhankelijk meldpunt. Meldingen van anti-Joods, anti-zwart en
-    > anti-moslimgeweld worden voortaan besproken in de
-    > veiligheidsdriehoeken.
+    en moslimhaat aan te pakken. Tot deze programma’s behoort een
+    onafhankelijk meldpunt. Meldingen van anti-Joods, anti-zwart en
+    anti-moslimgeweld worden voortaan besproken in de
+    veiligheidsdriehoeken.
 
 2.  We stellen een eerlijke definitie van antisemitisme op, zodat
-    > klassiek-nazistische denkbeelden en complottheorieën over het
-    > ‘gedegenereerde Joodse ras’, ‘rijke Joden’, een ‘wereldomspannende
-    > Joodse samenzwering’ en ‘cultuurmarxisme’ adequaat kunnen worden
-    > aangepakt. De IHRA-definitie is geen eerlijke definitie van
-    > antisemitisme.
+    klassiek-nazistische denkbeelden en complottheorieën over het
+    ‘gedegenereerde Joodse ras’, ‘rijke Joden’, een ‘wereldomspannende
+    Joodse samenzwering’ en ‘cultuurmarxisme’ adequaat kunnen worden
+    aangepakt. De IHRA-definitie is geen eerlijke definitie van
+    antisemitisme.
 
 3.  Het bezit van nazi-attributen moeten enkel zijn voorbehouden aan
-    > musea en vergunninghouders. Privé-bezit en handel wordt verboden,
-    > tenzij men een vergunning heeft.
+    musea en vergunninghouders. Privé-bezit en handel wordt verboden,
+    tenzij men een vergunning heeft.
 
 4.  Holocaustontkenning en Hitler-aanbidding worden bij wet verboden.
 
 5.  We zorgen dat gemeenten doordrongen zijn van het
-    > gelijkwaardigheidsprincipe in het contact met Roma, Sinti en
-    > woonwagenbewoners. Het uitsterfbeleid tegen Roma, Sinti en
-    > woonwagenbewoners mag dan van tafel zijn, het stigma in de
-    > bejegening van deze gemeenschappen door de overheid en gemeenten
-    > is dat niet. Er wordt geïnvesteerd in het behouden en stimuleren
-    > van hun culturen.
+    gelijkwaardigheidsprincipe in het contact met Roma, Sinti en
+    woonwagenbewoners. Het uitsterfbeleid tegen Roma, Sinti en
+    woonwagenbewoners mag dan van tafel zijn, het stigma in de
+    bejegening van deze gemeenschappen door de overheid en gemeenten
+    is dat niet. Er wordt geïnvesteerd in het behouden en stimuleren
+    van hun culturen.
 
-**WERK, INKOMEN EN PARTICIPATIE**
+# WERK, INKOMEN EN PARTICIPATIE
 
 In een kapitalistische samenleving wordt onze arbeidskracht als een waar
 verkocht. Zeggenschap over ons eigen werk is ver te zoeken: op de
@@ -220,7 +356,7 @@ mensen recht hebben om de vruchten te plukken van hun eigen werk. We
 staan voor bestaanszekerheid, zeggenschap en zelfbeschikking in je werk,
 een eerlijke verdeling van werk en een inclusieve arbeidsmarkt.
 
-**Bestaanszekerheid en eerlijke waardering**
+## Bestaanszekerheid en eerlijke waardering
 
 BIJ1 wil niet dat we werken om te overleven en vindt dat
 bestaanszekerheid, de zekerheid om goed te kunnen leven, voor iedereen
@@ -231,13 +367,13 @@ aangepakt: vaste contracten en daardoor meer zekerheid moeten de norm
 worden. Bovendien moet er een eerlijke betaling komen van het werk van
 jongeren tot dat van mensen in de zorg en het onderwijs.
 
-**Zeggenschap en zelfbeschikking**
+## Zeggenschap en zelfbeschikking
 
 Als we spreken over eerlijke waardering, spreken we ook over hoe de
 economie in zijn geheel is ingericht. In deze economie staat het maken
 van winsten centraal. De winsten komen echter niet toe aan wie er hard
 voor werkt, maar aan de bedrijfseigenaren. Dat moet anders. Werkende
-mensen moet meer <u>zeggenschap over hun werk (1)</u> krijgen. Daarnaast
+mensen moet meer <a href="#zeggenschap-over-werk">zeggenschap over hun werk</a> krijgen. Daarnaast
 moet ook het werk van sekswerkers worden gewaardeerd als volwaardig
 werk, waarin zelfbeschikking voorop staat.
 
@@ -251,205 +387,205 @@ eerlijke betaling, gekeken wordt naar mogelijkheden en niet alleen naar
 moeilijkheden. Arbeidsmigranten verdienen daarnaast dezelfde rechten als
 Nederlandse werknemers.
 
-**Bestaanszekerheid en eerlijke waardering van werk voorop**
+## Bestaanszekerheid en eerlijke waardering van werk voorop
 
 1.  Het minimumloon wordt verhoogd naar 14 euro per uur. Hiermee
-    > verhogen we ook de AOW en de bijstand. Het minimumjeugdloon wordt
-    > gelijk aan het volwassen minimumloon.
+    verhogen we ook de AOW en de bijstand. Het minimumjeugdloon wordt
+    gelijk aan het volwassen minimumloon.
 
 2.  Werk dat nu is ondergewaardeerd, zoals het werk van zorgmedewerkers,
-    > leraren en medewerkers van het openbaar vervoer, moet een eerlijke
-    > waardering krijgen. Dit vertaalt zich niet alleen in gepast loon
-    > maar ook in de arbeidsvoorwaarden.
+    leraren en medewerkers van het openbaar vervoer, moet een eerlijke
+    waardering krijgen. Dit vertaalt zich niet alleen in gepast loon
+    maar ook in de arbeidsvoorwaarden.
 
 3.  We maken flex- en uitzendwerk duurder voor werkgevers. Werknemers
-    > die langer dan negen maanden met een tijdelijk contract werken,
-    > krijgen een vast contract. We verbeteren de ontslagbescherming.
+    die langer dan negen maanden met een tijdelijk contract werken,
+    krijgen een vast contract. We verbeteren de ontslagbescherming.
 
 4.  Bij stages hoort het leren centraal te staan. Stagiairs zijn geen
-    > (goedkope) arbeidskracht. Voor stages komt er altijd een eerlijke
-    > vergoeding. Wanneer een student een stageverplichting heeft, mag
-    > het bemachtigen van een stageplek niet geheel afhankelijk zijn van
-    > sollicitatiesucces. Waar nodig of wenselijk wordt gewerkt met
-    > toewijzing. De Inspectie SZW krijgt meer middelen om
-    > stagediscriminatie en uitbuiting op te sporen en harder te
-    > bestraffen.
+    (goedkope) arbeidskracht. Voor stages komt er altijd een eerlijke
+    vergoeding. Wanneer een student een stageverplichting heeft, mag
+    het bemachtigen van een stageplek niet geheel afhankelijk zijn van
+    sollicitatiesucces. Waar nodig of wenselijk wordt gewerkt met
+    toewijzing. De Inspectie SZW krijgt meer middelen om
+    stagediscriminatie en uitbuiting op te sporen en harder te
+    bestraffen.
 
 5.  We zetten zinvol onbetaald werk zoveel mogelijk om in betaalde
-    > arbeidsplaatsen.
+    arbeidsplaatsen.
 
 6.  Mensen met een (onzichtbare) beperking krijgen evenveel betaald als
-    > vakgenoten zonder beperking met hetzelfde werk.
+    vakgenoten zonder beperking met hetzelfde werk.
 
-**Meer zeggenschap over je eigen werk**
+## Meer zeggenschap over je eigen werk
 
 1.  De zeggenschap over werk wordt uit de handen van bedrijfseigenaren
-    > gehaald. Werknemers krijgen zélf zeggenschap over hun eigen werk
-    > doordat bedrijven in handen van werknemers democratisch worden
-    > bestuurd.
+    gehaald. Werknemers krijgen zélf zeggenschap over hun eigen werk
+    doordat bedrijven in handen van werknemers democratisch worden
+    bestuurd.
 
 2.  We verruimen het recht op deeltijdarbeid, ook in leidinggevende en
-    > beleidsfuncties. Daarbij moet er meer vrijheid komen voor
-    > werknemers om eigen werktijden te bepalen.
+    beleidsfuncties. Daarbij moet er meer vrijheid komen voor
+    werknemers om eigen werktijden te bepalen.
 
 3.  We gaan schijnzelfstandigheid tegen. Voor alle schijnzelfstandigen,
-    > van postbezorgers tot fietskoeriers, garanderen we correcte loon-
-    > en arbeidsrechten. We stimuleren platformcoöperaties die door de
-    > werkende mensen zelf worden bestuurd.
+    van postbezorgers tot fietskoeriers, garanderen we correcte loon-
+    en arbeidsrechten. We stimuleren platformcoöperaties die door de
+    werkende mensen zelf worden bestuurd.
 
 4.  We zorgen dat alle bedrijfstakken een cao hebben, zodat bescherming
-    > van werknemers optimaal geregeld is.
+    van werknemers optimaal geregeld is.
 
 5.  Het stakingsrecht wordt uitgebreid: het moet niet zo zijn dat je
-    > alleen mag staken wanneer het de autoriteiten en werkgevers
-    > uitkomt.
+    alleen mag staken wanneer het de autoriteiten en werkgevers
+    uitkomt.
 
 6.  Vakbonden die onvoldoende onafhankelijk zijn van werkgevers dienen
-    > niet de belangen van de werknemers. Deze vakbonden worden
-    > uitgesloten van cao-onderhandelingen.
+    niet de belangen van de werknemers. Deze vakbonden worden
+    uitgesloten van cao-onderhandelingen.
 
 7.  Uitzendbureaus die leraren, zorgpersoneel of anderen in publieke
-    > sectoren uitzenden, worden verboden.
+    sectoren uitzenden, worden verboden.
 
-**Naar een inclusieve en toegankelijke arbeidsmarkt**
+## Naar een inclusieve en toegankelijke arbeidsmarkt
 
 1.  We willen een eerlijkere verdeling van werk tussen mensen van
-    > verschillende genderidentiteiten. Dit doen we door mogelijkheden
-    > te bieden om betaald en onbetaald werk te herverdelen tussen
-    > partners.
+    verschillende genderidentiteiten. Dit doen we door mogelijkheden
+    te bieden om betaald en onbetaald werk te herverdelen tussen
+    partners.
 
 2.  We gaan naar een 30-urige werkweek met loonbehoud. Dit zorgt er ook
-    > voor dat we tijd voor gezin en hobby’s vrij hebben, burn-outs
-    > worden bestreden en we nieuwe banen creëren.
+    voor dat we tijd voor gezin en hobby’s vrij hebben, burn-outs
+    worden bestreden en we nieuwe banen creëren.
 
 3.  We maken de kinderopvang gratis voor alle ouders.
 
 4.  Partnerverlof wordt gelijkgetrokken met het kraam- en
-    > bevallingsverlof. Voor alle ouders op verlof wordt er 100% inkomen
-    > doorbetaald.
+    bevallingsverlof. Voor alle ouders op verlof wordt er 100% inkomen
+    doorbetaald.
 
 5.  We gaan strenger handhaven op de geldende regels voor het
-    > faciliteren van bijvoorbeeld kolven of bidden op de werkvloer.
+    faciliteren van bijvoorbeeld kolven of bidden op de werkvloer.
 
 6.  We stellen een menstruatieverlof in.
 
 7.  Onbetaald werk dat nog vaak als ‘vrouwenwerk’ wordt gezien, zoals
-    > mantelzorg, huishoudelijk werk of zorg voor kinderen wordt betaald
-    > werk. Zo werken we aan <u>genderrechtvaardigheid (2)</u>.
+    mantelzorg, huishoudelijk werk of zorg voor kinderen wordt betaald
+    werk. Zo werken we aan <a href="#genderrechtvaardigheid-en-werk">genderrechtvaardigheid</a>.
 
 8.  We werken aan toegankelijke werkplekken. Dit doen we door het recht
-    > op thuiswerk vast te leggen indien de aard van het werk dat
-    > toelaat. Ook komt er meer (onafhankelijke) ondersteuning op de
-    > werkvloer zodat mensen met een beperking beter naar eigen inzicht
-    > kunnen participeren.
+    op thuiswerk vast te leggen indien de aard van het werk dat
+    toelaat. Ook komt er meer (onafhankelijke) ondersteuning op de
+    werkvloer zodat mensen met een beperking beter naar eigen inzicht
+    kunnen participeren.
 
 9.  De mislukte Participatiewet wordt afgeschaft: deze leidt niet tot
-    > meer baankansen. In plaats daarvan zetten we in op Sociale
-    > Ontwikkelbedrijven naar idee van de FNV. Zo helpen we mensen met
-    > een beperking aan duurzaam, passend werk met begeleiding en
-    > fatsoenlijke arbeidsvoorwaarden. Deze bedrijven bieden beschut
-    > werk, begeleiding naar werk op de reguliere arbeidsmarkt en
-    > allerlei vormen van begeleid werk daartussen.
+    meer baankansen. In plaats daarvan zetten we in op Sociale
+    Ontwikkelbedrijven naar idee van de FNV. Zo helpen we mensen met
+    een beperking aan duurzaam, passend werk met begeleiding en
+    fatsoenlijke arbeidsvoorwaarden. Deze bedrijven bieden beschut
+    werk, begeleiding naar werk op de reguliere arbeidsmarkt en
+    allerlei vormen van begeleid werk daartussen.
 
-**Geen plek voor discriminatie**
+## Geen plek voor discriminatie
 
 1.  We houden discriminerende bedrijven strafrechtelijk verantwoordelijk
-    > en versterken de instrumenten van de Inspectie SZW. Zij gaat
-    > strenger ingrijpen op overtredingen van het arbeidsrecht en op
-    > arbeidsmarktdiscriminatie. We zetten in op namen-en-shamen, hoge
-    > boetes en het stopzetten van subsidies en samenwerking met
-    > overheden.
+    en versterken de instrumenten van de Inspectie SZW. Zij gaat
+    strenger ingrijpen op overtredingen van het arbeidsrecht en op
+    arbeidsmarktdiscriminatie. We zetten in op namen-en-shamen, hoge
+    boetes en het stopzetten van subsidies en samenwerking met
+    overheden.
 
 2.  Het Diversity Rating System, DRS, wordt operationeel gemaakt door
-    > het Sociaal en Cultureel Planbureau en we starten een proef in
-    > grote gemeenten. De overheid hanteert het Diversity Rating System
-    > ook voor bedrijven en organisaties waarmee het zaken doet.
+    het Sociaal en Cultureel Planbureau en we starten een proef in
+    grote gemeenten. De overheid hanteert het Diversity Rating System
+    ook voor bedrijven en organisaties waarmee het zaken doet.
 
 3.  We maken vóór 2025 een einde aan loon- en inkomensongelijkheid
-    > tussen mannen en vrouwen. Bedrijven die mannen meer betalen dan
-    > vrouwen met dezelfde functie worden vervolgd.
+    tussen mannen en vrouwen. Bedrijven die mannen meer betalen dan
+    vrouwen met dezelfde functie worden vervolgd.
 
 4.  We schaffen de loondispensatieregeling in de Wajong af: werknemers
-    > met een beperking worden als volwaardig medewerker aangenomen en
-    > betaald. Productievermogen mag een leefbaar loon niet in de weg
-    > staan.
+    met een beperking worden als volwaardig medewerker aangenomen en
+    betaald. Productievermogen mag een leefbaar loon niet in de weg
+    staan.
 
 5.  Ongedocumenteerden die te maken krijgen met geweld of dwang op het
-    > werk, moeten dit kunnen melden zonder dat ze risico lopen op
-    > uitzetting.
+    werk, moeten dit kunnen melden zonder dat ze risico lopen op
+    uitzetting.
 
 6.  De rechten van arbeidsmigranten moeten beter worden beschermd. Er
-    > komt betere regelgeving voor arbeidsomstandigheden, vergoedingen,
-    > minimumloon, en maatstaven voor huisvesting. Uitzendcentra en
-    > werkgevers komen onder scherp toezicht te staan en
-    > arbeidsmigranten krijgen betere voorlichting over hun rechten.
+    komt betere regelgeving voor arbeidsomstandigheden, vergoedingen,
+    minimumloon, en maatstaven voor huisvesting. Uitzendcentra en
+    werkgevers komen onder scherp toezicht te staan en
+    arbeidsmigranten krijgen betere voorlichting over hun rechten.
 
 7.  Arbeidsmigranten moeten dezelfde rechten op beloning en
-    > arbeidsvoorwaarden hebben als werkenden met een Nederlandse
-    > nationaliteit.
+    arbeidsvoorwaarden hebben als werkenden met een Nederlandse
+    nationaliteit.
 
-**Sekswerk is werk**
+## Sekswerk is werk
 
 1.  De rechten van sekswerkers worden gelijkgetrokken met de
-    > arbeidsrechten van andere zelfstandigen en werknemers.
+    arbeidsrechten van andere zelfstandigen en werknemers.
 
 2.  Sekswerkers krijgen inspraak in en bepalen mede het beleid over
-    > sekswerk.
+    sekswerk.
 
 3.  De vergunningseis voor zelfstandige sekswerkers wordt opgeheven.
-    > Sekswerkers krijgen de mogelijkheid om thuis een ‘eenmanszaak’ te
-    > starten. Daarbij stellen we hen in staat diensten bij derden in te
-    > kopen zonder dat die partij gecriminaliseerd wordt.
+    Sekswerkers krijgen de mogelijkheid om thuis een ‘eenmanszaak’ te
+    starten. Daarbij stellen we hen in staat diensten bij derden in te
+    kopen zonder dat die partij gecriminaliseerd wordt.
 
 4.  Sekswerkers worden nooit verplicht bijzondere persoonlijke
-    > informatie te delen of zich te laten registreren. De Wet
-    > Regulering Sekswerk (WRS) gaat van tafel - sekswerk wordt
-    > gedecriminaliseerd.
+    informatie te delen of zich te laten registreren. De Wet
+    Regulering Sekswerk (WRS) gaat van tafel - sekswerk wordt
+    gedecriminaliseerd.
 
 5.  We versimpelen het vergunningenstelsel voor exploitanten. Als
-    > sekswerkers het willen, moet het makkelijk zijn werkplekken te
-    > creëren waar zij kunnen werken met gedeelde voorzieningen en in
-    > nabijheid van collega’s.
+    sekswerkers het willen, moet het makkelijk zijn werkplekken te
+    creëren waar zij kunnen werken met gedeelde voorzieningen en in
+    nabijheid van collega’s.
 
 6.  De leeftijdsgrens voor sekswerk blijft op 18 jaar en gaat niet naar
-    > 21 jaar.
+    21 jaar.
 
-**Bestaanszekerheid, ook als je niet (meer) werkt**
+## Bestaanszekerheid, ook als je niet (meer) werkt
 
 1.  Persoonlijke ontwikkeling is in het belang van ons allemaal. We
-    > steken daarom meer geld in scholingsprogramma’s voor mensen zonder
-    > werk. We laten werkgevers uit sectoren met personeelstekorten
-    > meebetalen aan de scholing van goed personeel.
+    steken daarom meer geld in scholingsprogramma’s voor mensen zonder
+    werk. We laten werkgevers uit sectoren met personeelstekorten
+    meebetalen aan de scholing van goed personeel.
 
 2.  De tegenprestaties, sancties en repressieve maatregelen in de
-    > bijstand worden afgeschaft. Wachttijden voor het verstrekken van
-    > een uitkering worden ook stevig verkort.
+    bijstand worden afgeschaft. Wachttijden voor het verstrekken van
+    een uitkering worden ook stevig verkort.
 
 3.  De kostendelersnorm wordt afgeschaft om financiële onafhankelijkheid
-    > te bevorderen.
+    te bevorderen.
 
 4.  Arbeidsongeschiktheid is geen keuze en mensen die arbeidsongeschikt
-    > zijn kunnen goed zelf inschatten waartoe zij in staat zijn. De
-    > medische keuringen bij arbeidsongeschiktheid worden niet meer door
-    > de uitkeringsinstantie zelf gedaan, maar door onafhankelijke
-    > artsen.
+    zijn kunnen goed zelf inschatten waartoe zij in staat zijn. De
+    medische keuringen bij arbeidsongeschiktheid worden niet meer door
+    de uitkeringsinstantie zelf gedaan, maar door onafhankelijke
+    artsen.
 
 5.  Er komt een Nationaal Pensioenfonds waarbij collectiviteit voorop
-    > staat en waarop ook zzp’ers aanspraak maken. Pensioengerechtigden
-    > krijgen zeggenschap in dit Pensioenfonds en topsalarissen en foute
-    > beleggingen worden uitgebannen. Daarbij indexeren we de
-    > pensioenen: pensioenfondsen hebben nu immers genoeg geld in kas om
-    > gegarandeerd pensioen uit te keren.
+    staat en waarop ook zzp’ers aanspraak maken. Pensioengerechtigden
+    krijgen zeggenschap in dit Pensioenfonds en topsalarissen en foute
+    beleggingen worden uitgebannen. Daarbij indexeren we de
+    pensioenen: pensioenfondsen hebben nu immers genoeg geld in kas om
+    gegarandeerd pensioen uit te keren.
 
 6.  We verlagen de AOW-leeftijd naar 65. Wel blijft doorwerken mogelijk
-    > en gaan we strenger handhaven op arbeidsmarktdiscriminatie op
-    > basis van leeftijd. Het zogenoemde AOW-gat, waar veel
-    > Surinaams-Nederlandse ouderen en ouderen met een
-    > migratieachtergrond mee te maken hebben, wordt gedicht.
+    en gaan we strenger handhaven op arbeidsmarktdiscriminatie op
+    basis van leeftijd. Het zogenoemde AOW-gat, waar veel
+    Surinaams-Nederlandse ouderen en ouderen met een
+    migratieachtergrond mee te maken hebben, wordt gedicht.
 
 7.  
 
-**ECONOMIE**
+# ECONOMIE
 
 De huidige verdeling van welvaart, bezit en macht komt slechts een klein
 deel van onze samenleving ten goede. BIJ1 wil naar een economie die
@@ -469,7 +605,7 @@ wereldwijd worden vele mensen uitgebuit zodat enkelen in welvaart kunnen
 leven. Kwaliteit en duurzaamheid zijn in dit systeem geen prioriteit en
 werkende mensen hebben geen zeggenschap over hun werk.
 
-**Weg met de dictatuur van de ‘vrije’ markt**
+## Weg met de dictatuur van de ‘vrije’ markt
 
 Waar de zogenaamde ‘vrije’ markt spreekt over vrijheid, is het in feite
 een dictatuur die werkende mensen uitbuit. De winsten worden immers
@@ -483,20 +619,19 @@ BIJ1 wil van de grond af werken aan een economie die democratisch
 gepland wordt door iedereen die eraan deel heeft. We gaan de producten
 en hoeveelheden produceren waar behoefte aan is en de opbrengsten komen
 ten gunste van de werkende mensen. Werkende mensen krijgen
-<u>zeggenschap over hun werk (1)</u> en prijzen en winsten worden
+<a href="#zeggenschap-over-werk">zeggenschap over hun werk</a> en prijzen en winsten worden
 beheerst.
 
-**Geen kloof tussen arm en rijk**
+## Geen kloof tussen arm en rijk
 
 We gaan de groeiende kloof tussen de mensen met lage lonen en de
 allerrijksten dichten. Een rechtvaardige economie die voor ons allemaal
 werkt, is een economie waarin geld op een rechtvaardige manier verdeeld
 wordt. De sterkste schouders dragen dus de zwaarste lasten. In de aanpak
-van armoede moeten we <u>van armoedebestrijding naar armoedepreventie
-(3)</u>. Ook beseffen we hoe vooroordelen en aannames over afkomst en
+van armoede moeten we <a href="#van-armoedebestrijding-naar-armoedepreventie">van armoedebestrijding naar armoedepreventie</a>. Ook beseffen we hoe vooroordelen en aannames over afkomst en
 kleur bepalend zijn voor wie in armoede terecht komt.
 
-**Help mensen uit de schulden, niet erin**
+## Help mensen uit de schulden, niet erin
 
 De consumptiemaatschappij is erop gericht dat je maar blijft kopen. De
 schuldeneconomie die gecreëerd wordt door de markt is winstgevend,
@@ -507,7 +642,7 @@ en degene die de schuld heeft. Bedrijven en overheid als schuldeisers
 mogen niet meer profiteren van de schulden en mensen zo verder de
 armoede in drijven.
 
-**Klimaatrechtvaardigheid**
+## Klimaatrechtvaardigheid
 
 De strijd tegen klimaatverandering betekent dat we opnieuw moeten kijken
 naar de menselijke relatie tot land, arbeid, dieren, de natuur en de
@@ -519,127 +654,127 @@ de zwaarste lasten laten dragen: een *Decolonial Green Deal*.
 
 Voor een rechtvaardige economie stelt BIJ1 de volgende maatregelen voor.
 
-**Haal het geld waar het zit**
+## Haal het geld waar het zit
 
 1.  We heffen een eenmalige coronataks van 5% op de financiële vermogens
-    > en het vastgoed van multimiljonairs met meer dan 3 miljoen euro.
-    > Hiermee dekken we (een deel van) de maatschappelijke kosten die
-    > zijn ontstaan door de coronacrisis.
+    en het vastgoed van multimiljonairs met meer dan 3 miljoen euro.
+    Hiermee dekken we (een deel van) de maatschappelijke kosten die
+    zijn ontstaan door de coronacrisis.
 
 2.  Private bedrijven die in Nederland hun producten verkopen gaan forse
-    > winstbelasting betalen en voordelige belastingconstructies worden
-    > gestopt. Rijke mensen gaan forse vermogens- en erfbelasting
-    > betalen.
+    winstbelasting betalen en voordelige belastingconstructies worden
+    gestopt. Rijke mensen gaan forse vermogens- en erfbelasting
+    betalen.
 
 3.  Nederland als belastingparadijs wordt onmogelijk gemaakt. Ook wordt
-    > onmogelijk gemaakt dat bedrijven in Nederland gebruik maken van
-    > vluchtroutes om hun belasting te ontwijken.
+    onmogelijk gemaakt dat bedrijven in Nederland gebruik maken van
+    vluchtroutes om hun belasting te ontwijken.
 
 4.  Open grenzen voor mensen, niet voor kapitaal: we gaan kapitaalvlucht
-    > tegen. In internationaal verband investeren we in het opsporen en
-    > vervolgen van belastingontduikers.
+    tegen. In internationaal verband investeren we in het opsporen en
+    vervolgen van belastingontduikers.
 
 5.  De inkomstenbelasting voor hoge inkomsten uit box 1 en 2 gaat
-    > proportioneel omhoog.
+    proportioneel omhoog.
 
-**Van een markteconomie naar een economie voor iedereen**
+## Van een markteconomie naar een economie voor iedereen
 
 1.  We brengen belangrijke sectoren van de economie, zoals banken,
-    > pensioenfondsen, het openbaar vervoer, de zorg en andere
-    > basisindustrieën in publieke handen. Deze industrieën komen onder
-    > controle van de werknemers. De overheid faciliteert hen waar
-    > nodig.
+    pensioenfondsen, het openbaar vervoer, de zorg en andere
+    basisindustrieën in publieke handen. Deze industrieën komen onder
+    controle van de werknemers. De overheid faciliteert hen waar
+    nodig.
 
 2.  Productieplanning in iedere sector en bedrijf komt in handen van de
-    > werknemers. De overheid faciliteert hen en houdt toezicht.
-    > Hierdoor ontstaat een betere en eerlijkere balans tussen vraag en
-    > aanbod. Prijzen en winsten worden zo beheerst.
+    werknemers. De overheid faciliteert hen en houdt toezicht.
+    Hierdoor ontstaat een betere en eerlijkere balans tussen vraag en
+    aanbod. Prijzen en winsten worden zo beheerst.
 
 3.  Zeggenschap over werk betekent dat werknemers ook moeten meedelen in
-    > de winsten. Dit doen we door sectoren in publieke handen te
-    > brengen en meer wettelijke regelingen in te stellen voor winst- en
-    > vermogensaanwasdeling.
+    de winsten. Dit doen we door sectoren in publieke handen te
+    brengen en meer wettelijke regelingen in te stellen voor winst- en
+    vermogensaanwasdeling.
 
 4.  Ten behoeve van de zorg, wonen en openbaar vervoer versoepelen we
-    > onteigeningswetgeving fors omtrent kapitaal, aandelen, bezit en
-    > grond.
+    onteigeningswetgeving fors omtrent kapitaal, aandelen, bezit en
+    grond.
 
-**Produceren naar vermogen, nemen naar behoefte**
+## Produceren naar vermogen, nemen naar behoefte
 
 1.  We gaan produceren naar behoefte en niet meer om winsten te maken
-    > voor bedrijfseigenaren. We produceren zoveel mogelijk op lokale
-    > schaal.
+    voor bedrijfseigenaren. We produceren zoveel mogelijk op lokale
+    schaal.
 
 2.  We laten het maatschappelijk nut van een product de prijs bepalen.
-    > Een benzineauto kan nu misschien goedkoop geproduceerd worden,
-    > maar is in verband met verduurzaming maatschappelijk ongewenst.
-    > Daarom maken we deze producten duurder.
+    Een benzineauto kan nu misschien goedkoop geproduceerd worden,
+    maar is in verband met verduurzaming maatschappelijk ongewenst.
+    Daarom maken we deze producten duurder.
 
 3.  We maken optimaal gebruik van robotisering. Robotisering is echter
-    > geen goedkope vervanging van arbeid: we garanderen een leefbaar
-    > inkomen en werkgelegenheid door verkorting van de werkweek.
+    geen goedkope vervanging van arbeid: we garanderen een leefbaar
+    inkomen en werkgelegenheid door verkorting van de werkweek.
 
-**Einde aan de schuldeneconomie**
+## Einde aan de schuldeneconomie
 
 1.  De gedeelde verantwoordelijkheid van schuldeisers voor schulden
-    > wordt wettelijk vastgelegd. Hierdoor dwingen we hen tot het
-    > stoppen met het heffen van rentes en het verkopen op afbetaling
-    > als winstmodel. Kwijtschelden van schulden wordt gestimuleerd,
-    > incassobureaus worden verboden.
+    wordt wettelijk vastgelegd. Hierdoor dwingen we hen tot het
+    stoppen met het heffen van rentes en het verkopen op afbetaling
+    als winstmodel. Kwijtschelden van schulden wordt gestimuleerd,
+    incassobureaus worden verboden.
 
 2.  De overheid neemt schulden vaker over, zodat er maar één schuldeiser
-    > is en schulden niet oplopen. Ook saneert de overheid vaker
-    > schulden, zodat mensen een nieuwe start kunnen maken.
+    is en schulden niet oplopen. Ook saneert de overheid vaker
+    schulden, zodat mensen een nieuwe start kunnen maken.
 
 3.  Schuldhulporganisaties die geld verdienen door andermans schulden
-    > worden verboden: de overheid neemt zelf de schuldhulpverlening
-    > weer in handen. We zorgen daarbij voor een supportsysteem van
-    > budgethulp en een breder sociaal netwerk door te investeren in
-    > welzijn en sociaal werk in de wijken.
+    worden verboden: de overheid neemt zelf de schuldhulpverlening
+    weer in handen. We zorgen daarbij voor een supportsysteem van
+    budgethulp en een breder sociaal netwerk door te investeren in
+    welzijn en sociaal werk in de wijken.
 
-**Een circulaire en toekomstbestendige economie**
+## Een circulaire en toekomstbestendige economie
 
 1.  Er komt een grootschalig onderzoek naar de impact van import- en
-    > exportproducten uit alle sectoren op mens en klimaat in binnen- en
-    > buitenland. Hierbij wordt specifiek gekeken naar hoe
-    > importproducten en services een klimaatonvriendelijk,
-    > onrechtvaardig en imperialistisch systeem mogelijk maken en in
-    > stand houden. Goederen afkomstig uit niet-duurzame en/of
-    > onrechtvaardige productie worden uitgefaseerd en uiterlijk in 2025
-    > toegang tot de markt ontzegd.
+    exportproducten uit alle sectoren op mens en klimaat in binnen- en
+    buitenland. Hierbij wordt specifiek gekeken naar hoe
+    importproducten en services een klimaatonvriendelijk,
+    onrechtvaardig en imperialistisch systeem mogelijk maken en in
+    stand houden. Goederen afkomstig uit niet-duurzame en/of
+    onrechtvaardige productie worden uitgefaseerd en uiterlijk in 2025
+    toegang tot de markt ontzegd.
 
 2.  Bij internationale handel is rechtvaardige en klimaatvriendelijke
-    > handel de norm. Ook handelsverdragen (bestaande en nieuwe) worden
-    > op deze manier beoordeeld. We trekken ons terug uit
-    > vrijhandelsverdragen als CETA.
+    handel de norm. Ook handelsverdragen (bestaande en nieuwe) worden
+    op deze manier beoordeeld. We trekken ons terug uit
+    vrijhandelsverdragen als CETA.
 
 3.  We bieden opleidingsmogelijkheden en creëren banen voor de enorme
-    > duurzaamheidsslag die we moeten maken.
+    duurzaamheidsslag die we moeten maken.
 
-**Internationale rechtvaardigheid**
+## Internationale rechtvaardigheid
 
 1.  De huidige imperialistische plundering van voormalige koloniën en
-    > andere niet-Westerse landen door Nederland en Nederlandse
-    > bedrijven wordt gestopt. Nederlandse bedrijven die investeren in
-    > buitenlandse projecten of ondernemingen, of die (grondstoffen
-    > voor) hun producten laten maken in het buitenland, moeten kunnen
-    > aantonen dat dit niet ten nadele van de lokale bevolking en
-    > klimaat gaat. Op Europees niveau steunt Nederland de ontwikkeling
-    > van zogenaamde ‘due diligence’ wetgeving die bedrijven verplicht
-    > verantwoording af te leggen over de herkomst van hun producten en
-    > de impact op mens en milieu.
+    andere niet-Westerse landen door Nederland en Nederlandse
+    bedrijven wordt gestopt. Nederlandse bedrijven die investeren in
+    buitenlandse projecten of ondernemingen, of die (grondstoffen
+    voor) hun producten laten maken in het buitenland, moeten kunnen
+    aantonen dat dit niet ten nadele van de lokale bevolking en
+    klimaat gaat. Op Europees niveau steunt Nederland de ontwikkeling
+    van zogenaamde ‘due diligence’ wetgeving die bedrijven verplicht
+    verantwoording af te leggen over de herkomst van hun producten en
+    de impact op mens en milieu.
 
 2.  Economische samenwerkingen met groepen en landen die onterecht door
-    > Westerse landen gemeden worden of sancties opgelegd worden, zoals
-    > Cuba en Venezuela, wordt onderzocht en gestimuleerd.
+    Westerse landen gemeden worden of sancties opgelegd worden, zoals
+    Cuba en Venezuela, wordt onderzocht en gestimuleerd.
 
 3.  We maken een einde aan Nederland als belastingparadijs voor
-    > wapenproducenten en de industrie van militaire technologieën. We
-    > verbieden de vestiging van wapenbedrijven in Nederland en heffen
-    > hoge belastingen voor de bestaande wapenindustrie. We vormen de
-    > wapenindustrie om tot civiele industrie.
+    wapenproducenten en de industrie van militaire technologieën. We
+    verbieden de vestiging van wapenbedrijven in Nederland en heffen
+    hoge belastingen voor de bestaande wapenindustrie. We vormen de
+    wapenindustrie om tot civiele industrie.
 
-**ZORG**
+# ZORG
 
 BIJ1 staat voor een zorgstelsel dat *van*, *door* en *voor* iedereen is.
 We willen zorg die toegankelijk, betaalbaar, rechtvaardig, solidair en
@@ -649,7 +784,7 @@ De zorg moet bestuurd worden door de mensen die daadwerkelijk met zorg
 in aanraking komen: de zorgverlener en degene die zorg ontvangt. Zo
 werken we aan een zorg die door en voor iedereen werkt.
 
-**De zorg is geen markt**
+## De zorg is geen markt
 
 We hebben de zorg lange tijd overgelaten aan de verwoestende vrije
 markt. Kwaliteit en innovatie hebben nu te lijden onder winstbejag en
@@ -676,15 +811,13 @@ verstevigen we het recht op zorg, moet iedereen makkelijk zorg of
 ondersteuning kunnen vragen en wordt het systeem, waarin iedereen in
 behandelbare hokjes moet passen, aangepakt.
 
-**Zorgmedewerkers en ervaringsdeskundigen aan zet**
+## Zorgmedewerkers en ervaringsdeskundigen aan zet
 
 BIJ1 leert van generaties aan ervaringsdeskundigheids- en *disability*
 activisten en heeft als basis: *niets over ons, zonder ons*. Dit geldt
 ook in de zorg. Want niemand weet beter hoe het werkt dan de mensen die
-zorg v
-
-erlenen en de mensen die zorg ontvangen. Kennis van
-<u>ervaringsdeskundigen (4)</u> (zowel hulpverleners als hulpontvangers)
+zorg verlenen en de mensen die zorg ontvangen. Kennis van
+<a href="#ervaringsdeskundigheid-in-de-zorg">ervaringsdeskundigen</a> (zowel hulpverleners als hulpontvangers)
 moet dan ook een gelijkwaardige positie hebben naast wetenschappelijke
 kennis. De zorg moet in handen zijn van de mensen, niet van
 aandeelhouders, managers en directeuren.
@@ -695,7 +828,7 @@ over de zorg die je krijgt. En zekerheid op een eerlijk salaris en de
 vrijheid om je vak uit te voeren zonder dat je tijd wegvloeit naar
 administratie, maar ook de zekerheid van kwalitatieve zorg.
 
-**Geen discriminatie, maar inclusie**
+## Geen discriminatie, maar inclusie
 
 In onze samenleving worden mensen met een zorgvraag gezien als een
 individu met een probleem. Toch is vaak de inrichting van de
@@ -713,183 +846,181 @@ kwaliteit van de zorg en moeten koste wat kost worden bestreden. 
 Om de zorg toegankelijker en rechtvaardiger te maken, stelt BIJ1 de
 volgende maatregelen voor.
 
-**Zorg van iedereen: maak de zorg van ons allen**
+## Zorg van iedereen: maak de zorg van ons allen
 
 1.  We zetten een Nationaal Zorgfonds op dat de vele verzekeraars
-    > vervangt. Premies gaan we heffen via progressieve belastingen.
-    > Alle zorg, inclusief tandheelkunde en optometrie, wordt vanuit dit
-    > Zorgfonds betaald en de eigen bijdrage wordt afgeschaft.
+    vervangt. Premies gaan we heffen via progressieve belastingen.
+    Alle zorg, inclusief tandheelkunde en optometrie, wordt vanuit dit
+    Zorgfonds betaald en de eigen bijdrage wordt afgeschaft.
 
 2.  De zorg mag geen winstmodel zijn. We brengen ziekenhuizen en
-    > (para)medische zorgaanbieders in publieke handen. In plaats van
-    > geld te verliezen aan managers, commercie en winst, investeren we
-    > meer in personeel en kwalitatieve zorg. Zo blijft ook de
-    > continuïteit van zorg gewaarborgd.
+    (para)medische zorgaanbieders in publieke handen. In plaats van
+    geld te verliezen aan managers, commercie en winst, investeren we
+    meer in personeel en kwalitatieve zorg. Zo blijft ook de
+    continuïteit van zorg gewaarborgd.
 
 3.  Niet-medische zorginstellingen en -organisaties, zoals in de
-    > jeugdzorg en GGZ, worden genationaliseerd en gecollectiviseerd.
-    > Dit betekent dat we bijvoorbeeld verschillende
-    > jeugdzorgorganisaties onderbrengen in één organisatie. Hiermee
-    > bestrijden we schotten tussen organisaties en zorgvormen, werken
-    > we op basis van samenwerking en afstemming, en houden
-    > organisatiebelangen en bureaucratie tussen organisaties op te
-    > bestaan.
+    jeugdzorg en GGZ, worden genationaliseerd en gecollectiviseerd.
+    Dit betekent dat we bijvoorbeeld verschillende
+    jeugdzorgorganisaties onderbrengen in één organisatie. Hiermee
+    bestrijden we schotten tussen organisaties en zorgvormen, werken
+    we op basis van samenwerking en afstemming, en houden
+    organisatiebelangen en bureaucratie tussen organisaties op te
+    bestaan.
 
 4.  Een te groot deel van het zorgbudget gaat niet naar de zorg zelf,
-    > maar de organisatie daarvan. We slopen onnodige managementlagen
-    > uit de zorg en investeren dit geld in de zorg zelf.
+    maar de organisatie daarvan. We slopen onnodige managementlagen
+    uit de zorg en investeren dit geld in de zorg zelf.
 
 5.  We brengen de productie van geneesmiddelen en medische apparatuur in
-    > publieke handen om prijzen te beheersen én laag te houden.
-    > Daarnaast maken we internationale afspraken en regels om de macht
-    > van grote farmaceutische bedrijven in te perken. We zetten in op
-    > prijsbeheersing en -beperking bij ingevoerde geneesmiddelen en
-    > apparatuur. Monopolies op geneesmiddelen worden bestreden en de
-    > lobbykracht van patenthouders op de zorg wordt teruggedrongen.
+    publieke handen om prijzen te beheersen én laag te houden.
+    Daarnaast maken we internationale afspraken en regels om de macht
+    van grote farmaceutische bedrijven in te perken. We zetten in op
+    prijsbeheersing en -beperking bij ingevoerde geneesmiddelen en
+    apparatuur. Monopolies op geneesmiddelen worden bestreden en de
+    lobbykracht van patenthouders op de zorg wordt teruggedrongen.
 
-**Zorg van ons allemaal: maak de zorg toegankelijk**
+## Zorg van ons allemaal: maak de zorg toegankelijk
 
 1.  Huisartsenpraktijken worden zorgcentra in de wijk waar zorg
-    > samenkomt en je terecht kunt met iedere zorg- of
-    > ondersteuningsvraag. We investeren in gespecialiseerde
-    > praktijkondersteuning. Professionals moeten indicaties stellen; de
-    > gemeente gaat er tussenuit. De gemeente houdt zich bovendien niet
-    > meer bezig met controleren, maar nog enkel met de toegang tot
-    > zorg.
+    samenkomt en je terecht kunt met iedere zorg- of
+    ondersteuningsvraag. We investeren in gespecialiseerde
+    praktijkondersteuning. Professionals moeten indicaties stellen; de
+    gemeente gaat er tussenuit. De gemeente houdt zich bovendien niet
+    meer bezig met controleren, maar nog enkel met de toegang tot
+    zorg.
 
 2.  Continuïteit van zorg wordt beter gewaarborgd. ‘Eén plan, één
-    > regisseur’ wordt de basis van hulp voor mensen met een zorg- of
-    > ondersteuningsvraag, onder welke zorgwet die vraag ook valt.
+    regisseur’ wordt de basis van hulp voor mensen met een zorg- of
+    ondersteuningsvraag, onder welke zorgwet die vraag ook valt.
 
 3.  Er komt meer zelfbeschikking voor mensen die zorg krijgen. Iedereen
-    > krijgt de vrijheid te kiezen door welke hulpverlener zij geholpen
-    > willen worden.
+    krijgt de vrijheid te kiezen door welke hulpverlener zij geholpen
+    willen worden.
 
 4.  Gedwongen zorg wordt in lijn met het VN-verdrag inzake rechten van
-    > personen met een handicap uitgevoerd en er wordt meer
-    > zelfbeschikking ingeregeld voor personen die onbegrepen gedrag
-    > vertonen. Vrijheidsbeperkende maatregelen in instellingen (zoals
-    > de separeercellen) worden verboden.
+    personen met een handicap uitgevoerd en er wordt meer
+    zelfbeschikking ingeregeld voor personen die onbegrepen gedrag
+    vertonen. Vrijheidsbeperkende maatregelen in instellingen (zoals
+    de separeercellen) worden verboden.
 
 5.  De ‘harde knip’ moet uit de jeugdzorg: wanneer je 18 wordt moet zorg
-    > niet ineens stoppen. Jeugdzorg mag pas stoppen wanneer de BIG 5
-    > van bestaanszekerheid voor de jongere geregeld is.
-
-<!-- -->
+    niet ineens stoppen. Jeugdzorg mag pas stoppen wanneer de BIG 5
+    van bestaanszekerheid voor de jongere geregeld is.
 
 6.  Financiering van de GGZ moet worden losgekoppeld van diagnoses. Zo
-    > stoppen we de doorgeslagen diagnostisering en werken we aan een
-    > GGZ met minder wachtlijsten, waar de menselijke maat centraal
-    > staat.
+    stoppen we de doorgeslagen diagnostisering en werken we aan een
+    GGZ met minder wachtlijsten, waar de menselijke maat centraal
+    staat.
 
 7.  Onze ouderen verdienen respect. De kwaliteitscriteria voor
-    > verzorgingstehuizen moeten aangescherpt. Verzorgingstehuizen mogen
-    > geen dumpplek zijn. Daarom ondersteunen we het eerdere initiatief
-    > van zorgbuurthuizen, die sociale functies en zorg samenbrengen.
+    verzorgingstehuizen moeten aangescherpt. Verzorgingstehuizen mogen
+    geen dumpplek zijn. Daarom ondersteunen we het eerdere initiatief
+    van zorgbuurthuizen, die sociale functies en zorg samenbrengen.
 
 8.  We omarmen het FNV-plan ‘Drastisch versimpelen in de jeugdzorg’ en
-    > geven hier uitvoering aan.
+    geven hier uitvoering aan.
 
 9.  We ondersteunen laaggeletterden in het verwerken en begrijpen van
-    > belangrijke medische en overheidsinformatie.
+    belangrijke medische en overheidsinformatie.
 
-**Zorg door deskundigen**
+## Zorg door deskundigen
 
 1.  We verlagen de werk- en regeldruk in de zorg door de administratieve
-    > lasten te verminderen en tijdschrijven af te schaffen. Zo kan de
-    > tijd van zorgmedewerkers zoveel mogelijk gaan naar mensen die zorg
-    > hard nodig hebben: vakmanschap komt voorop te staan.
-    > Personeelstekorten, lange wachtlijsten, verloop en burn-outs van
-    > medewerkers gaan we hiermee tegen.
+    lasten te verminderen en tijdschrijven af te schaffen. Zo kan de
+    tijd van zorgmedewerkers zoveel mogelijk gaan naar mensen die zorg
+    hard nodig hebben: vakmanschap komt voorop te staan.
+    Personeelstekorten, lange wachtlijsten, verloop en burn-outs van
+    medewerkers gaan we hiermee tegen.
 
 2.  Alle zorgmedewerkers, van verplegers in de medische zorg tot
-    > jeugdzorgmedewerkers, moeten eerlijker worden betaald. Ook het
-    > werk van mantelzorgers moet erkend worden en geherwaardeerd, wat
-    > zich uit in een eerlijke financiële waardering voor hun werk.
+    jeugdzorgmedewerkers, moeten eerlijker worden betaald. Ook het
+    werk van mantelzorgers moet erkend worden en geherwaardeerd, wat
+    zich uit in een eerlijke financiële waardering voor hun werk.
 
 3.  Zorginstellingen worden meer coöperatief georganiseerd, zodat
-    > zorgmedewerkers hun eigen beroep vormgeven, zowel op individueel-,
-    > organisatie- als sectorniveau.
+    zorgmedewerkers hun eigen beroep vormgeven, zowel op individueel-,
+    organisatie- als sectorniveau.
 
 4.  Op organisatieniveau moet gezorgd worden voor goede (in)formele
-    > mogelijkheden voor mensen met een beperking of chronische ziekte
-    > om vanuit een gelijkwaardige samenwerking mee te denken en mee te
-    > beslissen.
+    mogelijkheden voor mensen met een beperking of chronische ziekte
+    om vanuit een gelijkwaardige samenwerking mee te denken en mee te
+    beslissen.
 
 5.  De inzet van ervaringskennis wordt een vast onderdeel van het
-    > curriculum in alle opleidingen voor hulpverleners.
+    curriculum in alle opleidingen voor hulpverleners.
 
 6.  Om de expertise van de ervaringsdeskundigen te erkennen en
-    > gelijkwaardig te behandelen aan die van andere beroepsgroepen,
-    > wordt de functie ‘ervaringswerker’ in de cao van verschillende
-    > takken van de zorg opgenomen. Voor de betaling van
-    > ervaringsdeskundige vrijwilligers worden landelijke richtlijnen
-    > opgesteld, zodat deze unieke ervaring en expertise gewaardeerd
-    > worden.
+    gelijkwaardig te behandelen aan die van andere beroepsgroepen,
+    wordt de functie ‘ervaringswerker’ in de cao van verschillende
+    takken van de zorg opgenomen. Voor de betaling van
+    ervaringsdeskundige vrijwilligers worden landelijke richtlijnen
+    opgesteld, zodat deze unieke ervaring en expertise gewaardeerd
+    worden.
 
 7.  Mensen met een hulpvraag hebben recht op passende zorg en
-    > ondersteuning. Het moet voor mensen eenvoudig en toegankelijk zijn
-    > om hun klachten of bezwaren in te dienen en hun recht te halen
-    > wanneer dat nodig is. Iedereen heeft toegang tot onafhankelijke
-    > cliëntondersteuning.
+    ondersteuning. Het moet voor mensen eenvoudig en toegankelijk zijn
+    om hun klachten of bezwaren in te dienen en hun recht te halen
+    wanneer dat nodig is. Iedereen heeft toegang tot onafhankelijke
+    cliëntondersteuning.
 
-**Zorg voor iedereen**
+## Zorg voor iedereen
 
 1.  Er moet meer toezicht komen op de naleving van het VN-verdrag inzake
-    > rechten van personen met een handicap in het sociaal domein door
-    > het opstellen van een landelijk normenkader.
+    rechten van personen met een handicap in het sociaal domein door
+    het opstellen van een landelijk normenkader.
 
 2.  De inzet van tolken en gebarentolken moet niet uit het budget van de
-    > zorgvrager worden betaald, maar standaard vergoed worden door de
-    > overheid.
+    zorgvrager worden betaald, maar standaard vergoed worden door de
+    overheid.
 
 3.  In opleidingen van GGZ-hulpverleners krijgt neurodiversiteit een
-    > plek, zodat er meer gehandeld wordt vanuit variatie in het
-    > menselijk brein. Therapievormen die de natuurlijke staat van een
-    > neurodivergent persoon onderdrukken, en daardoor schadelijk kunnen
-    > zijn, mogen niet toegepast worden.
+    plek, zodat er meer gehandeld wordt vanuit variatie in het
+    menselijk brein. Therapievormen die de natuurlijke staat van een
+    neurodivergent persoon onderdrukken, en daardoor schadelijk kunnen
+    zijn, mogen niet toegepast worden.
 
 4.  Uit
-    > [<u>onderzoek</u>](http://www.kis.nl/rol-etniciteit-basiszorg-jeugd-ggz)
-    > blijkt dat mentale gezondheidsproblematiek bij mensen van kleur
-    > minder goed wordt herkend. In de opleiding van artsen,
-    > hulpverleners, thuis- en ouderenzorg en medisch personeel moet
-    > meer aandacht zijn voor bestrijding van racistische stereotypen.
-    > Cultuursensitieve zorg krijgt hierin een belangrijke plek. 
+    [onderzoek](http://www.kis.nl/rol-etniciteit-basiszorg-jeugd-ggz)
+    blijkt dat mentale gezondheidsproblematiek bij mensen van kleur
+    minder goed wordt herkend. In de opleiding van artsen,
+    hulpverleners, thuis- en ouderenzorg en medisch personeel moet
+    meer aandacht zijn voor bestrijding van racistische stereotypen.
+    Cultuursensitieve zorg krijgt hierin een belangrijke plek. 
 
 5.  We zorgen voor een gelijkwaardige toegang tot zorg voor iedereen,
-    > ongeacht verblijfsstatus.
+    ongeacht verblijfsstatus.
 
 6.  Niet de witte cisgender man moet centraal staan bij medisch
-    > onderzoek. Er wordt meer geïnvesteerd in onderzoek naar
-    > ziektebeelden, geneesmiddelen en behandelmethoden bij mensen van
-    > kleur en vrouwen (van kleur).
+    onderzoek. Er wordt meer geïnvesteerd in onderzoek naar
+    ziektebeelden, geneesmiddelen en behandelmethoden bij mensen van
+    kleur en vrouwen (van kleur).
 
 7.  Chronische stress en trauma veroorzaakt door racisme krijgen meer
-    > erkenning als oorzaken van gezondheidsproblemen, zoals depressies
-    > en hart- en vaatziekten. 
+    erkenning als oorzaken van gezondheidsproblemen, zoals depressies
+    en hart- en vaatziekten. 
 
 8.  Suïcidaliteit en thuisloosheidonder neurodivergente en
-    > LHBTQI+-jongeren is schrikbarend hoog. Er komt meer aandacht voor
-    > passende zorg, goede begeleiding en suïcidepreventie bij LHBTQI+
-    > personen. Verspreid over het land worden *safehouses* ingericht,
-    > waar zij terecht kunnen in noodsituaties.
+    LHBTQI+-jongeren is schrikbarend hoog. Er komt meer aandacht voor
+    passende zorg, goede begeleiding en suïcidepreventie bij LHBTQI+
+    personen. Verspreid over het land worden *safehouses* ingericht,
+    waar zij terecht kunnen in noodsituaties.
 
-9.  De <u>zorg voor trans personen (5)</u> wordt gezien als reguliere
-    > zorg en opgenomen in het basis- curriculum van medische
-    > opleidingen. Bovendien wordt het aanbod van transzorg vergroot om
-    > wachtlijsten te verkorten: expertise wordt gedeeld tussen de vijf
-    > grootste ziekenhuizen. Alle behandelingen en operaties worden
-    > vergoed. Trans personen hoeven daarnaast geen diagnose meer te
-    > hebben om zorg te krijgen. En huisartsen kunnen
-    > hormoonbehandelingen voorschrijven.
+9.  De <a href="#zorg-voor-trans-personen">zorg voor trans personen</a> wordt gezien als reguliere
+    zorg en opgenomen in het basis- curriculum van medische
+    opleidingen. Bovendien wordt het aanbod van transzorg vergroot om
+    wachtlijsten te verkorten: expertise wordt gedeeld tussen de vijf
+    grootste ziekenhuizen. Alle behandelingen en operaties worden
+    vergoed. Trans personen hoeven daarnaast geen diagnose meer te
+    hebben om zorg te krijgen. En huisartsen kunnen
+    hormoonbehandelingen voorschrijven.
 
 10. Er komen trainingen om medewerkers in de zorg bewust te maken van
-    > hun (onbewuste) vooroordelen, houding en verwachtingspatronen en
-    > er worden protocollen ontwikkeld om racisme, seksisme en
-    > discriminatie op grond van seksuele geaardheid te bestrijden.
+    hun (onbewuste) vooroordelen, houding en verwachtingspatronen en
+    er worden protocollen ontwikkeld om racisme, seksisme en
+    discriminatie op grond van seksuele geaardheid te bestrijden.
 
-**WONEN EN BOUWEN**
+# WONEN EN BOUWEN
 
 BIJ1 wil dat iedereen in Nederland prettig, betaalbaar en veilig kan
 wonen. Wij beschouwen wonen dan ook als een recht. Jongeren en jonge
@@ -902,7 +1033,7 @@ uitstromers vanuit de jeugdzorg, moeten ook veilig en prettig kunnen
 wonen. Dak- en thuisloze mensen gaan we helpen op een manier die bij hen
 past.
 
-**Rechtvaardig wonen**
+## Rechtvaardig wonen
 
 We willen ook dat er rechtvaardigheid komt op het gebied van wonen. Het
 kapitalistische systeem werkt ongelijkheid en onrechtvaardigheid in de
@@ -917,7 +1048,7 @@ en gaan deze handhaven. Huurprijzen moeten te betalen zijn en de rechten
 van huurders moeten worden beschermd. Huurders krijgen ook meer
 zeggenschap over het verbeteren van woningen.
 
-**Bouwen en duurzaamheid**
+## Bouwen en duurzaamheid
 
 De energietransitie vraagt om een andere visie op het gebied van wonen
 en bouwen. Zo gaan we beleid richten op het renoveren en verduurzamen
@@ -933,7 +1064,7 @@ verhuurd mogen worden.
 BIJ1 stelt de volgende oplossingen voor om te zorgen dat iedereen
 prettig, betaalbaar en veilig kan wonen.
 
-**Een plek voor iedereen**
+## Een plek voor iedereen
 
 1.  Het recht op woonruimte wordt wettelijk vastgelegd.
 
@@ -944,125 +1075,125 @@ prettig, betaalbaar en veilig kan wonen.
 4.  De hypotheekrenteaftrek wordt afgeschaft.
 
 5.  Makelaars, bemiddelaars of verhuurders die discrimineren, verliezen
-    > het recht om deze functies nog langer te beoefenen en worden
-    > strafrechtelijk vervolgd.
+    het recht om deze functies nog langer te beoefenen en worden
+    strafrechtelijk vervolgd.
 
 6.  De jaarlijkse huurverhoging wordt maximaal inflatievolgend.
 
 7.  Het kraakverbod wordt opgeheven.
 
 8.  Het bezitten maar onbenut laten van woningen en panden wordt
-    > verboden. Zo voeren we een woonplicht in en gaan we leegstand
-    > beboeten.
+    verboden. Zo voeren we een woonplicht in en gaan we leegstand
+    beboeten.
 
 9.  We heffen een extra belasting op het bezit van woningen met een
-    > waarde boven de 500.000 euro.
+    waarde boven de 500.000 euro.
 
 10. We zetten in op de bouw van meer sociale woningen, onder andere door
-    > grondbeleid in de vorm van actieve verwerving van private grond.
+    grondbeleid in de vorm van actieve verwerving van private grond.
 
 11. Met actieve handhaving bestrijden we leegstand van woningen,
-    > speculatie met leegstaande panden en speculatie met bouwgrond.
+    speculatie met leegstaande panden en speculatie met bouwgrond.
 
 12. Bij het afgeven van bouwvergunningen worden toegankelijkheid,
-    > duurzaamheid en een klimaatparagraaf bepalende factoren.
+    duurzaamheid en een klimaatparagraaf bepalende factoren.
 
 13. Zoveel mogelijk bestaande woningen worden geschikt gemaakt voor
-    > mensen met een beperking. Het VN Verdrag Handicap is hierin het
-    > uitgangspunt.
+    mensen met een beperking. Het VN Verdrag Handicap is hierin het
+    uitgangspunt.
 
 14. (Lokale) overheden geven bij het beschikbaar stellen van grond
-    > voorrang aan sociale huurwoningen, in plaats van aan de hoogste
-    > bieder.
+    voorrang aan sociale huurwoningen, in plaats van aan de hoogste
+    bieder.
 
-**Rechtvaardig huren, bouwen en renoveren**
+## Rechtvaardig huren, bouwen en renoveren
 
 1.  Woningcorporaties worden genationaliseerd. We vormen regionale
-    > wooncoöperaties door het hele land, die democratisch zijn
-    > georganiseerd en zich ook daadwerkelijk richten op het socialer
-    > maken van sociale huurwoningen en wijken.
+    wooncoöperaties door het hele land, die democratisch zijn
+    georganiseerd en zich ook daadwerkelijk richten op het socialer
+    maken van sociale huurwoningen en wijken.
 
 2.  Het huidige puntenstelsel voor huurwoningen wordt vervangen door een
-    > nieuw systeem gebaseerd op de daadwerkelijke woonkwaliteit van een
-    > woning.
+    nieuw systeem gebaseerd op de daadwerkelijke woonkwaliteit van een
+    woning.
 
 3.  Huurcontracten voor onbepaalde tijd worden weer de norm. Tijdelijke
-    > huurcontracten zijn alleen nog in uitzonderlijke situaties
-    > toegestaan.
+    huurcontracten zijn alleen nog in uitzonderlijke situaties
+    toegestaan.
 
 4.  We voeren een verhuurvergunning met kwalificatie-eisen in om
-    > huurders te beschermen tegen kwaadwillende verhuurders
-    > (huisjesmelkers).
+    huurders te beschermen tegen kwaadwillende verhuurders
+    (huisjesmelkers).
 
 5.  Huurders, individueel en als collectief, krijgen meer invloed op
-    > woningverbeteringen via initiatiefrechten.
+    woningverbeteringen via initiatiefrechten.
 
 6.  De sloop van woningen die nog te renoveren zijn wordt zoveel
-    > mogelijk voorkomen. Als sloop toch de enige optie blijkt, moet bij
-    > de nieuwbouw het aantal woningen in het sociale segment minimaal
-    > hetzelfde zijn als voorheen.
+    mogelijk voorkomen. Als sloop toch de enige optie blijkt, moet bij
+    de nieuwbouw het aantal woningen in het sociale segment minimaal
+    hetzelfde zijn als voorheen.
 
 7.  Er wordt geen onderscheid gemaakt bij het opknappen, opfleuren en
-    > onderhouden van wijken. Gebieden met sociale huurwoningen hebben
-    > net zo veel recht op recreatie, bereikbaarheid en groen, zonder
-    > dat dit ten koste gaat van de status van sociale huur.
+    onderhouden van wijken. Gebieden met sociale huurwoningen hebben
+    net zo veel recht op recreatie, bereikbaarheid en groen, zonder
+    dat dit ten koste gaat van de status van sociale huur.
 
 8.  Er komt een schadecompensatieregeling voor woningen met
-    > aardbevingsschade.
+    aardbevingsschade.
 
 9.  De verhuurder wordt verantwoordelijk voor het opknappen van
-    > energie-onzuinige woningen. Het verhuren van woningen met labels
-    > G, F en E wordt niet langer toegestaan. Per 2030 dienen alle
-    > huurwoningen naar minimaal energielabel A of B te zijn gerenoveerd
-    > en zonder gebruik van aardgas verwarmd te worden.
+    energie-onzuinige woningen. Het verhuren van woningen met labels
+    G, F en E wordt niet langer toegestaan. Per 2030 dienen alle
+    huurwoningen naar minimaal energielabel A of B te zijn gerenoveerd
+    en zonder gebruik van aardgas verwarmd te worden.
 
 10. Er worden fondsen beschikbaar gesteld voor de verduurzaming van
-    > sociale woningen. Ook investeren we flink in het toegankelijk
-    > maken van sociale woningen.
+    sociale woningen. Ook investeren we flink in het toegankelijk
+    maken van sociale woningen.
 
 11. Er komt een nationaal plan om ook bij een veranderend klimaat voor
-    > iedereen veilige en toegankelijke huisvesting te garanderen.
-    > Hierbij wordt rekening gehouden met onder andere
-    > overstromingsgevaar, extreme hitte, kou en droogte. Ook wordt er
-    > speciale aandacht besteed aan de BES-Eilanden.
+    iedereen veilige en toegankelijke huisvesting te garanderen.
+    Hierbij wordt rekening gehouden met onder andere
+    overstromingsgevaar, extreme hitte, kou en droogte. Ook wordt er
+    speciale aandacht besteed aan de BES-Eilanden.
 
 12. Er wordt onderzoek gedaan naar de gevolgen en gevaren van extremer
-    > wordende omstandigheden zoals droogte, verlaagde grondwaterstanden
-    > en bodeminklinking voor bestaande bebouwing, natuur en dier. Er
-    > worden passende maatregelen getroffen om dit tegen te gaan.
+    wordende omstandigheden zoals droogte, verlaagde grondwaterstanden
+    en bodeminklinking voor bestaande bebouwing, natuur en dier. Er
+    worden passende maatregelen getroffen om dit tegen te gaan.
 
 13. Huurders krijgen toegang tot een platform van onafhankelijke
-    > deskundigen in het geval van voortdurende schimmel- of
-    > vochtproblematiek.
+    deskundigen in het geval van voortdurende schimmel- of
+    vochtproblematiek.
 
-**Kwetsbare groepen en alternatieve (woon)groepen**
+## Kwetsbare groepen en alternatieve (woon)groepen
 
 1.  Er worden per direct voldoende gratis opvangplekken voor dak- en
-    > thuislozen gerealiseerd, ook voor zelfredzame dak- en thuislozen.
-    > Hierbij is individuele privacy een topprioriteit.
+    thuislozen gerealiseerd, ook voor zelfredzame dak- en thuislozen.
+    Hierbij is individuele privacy een topprioriteit.
 
 2.  Bestaande projecten zoals *Housing First,* waar dak- en thuislozen
-    > worden voorzien van een woning (indien nodig met individuele
-    > hulp), worden verder uitgebreid en tot norm gemaakt.
+    worden voorzien van een woning (indien nodig met individuele
+    hulp), worden verder uitgebreid en tot norm gemaakt.
 
 3.  Directe huisuitzettingen op basis van betalingsachterstanden worden
-    > verboden.
+    verboden.
 
 4.  Het recht van Roma en Sinti om in woonwagens te wonen wordt
-    > gerespecteerd en er wordt actief en ruimhartig meegewerkt aan het
-    > maken en faciliteren van woonlocaties.
+    gerespecteerd en er wordt actief en ruimhartig meegewerkt aan het
+    maken en faciliteren van woonlocaties.
 
 5.  Voor de meest kwetsbaren komt er een extra categorie binnen de
-    > sociale huursector met huren die niet hoger zijn dan 350 euro per
-    > maand.
+    sociale huursector met huren die niet hoger zijn dan 350 euro per
+    maand.
 
 6.  Er komen meer mogelijkheden voor (samen)wonen zoals *tiny houses* en
-    > woongroepen.
+    woongroepen.
 
 7.  Bij transformatie van gebouwen moeten gemeenten ruimte bieden aan
-    > bewonersinitiatieven of innovatieve woonvormen.
+    bewonersinitiatieven of innovatieve woonvormen.
 
-**ONDERWIJS EN WETENSCHAP**
+# ONDERWIJS EN WETENSCHAP
 
 BIJ1 wil gelijke kansen voor alle leerlingen in het onderwijs. Het moet
 voor de kansen van leerlingen niet uitmaken wat hun huidskleur is, wat
@@ -1075,8 +1206,7 @@ Dat geldt ook voor het reguliere onderwijs, als leerlingen met een
 beperking daar naartoe willen.
 
 Om gelijke kansen te creëren voor alle leerlingen willen we niet
-bezuinigen, maar juist investeren. We gaan <u>segregatie van leerlingen
-(6)</u> en discriminatie actief bestrijden. Door te investeren zorgen we
+bezuinigen, maar juist investeren. We gaan <a href="#onderwijssegregatie">segregatie van leerlingen</a> en discriminatie actief bestrijden. Door te investeren zorgen we
 voor kwaliteitsonderwijs en sterke, diverse en democratische
 onderwijsinstellingen met goede instroming en doorstroming. Leraren en
 wetenschappers gaan de (financiële) waardering krijgen die zij
@@ -1086,7 +1216,7 @@ verdienen.
 Kwaliteitsonderwijs dat past betekent onderwijs waarin leerlingen zich
 kunnen ontplooien en kunnen groeien als mens. Elke soort onderwijs moet
 kwaliteitsonderwijs bieden, van voorschool tot universiteit. Het
-<u>lesprogramma moet flexibel zijn (7)</u>, zodat alle leerlingen
+<a href="#de-onderwijsvisie-van-bij1">lesprogramma moet flexibel zijn</a>, zodat alle leerlingen
 onderwijs krijgen dat bij hen past en waar zij talenten en vaardigheden
 zoals creativiteit, inlevingsvermogen en samenwerking kunnen
 ontwikkelen. Ook de diverse perspectieven en ervaringen van identiteit,
@@ -1095,18 +1225,17 @@ het lesprogramma. BIJ1 vindt het belangrijk om kinderen en jongeren te
 betrekken bij hedendaagse maatschappelijke vraagstukken en burgerschap.
 Maatschappijleer wordt een verplicht vak gedurende het hele VO. Ook
 buiten het mbo wordt burgerschapsonderwijs verplicht gesteld.
-<u>Digitale middelen (8)</u> worden ingezet voor (verbetering van) het
+<a href="#digitalisering-in-het-onderwijs">Digitale middelen</a> worden ingezet voor (verbetering van) het
 lesprogramma en om kansenongelijkheid tegen te gaan. En om
 laaggeletterdheid tegen te gaan - dat vaak op een jonge leeftijd
 ontstaat - moet de toegang tot openbare bibliotheken voor leerlingen
 gestimuleerd worden.
 
-**Sterke onderwijsinstellingen en betere in- en doorstroming**
+## Sterke onderwijsinstellingen en betere in- en doorstroming
 
 De onderwijsinstellingen willen we versterken om ze meer mogelijkheden
-te geven voor het begeleiden van leerlingen en studenten. Het <u>mbo
-(9)</u> moet meer waardering krijgen. In het <u>hoger onderwijs (hbo en
-universiteiten) moet meer diversiteit en democratie (10)</u> komen. We
+te geven voor het begeleiden van leerlingen en studenten. Het <a href="#het-mbo">mbo</a> moet meer waardering krijgen. In het <a href="#het-wo">hoger onderwijs (hbo en
+universiteiten) moet meer diversiteit en democratie</a> komen. We
 willen samenwerking tussen onderwijsinstellingen stimuleren in plaats
 van concurrentie. Onderwijsinstellingen moeten ook zorgen dat leerlingen
 of studenten op het juiste niveau kunnen instromen. Dat niveau mag niet
@@ -1114,187 +1243,187 @@ op te jonge leeftijd bepaald worden en onderadvisering moet worden
 tegengegaan. Als een leerling of student wil overstappen of doorstromen
 naar een andere soort onderwijs, moet dat soepel verlopen.
 
-**Waardering voor leraren en wetenschappers**
+## Waardering voor leraren en wetenschappers
 
 Er moet weer waardering komen voor wie in het onderwijs werkt. Het
-<u>lerarentekort (11)</u> willen we oplossen. Wetenschappers moeten goed
+<a href="#het-lerarentekort">lerarentekort</a> willen we oplossen. Wetenschappers moeten goed
 onderzoek kunnen doen en leraren moeten goed kunnen lesgeven. Hun
 werkdruk moet omlaag en hun salaris moet omhoog.
 
 BIJ1 heeft volgende oplossingen voor inclusief, toegankelijk en
 kwalitatief hoogwaardig onderwijs.
 
-**Gelijke kansen voor alle leerlingen**
+## Gelijke kansen voor alle leerlingen
 
 1.  We gaan op zoek naar alternatieven voor de momenten waarop een
-    > leerling geselecteerd en getoetst wordt als het gaat om het niveau
-    > van het voortgezet onderwijs. Scholen met brede brugklassen worden
-    > gestimuleerd - op voorwaarde dat er binnen die brugklassen genoeg
-    > mogelijkheden zijn om verschillende manieren van leren te
-    > ondersteunen.
+    leerling geselecteerd en getoetst wordt als het gaat om het niveau
+    van het voortgezet onderwijs. Scholen met brede brugklassen worden
+    gestimuleerd - op voorwaarde dat er binnen die brugklassen genoeg
+    mogelijkheden zijn om verschillende manieren van leren te
+    ondersteunen.
 
 2.  Advies voor vervolgonderwijs wordt gebaseerd op de overeenkomst
-    > tussen 3 partijen: leraar, ouder(s)/verzorger(s) en leerling.
+    tussen 3 partijen: leraar, ouder(s)/verzorger(s) en leerling.
 
 3.  Alle leraren in Nederland krijgen trainingen over het geven van een
-    > schooladvies op de juiste manier en het creëren van bewustwording
-    > van onderadvisering.
+    schooladvies op de juiste manier en het creëren van bewustwording
+    van onderadvisering.
 
 4.  Er komen meer middelen voor scholen om kennis te delen met andere
-    > scholen over het creëren van gelijke kansen.
+    scholen over het creëren van gelijke kansen.
 
 5.  Scholen moeten volledig toegankelijk worden voor leerlingen met een
-    > beperking. Er worden initiatieven ingevoerd door het hele land
-    > waarbij leerlingen met een beperking deel uitmaken van het
-    > regulier onderwijs. Er wordt extra budget vrijgemaakt voor leraren
-    > voor ondersteuning van de leerlingen met een beperking.
+    beperking. Er worden initiatieven ingevoerd door het hele land
+    waarbij leerlingen met een beperking deel uitmaken van het
+    regulier onderwijs. Er wordt extra budget vrijgemaakt voor leraren
+    voor ondersteuning van de leerlingen met een beperking.
 
 6.  We zorgen voor meer toegankelijke mogelijkheden om mensen die
-    > laaggeletterd bij te staan en ondersteunen waar nodig.
+    laaggeletterd bij te staan en ondersteunen waar nodig.
 
 7.  Brede scholengemeenschappen met verschillende schoolsoorten (vmbo,
-    > havo, vwo) en initiatieven om deze te starten worden gestimuleerd.
-    > Op de lange termijn werken we toe naar het afschaffen van een
-    > individuele indeling en collectieve segregatie op niveau.
+    havo, vwo) en initiatieven om deze te starten worden gestimuleerd.
+    Op de lange termijn werken we toe naar het afschaffen van een
+    individuele indeling en collectieve segregatie op niveau.
 
 8.  Diploma’s in het voortgezet onderwijs moeten gestapeld kunnen worden
-    > zonder aanvullende eisen.
+    zonder aanvullende eisen.
 
 9.  De voorschool wordt gratis voor alle kinderen.
 
 10. De vrijwillige ouderbijdrage in het basisonderwijs en voortgezet
-    > onderwijs wordt afgeschaft.
+    onderwijs wordt afgeschaft.
 
 11. Toegang tot bijles moet niet afhankelijk zijn van de economische
-    > positie van de ouders. Er zou gratis bijles aangeboden kunnen
-    > moeten worden aan kinderen wiens ouders beneden een bepaalde
-    > inkomensgrens zitten.
+    positie van de ouders. Er zou gratis bijles aangeboden kunnen
+    moeten worden aan kinderen wiens ouders beneden een bepaalde
+    inkomensgrens zitten.
 
 12. Bibliotheken krijgen meer ondersteuning bij het aanpakken van
-    > laaggeletterdheid onder kinderen en jongeren. Er moet makkelijke
-    > toegang zijn voor ieder burger tot een openbare bibliotheek.
+    laaggeletterdheid onder kinderen en jongeren. Er moet makkelijke
+    toegang zijn voor ieder burger tot een openbare bibliotheek.
 
 13. Bedrijven die discrimineren in hun selectie voor stagiairs worden
-    > beboet en uitgesloten van overheidsopdrachten en subsidies.
+    beboet en uitgesloten van overheidsopdrachten en subsidies.
 
 14. De manier van inschrijven wordt zo ingericht, dat scholen voor
-    > iedereen toegankelijk zijn. Er komt een einde aan het
-    > postcodebeleid en zeer vroegtijdige inschrijving als
-    > selectiemiddel door scholen.
+    iedereen toegankelijk zijn. Er komt een einde aan het
+    postcodebeleid en zeer vroegtijdige inschrijving als
+    selectiemiddel door scholen.
 
-**Een divers en inclusief aanbod op school**
+## Een divers en inclusief aanbod op school
 
 1.  Scholen krijgen een wettelijke taak om interculturele kennis tussen
-    > leerlingen te bevorderen en te organiseren.
+    leerlingen te bevorderen en te organiseren.
 
 2.  De overheid stimuleert een divers perspectief in het curriculum en
-    > lesmateriaal dat vrij is van schadelijke stereotyperingen en
-    > eurocentrisme.
+    lesmateriaal dat vrij is van schadelijke stereotyperingen en
+    eurocentrisme.
 
 3.  De koloniale geschiedenis en het migratieverleden van Nederland
-    > krijgen een centrale plek in het lesprogramma, met daarnaast de
-    > achtergrond en politiek-economische context van vluchtelingen en
-    > (arbeids)migranten. Ook komt er meer aandacht voor de gevolgen van
-    > deze geschiedenis voor de volgende generaties, die in Nederland
-    > geboren worden.
+    krijgen een centrale plek in het lesprogramma, met daarnaast de
+    achtergrond en politiek-economische context van vluchtelingen en
+    (arbeids)migranten. Ook komt er meer aandacht voor de gevolgen van
+    deze geschiedenis voor de volgende generaties, die in Nederland
+    geboren worden.
 
 4.  Er komen trainingen voor leraren over het historisch besef van de
-    > koloniale geschiedenis en het migratieverleden van Nederlanders.
+    koloniale geschiedenis en het migratieverleden van Nederlanders.
 
 5.  Er komt ruimschoots en kwalitatief hoogstaande aandacht in het
-    > curriculum voor seksualiteit, consent en diversiteit op het gebied
-    > van gender en seksuele geaardheid.
+    curriculum voor seksualiteit, consent en diversiteit op het gebied
+    van gender en seksuele geaardheid.
 
 6.  Er komen trainingen om leraren bewust te maken van hun (onbewuste)
-    > vooroordelen, houding en verwachtingspatronen en er worden
-    > protocollen ontwikkeld om racisme, seksisme en discriminatie op
-    > grond van seksuele geaardheid te bestrijden.
+    vooroordelen, houding en verwachtingspatronen en er worden
+    protocollen ontwikkeld om racisme, seksisme en discriminatie op
+    grond van seksuele geaardheid te bestrijden.
 
 7.  Er komt een garantie dat alle leerlingen toegang hebben tot laptops
-    > en WiFi *hotspots* voor thuis. Elke school krijgt hiervoor een
-    > aangewezen budget.
+    en WiFi *hotspots* voor thuis. Elke school krijgt hiervoor een
+    aangewezen budget.
 
 8.  De overheid gaat scholen ontmoedigen samen te werken met platforms
-    > van bedrijven die *surveillance* als bedrijfsmodel hebben, om de
-    > privacy van leerlingen te beschermen.
+    van bedrijven die *surveillance* als bedrijfsmodel hebben, om de
+    privacy van leerlingen te beschermen.
 
-**Betere werkomstandigheden voor leraren**
+## Betere werkomstandigheden voor leraren
 
 1.  De arbeidsvoorwaarden van leraren worden verbeterd, zowel met
-    > betrekking tot het loon als tot de werkdruk.
+    betrekking tot het loon als tot de werkdruk.
 
 2.  De loonkloof tussen het basisonderwijs en voortgezet onderwijs wordt
-    > gedicht, zodat alle leraren hetzelfde gaan verdienen.
+    gedicht, zodat alle leraren hetzelfde gaan verdienen.
 
 3.  De klassen worden kleiner en de administratieve lasten worden
-    > verlicht, om de werkdruk te verminderen en om meer
-    > voorbereidingstijd te creëren.
+    verlicht, om de werkdruk te verminderen en om meer
+    voorbereidingstijd te creëren.
 
 4.  Pabo's moeten meer aandacht besteden aan de werkdruk in het
-    > onderwijsveld (veroorzaakt door samenleving, schoolbestuur en
-    > ouders) en hoe daarmee om moet worden gegaan.
+    onderwijsveld (veroorzaakt door samenleving, schoolbestuur en
+    ouders) en hoe daarmee om moet worden gegaan.
 
-**Toegankelijk beroeps- en hoger onderwijs en verbeterde doorstroom**
+## Toegankelijk beroeps- en hoger onderwijs en verbeterde doorstroom
 
 1.  Het collegegeld wordt afgeschaft: middelbaar beroepsonderwijs en het
-    > hoger onderwijs worden gratis. De basisbeurs wordt opnieuw
-    > ingevoerd en wordt inkomensafhankelijk, gebaseerd op het inkomen
-    > van de ouders/verzorgers en dat van de student zelf.
+    hoger onderwijs worden gratis. De basisbeurs wordt opnieuw
+    ingevoerd en wordt inkomensafhankelijk, gebaseerd op het inkomen
+    van de ouders/verzorgers en dat van de student zelf.
 
 2.  De schakelprogramma’s voor studenten tussen het mbo en hbo worden
-    > verbeterd.
+    verbeterd.
 
 3.  We werken aan toegankelijk onderwijs​ door het recht op thuisstudie
-    > vast te leggen. Ook komt er meer (onafhankelijke) ondersteuning
-    > zodat mensen met een beperking beter naar eigen wensen kunnen
-    > studeren, bijvoorbeeld door het faciliteren van online colleges.
+    vast te leggen. Ook komt er meer (onafhankelijke) ondersteuning
+    zodat mensen met een beperking beter naar eigen wensen kunnen
+    studeren, bijvoorbeeld door het faciliteren van online colleges.
 
 4.  Het mbo wordt versterkt en verbreed: leraren krijgen meer ruimte om
-    > door te groeien binnen hun functie, de overheid gaat samenwerken
-    > met het bedrijfsleven om meer stageplaatsen te bewerkstelligen, en
-    > er komen meer kleinschalige vakscholen.
+    door te groeien binnen hun functie, de overheid gaat samenwerken
+    met het bedrijfsleven om meer stageplaatsen te bewerkstelligen, en
+    er komen meer kleinschalige vakscholen.
 
 5.  De toegang tot het beroepsonderwijs en het wetenschappelijk
-    > onderwijs wordt vergemakkelijkt, bijvoorbeeld door drempels voor
-    > werkende mensen weg te nemen. Opties om de opleiding in deeltijd
-    > te kunnen volgen worden verplicht, leeftijdsgrenzen worden
-    > verboden.
+    onderwijs wordt vergemakkelijkt, bijvoorbeeld door drempels voor
+    werkende mensen weg te nemen. Opties om de opleiding in deeltijd
+    te kunnen volgen worden verplicht, leeftijdsgrenzen worden
+    verboden.
 
 6.  
 
 7.  Het geldbedrag dat onderwijsinstellingen ontvangen hangt niet langer
-    > af van het percentage afgestudeerden.
+    af van het percentage afgestudeerden.
 
 8.  Op elke vorm van beroeps- en hoger onderwijs komt er een
-    > schoolpsycholoog waar studenten die met mentale problematiek te
-    > maken hebben terecht kunnen.
+    schoolpsycholoog waar studenten die met mentale problematiek te
+    maken hebben terecht kunnen.
 
-**Meer waardering, democratie en diversiteit in het hoger onderwijs**
+## Meer waardering, democratie en diversiteit in het hoger onderwijs
 
 1.  De doelmatigheidskorting op het wetenschappelijk onderwijs wordt
-    > afgeschaft.
+    afgeschaft.
 
 2.  De overheidsbijdrage aan het wetenschappelijk onderwijs krijgt een
-    > extra investering van 1.15 miljard euro per jaar.
+    extra investering van 1.15 miljard euro per jaar.
 
 3.  Er is een oligopolie op publicaties in de academische wereld,
-    > waarbij drie grote publicatiebedrijven een groot deel van
-    > tijdschriften en publicatiekanalen voor academische publicaties
-    > bezitten. Dit kost de universiteitsbibliotheken de helft van hun
-    > budget. De overheid gaat deze oligopolie tegen door te investeren
-    > in *open access* publiceren, door middel van digitale
-    > infrastructuur en internationale lobby.
+    waarbij drie grote publicatiebedrijven een groot deel van
+    tijdschriften en publicatiekanalen voor academische publicaties
+    bezitten. Dit kost de universiteitsbibliotheken de helft van hun
+    budget. De overheid gaat deze oligopolie tegen door te investeren
+    in *open access* publiceren, door middel van digitale
+    infrastructuur en internationale lobby.
 
 4.  De overheid gaat zich inzetten om de invloed van de fossiele
-    > industrie op het onderwijs te stoppen, met name in het curriculum.
+    industrie op het onderwijs te stoppen, met name in het curriculum.
 
 5.  Elke instelling krijgt een diversiteitscommissie en er komen
-    > diversiteitsquota in alle onderwijs- en bestuurslagen in het hoger
-    > onderwijs..
+    diversiteitsquota in alle onderwijs- en bestuurslagen in het hoger
+    onderwijs..
 
 6.  Besturen en raden van toezicht worden democratisch verkozen.
 
-**KUNST, CULTUUR EN MEDIA**
+# KUNST, CULTUUR EN MEDIA
 
 BIJ1 wil vechten voor een bloeiende kunst-, cultuur- en mediasector die
 de Nederlandse samenleving weerspiegelt en die toegankelijk is voor
@@ -1303,7 +1432,7 @@ en die haar verantwoordelijkheid neemt voor haar aandeel in onder andere
 de koloniale geschiedenis en het slavernijverleden. BIJ1 wil dat makers
 gewoon weer kunnen maken, en schrijvers gewoon weer kunnen schrijven.
 
-**Ruimte voor vernieuwing en toegankelijkheid**
+## Ruimte voor vernieuwing en toegankelijkheid
 
 Kunst, cultuur en de creatieve sector moeten op hoog niveau kunnen
 werken, nieuwe ideeën ontwikkelen, inspireren en provoceren, en zo voor
@@ -1329,7 +1458,7 @@ druk en makers worden gedwongen om commercieel te worden.
 Toegangsprijzen voor voorstellingen en tentoonstellingen worden ook
 alleen maar hoger: zo wordt kunst en cultuur nog enkel voor de elite.
 
-**Ondersteuning van de makers**
+## Ondersteuning van de makers
 
 Ondertussen wordt de (verborgen) armoede onder makers alleen maar
 groter. Hoewel de Fair Practice Code (die zich richt op het verbeteren
@@ -1339,7 +1468,7 @@ instellingen hier ook de middelen niet voor. Zo houdt het systeem van
 armoede, regels en beperkingen zichzelf in stand en wordt de kunst- en
 cultuursector verder uitgekleed.
 
-**Representatie van de samenleving**
+## Representatie van de samenleving
 
 Culturele instellingen en omroepen zijn nog steeds geen afspiegeling van
 de samenleving. Vooral witte mensen beslissen wat er in musea komt te
@@ -1353,7 +1482,7 @@ beperkt deel van de Nederlandse samenleving aanspreekt. De Code
 Diversiteit en Inclusie is opgesteld om hier een einde aan te maken,
 maar de uitvoering ervan blijft achter.
 
-**Erken de makers, erken de geschiedenis**
+## Erken de makers, erken de geschiedenis
 
 Veel van onze museumcollecties zijn gebouwd op de Nederlandse koloniale
 geschiedenis en het Nederlandse slavernijverleden. In Nederlandse musea
@@ -1362,91 +1491,91 @@ die is aangekocht met geld dat is verdiend met slavernij en uitbuiting.
 Hier moet een eind aan komen. Onze aanpak voor een representatieve en
 gezonde kunst-, cultuur- en mediasector luidt als volgt.
 
-**Voor de makers**
+## Voor de makers
 
 1.  We stellen meer fondsen beschikbaar op het gebied van kunst, cultuur
-    > en media waarbij ook een grotere diversiteit aan instellingen
-    > aanspraak kan maken op deze fondsen. De bezuinigingen van Rutte-I
-    > worden ongedaan gemaakt en er wordt structureel meer geïnvesteerd
-    > in kunst, cultuur en media.
+    en media waarbij ook een grotere diversiteit aan instellingen
+    aanspraak kan maken op deze fondsen. De bezuinigingen van Rutte-I
+    worden ongedaan gemaakt en er wordt structureel meer geïnvesteerd
+    in kunst, cultuur en media.
 
 2.  Er wordt meer geïnvesteerd in makers bij de NPO. Deze investeringen
-    > worden gekoppeld aan het verplicht naleven van de *Fair Practice
-    > Code* en de Code Culturele Diversiteit. Daarnaast worden de scheve
-    > financiële constructies waarmee productiemaatschappijen grote
-    > winst maken ongedaan gemaakt.
+    worden gekoppeld aan het verplicht naleven van de *Fair Practice
+    Code* en de Code Culturele Diversiteit. Daarnaast worden de scheve
+    financiële constructies waarmee productiemaatschappijen grote
+    winst maken ongedaan gemaakt.
 
 3.  De Wet Werk & Inkomen Kunstenaars wordt weer in het leven geroepen
-    > en er wordt structureel geprobeerd om de opheffing van armoede in
-    > de kunst, cultuur en mediasector te verwezenlijken.
+    en er wordt structureel geprobeerd om de opheffing van armoede in
+    de kunst, cultuur en mediasector te verwezenlijken.
 
 4.  Er komt strikt toezicht op de naleving van de *Fair Practice Code,*
-    > zodat makers in hun onderhoud kunnen voorzien. Er komen voldoende
-    > extra middelen voor instellingen om deze code in te voeren en
-    > bindend te maken, zodat er gevolgen worden verbonden aan het niet
-    > naleven van de *Fair Practice Code*.
+    zodat makers in hun onderhoud kunnen voorzien. Er komen voldoende
+    extra middelen voor instellingen om deze code in te voeren en
+    bindend te maken, zodat er gevolgen worden verbonden aan het niet
+    naleven van de *Fair Practice Code*.
 
 5.  Er komen minder verplichtingen voor het genereren van eigen
-    > inkomsten, zodat makers zich kunnen toeleggen op hun werk en de
-    > toegangsprijzen omlaag kunnen.
+    inkomsten, zodat makers zich kunnen toeleggen op hun werk en de
+    toegangsprijzen omlaag kunnen.
 
 6.  We zorgen dat alle roofkunst door Nederlandse culturele instellingen
-    > wordt teruggegeven en helpen het mogelijk te maken de kunst aldaar
-    > te conserveren en exposeren.
+    wordt teruggegeven en helpen het mogelijk te maken de kunst aldaar
+    te conserveren en exposeren.
 
 7.  (Culturele) vrijplaatsen zijn unieke plekken in onze samenleving met
-    > een grote sociale en culturele waarde. Bestaande vrijplaatsen
-    > worden erkend en behouden. Nieuwe vrijplaatsen worden praktisch en
-    > legaal ondersteund.
+    een grote sociale en culturele waarde. Bestaande vrijplaatsen
+    worden erkend en behouden. Nieuwe vrijplaatsen worden praktisch en
+    legaal ondersteund.
 
-**Diversiteit en representatie**
+## Diversiteit en representatie
 
 1.  Er komt strikt toezicht op de naleving van de Code Diversiteit en
-    > Inclusie zodat de vertegenwoordiging van verschillende groepen uit
-    > de maatschappij versterkt wordt binnen de cultuursector. Dit doen
-    > we met voldoende extra middelen voor instellingen om deze code in
-    > te voeren en bindend te maken, en verbinden gevolgen aan het niet
-    > naleven van de Code.
+    Inclusie zodat de vertegenwoordiging van verschillende groepen uit
+    de maatschappij versterkt wordt binnen de cultuursector. Dit doen
+    we met voldoende extra middelen voor instellingen om deze code in
+    te voeren en bindend te maken, en verbinden gevolgen aan het niet
+    naleven van de Code.
 
 2.  Er komt een representatief en inclusief wervingsbeleid voor
-    > besluitnemende functies binnen media- en cultuurfondsen, zodat
-    > besluitmakers binnen deze fondsen een betere afspiegeling van de
-    > samenleving vormen.
+    besluitnemende functies binnen media- en cultuurfondsen, zodat
+    besluitmakers binnen deze fondsen een betere afspiegeling van de
+    samenleving vormen.
 
 3.  Aandacht van culturele en media-instellingen voor Nederlandse
-    > koloniale geschiedenis en slavernijverleden, maar dan vanuit het
-    > perspectief van de voormalige koloniën, wordt verplicht.
+    koloniale geschiedenis en slavernijverleden, maar dan vanuit het
+    perspectief van de voormalige koloniën, wordt verplicht.
 
 4.  We willen een publieke omroep die onafhankelijk blijft en niet door
-    > de overheid of door de commercie wordt beïnvloed.
+    de overheid of door de commercie wordt beïnvloed.
 
 5.  We zorgen voor een goede bewaking van de representativiteit van
-    > media, waarbij regionale media, lokale media en doelgroepmedia
-    > worden beschermd.
+    media, waarbij regionale media, lokale media en doelgroepmedia
+    worden beschermd.
 
 6.  Er komt een toezichthouder op diversiteit binnen de omroepen, die
-    > zowel kijkt naar representatie binnen de organisaties als
-    > diversiteit en inclusie in media-uitingen.
+    zowel kijkt naar representatie binnen de organisaties als
+    diversiteit en inclusie in media-uitingen.
 
-**Toegankelijkheid**
+## Toegankelijkheid
 
 1.  De toegang tot musea en culturele instellingen wordt gratis, zodat
-    > iedereen van kunst en cultuur kan genieten, ongeacht je inkomen.
+    iedereen van kunst en cultuur kan genieten, ongeacht je inkomen.
 
 2.  Er komt een cultuurbudget voor elk kind dat zich in Nederland
-    > bevindt.
+    bevindt.
 
 3.  We sturen aan op gratis toegankelijke, online programma’s van de
-    > publieke omroep.
+    publieke omroep.
 
 4.  Kunst- en cultuureducatie wordt een verplicht onderdeel van zowel
-    > het basisonderwijs als het voortgezet onderwijs en het mbo.
-    > Hierbij wordt samenwerking gezocht tussen onderwijs, de culturele
-    > omgeving van de school en de kunst- en cultuursector. Ook
-    > participatie in de vrije tijd moet toegankelijker gemaakt worden
-    > voor ieder kind.
+    het basisonderwijs als het voortgezet onderwijs en het mbo.
+    Hierbij wordt samenwerking gezocht tussen onderwijs, de culturele
+    omgeving van de school en de kunst- en cultuursector. Ook
+    participatie in de vrije tijd moet toegankelijker gemaakt worden
+    voor ieder kind.
 
-**TOEGANKELIJKHEID**
+# TOEGANKELIJKHEID
 
 In totaal zijn er in Nederland meer dan 3 miljoen mensen met een
 beperking. Dit kunnen verschillende vormen zijn: denk aan auditieve
@@ -1463,7 +1592,7 @@ samenleving is nog te vaak ingericht voor mensen zonder beperking.
 Daardoor moeten mensen met een beperking zich aanpassen aan deze
 samenleving, terwijl dit niet altijd mogelijk is. Iedereen is onderdeel
 van de samenleving en de samenleving moet dus aangepast worden, zodat
-die <u>toegankelijk is voor iedereen (12)</u>.
+die <a href="#toegankelijkheid-1">toegankelijk is voor iedereen</a>.
 
 **Inclusiviteit** **in plaats van segregatie**  
 Segregatie speelt een grote rol bij het benadelen van mensen met een
@@ -1485,87 +1614,87 @@ dit niet gebeurt.
 Om de inclusieve maatschappij voor mensen met een beperking te
 waarborgen, stellen wij de volgende punten voor.
 
-**Aanpassing wetgeving en naleving bestaande verdragen**
+## Aanpassing wetgeving en naleving bestaande verdragen
 
 1.  Nederland moet gehouden worden aan het zonder meer naleven van het
-    > VN-verdrag inzake rechten van personen met een handicap. Bij
-    > niet-naleven moeten klachten ingediend kunnen worden.
+    VN-verdrag inzake rechten van personen met een handicap. Bij
+    niet-naleven moeten klachten ingediend kunnen worden.
 
 2.  Er worden sancties opgelegd als er geen concrete wetgeving en/of
-    > concreet beleid komt om de positie van mensen met een beperking te
-    > verbeteren, bijvoorbeeld als er ontoegankelijk wordt gebouwd.
+    concreet beleid komt om de positie van mensen met een beperking te
+    verbeteren, bijvoorbeeld als er ontoegankelijk wordt gebouwd.
 
 **Onderzoek en luisteren naar ervaringsdeskundigen voor een beter
 beleid**
 
 1.  Bij het ontwikkelen van beleid wordt er ruimte gemaakt voor
-    > ervaringsdeskundigen en organisaties die bestaan uit
-    > ervaringsdeskundigen. Er worden toegankelijkheidsvoorzieningen
-    > geregeld, zoals een rolstoeltoegankelijke locatie en faciliteiten
-    > voor dove of slechthorende mensen.
+    ervaringsdeskundigen en organisaties die bestaan uit
+    ervaringsdeskundigen. Er worden toegankelijkheidsvoorzieningen
+    geregeld, zoals een rolstoeltoegankelijke locatie en faciliteiten
+    voor dove of slechthorende mensen.
 
 2.  Er wordt onderzocht hoe gender, etniciteit en seksualiteit invloed
-    > hebben op het leven en welzijn van mensen met een beperking, zodat
-    > economisch en sociaal beleid effectiever en inclusiever gemaakt
-    > kan worden.
+    hebben op het leven en welzijn van mensen met een beperking, zodat
+    economisch en sociaal beleid effectiever en inclusiever gemaakt
+    kan worden.
 
 3.  Er komt een onderzoek naar de ervaringen van discriminatie en
-    > bejegening van mensen met een beperking. Er komt concreet beleid
-    > om deze discriminatie tegen te gaan, bijvoorbeeld door het geven
-    > van trainingen over de beginselen en normen van het VN-verdrag
-    > inzake rechten van personen met een handicap. Deze trainingen
-    > worden gegeven aan overheidspersoneel, rechters en advocaten,
-    > architecten, ontwerpers, onderwijspersoneel en anderen die te
-    > maken hebben met beleid en ondersteuning voor mensen met een
-    > beperking. De regionale meldpunten voor discriminatie worden
-    > actiever op het gebied van deze vorm van discriminatie.
+    bejegening van mensen met een beperking. Er komt concreet beleid
+    om deze discriminatie tegen te gaan, bijvoorbeeld door het geven
+    van trainingen over de beginselen en normen van het VN-verdrag
+    inzake rechten van personen met een handicap. Deze trainingen
+    worden gegeven aan overheidspersoneel, rechters en advocaten,
+    architecten, ontwerpers, onderwijspersoneel en anderen die te
+    maken hebben met beleid en ondersteuning voor mensen met een
+    beperking. De regionale meldpunten voor discriminatie worden
+    actiever op het gebied van deze vorm van discriminatie.
 
-**Maatregelen om de samenleving toegankelijker te maken**
+## Maatregelen om de samenleving toegankelijker te maken
 
 1.  Alle bestaande overheidsgebouwen worden waar mogelijk volledig
-    > toegankelijk. Aan nieuwe overheidsgebouwen wordt de eis gesteld
-    > dat ze volledig toegankelijk zijn.
+    toegankelijk. Aan nieuwe overheidsgebouwen wordt de eis gesteld
+    dat ze volledig toegankelijk zijn.
 
 2.  Alle openbare toiletten worden toegankelijk gemaakt en zijn gratis
-    > te gebruiken.
+    te gebruiken.
 
 3.  In de publieke ruimte wordt gratis drinkwater beschikbaar en
-    > toegankelijk aangeboden.
+    toegankelijk aangeboden.
 
 4.  Er worden doelgerichte budgetten vrijgemaakt voor gemeenten om
-    > toegankelijkheid in de openbare ruimte te bevorderen. Voorbeelden
-    > daarvan zijn geleidestroken op belangrijke en gevaarlijke
-    > verkeerspunten, het tegengaan van fietsen op stoepen en het
-    > toegankelijker maken van straten en stoepen.
+    toegankelijkheid in de openbare ruimte te bevorderen. Voorbeelden
+    daarvan zijn geleidestroken op belangrijke en gevaarlijke
+    verkeerspunten, het tegengaan van fietsen op stoepen en het
+    toegankelijker maken van straten en stoepen.
 
 5.  De landelijke overheid, gemeenten en vervoerders moeten gezamenlijk
-    > maatregelen nemen om de toegankelijkheid van het openbaar vervoer
-    > en doelgroepenvervoer te verbeteren. Het vernieuwde Besluit
-    > Toegankelijkheid Openbaar vervoer is hiervoor de basis. De
-    > overheid ziet toe op naleving van dit besluit. Persoonsvolgende
-    > vervoersvoorzieningen voor mensen met een beperking worden
-    > mogelijk gemaakt. Voor mensen die niet met het openbaar vervoer
-    > kunnen reizen, worden oplossingen op maat gemaakt.
+    maatregelen nemen om de toegankelijkheid van het openbaar vervoer
+    en doelgroepenvervoer te verbeteren. Het vernieuwde Besluit
+    Toegankelijkheid Openbaar vervoer is hiervoor de basis. De
+    overheid ziet toe op naleving van dit besluit. Persoonsvolgende
+    vervoersvoorzieningen voor mensen met een beperking worden
+    mogelijk gemaakt. Voor mensen die niet met het openbaar vervoer
+    kunnen reizen, worden oplossingen op maat gemaakt.
 
 6.  De oversteekduur van verkeerslichten wordt langer voor mensen met
-    > een lagere beweegsnelheid. Alle verkeerslichten worden
-    > gebruiksvriendelijk gemaakt voor mensen met een visuele beperking.
+    een lagere beweegsnelheid. Alle verkeerslichten worden
+    gebruiksvriendelijk gemaakt voor mensen met een visuele beperking.
 
 7.  De Nederlandse Gebarentaal wordt als officiële taal erkend, zodat
-    > mensen met een auditieve beperking erkenning krijgen voor hun
-    > identiteit en taligheid. Het aanbieden van een gebarentolk wordt
-    > hierdoor ook verplicht gesteld.
+    mensen met een auditieve beperking erkenning krijgen voor hun
+    identiteit en taligheid. Het aanbieden van een gebarentolk wordt
+    hierdoor ook verplicht gesteld.
 
 8.  Informatie in het publieke domein wordt beschikbaar gemaakt in
-    > braille.
+    braille.
 
 9.  Brieven van de overheid en belangrijke brieven van instanties,
-    > moeten voor een ieder begrijpelijk zijn.
+    moeten voor een ieder begrijpelijk zijn.
 
 10. Het media-aanbod (in alle varianten) moet toegankelijk zijn voor
-    > iedereen.
+    iedereen.
 
-**RECHT OP ZELFBESCHIKKING**
+# RECHT OP ZELFBESCHIKKING
 
 Het individuele recht op zelfbeschikking is een belangrijk recht dat te
 allen tijde beschermd en nageleefd moet worden. Je hebt het recht goed
@@ -1584,152 +1713,150 @@ Het recht op zelfbeschikking is bij bepaalde mensen meer in gevaar dan
 bij andere mensen. In Nederland is momenteel het recht op
 zelfbeschikking in de volgende gevallen in gevaar of zelfs beperkt:
 
--   <u>Moslimvrouwen (13)</u> wordt opgelegd wat zij wel of niet mogen
-    > dragen (d.m.v. het Gedeeltelijk Verbod Gezichtsbedekkende
-    > Kleding);
+-   <a href="#het-recht-op-zelfbeschikking-van-moslims">Moslimvrouwen</a> wordt opgelegd wat zij wel of niet mogen
+    dragen (d.m.v. het Gedeeltelijk Verbod Gezichtsbedekkende
+    Kleding);
 
-<!-- -->
-
--   Mensen die een <u>abortus (14)</u> ondergaan worden regelmatig
-    > bedreigd bij de ingang van de abortuskliniek;
+-   Mensen die een <a href="#abortus">abortus</a> ondergaan worden regelmatig
+    bedreigd bij de ingang van de abortuskliniek;
 
 -   De identiteit van non-binaire personen wordt in Nederland niet
-    > officieel erkend;
+    officieel erkend;
 
 -   Er is weinig juridische ruimte voor niet-traditionele gezinnen,
-    > bijvoorbeeld voor mensen die met meer dan twee mensen een kind
-    > opvoeden, of voor iemand die zijn erfenis wil nalaten aan hun
-    > beste vriend;
+    bijvoorbeeld voor mensen die met meer dan twee mensen een kind
+    opvoeden, of voor iemand die zijn erfenis wil nalaten aan hun
+    beste vriend;
 
 -   Mensen die ondraaglijk psychisch lijden hebben te weinig rechten om
-    > hun leven op een waardige en zelfgekozen manier te beëindigen;
+    hun leven op een waardige en zelfgekozen manier te beëindigen;
 
 -   Mensen zonder baarmoeder beslissen nog steeds in grote mate over de
-    > rechten van mensen met baarmoeder.
+    rechten van mensen met baarmoeder.
 
 BIJ1 staat achter de intersectionele feministische beweging die het
 recht op zelfbeschikking voor iedereen wil waarborgen. Daarom stelt BIJ1
 de volgende beleidsveranderingen voor.
 
-**Toegankelijke anticonceptie en abortus**
+## Toegankelijke anticonceptie en abortus
 
 1.  Er komt een volledige vergoeding van anticonceptie.
 
 2.  Het taboe rondom abortus wordt actief bestreden: abortus wordt uit
-    > het Wetboek van Strafrecht gehaald. Het Ministerie van
-    > Volksgezondheid, Welzijn en Sport gaat een campagne starten om
-    > abortus bespreekbaar te maken.
+    het Wetboek van Strafrecht gehaald. Het Ministerie van
+    Volksgezondheid, Welzijn en Sport gaat een campagne starten om
+    abortus bespreekbaar te maken.
 
 3.  De overheid stopt met het subsidiëren van organisaties die geen
-    > onafhankelijke hulp bieden aan ongewenst zwangere personen.
+    onafhankelijke hulp bieden aan ongewenst zwangere personen.
 
 4.  De bedenktijd van 5 dagen voor een abortus wordt afgeschaft.
 
 5.  Ervaringsdeskundigen worden actief betrokken bij het ontwikkelen van
-    > beleid rond abortuszorg.
+    beleid rond abortuszorg.
 
 6.  Abortuszorg gaat onder de reguliere zorg vallen; er komen
-    > abortusafdelingen in verloskundigenpraktijken en andere medische
-    > centra. Zowel verloskundigen als de huisarts moeten de abortuspil
-    > kunnen voorschrijven en werken hierin actief samen met
-    > abortusartsen.
+    abortusafdelingen in verloskundigenpraktijken en andere medische
+    centra. Zowel verloskundigen als de huisarts moeten de abortuspil
+    kunnen voorschrijven en werken hierin actief samen met
+    abortusartsen.
 
-**Zwanger worden, bevallen en adoptie**
+## Zwanger worden, bevallen en adoptie
 
 1.  Vruchtbaarheidsbehandelingen zoals IVF moeten vergoed worden. Het
-    > aantal vergoede behandelingen moet uitgebreid worden op basis van
-    > kansen, niet kosten. Dit geldt ook voor LHBTQI+ stellen.
+    aantal vergoede behandelingen moet uitgebreid worden op basis van
+    kansen, niet kosten. Dit geldt ook voor LHBTQI+ stellen.
 
 2.  Mensen die zwanger zijn en gaan bevallen hebben altijd het recht om
-    > zelf beslissingen te nemen over wat er met hun lichaam gebeurt. Er
-    > is geen afgedwongen zorg meer, en er komt respect voor autonomie
-    > en zeggenschap voor, tijdens en na de bevalling.
+    zelf beslissingen te nemen over wat er met hun lichaam gebeurt. Er
+    is geen afgedwongen zorg meer, en er komt respect voor autonomie
+    en zeggenschap voor, tijdens en na de bevalling.
 
 3.  Mensen die als kind zijn geadopteerd hebben het recht om de feiten
-    > van hun afstamming te weten. Bij binnenlandse adopties betekent
-    > dit, dat de afstammingsgegevens niet uit de archieven mogen worden
-    > gewist. Bij buitenlandse adopties betekent dit dat de overheid
-    > gecontroleerd moet hebben of de biologische ouders ingestemd
-    > hebben met de adoptie. Gegevens als afstammingsfeiten,
-    > geboortedatum, geboorteplaats, oorspronkelijke naam, namen van
-    > ouders en familie moeten op aanvraag beschikbaar zijn.
+    van hun afstamming te weten. Bij binnenlandse adopties betekent
+    dit, dat de afstammingsgegevens niet uit de archieven mogen worden
+    gewist. Bij buitenlandse adopties betekent dit dat de overheid
+    gecontroleerd moet hebben of de biologische ouders ingestemd
+    hebben met de adoptie. Gegevens als afstammingsfeiten,
+    geboortedatum, geboorteplaats, oorspronkelijke naam, namen van
+    ouders en familie moeten op aanvraag beschikbaar zijn.
 
-**Geslachtsontwikkeling en gender (niet-standaard)**
+## Geslachtsontwikkeling en gender (niet-standaard)
 
 1.  Er komt wetgeving om een einde te maken aan medisch ingrijpen bij
-    > (niet-levensbedreigende) geslachtelijke ontwikkeling van
-    > intersekse kinderen die niet standaard is. De zorgvrager krijgt
-    > recht op advies en ondersteuning van ervaringsdeskundigen bij
-    > vragen rond geslachtsvariatie.
+    (niet-levensbedreigende) geslachtelijke ontwikkeling van
+    intersekse kinderen die niet standaard is. De zorgvrager krijgt
+    recht op advies en ondersteuning van ervaringsdeskundigen bij
+    vragen rond geslachtsvariatie.
 
 2.  Een genderwijziging mag zonder beoordeling en zo vaak als nodig.
 
 3.  Uiteindelijk wordt de genderregistratie afgeschaft in de BRP (Basis
-    > Registratie Personen) en tot die tijd wordt het invullen van ‘X’
-    > (onbekend, irrelevant) een mogelijkheid op identiteitsdocumenten
-    > en reispapieren.
+    Registratie Personen) en tot die tijd wordt het invullen van ‘X’
+    (onbekend, irrelevant) een mogelijkheid op identiteitsdocumenten
+    en reispapieren.
 
 4.  Non-binaire mensen mogen hun voornaam kosteloos wijzigen in de
-    > gemeentelijke basisadministratie.
+    gemeentelijke basisadministratie.
 
-**Diverse gezinsvormen**
+## Diverse gezinsvormen
 
 1.  De Nederlandse wet gaat uit van ‘traditionele’ gezinnen. Er wordt
-    > niet genoeg rekening gehouden met de meer diverse gezinsvormen,
-    > zoals samengestelde gezinnen, mensen die met meer dan twee mensen
-    > een kind opvoeden, en ongehuwde maar samenwonende mensen. Dit moet
-    > veranderen. Er komt een wet voor meerouderschap. Het huidige
-    > trouwrecht en samenlevingsrecht, worden op zo’n manier aangepast
-    > dat er gelijke sociale en financiële rechten worden geboden aan
-    > alle gezinnen, samenwonenden en samenlevenden (zoals dit in het
-    > erfrecht ook het geval is).
+    niet genoeg rekening gehouden met de meer diverse gezinsvormen,
+    zoals samengestelde gezinnen, mensen die met meer dan twee mensen
+    een kind opvoeden, en ongehuwde maar samenwonende mensen. Dit moet
+    veranderen. Er komt een wet voor meerouderschap. Het huidige
+    trouwrecht en samenlevingsrecht, worden op zo’n manier aangepast
+    dat er gelijke sociale en financiële rechten worden geboden aan
+    alle gezinnen, samenwonenden en samenlevenden (zoals dit in het
+    erfrecht ook het geval is).
 
-**Ondraaglijk lijden en euthanasie**
+## Ondraaglijk lijden en euthanasie
 
 1.  Mensen die hun leven als voltooid ervaren, moeten de vrijheid hebben
-    > een weloverwogen en vrijwillige keuze te maken om hun leven op een
-    > waardige manier te beëindigen. Euthanasie wordt uit het Wetboek
-    > van Strafrecht gehaald. Artsen worden hierdoor pas strafbaar als
-    > zij zich bij euthanasie niet aan de regels houden.
+    een weloverwogen en vrijwillige keuze te maken om hun leven op een
+    waardige manier te beëindigen. Euthanasie wordt uit het Wetboek
+    van Strafrecht gehaald. Artsen worden hierdoor pas strafbaar als
+    zij zich bij euthanasie niet aan de regels houden.
 
 2.  Artsen die een verzoek tot euthanasie weigeren te beoordelen, worden
-    > verplicht om patiënten door te sturen naar een arts die bereid is
-    > dat wel te doen.
+    verplicht om patiënten door te sturen naar een arts die bereid is
+    dat wel te doen.
 
 3.  Euthanasie wordt ook beschikbaar gesteld voor kinderen onder de
-    > twaalf jaar.
+    twaalf jaar.
 
 4.  Er komt meer bewustwording over ondraaglijk psychisch lijden, en het
-    > wordt gemakkelijker om in testamenten vast te leggen onder welke
-    > voorwaarden iemand niet meer wil leven, zodat ook patiënten met
-    > dementie beter geholpen kunnen worden met een zelfgekozen einde.
+    wordt gemakkelijker om in testamenten vast te leggen onder welke
+    voorwaarden iemand niet meer wil leven, zodat ook patiënten met
+    dementie beter geholpen kunnen worden met een zelfgekozen einde.
 
 5.  Er wordt onderzocht of er specifieke gevallen zijn waarin hulp bij
-    > zelfdoding niet strafbaar is, zoals het helpen van een dierbare
-    > met een duurzame wens tot zelfdoding.
+    zelfdoding niet strafbaar is, zoals het helpen van een dierbare
+    met een duurzame wens tot zelfdoding.
 
-**Zelfbeschikking over religieuze uitingen**
+## Zelfbeschikking over religieuze uitingen
 
 1.  Alle vormen van religieus onderwijs, scholen en gebedshuizen worden
-    > volgens gelijke criteria beschermd.
+    volgens gelijke criteria beschermd.
 
 2.  De overheid waarborgt het recht op zelfbeschikking van
-    > moslimvrouwen. Het gedeeltelijk verbod op gezichtsbedekkende
-    > kleding (in de volksmond ‘het niqab-verbod’) moet per direct
-    > worden opgeheven. Ook het verbod op het dragen van een hoofddoek
-    > voor rechters en griffiers wordt opgeheven.
+    moslimvrouwen. Het gedeeltelijk verbod op gezichtsbedekkende
+    kleding (in de volksmond ‘het niqab-verbod’) moet per direct
+    worden opgeheven. Ook het verbod op het dragen van een hoofddoek
+    voor rechters en griffiers wordt opgeheven.
 
 3.  Nederland gaat zich op Europees niveau hard maken voor wetgeving die
-    > ervoor zorgt dat werkgevers in Nederland niet mogen weigeren
-    > iemand in dienst te nemen met een hoofddoek, kippah (keppeltje) of
-    > andere religieuze attributen.
+    ervoor zorgt dat werkgevers in Nederland niet mogen weigeren
+    iemand in dienst te nemen met een hoofddoek, kippah (keppeltje) of
+    andere religieuze attributen.
 
 4.  Er komt meer keuzevrijheid in het opnemen van vrije dagen op basis
-    > van religieuze overtuiging.
+    van religieuze overtuiging.
 
 5.  Er komen meer begraafplaatsen voor eeuwige grafrust.
 
-**KLIMAATRECHTVAARDIGHEID**
+# KLIMAATRECHTVAARDIGHEID
 
 De klimaatcrisis is één van de grootste vraagstukken van onze tijd.
 Ecosystemen en biodiversiteit worden op grote schaal vernietigd door het
@@ -1747,7 +1874,7 @@ oplossing. Landen die economisch worden uitgebuit ondervinden als eerste
 de gevolgen van deze crisis, zoals zij helaas vaker het eerste
 slachtoffer zijn van internationale noodsituaties.
 Klimaatrechtvaardigheid bestaat niet zonder het bestrijden van dergelijk
-<u>klimaatracisme (15)</u>.
+<a href="#klimaatracisme">klimaatracisme</a>.
 
 De enige mogelijkheid om tot een oplossing te komen, is radicale
 systeemverandering. We zullen onze manier van productie moeten herzien
@@ -1759,145 +1886,145 @@ omgeving. In internationale samenwerking willen we sturen op het gebied
 van industrie, handel en lobby’s. Daarbij hebben we de volgende
 kernpunten voor ogen.
 
-**Nederland: beleid, uitstoot en energie**
+## Nederland: beleid, uitstoot en energie
 
 1.  De Nederlandse overheid roept per direct de klimaatcrisis uit. De
-    > urgentie van deze crisis moet officieel erkend worden, zodat
-    > hiernaar gehandeld kan worden.
+    urgentie van deze crisis moet officieel erkend worden, zodat
+    hiernaar gehandeld kan worden.
 
 2.  Alle overheidsbeleid moet worden getoetst op duurzaamheid en impact
-    > op klimaat en milieu, ook met terugwerkende kracht.
+    op klimaat en milieu, ook met terugwerkende kracht.
 
 3.  De Nederlandse uitstoot van broeikasgassen is in 2025 minstens 75%
-    > lager dan in 1990 en staat in 2030 op 0. Deze doelen worden
-    > wettelijk vastgelegd en zijn bindend.
+    lager dan in 1990 en staat in 2030 op 0. Deze doelen worden
+    wettelijk vastgelegd en zijn bindend.
 
 4.  We organiseren een pilot voor een (door loting samengesteld)
-    > burgerforum, met als doel dit uiteindelijk in te zetten bij
-    > besluitvorming over onder andere klimaat- en ecologische
-    > rechtvaardigheid.
+    burgerforum, met als doel dit uiteindelijk in te zetten bij
+    besluitvorming over onder andere klimaat- en ecologische
+    rechtvaardigheid.
 
 5.  Er komen geen nieuwe vergunningen voor olie- en gasvelden, op land
-    > en op zee. Er komt een snel en daadkrachtig afbouwplan voor de
-    > huidige olie- en gasproductie waarbij rechtvaardige oplossingen
-    > voor de werknemers voorop staan.
+    en op zee. Er komt een snel en daadkrachtig afbouwplan voor de
+    huidige olie- en gasproductie waarbij rechtvaardige oplossingen
+    voor de werknemers voorop staan.
 
 6.  De gaskraan in Groningen gaat volledig dicht. De overheid erkent
-    > haar aandeel en alle gedupeerden worden direct volledig en eerlijk
-    > gecompenseerd. De overheid eist deze compensatie vervolgens zelf
-    > op bij de verantwoordelijke bedrijven.
+    haar aandeel en alle gedupeerden worden direct volledig en eerlijk
+    gecompenseerd. De overheid eist deze compensatie vervolgens zelf
+    op bij de verantwoordelijke bedrijven.
 
 7.  Subsidies op (de productie van) fossiele brandstoffen en financiële
-    > steun aan de fossiele industrie wordt zo snel mogelijk, maar
-    > uiterlijk per 2022 beëindigd. Subsidies voor biomassacentrales
-    > worden per direct stopgezet.
+    steun aan de fossiele industrie wordt zo snel mogelijk, maar
+    uiterlijk per 2022 beëindigd. Subsidies voor biomassacentrales
+    worden per direct stopgezet.
 
 8.  Er wordt fors geïnvesteerd in (nieuwe) duurzame
-    > energie-alternatieven, zodat alle kolencentrales zo snel mogelijk
-    > kunnen worden gesloten.
+    energie-alternatieven, zodat alle kolencentrales zo snel mogelijk
+    kunnen worden gesloten.
 
 9.  Het budget voor het warmtefonds wordt verhoogd. Hierbij wordt
-    > rekening gehouden met inkomenspositie, zodat mensen met lagere
-    > inkomens niet de rekening gepresenteerd krijgen voor de
-    > energietransitie.
+    rekening gehouden met inkomenspositie, zodat mensen met lagere
+    inkomens niet de rekening gepresenteerd krijgen voor de
+    energietransitie.
 
 10. In 2030 is 75% van de woningvoorraad hoogwaardig geïsoleerd.
-    > Gemeenten, woningcorporaties en woningverhuurders krijgen daarvoor
-    > middelen en bindende doelen voorgeschreven vanuit de overheid.
+    Gemeenten, woningcorporaties en woningverhuurders krijgen daarvoor
+    middelen en bindende doelen voorgeschreven vanuit de overheid.
 
-**Natuur en vervoer**
+## Natuur en vervoer
 
 1.  Het Meerjarenprogramma Infrastructuur, Ruimte en Transport (MIRT)
-    > wordt een bereikbaarheidsfonds met als doel niet alleen het
-    > financieren van beter openbaar vervoer, maar ook (lokale)
-    > voorzieningen voor fietsen en deelvervoer. Er wordt een
-    > bereikbaarheidsnorm vastgesteld waaraan alle financieringsplannen
-    > worden getoetst. Deze norm bepaalt de maximale geografische
-    > afstand tussen burgers en openbaar vervoer.
+    wordt een bereikbaarheidsfonds met als doel niet alleen het
+    financieren van beter openbaar vervoer, maar ook (lokale)
+    voorzieningen voor fietsen en deelvervoer. Er wordt een
+    bereikbaarheidsnorm vastgesteld waaraan alle financieringsplannen
+    worden getoetst. Deze norm bepaalt de maximale geografische
+    afstand tussen burgers en openbaar vervoer.
 
 2.  OV-bedrijven worden genationaliseerd en het openbaar vervoer wordt
-    > gratis.
+    gratis.
 
 3.  Het openbaar vervoer is in 2030 volledig elektrisch.
 
 4.  We zetten ons op Europees niveau in om zo snel mogelijk op duurzame
-    > wijze een Europees spoornetwerk te realiseren. Vluchten binnen
-    > Europa kunnen op deze manier worden uitgefaseerd.
+    wijze een Europees spoornetwerk te realiseren. Vluchten binnen
+    Europa kunnen op deze manier worden uitgefaseerd.
 
 5.  Schiphol mag niet verder uitbreiden. Ook de plannen voor Lelystad
-    > Airport worden stopgezet. Vluchten binnen het Koninkrijk (en
-    > Suriname) moeten ook bij een eventuele prijsstijging als gevolg
-    > van maatregelen om luchtverkeer te reduceren betaalbaar blijven.
+    Airport worden stopgezet. Vluchten binnen het Koninkrijk (en
+    Suriname) moeten ook bij een eventuele prijsstijging als gevolg
+    van maatregelen om luchtverkeer te reduceren betaalbaar blijven.
 
 6.  We gaan BTW en accijns heffen op kerosine. Lagere belastingen voor
-    > de luchtvaart zijn niet van deze tijd.
+    de luchtvaart zijn niet van deze tijd.
 
 7.  We stoppen met snelwegverbredingen en leggen alleen nog nieuwe wegen
-    > aan als deze de bereikbaarheidsnorm bevorderen en niet ten koste
-    > gaan van natuurgebieden.
+    aan als deze de bereikbaarheidsnorm bevorderen en niet ten koste
+    gaan van natuurgebieden.
 
 8.  Biodiversiteit wordt prioriteit. Maaibeleid wordt aangepast om
-    > natuur de ruimte te geven en er wordt plaats gemaakt voor meer
-    > (kleine) ecosystemen in parken en natuurgebieden.
+    natuur de ruimte te geven en er wordt plaats gemaakt voor meer
+    (kleine) ecosystemen in parken en natuurgebieden.
 
 9.  Alle natuurgebieden komen onder verantwoordelijkheid van de
-    > provincie. Zij krijgen doelstellingen op (o.a.) het gebied van
-    > biodiversiteit en wildstand.
+    provincie. Zij krijgen doelstellingen op (o.a.) het gebied van
+    biodiversiteit en wildstand.
 
 10. Er komt een nationaal bomenplan om het aantal bomen in Nederland
-    > binnen afzienbare tijd fors uit te breiden en uiteindelijk te
-    > verdubbelen.
+    binnen afzienbare tijd fors uit te breiden en uiteindelijk te
+    verdubbelen.
 
 11. Het mestbeleid van intensieve veeteelt wordt veel strenger om de
-    > vervuiling van omringende natuurgebieden en grondwater tegen te
-    > gaan. Onze standpunten op het gebied van landbouw worden nader
-    > toegelicht in het hoofdstuk *Landbouw en Visserij*.
+    vervuiling van omringende natuurgebieden en grondwater tegen te
+    gaan. Onze standpunten op het gebied van landbouw worden nader
+    toegelicht in het hoofdstuk *Landbouw en Visserij*.
 
 12. Er komt een landelijk vuurwerkverbod voor particulieren.
-    > Vuurwerkshows of lichtshows kunnen door gemeenten worden
-    > georganiseerd op centrale plekken. Verder mag nergens vuurwerk
-    > worden afgestoken.
+    Vuurwerkshows of lichtshows kunnen door gemeenten worden
+    georganiseerd op centrale plekken. Verder mag nergens vuurwerk
+    worden afgestoken.
 
-**Internationale samenwerking: industrie, handel & lobby’s**
+## Internationale samenwerking: industrie, handel & lobby’s
 
 1.  Nederland zet zich in voor een forse herziening van het Europees
-    > landbouwbeleid, waarbij alleen nog subsidies worden verstrekt aan
-    > kringlooplandbouw.
+    landbouwbeleid, waarbij alleen nog subsidies worden verstrekt aan
+    kringlooplandbouw.
 
 2.  Nederland stemt niet in met en trekt zich terug uit verdragen als
-    > deze claimrecht bevatten, tot landbouwintensivering leiden, voor
-    > toename van uitstoot zorgen, of ontbossing versnellen. Voorbeelden
-    > van dit soort verdragen zijn CETA, EU-Mercosur en TTIP.
+    deze claimrecht bevatten, tot landbouwintensivering leiden, voor
+    toename van uitstoot zorgen, of ontbossing versnellen. Voorbeelden
+    van dit soort verdragen zijn CETA, EU-Mercosur en TTIP.
 
 3.  Nederland zet zich in voor een grootschalige samenwerking binnen de
-    > VN als het aankomt op de gezamenlijke bestrijding van de
-    > klimaatcrisis.
+    VN als het aankomt op de gezamenlijke bestrijding van de
+    klimaatcrisis.
 
 4.  Er komt een algeheel verbod op de import, handel en doorvoer van
-    > ontbossingsproducten.
+    ontbossingsproducten.
 
 5.  Diplomatieke steun aan projecten die te maken hebben met (het
-    > produceren van) fossiele brandstoffen wordt beëindigd. Bedrijven
-    > die grotendeels investeren in fossiele brandstoffen worden
-    > uitgesloten van handelsmissies.
+    produceren van) fossiele brandstoffen wordt beëindigd. Bedrijven
+    die grotendeels investeren in fossiele brandstoffen worden
+    uitgesloten van handelsmissies.
 
 6.  De financiering van ontbossing, landroof en productie van fossiele
-    > brandstoffen wordt voor zowel private als publieke financiële
-    > instellingen onmogelijk.
+    brandstoffen wordt voor zowel private als publieke financiële
+    instellingen onmogelijk.
 
 7.  Er komt meer transparantie over lobbyactiviteiten van fossiele en
-    > vervuilende industrieën via een openbaar gepubliceerd
-    > lobbyregister. Dit register biedt informatie over welke
-    > organisaties lobbyisten in dienst hebben, waarvoor die lobbyen, en
-    > de financiële middelen die zij hier jaarlijks voor inzetten.
+    vervuilende industrieën via een openbaar gepubliceerd
+    lobbyregister. Dit register biedt informatie over welke
+    organisaties lobbyisten in dienst hebben, waarvoor die lobbyen, en
+    de financiële middelen die zij hier jaarlijks voor inzetten.
 
 8.  Bedrijven verantwoordelijk voor het aanrichten van klimaatschade en
-    > humanitaire rampen, worden verantwoordelijk gehouden voor misdaden
-    > tegen mens en natuur.
+    humanitaire rampen, worden verantwoordelijk gehouden voor misdaden
+    tegen mens en natuur.
 
 9.  Er komt een reclameverbod voor de fossiele industrie.
 
-**DIERENRECHTEN EN DIERENWELZIJN**
+# DIERENRECHTEN EN DIERENWELZIJN
 
 De grondbeginselen van BIJ1 zijn radicale gelijkwaardigheid en
 economische rechtvaardigheid. Hier horen ook de rechten van dieren bij.
@@ -1910,88 +2037,88 @@ bio-industrie moeten aan banden worden gelegd. Ook willen we
 veranderingen op het gebied van dierproeven, jacht, en bonthandel. Om
 dierenwelzijn te waarborgen stelt BIJ1 de volgende oplossingen voor.
 
-**Een einde aan de bio-industrie en leed in de visserij**
+## Een einde aan de bio-industrie en leed in de visserij
 
 1.  Er komt per direct een einde aan de onhoudbare bio-industrie. Er
-    > wordt geïnvesteerd in plantaardige en duurzame landbouw. Het
-    > aantal dieren dat gehouden mag worden gaat fors omlaag.
+    wordt geïnvesteerd in plantaardige en duurzame landbouw. Het
+    aantal dieren dat gehouden mag worden gaat fors omlaag.
 
 2.  Er komt wettelijke vastlegging van het beschikken over voldoende
-    > ruimte, weidegang, vrije uitloop, sociaal contact, voldoende
-    > schuilmogelijkheden en het recht op natuurlijk gedrag van dieren.
+    ruimte, weidegang, vrije uitloop, sociaal contact, voldoende
+    schuilmogelijkheden en het recht op natuurlijk gedrag van dieren.
 
 3.  Er komt een verbod op alle vormen van verminking van de snavels van
-    > kippen en kalkoenen. Het couperen van staarten wordt ook per
-    > direct verboden, evenals het onthoornen van dieren.
+    kippen en kalkoenen. Het couperen van staarten wordt ook per
+    direct verboden, evenals het onthoornen van dieren.
 
 4.  Diertransporten mogen niet langer dan twee uur duren. Bij extreme
-    > temperaturen stoppen de transporten volledig.
+    temperaturen stoppen de transporten volledig.
 
 5.  Stallen en slachterijen worden voorzien van permanent
-    > cameratoezicht. Sprinklerinstallaties en vluchtroutes voor stallen
-    > worden verplicht.
+    cameratoezicht. Sprinklerinstallaties en vluchtroutes voor stallen
+    worden verplicht.
 
 6.  Slachtmethoden die extra onnodig leed veroorzaken, zoals
-    > bijvoorbeeld de CO<sub>2</sub>-verdoving van varkens, worden per
-    > direct verboden. Het slacht-tempo gaat daarnaast flink omlaag. We
-    > stimuleren de samenleving om zo veel mogelijk een plantaardig
-    > voedingspatroon aan te nemen, om zo het slachten waar mogelijk te
-    > kunnen uitfaseren.
+    bijvoorbeeld de CO<sub>2</sub>-verdoving van varkens, worden per
+    direct verboden. Het slacht-tempo gaat daarnaast flink omlaag. We
+    stimuleren de samenleving om zo veel mogelijk een plantaardig
+    voedingspatroon aan te nemen, om zo het slachten waar mogelijk te
+    kunnen uitfaseren.
 
 7.  Er komt een verbod op de vangst- en slachtmethodes van vissen die
-    > onnodig en vaak langdurig leed veroorzaken. Ook het levend koken
-    > van dieren zoals kreeften en garnalen wordt verboden.
+    onnodig en vaak langdurig leed veroorzaken. Ook het levend koken
+    van dieren zoals kreeften en garnalen wordt verboden.
 
 8.  Er worden steeds meer beschermde gebieden aangewezen waar visserij
-    > niet is toegestaan.
+    niet is toegestaan.
 
 9.  De eisen voor het ‘Beter Leven-keurmerk’ worden flink verhoogd.
-    > Dierlijke producten zonder dit keurmerk mogen op korte termijn
-    > niet meer worden verkocht.
+    Dierlijke producten zonder dit keurmerk mogen op korte termijn
+    niet meer worden verkocht.
 
 10. Het geplande verbod op ‘verrijkte kooien’ voor kippen gaat per
-    > direct in en ook het gebruik van ‘koloniekooien’ wordt niet langer
-    > toegestaan.
+    direct in en ook het gebruik van ‘koloniekooien’ wordt niet langer
+    toegestaan.
 
-**Dieren zijn geen vermaak of product**
+## Dieren zijn geen vermaak of product
 
 1.  De rechten van dieren worden grondwettelijk verankerd.
 
 2.  De productie, import, export en verkoop van bont stopt. Uitbreiding
-    > van bontfokkerijen wordt niet toegestaan.
+    van bontfokkerijen wordt niet toegestaan.
 
 3.  Dieren zijn er niet voor het vermaak van mensen. Dierentuinen en
-    > aquaria worden omgevormd tot (tijdelijke) opvang voor dieren die
-    > zich (nog) niet staande kunnen houden in hun oorspronkelijke
-    > leefgebied.
+    aquaria worden omgevormd tot (tijdelijke) opvang voor dieren die
+    zich (nog) niet staande kunnen houden in hun oorspronkelijke
+    leefgebied.
 
 4.  Tradities waarbij dieren worden gepest en mishandeld, zoals
-    > ‘*kallemooi*’ en ‘*zwijntje-tik*’ worden verboden.
+    ‘*kallemooi*’ en ‘*zwijntje-tik*’ worden verboden.
 
 5.  De verkoop van dieren in dierenwinkels wordt ontmoedigd.
-    > Doorverwijzing naar een asiel of opvangcentrum wordt het
-    > alternatief. Ook wordt de handel van dieren via internet en
-    > markten verboden, om impulsaankopen tegen te gaan.
+    Doorverwijzing naar een asiel of opvangcentrum wordt het
+    alternatief. Ook wordt de handel van dieren via internet en
+    markten verboden, om impulsaankopen tegen te gaan.
 
 6.  Er komen strengere regels voor het fokken van dieren. Zo komt er een
-    > vergunningplicht voor fokkers en stopt het fokken op uiterlijke
-    > kenmerken in verband met de gezondheidsrisico’s voor dieren.
+    vergunningplicht voor fokkers en stopt het fokken op uiterlijke
+    kenmerken in verband met de gezondheidsrisico’s voor dieren.
 
 7.  De hobbyjacht wordt per direct verboden.
 
 8.  Er wordt harder opgetreden tegen stroperij. Dieren in het wild mogen
-    > niet worden gedood. Alleen in extreme gevallen, zoals bijvoorbeeld
-    > ernstige verwondingen of direct gevaar voor het voortbestaan van
-    > andere soorten, wordt een uitzondering gemaakt.
+    niet worden gedood. Alleen in extreme gevallen, zoals bijvoorbeeld
+    ernstige verwondingen of direct gevaar voor het voortbestaan van
+    andere soorten, wordt een uitzondering gemaakt.
 
 9.  Er wordt flink geïnvesteerd in alternatieven voor medische
-    > dierproeven, zodat deze zo snel mogelijk volledig kunnen worden
-    > stopgezet. Schoonmaakmiddelen worden volledig dierproefvrij.
-    > Cosmeticamerken mogen geen ingrediënten gebruiken die voor andere
-    > producten wel op dieren worden getest. Nederland zet zich op
-    > internationaal niveau in voor het stoppen van dierproeven.
+    dierproeven, zodat deze zo snel mogelijk volledig kunnen worden
+    stopgezet. Schoonmaakmiddelen worden volledig dierproefvrij.
+    Cosmeticamerken mogen geen ingrediënten gebruiken die voor andere
+    producten wel op dieren worden getest. Nederland zet zich op
+    internationaal niveau in voor het stoppen van dierproeven.
 
-**LANDBOUW, VISSERIJ EN VOEDSEL**
+# LANDBOUW, VISSERIJ EN VOEDSEL
 
 Het thema landbouw, visserij en voedsel hangt nauw samen met andere
 thema’s, zoals klimaatrechtvaardigheid en dierenrechten. Ook de positie
@@ -2005,7 +2132,7 @@ klimaatverandering bestrijden, de landbouw en visserij verduurzamen en
 naar een duurzaam voedselsysteem. Boeren en vissers moeten in deze
 processen worden ondersteund.
 
-**Klimaatcrisis**
+## Klimaatcrisis
 
 De landbouw in Nederland ondervindt nu al de gevolgen van de
 klimaatcrisis en de uitbuiting van onze eigen grond. De gezondheid van
@@ -2015,7 +2142,7 @@ veerkracht verloren. Die veerkracht is nodig om te kunnen herstellen na
 moeilijke periodes, zoals droogte en extreme regenval. Daarom wil BIJ1
 inzetten op circulaire landbouw.
 
-**Landbouw van de toekomst**
+## Landbouw van de toekomst
 
 **Het doel van de Nederlandse landbouw zou moeten zijn dat we produceren
 wat we op kunnen eten. We willen af van de huidige situatie waarin
@@ -2034,7 +2161,7 @@ landbouw. Ook is het van belang voor het behoud van de natuur die we nog
 bezitten, dat de veestapel sterk wordt ingeperkt en dat boeren worden
 geholpen mest om te zetten in minder stikstofhoudende vormen.**
 
-**Visserij**
+## Visserij
 
 Ook de Noordzee heeft het zwaar. Er wordt momenteel gewerkt aan een
 Noordzee-akkoord, waarin naar voren komt dat de visserij moet
@@ -2042,7 +2169,7 @@ verduurzamen en inkrimpen. Om de Noordzee de kans te geven zich te
 herstellen en aan te passen, is het van belang dat de vispopulaties
 blijven bestaan en de kans krijgen om te groeien.
 
-**(Gezonde) voedselzekerheid voorop**
+## (Gezonde) voedselzekerheid voorop
 
 Naast het basisrecht op zorg, wonen en onderwijs, vindt BIJ1 dat
 iedereen ook het basisrecht heeft op voedsel. De voedselzekerheid staat
@@ -2059,78 +2186,78 @@ ongezonde producten. Dat moet veranderen.
 Wij stellen de volgende beleidsveranderingen voor op het gebied van
 landbouw, visserij en voedsel.  
   
-**De overgang naar een duurzame landbouw**
+## De overgang naar een duurzame landbouw
 
 1.  We stellen programma’s op die de landbouw in tien jaar tijd duurzaam
-    > maken. Daartoe maken we subsidies vrij en komt er een hoge
-    > belasting op het gebruik van insecticiden en de uitstoot van
-    > methaan en CO<sub>2</sub>.
+    maken. Daartoe maken we subsidies vrij en komt er een hoge
+    belasting op het gebruik van insecticiden en de uitstoot van
+    methaan en CO<sub>2</sub>.
 
 2.  Op dit moment produceren boeren voor meer dan 80% voor de export.
-    > Door sterker te richten op lokale productie verdwijnt veel vervoer
-    > en daarmee vervuiling. Dit gebeurt in samenspraak met de
-    > ecologisch agrarische sector.
+    Door sterker te richten op lokale productie verdwijnt veel vervoer
+    en daarmee vervuiling. Dit gebeurt in samenspraak met de
+    ecologisch agrarische sector.
 
 3.  Grote (miljonairs)boerderijen worden in gemeenschapshanden gesteld
-    > om de voedselproductie veilig te stellen. Zo verzekeren we dat de
-    > agrarische sector veel meer voor binnenlandse consumptie gaat doen
-    > en minder beïnvloedbaar is door kapitalistische marktwerking.
+    om de voedselproductie veilig te stellen. Zo verzekeren we dat de
+    agrarische sector veel meer voor binnenlandse consumptie gaat doen
+    en minder beïnvloedbaar is door kapitalistische marktwerking.
 
 4.  Er komt een verbod op giftige bestrijdings- en ontsmettingsmiddelen.
 
 5.  De overheid gaat de productie van biologische en plantaardige
-    > producten actief ondersteunen. Hiertoe gaat de BTW op
-    > (biologische) groenten en fruit naar 0%.
+    producten actief ondersteunen. Hiertoe gaat de BTW op
+    (biologische) groenten en fruit naar 0%.
 
 6.  De overheid gaat in Europees verband actief optreden in het
-    > prijsbeleid van landbouwproducten.
+    prijsbeleid van landbouwproducten.
 
-**Het beschermen van de vissen en het tegengaan van overvisserij**
+## Het beschermen van de vissen en het tegengaan van overvisserij
 
 1.  Momenteel wordt controle op vissersboten nauwelijks tot slecht
-    > uitgevoerd. Hierdoor krijgen vissers een vrijbrief om boven legale
-    > richtlijnen te vissen. Dit is eigenlijk een noodzaak om te kunnen
-    > blijven concurreren. Deze illegale overvisserij moet zwaar worden
-    > aangepakt: er komen streng gereguleerde zones waar visserij
-    > verboden wordt. Er komt een betere regulatie van wat er gevangen
-    > wordt.
+    uitgevoerd. Hierdoor krijgen vissers een vrijbrief om boven legale
+    richtlijnen te vissen. Dit is eigenlijk een noodzaak om te kunnen
+    blijven concurreren. Deze illegale overvisserij moet zwaar worden
+    aangepakt: er komen streng gereguleerde zones waar visserij
+    verboden wordt. Er komt een betere regulatie van wat er gevangen
+    wordt.
 
 2.  Boten moeten permanent hun radar aan laten staan, zodat hun locatie
-    > altijd duidelijk en controleerbaar is. Controle op vissersboten
-    > wordt geïntensiveerd, bijvoorbeeld door een extra onafhankelijke
-    > tak binnen de kustwacht in het leven te roepen. Deze tak is
-    > speciaal ingericht op het reguleren van de visserij.
+    altijd duidelijk en controleerbaar is. Controle op vissersboten
+    wordt geïntensiveerd, bijvoorbeeld door een extra onafhankelijke
+    tak binnen de kustwacht in het leven te roepen. Deze tak is
+    speciaal ingericht op het reguleren van de visserij.
 
-**Een duurzaam en eerlijk voedselbeleid**
+## Een duurzaam en eerlijk voedselbeleid
 
 1.  Voedselmonopolies worden verboden.
 
 2.  We ontwikkelen een Nationaal Voedselzekerheidsplan, waarin de
-    > overheid meer controle neemt op de prijzen van voedsel en
-    > garandeert dat iedereen die in Nederland woont of verblijft altijd
-    > gegarandeerd is van voedsel. Dit plan wordt opgesteld in
-    > samenwerking met Voedselbanken, supermarkten en andere aanbieders
-    > van levensmiddelen.
+    overheid meer controle neemt op de prijzen van voedsel en
+    garandeert dat iedereen die in Nederland woont of verblijft altijd
+    gegarandeerd is van voedsel. Dit plan wordt opgesteld in
+    samenwerking met Voedselbanken, supermarkten en andere aanbieders
+    van levensmiddelen.
 
 3.  We gaan zoeken naar manieren om supermarktketens op te breken en te
-    > deprivatiseren met instelling van zelfbestuur door werknemers.
-    > Over basisbehoeften hoort niet een kleine groep veel winst te
-    > maken, vraag en aanbod moeten bovendien op elkaar worden
-    > afgestemd.
+    deprivatiseren met instelling van zelfbestuur door werknemers.
+    Over basisbehoeften hoort niet een kleine groep veel winst te
+    maken, vraag en aanbod moeten bovendien op elkaar worden
+    afgestemd.
 
 4.  Voedselbedrijven worden gestimuleerd om over te stappen op
-    > ecologische principes. Er komen wettelijke normen voor het
-    > maximale gehalte aan zout en suiker in producten.
+    ecologische principes. Er komen wettelijke normen voor het
+    maximale gehalte aan zout en suiker in producten.
 
 5.  Gezond eten moet voor iedereen, ongeacht inkomen, toegankelijk zijn:
-    > de BTW op groente en fruit wordt verlaagd naar nul procent.
+    de BTW op groente en fruit wordt verlaagd naar nul procent.
 
 6.  Subsidies aan veehouderij worden in z’n geheel afgebouwd. In plaats
-    > daarvan worden subsidies aangewend om kleine en middelgrote boeren
-    > te ondersteunen in de omwenteling naar een plantaardig
-    > voedselsysteem.
+    daarvan worden subsidies aangewend om kleine en middelgrote boeren
+    te ondersteunen in de omwenteling naar een plantaardig
+    voedselsysteem.
 
-**ASIEL EN MIGRATIE**
+# ASIEL EN MIGRATIE
 
 De vrijheid om te reizen is een universeel mensenrecht. BIJ1 staat voor
 een wereld waarin dit recht beschermd en gestimuleerd wordt. Wij willen
@@ -2142,7 +2269,7 @@ vluchtelingen en arbeidsmigranten te verbeteren. Door mensen als
 gelijkwaardig te zien in plaats van als last, kan Nederland juist baat
 hebben bij migratie.
 
-**Onderdeel van het probleem, dus onderdeel van de oplossing**
+## Onderdeel van het probleem, dus onderdeel van de oplossing
 
 Niemand vertrekt definitief uit zijn thuisland zonder daar een geldige
 reden voor te hebben. De reden om te vluchten heeft vaak direct of
@@ -2165,7 +2292,7 @@ binnen Europa en internationaal in om hier internationale plannen en
 afspraken over te maken, waarbij solidariteit en rechtvaardigheid
 leidend zijn.
 
-**Migratiecrisis? Nee, humanitaire crisis.**
+## Migratiecrisis? Nee, humanitaire crisis.
 
 In Nederland wordt al jaren gesproken van een *migratiecrisis*. Deze
 migratiecrisis bestaat, maar niet zoals die op dit moment wordt
@@ -2178,7 +2305,7 @@ grenzen van Europa worden vastgezet. BIJ1 ziet deze crisis als een
 opvangbeleid als de Turkijedeal, met mensenrechtenschendingen als
 gevolg.
 
-**Falend Europees opvangbeleid**
+## Falend Europees opvangbeleid
 
 Massa’s mensen verdrinken op de Middellandse Zee, doordat Italië weigert
 deze migranten op te vangen. De EU is gestopt met het financieren van
@@ -2195,7 +2322,7 @@ levensgevaarlijke reis te ondernemen naar een ‘veiliger’ Europa. Van de
 vluchtelingenkampen verblijven, nodigt Nederland er momenteel 500 uit om
 zich te hervestigen in Nederland. Dit is niet genoeg.
 
-**Wanbeleid bij IND en AZC’s**
+## Wanbeleid bij IND en AZC’s
 
 Door personeelstekorten en planningsfouten binnen de IND lopen
 wachttijden op, nog voor deze een asielaanvraag in behandeling neemt. De
@@ -2215,131 +2342,131 @@ worden bovendien vaak door mensensmokkelaars verscheept en tot slavernij
 gedwongen. In Nederland verdwijnen jaarlijks honderden kinderen uit de
 opvang zonder dat de overheid hier zicht of grip op heeft.
 
-**Oplossingen op de korte en lange termijn**
+## Oplossingen op de korte en lange termijn
 
 Nederland heeft gefaald om internationale verdragen om te zetten in
 doeltreffend beleid. Een radicale omslag is nodig. Hiervoor draagt BIJ1
 een aantal doelstellingen aan voor de korte en de lange termijn.
 
-**Korte termijn: een einde aan geweld en een begin van solidariteit**
+## Korte termijn: een einde aan geweld en een begin van solidariteit
 
 1.  Nederland pleit binnen de EU actief voor meer toegankelijke, veilige
-    > vluchtroutes en een betere toegang tot asielprocedures.
-    > Asielzoekers behouden hierbij het recht om in Europa hun
-    > asielaanvraag in te dienen.
+    vluchtroutes en een betere toegang tot asielprocedures.
+    Asielzoekers behouden hierbij het recht om in Europa hun
+    asielaanvraag in te dienen.
 
 2.  Nederland zet extra geld en middelen in ter ondersteuning van
-    > nationale en internationale vluchtelingenorganisaties en om
-    > reddingsoperaties in het Middellandse Zeegebied weer op gang te
-    > brengen.
+    nationale en internationale vluchtelingenorganisaties en om
+    reddingsoperaties in het Middellandse Zeegebied weer op gang te
+    brengen.
 
 3.  Nederland hervestigt jaarlijks een groeiend aantal kwetsbare mensen
-    > uit vluchtelingenkampen.
+    uit vluchtelingenkampen.
 
 4.  Er komt een generaal pardon voor alle uitgeprocedeerde asielzoekers
-    > en ongedocumenteerden die zich in Nederland bevinden.
+    en ongedocumenteerden die zich in Nederland bevinden.
 
 5.  Nederland verleent verblijfsrecht aan staatlozen in Nederland door
-    > hen een Nederlands of staatloosheidspaspoort te geven.
+    hen een Nederlands of staatloosheidspaspoort te geven.
 
 6.  Mensen die ontheemd raken als gevolg van grote klimaatveranderingen
-    > in hun thuisland en die naar Nederland vluchten, ook wel
-    > klimaatvluchtelingen genoemd, krijgen recht op bescherming.
+    in hun thuisland en die naar Nederland vluchten, ook wel
+    klimaatvluchtelingen genoemd, krijgen recht op bescherming.
 
-**Korte termijn: betere opvang en procedures**
+## Korte termijn: betere opvang en procedures
 
 1.  Asielzoekers worden alleen verhuisd naar andere locaties als dit
-    > essentieel is voor de procedure.
+    essentieel is voor de procedure.
 
 2.  Er komen structureel meer investeringen voor de materiële en
-    > persoonlijke ondersteuning van vluchtelingen in de AZC’s.
+    persoonlijke ondersteuning van vluchtelingen in de AZC’s.
 
 3.  In AZC’s komt meer aandacht voor LHBTQI+ personen en in het
-    > bijzonder trans personen. Zij moeten toegang hebben tot zorg in
-    > een veilige omgeving.
+    bijzonder trans personen. Zij moeten toegang hebben tot zorg in
+    een veilige omgeving.
 
 4.  De IND neemt zijn verantwoordelijkheid om de asielprocedure per
-    > asielzoeker niet langer dan 8 weken te laten duren.
+    asielzoeker niet langer dan 8 weken te laten duren.
 
 5.  Er wordt meer geïnvesteerd in hoor- en beslismedewerkers van de IND
-    > om cultuursensitief te communiceren en asielzoekers te benaderen
-    > en beoordelen vanuit de context en waardigheid van de asielzoeker.
-    > Ook worden IND-medewerkers getraind om beter te herkennen als
-    > vrouwen zijn gevlucht voor gendergerelateerd geweld, zoals
-    > uithuwelijking en verkrachting.
+    om cultuursensitief te communiceren en asielzoekers te benaderen
+    en beoordelen vanuit de context en waardigheid van de asielzoeker.
+    Ook worden IND-medewerkers getraind om beter te herkennen als
+    vrouwen zijn gevlucht voor gendergerelateerd geweld, zoals
+    uithuwelijking en verkrachting.
 
 6.  De geloofwaardigheidstoets wordt aangepast. Hoor- en
-    > beslismedewerkers mogen alleen zaken behandelen als zij expertise
-    > hebben in geloofwaardigheid, psychologie en de culturele context
-    > van de asielzoeker.
+    beslismedewerkers mogen alleen zaken behandelen als zij expertise
+    hebben in geloofwaardigheid, psychologie en de culturele context
+    van de asielzoeker.
 
 7.  De sociale advocatuur blijft bestaan en onvoorwaardelijk beschikbaar
-    > gedurende de gehele asielprocedure.
+    gedurende de gehele asielprocedure.
 
 8.  De inburgeringstoets wordt door de overheid afgenomen en verandert
-    > in een naturalisatiecursus die mensen in twee jaar tijd mogen
-    > afronden.
+    in een naturalisatiecursus die mensen in twee jaar tijd mogen
+    afronden.
 
 9.  Niemand komt in vreemdelingenbewaring.
 
 10. Het ‘buiten schuld-criterium’ moet zodanig worden aangepast, dat
-    > ongedocumenteerden die buiten hun schuld niet kunnen terugkeren,
-    > recht krijgen op een verblijfsvergunning.
+    ongedocumenteerden die buiten hun schuld niet kunnen terugkeren,
+    recht krijgen op een verblijfsvergunning.
 
 11. Er komt een integrale strategie voor het bestrijden van
-    > (mensen)handel in minderjarige asielzoekers.
+    (mensen)handel in minderjarige asielzoekers.
 
 12. Minderjarige asielzoekers die langer dan 3 jaar in Nederland wonen,
-    > krijgen verblijfsrecht. Ze behouden hun verblijfsrecht als ze
-    > meerderjarig worden.
+    krijgen verblijfsrecht. Ze behouden hun verblijfsrecht als ze
+    meerderjarig worden.
 
 13. Asielzoekers mogen werk zoeken en een studie beginnen. Ook
-    > ongedocumenteerden mogen werken en studeren. De Koppelingswet
-    > wordt afgeschaft.
+    ongedocumenteerden mogen werken en studeren. De Koppelingswet
+    wordt afgeschaft.
 
 14. Bij elk gesprek met de vreemdelingenpolitie en/of IND moet een
-    > onafhankelijke vertrouwenspersoon en/of vertaler aanwezig zijn die
-    > een ‘vreemdeling’ bijstaat. Deze regels worden streng gehandhaafd.
-    > De ‘vreemdeling’ heeft direct en altijd het recht om contact met
-    > iemand van buiten aan te vragen, onafhankelijk van of deze persoon
-    > familie is of niet.
+    onafhankelijke vertrouwenspersoon en/of vertaler aanwezig zijn die
+    een ‘vreemdeling’ bijstaat. Deze regels worden streng gehandhaafd.
+    De ‘vreemdeling’ heeft direct en altijd het recht om contact met
+    iemand van buiten aan te vragen, onafhankelijk van of deze persoon
+    familie is of niet.
 
 15. Beroep tegen besluit tot uitzetting mag afgewacht worden in
-    > Nederland. Mensen in afwachting worden gesteund en zo nodig
-    > opgevangen.
+    Nederland. Mensen in afwachting worden gesteund en zo nodig
+    opgevangen.
 
 **Lange termijn: hervorming van het asiel- en migratiebeleid in
 Nederland en Europa**
 
 1.  Migranten en asielzoekers krijgen toegang tot dezelfde rechten als
-    > Nederlanders, ongeacht hun documenten of gebrek daaraan. Nederland
-    > opent de grenzen voor alle landen en maakt zich binnen de Europese
-    > Unie hard voor een hervorming die in de gehele EU geldt.
+    Nederlanders, ongeacht hun documenten of gebrek daaraan. Nederland
+    opent de grenzen voor alle landen en maakt zich binnen de Europese
+    Unie hard voor een hervorming die in de gehele EU geldt.
 
 2.  Nederland schaft de verblijfsvergunningen af en verstrekt
-    > verblijfsrecht aan migranten ongeacht hun achtergrond.
+    verblijfsrecht aan migranten ongeacht hun achtergrond.
 
 3.  Het mandaat van de IND wordt omgezet in een loketfunctie om mensen
-    > op weg te helpen in Nederland.
+    op weg te helpen in Nederland.
 
 4.  Nederland zet zich op Europees niveau in voor het afschaffen van
-    > FRONTEX en de Dublinverordening.
+    FRONTEX en de Dublinverordening.
 
 5.  Nederland zet zich binnen de EU actief in voor een solidair
-    > asielsysteem, waarbinnen een eerlijke (her)verdeling van
-    > asielzoekers plaatsvindt middels een verdeelsleutel, en waarbij
-    > mediterrane landen ontlast worden. Hierbij wordt rekening gehouden
-    > met de behoeften van de asielzoeker, zoals culturele achtergrond
-    > en familiebanden.
+    asielsysteem, waarbinnen een eerlijke (her)verdeling van
+    asielzoekers plaatsvindt middels een verdeelsleutel, en waarbij
+    mediterrane landen ontlast worden. Hierbij wordt rekening gehouden
+    met de behoeften van de asielzoeker, zoals culturele achtergrond
+    en familiebanden.
 
 6.  Nederland gaat actief asielzoekers uitnodigen die vastzitten in
-    > vluchtelingenkampen en beweegt andere Europese landen ertoe om de
-    > aantallen jaarlijkse uitnodigingen op te schroeven.
+    vluchtelingenkampen en beweegt andere Europese landen ertoe om de
+    aantallen jaarlijkse uitnodigingen op te schroeven.
 
 7.  Nederland sluit alle detentiecentra voor asielzoekers en stopt met
-    > alle deportaties.
+    alle deportaties.
 
-**EUROPA**
+# EUROPA
 
 BIJ1 staat voor een rechtvaardig, gelijkwaardig en solidair Europa.
 Daarom pleiten we voor radicale democratisering van de Europese Unie
@@ -2351,7 +2478,7 @@ groots te verduurzamen en om welvaart eerlijker te verdelen en
 onrechtvaardigheid tegen te gaan. De EU mag niet dienen als liberaal en
 racistisch instituut dat de belangen van het grootkapitaal dient.
 
-**Ondoorzichtig en anti-democratisch**
+## Ondoorzichtig en anti-democratisch
 
 Een probleem van de EU in haar huidige vorm is dat het bestuur ervan,
 met name als het gaat om de rol van nationale regeringen
@@ -2367,7 +2494,7 @@ multinationals dragen vaak bij aan vervuiling, mensenrechtenschending en
 discriminatie. Op deze manier dient de EU niet het belang van haar
 bewoners. De EU moet doorzichtiger en democratischer worden.
 
-**Verspilling en gierigheid**
+## Verspilling en gierigheid
 
 Een ander probleem is de enorme kostenverspilling aan de ene kant en de
 tegenstrijdige gierigheid aan de andere kant. Aan de ene kant verhuist
@@ -2381,7 +2508,7 @@ manier verdacht veel op dat gierigheid en zelfbehoud leidend zijn. Dat
 hoort niet zo te zijn. We willen dat het uitgavenbeleid gebaseerd is op
 menselijkheid, waardigheid en solidariteit.
 
-**Rechtsstaat en mensenrechten staan onder druk**
+## Rechtsstaat en mensenrechten staan onder druk
 
 Tegelijkertijd staan mensenrechten, zelfbeschikking en vrijheid van
 meningsuiting steeds meer onder druk binnen Europa. In alle EU-landen
@@ -2395,82 +2522,82 @@ Kortom, er is momenteel op Europees niveau een blokkade als het gaat
 over democratie, milieu en mensenrechten. Om deze blokkade op te heffen
 stellen wij de volgende maatregelen voor.
 
-**Meer democratie en betere bescherming van mensenrechten**
+## Meer democratie en betere bescherming van mensenrechten
 
 1.  We streven naar radicale democratisering van de EU. De transparantie
-    > van de Raad van Ministers en de interinstitutionele
-    > onderhandelingen moet sterk verbeterd worden. Verder moeten
-    > bestaande vormen van Europese burgerparticipatie – zoals het
-    > petitierecht en het Europees burgerinitiatief – versterkt worden.
+    van de Raad van Ministers en de interinstitutionele
+    onderhandelingen moet sterk verbeterd worden. Verder moeten
+    bestaande vormen van Europese burgerparticipatie – zoals het
+    petitierecht en het Europees burgerinitiatief – versterkt worden.
 
 2.  Burgers moeten actief betrokken worden en medezeggenschap krijgen
-    > bij een algehele herziening van de prioriteiten, plannen en
-    > organisatie van de Europese Unie, beginnende met de reeds
-    > aangekondigde Conferentie over de Toekomst van Europa en eindigend
-    > met een fundamentele hervorming van de Europese verdragen.
+    bij een algehele herziening van de prioriteiten, plannen en
+    organisatie van de Europese Unie, beginnende met de reeds
+    aangekondigde Conferentie over de Toekomst van Europa en eindigend
+    met een fundamentele hervorming van de Europese verdragen.
 
 3.  Meer middelen worden ingezet voor het invoeren en in stand houden
-    > van mensenrechten, dit zijn instrumenten zoals het Europees
-    > Handvest, de rasrichtlijn en de naleving van het VN-verdrag inzake
-    > rechten van personen met een handicap.
+    van mensenrechten, dit zijn instrumenten zoals het Europees
+    Handvest, de rasrichtlijn en de naleving van het VN-verdrag inzake
+    rechten van personen met een handicap.
 
 4.  We streven naar het aannemen en invoeren van de
-    > gelijkebehandelingsrichtlijn binnen heel Europa.
+    gelijkebehandelingsrichtlijn binnen heel Europa.
 
 5.  Meer middelen en capaciteit worden ingezet voor het beschermen van
-    > de rechten van migranten, asielzoekers, staatlozen en volkeren
-    > zoals de Roma en Sinti.
+    de rechten van migranten, asielzoekers, staatlozen en volkeren
+    zoals de Roma en Sinti.
 
 6.  Wij zetten ons in om ook binnen de Europese samenwerking te werken
-    > naar het steunen van verzet tegen imperialistische uitbuiting en
-    > onderdrukking.
+    naar het steunen van verzet tegen imperialistische uitbuiting en
+    onderdrukking.
 
-**Meer geld naar mensen en klimaat**
+## Meer geld naar mensen en klimaat
 
 1.  Meer middelen worden ingezet om het maatschappelijk middenveld
-    > (belangengroepen, mensenrechtenactivisten, dissidenten, vrije
-    > pers) te ondersteunen en versterken. Hierbij is de agenda van
-    > belangengroepen leidend. Financieringsinstrumenten zoals subsidies
-    > worden toegankelijker en behapbaarder gemaakt zodat ook kleine
-    > organisaties en sociale bewegingen hier gebruik van kunnen maken.
+    (belangengroepen, mensenrechtenactivisten, dissidenten, vrije
+    pers) te ondersteunen en versterken. Hierbij is de agenda van
+    belangengroepen leidend. Financieringsinstrumenten zoals subsidies
+    worden toegankelijker en behapbaarder gemaakt zodat ook kleine
+    organisaties en sociale bewegingen hier gebruik van kunnen maken.
 
 2.  We stellen een grootschalig en wettelijk bindend klimaatverdrag op
-    > Europees niveau op, inclusief verstrekkende doelstellingen en
-    > sancties.
+    Europees niveau op, inclusief verstrekkende doelstellingen en
+    sancties.
 
 **Bestrijden van ongewenste activiteiten van multinationals en
 ongewenste handel**
 
 1.  Er komt nieuwe wetgeving, waaronder een verplicht lobbyregister, om
-    > lobbywerk transparanter en ethischer te maken. Ook zoeken we naar
-    > effectieve manieren om lobby van multinationals en grote private
-    > bedrijven terug te dringen.
+    lobbywerk transparanter en ethischer te maken. Ook zoeken we naar
+    effectieve manieren om lobby van multinationals en grote private
+    bedrijven terug te dringen.
 
 2.  We streven naar het op Europees niveau verhogen van belastingen voor
-    > multinationals en vermogenden, en zetten breder in op het opsporen
-    > van kapitaalvlucht en belastingfraude en -ontduiking.
+    multinationals en vermogenden, en zetten breder in op het opsporen
+    van kapitaalvlucht en belastingfraude en -ontduiking.
 
 3.  Er komt een verbod op alle export van Europese goederen waarmee
-    > mensenrechten geschonden worden in andere landen, zoals wapens en
-    > onderdelen of technologie voor wapens en surveillance.
+    mensenrechten geschonden worden in andere landen, zoals wapens en
+    onderdelen of technologie voor wapens en surveillance.
 
-**Tegengaan van militarisering en afschaffing van onnodige uitgaven**
+## Tegengaan van militarisering en afschaffing van onnodige uitgaven
 
 1.  We maken een einde aan de militarisering van de grenzen van Europa.
 
 2.  We voorkomen dat er ooit een Europees Leger komt.
 
 3.  Er komt een eind aan absurde kostenposten zoals de maandelijkse
-    > verhuizing naar Straatsburg.
+    verhuizing naar Straatsburg.
 
 4.  We voorkomen dat Europese samenwerking wordt ingezet om
-    > internationaal mensen en/of landen uit te buiten of te
-    > onderdrukken. Europese bedrijven en projecten die investeren in
-    > buitenlandse projecten of ondernemingen moeten kunnen aantonen dat
-    > dit niet ten nadele van de lokale bevolking en het lokale klimaat
-    > gaat.
+    internationaal mensen en/of landen uit te buiten of te
+    onderdrukken. Europese bedrijven en projecten die investeren in
+    buitenlandse projecten of ondernemingen moeten kunnen aantonen dat
+    dit niet ten nadele van de lokale bevolking en het lokale klimaat
+    gaat.
 
-**INTERNATIONALE SAMENWERKING**
+# INTERNATIONALE SAMENWERKING
 
 BIJ1 wil dat Nederland zich proactief inzet voor het uitdragen van
 internationale solidariteit en samenwerking. Dat is hard nodig, want er
@@ -2481,7 +2608,7 @@ van verkeer moet centraal staan in ons buitenlandbeleid. Ook moet
 Nederland de gevolgen van de eigen koloniale geschiedenis erkennen en
 zich inzetten om de toegebrachte schade te herstellen.
 
-**Problemen die we samen moeten bestrijden**
+## Problemen die we samen moeten bestrijden
 
 Mensenrechten, burgerlijke vrijheden, het klimaat en de welvaart staan
 in veel landen steeds meer onder druk. Verworven rechten voor etnische
@@ -2494,7 +2621,7 @@ solidariteit kunnen we klimaatdoelen halen, conflicten beëindigen en
 armoede effectief bestrijden. Dat is in het belang van iedereen, dus ook
 in het belang van Nederland.
 
-**Inlossen koloniale schuld**
+## Inlossen koloniale schuld
 
 Nederland heeft een koloniale schuld in te lossen. Onze rijkdom is in
 het verleden verworven over de ruggen van onderdrukte mensen in de
@@ -2515,133 +2642,133 @@ verlost zijn en waarin de gevolgen van kolonisatie zijn gerepareerd.
 BIJ1 stelt de volgende maatregelen voor met betrekking tot
 internationale samenwerking.
 
-**Economische rechtvaardigheid**
+## Economische rechtvaardigheid
 
 1.  Nederland zet zich internationaal actief in voor het kwijtschelden
-    > van alle schulden van landen met lage inkomens, lage
-    > middeninkomens, en middeninkomens.
+    van alle schulden van landen met lage inkomens, lage
+    middeninkomens, en middeninkomens.
 
 2.  Het budget voor internationale armoedebestrijding wordt opgehoogd
-    > tot 1% van het BNP. Niets van dit budget wordt gebruikt voor het
-    > beheersen van migratiestromen, zoals nu het geval is. Speciale
-    > aandacht gaat naar het bestrijden van onderliggende oorzaken van
-    > armoede en ongelijkheid.
+    tot 1% van het BNP. Niets van dit budget wordt gebruikt voor het
+    beheersen van migratiestromen, zoals nu het geval is. Speciale
+    aandacht gaat naar het bestrijden van onderliggende oorzaken van
+    armoede en ongelijkheid.
 
 3.  Nederland verhoogt capaciteit en fondsen om internationale en
-    > multilaterale (mensenrechten)instituties zoals VN-instellingen en
-    > speciaal rapporteurs te ondersteunen en versterken.
+    multilaterale (mensenrechten)instituties zoals VN-instellingen en
+    speciaal rapporteurs te ondersteunen en versterken.
 
 4.  Nederland gaat hard inzetten op het bestrijden van
-    > belastingontwijking van multinationals in Nederland.
-    > Belastinglekken in wetgeving worden gedicht.
+    belastingontwijking van multinationals in Nederland.
+    Belastinglekken in wetgeving worden gedicht.
 
 5.  Handel en ontwikkelingssamenwerking worden uit elkaar getrokken en
-    > komen niet meer terug in één ministerie. Handelsbelang mag nooit
-    > gekoppeld zijn aan internationale reparaties van aangedane schade.
+    komen niet meer terug in één ministerie. Handelsbelang mag nooit
+    gekoppeld zijn aan internationale reparaties van aangedane schade.
 
-**Mensenrechten en verduurzaming**
+## Mensenrechten en verduurzaming
 
 1.  De Nederlandse inzet voor mensenrechten wordt een integraal
-    > onderdeel van alle Nederlandse internationale betrekkingen, zoals
-    > bij handelsmissies en justitiële samenwerking.
+    onderdeel van alle Nederlandse internationale betrekkingen, zoals
+    bij handelsmissies en justitiële samenwerking.
 
 2.  Nederland zet zich actief in voor het behalen van de Duurzame
-    > Ontwikkelingsdoelen met concrete *targets* en combineert dit met
-    > mensenrechtenbeleid.
+    Ontwikkelingsdoelen met concrete *targets* en combineert dit met
+    mensenrechtenbeleid.
 
 3.  Nederland vergroot zijn directe investering in maatschappelijke
-    > organisaties en mensenrechtenverdedigers in het buitenland, die
-    > zich inzetten voor rechtvaardigheid en gelijkwaardigheid. De
-    > agenda’s en behoeften van deze organisaties worden hierbij
-    > leidend.
+    organisaties en mensenrechtenverdedigers in het buitenland, die
+    zich inzetten voor rechtvaardigheid en gelijkwaardigheid. De
+    agenda’s en behoeften van deze organisaties worden hierbij
+    leidend.
 
 4.  De landenselectie voor internationale hulp wordt bepaald op basis
-    > van noodzaak in de landen zelf en de toegevoegde waarde van de
-    > Nederlandse bijdrage, niet op basis van de Nederlandse agenda op
-    > het gebied van handel, migratie of terrorismebestrijding.
+    van noodzaak in de landen zelf en de toegevoegde waarde van de
+    Nederlandse bijdrage, niet op basis van de Nederlandse agenda op
+    het gebied van handel, migratie of terrorismebestrijding.
 
 5.  Nederland spreekt bedrijven die opereren in conflictgebieden aan op
-    > hun verantwoordelijkheid onder de OESO-richtlijnen en verbindt
-    > consequenties aan het niet naleven van die richtlijnen. Het niet
-    > naleven van de OESO-richtlijnen wordt standaard opgenomen als
-    > uitsluitingsgrond in het PvE (programma van eisen) voor openbare
-    > aanbestedingen.
+    hun verantwoordelijkheid onder de OESO-richtlijnen en verbindt
+    consequenties aan het niet naleven van die richtlijnen. Het niet
+    naleven van de OESO-richtlijnen wordt standaard opgenomen als
+    uitsluitingsgrond in het PvE (programma van eisen) voor openbare
+    aanbestedingen.
 
 6.  Nederland zet zich actief in voor het ontwikkelen van zowel
-    > nationale als internationale regelgeving, om bedrijven die zich
-    > schuldig maken aan mensenrechtenschendingen aansprakelijk te
-    > stellen. Slachtoffers worden erkend en gecompenseerd.
+    nationale als internationale regelgeving, om bedrijven die zich
+    schuldig maken aan mensenrechtenschendingen aansprakelijk te
+    stellen. Slachtoffers worden erkend en gecompenseerd.
 
 7.  Nederland stelt protocollen op voor eerlijke handel, duurzaamheid en
-    > mensenrechten voor bedrijven die gevestigd zijn in Nederland. Bij
-    > het overtreden van deze protocollen worden bedrijven beboet of
-    > Nederland uitgezet.
+    mensenrechten voor bedrijven die gevestigd zijn in Nederland. Bij
+    het overtreden van deze protocollen worden bedrijven beboet of
+    Nederland uitgezet.
 
 8.  Nederland zet zich internationaal in voor het bestrijden van
-    > klimaatverandering in landen met een laag inkomen of laag-midden
-    > inkomen, inclusief een financieringsmechanisme voor verlies en
-    > schade.
+    klimaatverandering in landen met een laag inkomen of laag-midden
+    inkomen, inclusief een financieringsmechanisme voor verlies en
+    schade.
 
 9.  Nederland zet zich internationaal in om de belasting op vermogen,
-    > winst en vervuiling te verhogen als onderdeel van een
-    > progressieve, alomvattende aanpak van extreme ongelijkheid en
-    > klimaatverandering.
+    winst en vervuiling te verhogen als onderdeel van een
+    progressieve, alomvattende aanpak van extreme ongelijkheid en
+    klimaatverandering.
 
-**Internationale rechtvaardigheid**
+## Internationale rechtvaardigheid
 
 1.  Er moet een einde komen aan de bezetting en kolonisatie van
-    > Palestijnse grond en het Palestijnse volk. Palestijnse
-    > vluchtelingen moeten het recht houden op terugkeer naar hun huizen
-    > en bezittingen. Zolang de bezetting voortduurt en de rechten van
-    > Palestijnen worden geschonden, schorten we het Associatieverdrag
-    > met Israel op en tevens alle handelsbetrekkingen met Israël.
-    > <u>Palestina wordt direct erkend (16)</u>.
+    Palestijnse grond en het Palestijnse volk. Palestijnse
+    vluchtelingen moeten het recht houden op terugkeer naar hun huizen
+    en bezittingen. Zolang de bezetting voortduurt en de rechten van
+    Palestijnen worden geschonden, schorten we het Associatieverdrag
+    met Israel op en tevens alle handelsbetrekkingen met Israël.
+    <a href="palestina">Palestina wordt direct erkend</a>.
 
 2.  Nederland erkent de Republik Maluku Selatan (Republiek der
-    > Zuid-Molukken) en steunt de onafhankelijkheidsstrijd van
-    > West-Papoea.
+    Zuid-Molukken) en steunt de onafhankelijkheidsstrijd van
+    West-Papoea.
 
 3.  Zelfbeschikking van volkeren geldt als uitgangspunt bij de erkenning
-    > van nieuwe staten.
+    van nieuwe staten.
 
 4.  Nederland besteedt internationaal extra aandacht aan staatlozen,
-    > ontheemden en onderdrukte volkeren.
+    ontheemden en onderdrukte volkeren.
 
 5.  Nederland zet zich actief in voor het corrigeren van koloniaal
-    > onrecht dat Nederland de voormalige Nederlandse koloniën heeft
-    > aangedaan.
+    onrecht dat Nederland de voormalige Nederlandse koloniën heeft
+    aangedaan.
 
 6.  Nederland zet zich extra in voor het arresteren van verdachten van
-    > oorlogsmisdaden die aan het Internationaal Strafhof moeten worden
-    > overgedragen, evenals het aanklagen van politici en militairen uit
-    > de VS en Europa die zich schuldig hebben gemaakt aan
-    > oorlogsmisdaden onder de valse vlag van ‘terrorismebestrijding’ of
-    > de omverwerping van anti-imperialistische regimes.
+    oorlogsmisdaden die aan het Internationaal Strafhof moeten worden
+    overgedragen, evenals het aanklagen van politici en militairen uit
+    de VS en Europa die zich schuldig hebben gemaakt aan
+    oorlogsmisdaden onder de valse vlag van ‘terrorismebestrijding’ of
+    de omverwerping van anti-imperialistische regimes.
 
 7.  Wij zetten ons extra in om bij het Internationaal Strafhof de
-    > mensenrechten van anti-imperialistische activisten te beschermen.
-    > We versterken dan ook de positie van het Internationaal Strafhof
-    > binnen de anti-imperialistische strijd.
+    mensenrechten van anti-imperialistische activisten te beschermen.
+    We versterken dan ook de positie van het Internationaal Strafhof
+    binnen de anti-imperialistische strijd.
 
 8.  Nederland gaat door met het investeren in noodhulp, met een focus op
-    > preventie van conflicten. Nederland zet zich hierbij in voor een
-    > hervorming van het humanitaire systeem. In dit systeem is meer
-    > aandacht voor lokale humanitaire organisaties en de weerbaarheid
-    > van lokale gemeenschappen.
+    preventie van conflicten. Nederland zet zich hierbij in voor een
+    hervorming van het humanitaire systeem. In dit systeem is meer
+    aandacht voor lokale humanitaire organisaties en de weerbaarheid
+    van lokale gemeenschappen.
 
 9.  We moedigen stages aan naar landen en gebieden die aan de voorgrond
-    > staan van het internationale anti-imperialistische verzet, zoals
-    > verzet in Palestina, de Filipijnen (tegen Duterte) en Venezuela.
-    > Dit met het doel om te leren, banden op te bouwen en het
-    > anti-imperialistische bewustzijn onder de Nederlandse bevolking te
-    > ontwikkelen.
+    staan van het internationale anti-imperialistische verzet, zoals
+    verzet in Palestina, de Filipijnen (tegen Duterte) en Venezuela.
+    Dit met het doel om te leren, banden op te bouwen en het
+    anti-imperialistische bewustzijn onder de Nederlandse bevolking te
+    ontwikkelen.
 
 10. Nederland zet zich ook internationaal in voor veiligheid voor
-    > vrijdenkers, atheïsten en humanisten. Te veel van hen worden
-    > vermoord, vervolgd en verstoten. Nederland is voor hen een veilige
-    > haven.
+    vrijdenkers, atheïsten en humanisten. Te veel van hen worden
+    vermoord, vervolgd en verstoten. Nederland is voor hen een veilige
+    haven.
 
-**STAATSINRICHTING EN RECHTSSTAAT**
+# STAATSINRICHTING EN RECHTSSTAAT
 
 BIJ1 staat pal achter democratie: een staatsvorm die gebaseerd is op het
 principe van gelijkwaardigheid. Wanneer de gelijkwaardigheid van mensen
@@ -2652,120 +2779,120 @@ journalisten worden beschermd. In zo’n rechtsstaat, waarin
 gelijkwaardigheid de basis is, is geen plaats voor ouderwetse symbolen
 van ongelijkwaardigheid.
 
-**Een rechtsstaat voor iedereen**
+## Een rechtsstaat voor iedereen
 
 1.  Alle mensenrechtenverdragen krijgen rechtstreekse werking in het
-    > Nederlandse recht. Dit betreft in ieder geval het
-    > Kinderrechtenverdrag, het Vrouwenrechtenverdrag en het VN-verdrag
-    > inzake rechten van personen met een handicap. We ratificeren het
-    > facultatief protocol van het VN-verdrag inzake rechten van
-    > personen met een handicap.
+    Nederlandse recht. Dit betreft in ieder geval het
+    Kinderrechtenverdrag, het Vrouwenrechtenverdrag en het VN-verdrag
+    inzake rechten van personen met een handicap. We ratificeren het
+    facultatief protocol van het VN-verdrag inzake rechten van
+    personen met een handicap.
 
 2.  Nederland neemt de aanbevelingen van internationale
-    > mensenrechtenorganisaties en -comités serieus en voert hun
-    > aanbevelingen uit in overeenkomst met ons programma.
+    mensenrechtenorganisaties en -comités serieus en voert hun
+    aanbevelingen uit in overeenkomst met ons programma.
 
 3.  Etniciteit, afkomst, nationaliteit, beperking, seksuele gerichtheid,
-    > genderidentiteit en genderexpressie worden in artikel 1 van de
-    > Grondwet opgenomen.
+    genderidentiteit en genderexpressie worden in artikel 1 van de
+    Grondwet opgenomen.
 
 4.  De overheid gaat haar recht (en plicht) weer gebruiken om
-    > organisaties die structureel discrimineren, groepen beledigen
-    > en/of haat zaaien te verbieden.
+    organisaties die structureel discrimineren, groepen beledigen
+    en/of haat zaaien te verbieden.
 
 5.  De bestaande wetten tegen discriminatie worden strenger nageleefd.
-    > We breiden deze wetten uit door een juridische definitie van
-    > racisme, anti-zwart racisme en islamofobie op te stellen die recht
-    > doet aan het structurele karakter ervan. Discriminatiewetgeving
-    > wordt aangepast op deze definities.
+    We breiden deze wetten uit door een juridische definitie van
+    racisme, anti-zwart racisme en islamofobie op te stellen die recht
+    doet aan het structurele karakter ervan. Discriminatiewetgeving
+    wordt aangepast op deze definities.
 
 6.  Groepsbelediging, digitaal pesten, discriminatie en oproepen tot
-    > racistisch geweld op sociale media worden hard bestreden, in
-    > eerste plaats door convenanten met de platforms.
+    racistisch geweld op sociale media worden hard bestreden, in
+    eerste plaats door convenanten met de platforms.
 
 7.  De bestaande wetgeving aangaande smaad, laster en haat zaaien wordt
-    > streng nageleefd, ook ter bestrijding van ‘fake news’ en gevolgen
-    > hiervan.
+    streng nageleefd, ook ter bestrijding van ‘fake news’ en gevolgen
+    hiervan.
 
 8.  Belastingontduiking en fraude door de allerrijksten moet worden
-    > opgespoord en gestopt. We investeren in opsporingsteams en brengen
-    > de misdadigers voor de rechter.
+    opgespoord en gestopt. We investeren in opsporingsteams en brengen
+    de misdadigers voor de rechter.
 
 9.  Kleding is een vrije keuze. Wetten die discriminatie bevorderen en
-    > zelfbeschikking van groepen mensen aantasten, zoals het
-    > gedeeltelijke niqaabverbod, worden geschrapt.
+    zelfbeschikking van groepen mensen aantasten, zoals het
+    gedeeltelijke niqaabverbod, worden geschrapt.
 
 10. Nederland steunt het principe dat een meerduidige identiteit
-    > meerwaarde heeft en verbreedt daarom de thans zeer beperkte
-    > mogelijkheden om een dubbele nationaliteit te behouden voor elke
-    > Nederlander die dat wenst.
+    meerwaarde heeft en verbreedt daarom de thans zeer beperkte
+    mogelijkheden om een dubbele nationaliteit te behouden voor elke
+    Nederlander die dat wenst.
 
-**Een vrije en veilige rechtsstaat**
+## Een vrije en veilige rechtsstaat
 
 1.  Er komt een sterkere en openbare controle op het functioneren van de
-    > veiligheidsdiensten. Daarnaast moet duidelijk worden hoe de
-    > privacy van mensen gewaarborgd is in de algoritmes die de diensten
-    > gebruiken. Ook moet worden aangetoond dat de inzet van deze
-    > algoritmes niet leidt tot etnisch profileren.
+    veiligheidsdiensten. Daarnaast moet duidelijk worden hoe de
+    privacy van mensen gewaarborgd is in de algoritmes die de diensten
+    gebruiken. Ook moet worden aangetoond dat de inzet van deze
+    algoritmes niet leidt tot etnisch profileren.
 
 2.  Binnenlandse veiligheidsdiensten worden beperkt in hun bevoegdheden.
-    > De bevoegdheden voor het verzamelen van bulk data en het hacken
-    > van derde personen, alsook de automatische toegang tot databases
-    > moeten worden teruggetrokken.
+    De bevoegdheden voor het verzamelen van bulk data en het hacken
+    van derde personen, alsook de automatische toegang tot databases
+    moeten worden teruggetrokken.
 
 3.  We beëindigen alle samenwerking met de geheime diensten van
-    > anti-democratische landen zoals Israël en de Verenigde Staten. Om
-    > de veiligheid van (politieke) vluchtelingen, migranten en
-    > journalisten te bewaren wordt de gegevensverstrekking aan
-    > buitenlandse geheime diensten door Nederland sterk aan banden
-    > gelegd.
+    anti-democratische landen zoals Israël en de Verenigde Staten. Om
+    de veiligheid van (politieke) vluchtelingen, migranten en
+    journalisten te bewaren wordt de gegevensverstrekking aan
+    buitenlandse geheime diensten door Nederland sterk aan banden
+    gelegd.
 
 4.  De onafhankelijkheid van journalisten moet worden beschermd. Dat
-    > betekent dat we intimidatie, opsluiting en tracking van
-    > journalisten door OM en veiligheidsdiensten bestrijden. Ook waken
-    > we beter voor de veiligheid van deze onafhankelijke journalisten.
-    > Het is absurd dat journalisten vaker beveiliging moeten meenemen
-    > naar demonstraties, doordat zij worden bedreigd door extreemrechts
-    > gehits.
+    betekent dat we intimidatie, opsluiting en tracking van
+    journalisten door OM en veiligheidsdiensten bestrijden. Ook waken
+    we beter voor de veiligheid van deze onafhankelijke journalisten.
+    Het is absurd dat journalisten vaker beveiliging moeten meenemen
+    naar demonstraties, doordat zij worden bedreigd door extreemrechts
+    gehits.
 
 5.  Journalisten wereldwijd moeten hun werk kunnen doen zonder dat ze
-    > worden tegengewerkt met geweld, censuur en vervolging. In deze
-    > context gaat de overheid zich harder inzetten voor het vergroten
-    > van de veiligheid, ondersteuning en noodhulp aan journalisten.
+    worden tegengewerkt met geweld, censuur en vervolging. In deze
+    context gaat de overheid zich harder inzetten voor het vergroten
+    van de veiligheid, ondersteuning en noodhulp aan journalisten.
 
 6.  Klokkenluiders worden actief beschermd middels het inzetten van een
-    > onafhankelijke organisatie.
+    onafhankelijke organisatie.
 
 7.  Het recht op demonstratie wordt strikt nageleefd.
 
-**Een gezonde en directe democratie**
+## Een gezonde en directe democratie
 
 1.  We richten een Constitutioneel Hof op dat wetten kan toetsen aan de
-    > Grondwet. Daarvoor heffen we Artikel 120 van de Grondwet op, dat
-    > het nu onmogelijk maakt om wetten aan de Grondwet te toetsen.
+    Grondwet. Daarvoor heffen we Artikel 120 van de Grondwet op, dat
+    het nu onmogelijk maakt om wetten aan de Grondwet te toetsen.
 
 2.  We schaffen de monarchie, een eeuwenoud symbool van
-    > ongelijkwaardigheid en bovendien een grote kostenpost, af:
-    > Nederland wordt een Republiek met een president.
+    ongelijkwaardigheid en bovendien een grote kostenpost, af:
+    Nederland wordt een Republiek met een president.
 
 3.  We onteigenen het (uit koloniale tijden stammende) kapitaal van de
-    > Koninklijke familie en gebruiken dit geld voor rechtsherstel voor
-    > de voormalige koloniën en de Indische gemeenschap.
+    Koninklijke familie en gebruiken dit geld voor rechtsherstel voor
+    de voormalige koloniën en de Indische gemeenschap.
 
 4.  Het stemrecht wordt hervormd. Zo wordt de stemgerechtigde leeftijd
-    > verlaagd naar 16 jaar en krijgen vluchtelingen en migranten
-    > sneller toegang tot het stemrecht. We maken het mogelijk voor
-    > gedetineerden om zelf te kunnen stemmen in plaats van uitsluitend
-    > bij volmacht.
+    verlaagd naar 16 jaar en krijgen vluchtelingen en migranten
+    sneller toegang tot het stemrecht. We maken het mogelijk voor
+    gedetineerden om zelf te kunnen stemmen in plaats van uitsluitend
+    bij volmacht.
 
 5.  We stimuleren lokale vormen van directe democratie, zoals wijkraden
-    > en andere vormen van directe burgerparticipatie.
+    en andere vormen van directe burgerparticipatie.
 
 6.  We herzien de wet omtrent het burgerinitiatief en maken het
-    > burgerforum een standaard onderdeel in de vervolgstappen van een
-    > succesvol burgerinitiatief.
+    burgerforum een standaard onderdeel in de vervolgstappen van een
+    succesvol burgerinitiatief.
 
-**VEILIGHEID EN JUSTITIE**
+# VEILIGHEID EN JUSTITIE
 
 BIJ1 streeft naar een samenleving die veilig is voor iedereen. Wij
 vinden dat we als samenleving een gezamenlijke plicht hebben om misdaad
@@ -2781,7 +2908,7 @@ klassenjustitie, strijden voor een rechtvaardige samenleving, pakken
 gendergerelateerd geweld aan en maken korte metten met institutioneel
 racisme bij de politie.
 
-**Herstelrecht in plaats van afstraffing**
+## Herstelrecht in plaats van afstraffing
 
 Het huidige systeem van afstraffing en opsluiting is een racistisch
 systeem dat niet werkt en niet gericht is op herstel. Etnisch profileren
@@ -2800,7 +2927,7 @@ criminaliteit niet. Mee kunnen doen in de samenleving en de
 verantwoordelijkheid moeten nemen om je fouten te herstellen zijn
 daarentegen wél effectief. Daar moeten we dus naartoe.
 
-**Naar een veilig, medemenselijk en rechtvaardig Nederland**
+## Naar een veilig, medemenselijk en rechtvaardig Nederland
 
 Voor een veilig, medemenselijk en rechtvaardig Nederland zet BIJ1 in op
 uitbreiding van het herstelrecht als toevoeging op ons strafrecht.
@@ -2816,143 +2943,143 @@ aangepakt.
 BIJ1 stelt de volgende oplossingen voor om een samenleving te creëren
 die veilig is voor iedereen.
 
-**Van strafketen naar een eerlijke rechtsstaat**
+## Van strafketen naar een eerlijke rechtsstaat
 
 1.  We steken geld in goede collectieve voorzieningen en bevorderen
-    > gelijke kansen in de samenleving. We zorgen voor gelijke toegang
-    > tot onderwijs, een leefbaar inkomen en aanpak van
-    > maatschappijbreed racisme. We investeren niet verder in de
-    > politie. Het geld dat daarmee vrijkomt investeren we in goede
-    > collectieve voorzieningen.
+    gelijke kansen in de samenleving. We zorgen voor gelijke toegang
+    tot onderwijs, een leefbaar inkomen en aanpak van
+    maatschappijbreed racisme. We investeren niet verder in de
+    politie. Het geld dat daarmee vrijkomt investeren we in goede
+    collectieve voorzieningen.
 
 2.  Mensen met onbegrepen gedrag zijn vaker slachtoffer van
-    > politiegeweld. Het is nodig dat we investeren in goede zorg, zodat
-    > mensen met onbegrepen gedrag de juiste hulp krijgen. De politie
-    > heeft hierin geen rol.
+    politiegeweld. Het is nodig dat we investeren in goede zorg, zodat
+    mensen met onbegrepen gedrag de juiste hulp krijgen. De politie
+    heeft hierin geen rol.
 
 3.  We decriminaliseren niet-gewelddadige delicten, zoals drugsdelicten.
 
 4.  Teelt, bezit en verkoop van softdrugs worden legaal, zodat de
-    > overheid meer zicht heeft op de kwaliteit van drugs. Invoering
-    > wordt gereguleerd. Monopolies op teelt van softdrugs door grote
-    > bedrijven worden bestreden.
+    overheid meer zicht heeft op de kwaliteit van drugs. Invoering
+    wordt gereguleerd. Monopolies op teelt van softdrugs door grote
+    bedrijven worden bestreden.
 
 5.  Harddrugs worden legaal en door de overheid gereguleerd. Zo kan er
-    > beter geadviseerd worden over gebruik van drugs en kunnen mensen
-    > met drugsproblematiek eerder worden geholpen.
+    beter geadviseerd worden over gebruik van drugs en kunnen mensen
+    met drugsproblematiek eerder worden geholpen.
 
 6.  Om kleine misdaad te verminderen en buurten veiliger te maken zetten
-    > we pilots op voor buurt-rechtbanken. Dit zijn rechtbanken die
-    > kijken naar de omstandigheden die tot misdaad leiden. Hier staat
-    > niet vervolging, maar de mens, de leefbaarheid van de buurt en het
-    > herstellen van fouten centraal.
+    we pilots op voor buurt-rechtbanken. Dit zijn rechtbanken die
+    kijken naar de omstandigheden die tot misdaad leiden. Hier staat
+    niet vervolging, maar de mens, de leefbaarheid van de buurt en het
+    herstellen van fouten centraal.
 
 7.  We openen alleen nog nieuwe gevangenissen naar Fins ‘open’ model en
-    > bouwen andere gevangenissen om. Zo houden daders contact met de
-    > samenleving, worden ze menswaardig behandeld en in staat gesteld
-    > om verantwoordelijkheid te nemen en gedane schade te herstellen.
+    bouwen andere gevangenissen om. Zo houden daders contact met de
+    samenleving, worden ze menswaardig behandeld en in staat gesteld
+    om verantwoordelijkheid te nemen en gedane schade te herstellen.
 
 8.  Gevangenisstraffen worden een uiterst middel. We delen voortaan
-    > eerder taakstraffen uit. Vervroegde vrijlating blijft daarnaast
-    > mogelijk. We versoepelen de voorwaarden om hiervoor in aanmerking
-    > te komen.
+    eerder taakstraffen uit. Vervroegde vrijlating blijft daarnaast
+    mogelijk. We versoepelen de voorwaarden om hiervoor in aanmerking
+    te komen.
 
-**Van klassenjustitie naar bescherming van rechten**
+## Van klassenjustitie naar bescherming van rechten
 
 1.  We investeren in de sociale advocatuur en bestrijden
-    > klassenjustitie. We gaan sociale advocaten eerlijker betalen.
+    klassenjustitie. We gaan sociale advocaten eerlijker betalen.
 
 2.  We zorgen voor toegang tot juridische hulp bij ieder gemeentelijk
-    > loket en verzekeren dat deze hulp gratis is voor wie het niet kan
-    > betalen.
+    loket en verzekeren dat deze hulp gratis is voor wie het niet kan
+    betalen.
 
 3.  De rechten van gevangenen worden beter verankerd in regelgeving en
-    > het naleven hiervan wordt beter gecontroleerd.
+    het naleven hiervan wordt beter gecontroleerd.
 
 4.  Instanties die etnisch profileren worden strafrechtelijk vervolgd.
-    > Het nieuw op te richten Ministerie van Gelijkwaardigheid ziet erop
-    > toe dat gedane schade wordt hersteld.
+    Het nieuw op te richten Ministerie van Gelijkwaardigheid ziet erop
+    toe dat gedane schade wordt hersteld.
 
 5.  We handhaven strenger op onze antidiscriminatiewetgeving. Mensen die
-    > discrimineren krijgen een Educatieve Maatregel Discriminatie
-    > opgelegd.
+    discrimineren krijgen een Educatieve Maatregel Discriminatie
+    opgelegd.
 
 6.  We zetten in op het opsporen en vervolgen van belastingontduiking en
-    > belastingfraude door grote bedrijven en de allerrijksten.
+    belastingfraude door grote bedrijven en de allerrijksten.
 
 7.  We houden bedrijven verantwoordelijk die in Nederland, of buiten
-    > Nederland, de planeet en de natuur slopen. Hiervoor komt passende
-    > (internationale) regelgeving die gericht is op het herstellen van
-    > toegebrachte schade.
+    Nederland, de planeet en de natuur slopen. Hiervoor komt passende
+    (internationale) regelgeving die gericht is op het herstellen van
+    toegebrachte schade.
 
-**Van politiegeweld naar betere regels voor de politie**
+## Van politiegeweld naar betere regels voor de politie
 
 1.  Wie etnisch profileert wordt strafrechtelijk vervolgd. Daarnaast
-    > verbieden we het gebruik van etniciteit, nationaliteit en afkomst
-    > in risicoprofielen, introduceren we stopformulieren voor alle
-    > politiecontroles en worden bodycams de norm. Er komt een einde aan
-    > preventief fouilleren, ‘patsercontroles’ en andere controles die
-    > etnisch profileren in de hand werken.
+    verbieden we het gebruik van etniciteit, nationaliteit en afkomst
+    in risicoprofielen, introduceren we stopformulieren voor alle
+    politiecontroles en worden bodycams de norm. Er komt een einde aan
+    preventief fouilleren, ‘patsercontroles’ en andere controles die
+    etnisch profileren in de hand werken.
 
 2.  De basisbewapening van de politie gaat terug naar wapenstok en
-    > pepperspray. Vuurwapens mogen alleen in uitzonderlijke gevallen
-    > worden gedragen. Training en protocollen omtrent vuurwapengebruik
-    > worden fors strenger: zo mag politie niet schieten om iemand aan
-    > te houden.
+    pepperspray. Vuurwapens mogen alleen in uitzonderlijke gevallen
+    worden gedragen. Training en protocollen omtrent vuurwapengebruik
+    worden fors strenger: zo mag politie niet schieten om iemand aan
+    te houden.
 
 3.  We verbieden risicovolle arrestatietechnieken zoals de nekklem.
 
 4.  Er komt een bureau dat onafhankelijk toezicht houdt op het
-    > functioneren van de politie en klachten over de politie in
-    > behandeling neemt.
+    functioneren van de politie en klachten over de politie in
+    behandeling neemt.
 
 5.  De praktische onschendbaarheid van politiefunctionarissen wordt
-    > ontmanteld. Wie een ander doodt, moet verantwoording afleggen.
+    ontmanteld. Wie een ander doodt, moet verantwoording afleggen.
 
 6.  De politie wordt transparanter. Data over politiecontacten met
-    > burgers gaan ook informatie bevatten over etniciteit van burgers,
-    > aanleiding en uitkomst van het contact, verwondingen en
-    > overlijdensgevallen. Onderzoeken naar racisme en politiegeweld
-    > worden publiek gemaakt.
+    burgers gaan ook informatie bevatten over etniciteit van burgers,
+    aanleiding en uitkomst van het contact, verwondingen en
+    overlijdensgevallen. Onderzoeken naar racisme en politiegeweld
+    worden publiek gemaakt.
 
 7.  Bij de politie komen er heldere regels over omgangsvormen en
-    > taalgebruik. Het wordt daarin makkelijker agenten te ontslaan
-    > vanwege racisme en geweld. Daarnaast verhinderen we dat de politie
-    > wordt bemenst door personen met anti-rechtsstatelijke en
-    > racistische meningen.
+    taalgebruik. Het wordt daarin makkelijker agenten te ontslaan
+    vanwege racisme en geweld. Daarnaast verhinderen we dat de politie
+    wordt bemenst door personen met anti-rechtsstatelijke en
+    racistische meningen.
 
 8.  Klokkenluiders worden in bescherming genomen en moeten alle ruimte
-    > krijgen om misstanden aan te kaarten.
+    krijgen om misstanden aan te kaarten.
 
 9.  We werken naar afschaffing van de vreemdelingenpolitie en willen op
-    > termijn een einde aan alle uitzettingen. Daarbij hoort dat
-    > detentiecentra worden opgeheven en alle ‘vreemdelingen’ in
-    > hechtenis vrijgelaten en door ervaringsdeskundige-organisaties
-    > begeleid worden. Ook komt er een onafhankelijk onderzoek naar
-    > mogelijke schendingen van mensenrechten door (mensen binnen) de
-    > vreemdelingenpolitie en eventuele vervolging.
+    termijn een einde aan alle uitzettingen. Daarbij hoort dat
+    detentiecentra worden opgeheven en alle ‘vreemdelingen’ in
+    hechtenis vrijgelaten en door ervaringsdeskundige-organisaties
+    begeleid worden. Ook komt er een onafhankelijk onderzoek naar
+    mogelijke schendingen van mensenrechten door (mensen binnen) de
+    vreemdelingenpolitie en eventuele vervolging.
 
-**Aanpak van gendergerelateerd geweld**
+## Aanpak van gendergerelateerd geweld
 
-1.  We ontwikkelen <u>een integrale aanpak tegen gendergerelateerd
-    > geweld (17).</u> Dit betekent dat er meer onderzoek komt naar de
-    > rol die gender speelt in geweldsdelicten en welke vormen van
-    > onderwijs, opvoeding en voorlichting dit zouden kunnen verbeteren.
+1.  We ontwikkelen <a href="gender-gerelateerd-geweld">een integrale aanpak tegen gendergerelateerd
+    geweld.</a> Dit betekent dat er meer onderzoek komt naar de
+    rol die gender speelt in geweldsdelicten en welke vormen van
+    onderwijs, opvoeding en voorlichting dit zouden kunnen verbeteren.
 
-2.  Er wordt actief gewerkt aan het verhogen van de aangiftebereidheid
-    > van slachtoffers van gendergerelateerd geweld.
+2.  Er wordt actief gewerkt aan het verhogen van de <a href="#aangiftebereidheid">aangiftebereidheid</a>
+    van slachtoffers van gendergerelateerd geweld.
 
 3.  De verkrachtingswetgeving wordt aangepast met onze definitie van
-    > consent als uitgangspunt.
+    consent als uitgangspunt.
 
 4.  Er wordt structureel meer geïnvesteerd in de verschillende
-    > vrouwenopvangcentra en de hulpverlening voor slachtoffers van
-    > gendergerelateerd geweld.
+    vrouwenopvangcentra en de hulpverlening voor slachtoffers van
+    gendergerelateerd geweld.
 
 5.  Geweldsincidenten gebaseerd op gender-identiteit, gender-expressie
-    > en seksualiteit worden centraal geregistreerd.
+    en seksualiteit worden centraal geregistreerd.
 
-**BES-EILANDEN EN KONINKRIJK**
+# BES-EILANDEN EN KONINKRIJK
 
 Bonaire, St. Eustatius en Saba (de BES-eilanden) en Aruba, Curaçao en
 St. Maarten zijn officieel sinds 1954 geen koloniën van Nederland meer
@@ -2973,91 +3100,91 @@ nieuwe relatie moet worden gebaseerd op antikolonialisme en op het
 herstel van koloniale schade. Om dit te kunnen bewerkstelligen stellen
 wij de volgende beleidsveranderingen voor.
 
-**Zelfbeschikkingsrecht en autonomie**
+## Zelfbeschikkingsrecht en autonomie
 
 1.  St. Eustatius, Bonaire en Saba worden verlost van de grip van
-    > politiek en ambtelijk Den Haag. De lokale bevolking beslist weer
-    > over de eilanden en niet de ondemocratisch gekozen ambtenaren van
-    > het ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Er
-    > wordt geen beleid voor de eilanden bedacht door mensen die er niet
-    > vandaan komen of zelf wonen.
+    politiek en ambtelijk Den Haag. De lokale bevolking beslist weer
+    over de eilanden en niet de ondemocratisch gekozen ambtenaren van
+    het ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Er
+    wordt geen beleid voor de eilanden bedacht door mensen die er niet
+    vandaan komen of zelf wonen.
 
 2.  De rijksministerraad, waarin zeventien Nederlandse ministers en
-    > slechts drie gevolmachtigde ministers van Aruba, Curaçao en St.
-    > Maarten plaats hebben, wordt afgeschaft. Deze oneerlijke
-    > representatie wordt vervangen door een nieuwe constructie voor
-    > Koninkrijk-breed overleg. Per Koninkrijk-breed dossier komen de
-    > belanghebbende ministers van alle landen bijeen voor overleg en
-    > hebben ze een gelijke stem.
+    slechts drie gevolmachtigde ministers van Aruba, Curaçao en St.
+    Maarten plaats hebben, wordt afgeschaft. Deze oneerlijke
+    representatie wordt vervangen door een nieuwe constructie voor
+    Koninkrijk-breed overleg. Per Koninkrijk-breed dossier komen de
+    belanghebbende ministers van alle landen bijeen voor overleg en
+    hebben ze een gelijke stem.
 
 3.  Er komen excuses voor koloniale exploitatie en uitbuiting, de
-    > slavenhandel en slavernij en de daaropvolgende periode van
-    > ongelijkwaardige inkomsten, bestuur en behandeling. Deze excuses
-    > zijn gekoppeld aan de afschaffing van de infrastructuur die het
-    > koloniale gedachtegoed en witte superioriteitsdenken voortzet in
-    > het beleid van de Nederlandse staat ten opzichte van het
-    > Koninkrijk en de rest van de wereld.
+    slavenhandel en slavernij en de daaropvolgende periode van
+    ongelijkwaardige inkomsten, bestuur en behandeling. Deze excuses
+    zijn gekoppeld aan de afschaffing van de infrastructuur die het
+    koloniale gedachtegoed en witte superioriteitsdenken voortzet in
+    het beleid van de Nederlandse staat ten opzichte van het
+    Koninkrijk en de rest van de wereld.
 
 4.  Alle landen binnen het Koninkrijk behouden hun interne autonomie
-    > voor het invullen van hun samenlevingen. Nederland zal niet meer
-    > vanuit Europa dicteren hoe de eilanden bestuurd moeten worden.
+    voor het invullen van hun samenlevingen. Nederland zal niet meer
+    vanuit Europa dicteren hoe de eilanden bestuurd moeten worden.
 
 5.  Bij onderlinge geschillen binnen het Koninkrijk zal er een
-    > geschillencommissie opgesteld worden waarin op gelijke schaal
-    > onafhankelijke expertise wordt opgenomen uit het Caribisch gebied,
-    > Zuid Amerika en Europa. Nederlandse ambtenaren of voormalige
-    > overheidsfunctionarissen worden niet langer gezien als
-    > onafhankelijk van de Nederlandse staat.
+    geschillencommissie opgesteld worden waarin op gelijke schaal
+    onafhankelijke expertise wordt opgenomen uit het Caribisch gebied,
+    Zuid Amerika en Europa. Nederlandse ambtenaren of voormalige
+    overheidsfunctionarissen worden niet langer gezien als
+    onafhankelijk van de Nederlandse staat.
 
 6.  De autonomie binnen de overzeese landen van het Koninkrijk wordt
-    > verder uitgebouwd en ontwikkeld door de parlementen het recht te
-    > geven om wetsvoorstellen voor rijkswetten die hen aangaan in te
-    > dienen.
+    verder uitgebouwd en ontwikkeld door de parlementen het recht te
+    geven om wetsvoorstellen voor rijkswetten die hen aangaan in te
+    dienen.
 
-**Het herstellen van de schade**
+## Het herstellen van de schade
 
 1.  Er komt een parlementaire enquête die in kaart brengt wat de omvang
-    > is van de zelfverrijking van Nederland ten koste van de eilanden
-    > tijdens de koloniale periode. De conclusies van dit onderzoek
-    > zullen onderdeel worden van lespakketten in alle lagen van het
-    > onderwijs.
+    is van de zelfverrijking van Nederland ten koste van de eilanden
+    tijdens de koloniale periode. De conclusies van dit onderzoek
+    zullen onderdeel worden van lespakketten in alle lagen van het
+    onderwijs.
 
 2.  De bevolking op de eilanden bepaalt zelf de definitie van
-    > ‘herstelbetalingen’ en ‘gerechtigheid’ voor wat hen door de eeuwen
-    > heen is aangedaan. Dit houdt in dat ‘herstelbetalingen’ zoals
-    > genoemd ook wat anders kan inhouden dan alleen geld.
+    ‘herstelbetalingen’ en ‘gerechtigheid’ voor wat hen door de eeuwen
+    heen is aangedaan. Dit houdt in dat ‘herstelbetalingen’ zoals
+    genoemd ook wat anders kan inhouden dan alleen geld.
 
 3.  De Nederlandse staat betaalt herstelbetalingen aan de eilanden voor
-    > de gemiste inkomsten door financiële beleidsconstructies van
-    > vóór 1954.
+    de gemiste inkomsten door financiële beleidsconstructies van
+    vóór 1954.
 
 4.  Nederland betaalt herstelbetalingen voor de ecologische afbraak van
-    > de gebieden door koloniale uitbuiting.
+    de gebieden door koloniale uitbuiting.
 
-**Gelijkwaardigheid in onderwijs**
+## Gelijkwaardigheid in onderwijs
 
 1.  Nederland betaalt herstelbetalingen voor de achtergestelde
-    > ontwikkeling van de onderwijssystemen op de eilanden. Bij het
-    > ontwikkelen van het onderwijs krijgen de eilanden de ruimte om ook
-    > Caribische en Zuid-Amerikaanse perspectieven op het onderwijs mee
-    > te nemen. Nederland is niet vanzelfsprekend meer het ankerpunt
-    > voor de onderwijssystemen op deze eilanden.
+    ontwikkeling van de onderwijssystemen op de eilanden. Bij het
+    ontwikkelen van het onderwijs krijgen de eilanden de ruimte om ook
+    Caribische en Zuid-Amerikaanse perspectieven op het onderwijs mee
+    te nemen. Nederland is niet vanzelfsprekend meer het ankerpunt
+    voor de onderwijssystemen op deze eilanden.
 
 2.  Academische kennisuitwisseling binnen het Koninkrijk wordt
-    > gestimuleerd.
+    gestimuleerd.
 
 3.  Het vrije verkeer van personen binnen het Koninkrijk blijft bestaan.
-    > Studenten die vanaf de eilanden komen voor hun vervolgonderwijs in
-    > Nederland krijgen structurele ondersteuning vanuit de gemeenten
-    > waar zij gaan wonen. Eenmaal in Nederland hebben wij de plicht om
-    > voor elke student te zorgen.
+    Studenten die vanaf de eilanden komen voor hun vervolgonderwijs in
+    Nederland krijgen structurele ondersteuning vanuit de gemeenten
+    waar zij gaan wonen. Eenmaal in Nederland hebben wij de plicht om
+    voor elke student te zorgen.
 
 4.  Toekomstige studenten zullen, net als Nederlandse studenten, geen
-    > lening af hoeven te sluiten om in Nederland of op de eilanden te
-    > studeren. Er zullen geen studenten aan hun loopbaan beginnen met
-    > een schuld.
+    lening af hoeven te sluiten om in Nederland of op de eilanden te
+    studeren. Er zullen geen studenten aan hun loopbaan beginnen met
+    een schuld.
 
-**DEFENSIE**
+# DEFENSIE
 
 BIJ1 staat voor een defensiebeleid dat gebaseerd is op het beschermen
 van onze belangrijkste waarden: de waarden van een sociale samenleving,
@@ -3071,7 +3198,7 @@ geldstromen. Zelfbeschikkingsrecht van volkeren en steun voor
 anti-imperialistisch verzet zijn belangrijke waarden voor ons
 defensiebeleid.
 
-**Oorlog de wereld uit**
+## Oorlog de wereld uit
 
 Oorlogsvoering is een kwaadaardig machtsmiddel. Door middel van militair
 ingrijpen willen Westerse landen en hun industrieën invloed krijgen in
@@ -3092,108 +3219,108 @@ We willen investeren in de bescherming van onvoorwaardelijke vrijheid,
 zelfbeschikking van volkeren, deëscalatie en ontwapening, om zo een
 einde maken aan oorlogen en de bijbehorende industrieën.
 
-**Vrede, zelfbeschikking en internationale rechtvaardigheid**
+## Vrede, zelfbeschikking en internationale rechtvaardigheid
 
 1.  Nederland trekt zich terug uit alle internationale conflicten en
-    > steunt verzet tegen imperialistische uitbuiting en onderdrukking.
+    steunt verzet tegen imperialistische uitbuiting en onderdrukking.
 
 2.  Nederland zoekt toenadering tot landen die hun internationaal beleid
-    > baseren op vrede, internationale rechtvaardigheid en
-    > zelfbeschikkingsrecht van volkeren.
+    baseren op vrede, internationale rechtvaardigheid en
+    zelfbeschikkingsrecht van volkeren.
 
 3.  Wie oorlog voert onder valse voorwendselen, krijgt te maken met
-    > politieke en economische gevolgen. We dwingen herstel af van
-    > humanitaire, infrastructurele en psychologische schade. Er wordt
-    > humanitaire hulp geboden aan bewoners van landen waar oorlog wordt
-    > gevoerd op onterechte gronden. Wij maken een onderscheid tussen de
-    > politieke regimes en de bewoners van een land.
+    politieke en economische gevolgen. We dwingen herstel af van
+    humanitaire, infrastructurele en psychologische schade. Er wordt
+    humanitaire hulp geboden aan bewoners van landen waar oorlog wordt
+    gevoerd op onterechte gronden. Wij maken een onderscheid tussen de
+    politieke regimes en de bewoners van een land.
 
 4.  We krimpen onze krijgsmacht in om uiteindelijk de krijgsmacht te
-    > vervangen door een civiele hulporganisatie. In het geval van een
-    > noodsituatie bevorderen we de uitwisseling van gespecialiseerde
-    > hulp tussen landen.
+    vervangen door een civiele hulporganisatie. In het geval van een
+    noodsituatie bevorderen we de uitwisseling van gespecialiseerde
+    hulp tussen landen.
 
 5.  Nederland trekt zich terug uit de imperialistische NAVO en neemt
-    > niet meer deel aan NAVO-oorlogen. De door de NAVO verplicht
-    > gestelde uitgavengroei aan defensiedoeleinden wordt ongedaan
-    > gemaakt. De vrijgekomen gelden gaan sociale doeleinden dienen.
+    niet meer deel aan NAVO-oorlogen. De door de NAVO verplicht
+    gestelde uitgavengroei aan defensiedoeleinden wordt ongedaan
+    gemaakt. De vrijgekomen gelden gaan sociale doeleinden dienen.
 
 6.  Nederland handelt bij voorkeur in VN-verband, met wederopbouw,
-    > vredesbewaring en vredesbewaking als oogmerk. Deze operaties mogen
-    > niet dienen voor het opzetten van scheve handelsrelaties tussen
-    > het betreffende land en het Nederlands bedrijfsleven. Aan noodhulp
-    > worden geen voorwaarden verbonden.
+    vredesbewaring en vredesbewaking als oogmerk. Deze operaties mogen
+    niet dienen voor het opzetten van scheve handelsrelaties tussen
+    het betreffende land en het Nederlands bedrijfsleven. Aan noodhulp
+    worden geen voorwaarden verbonden.
 
 7.  Nederland neemt niet deel aan een Europees leger en behoudt de
-    > zelfbeschikking over eigen troepen.
+    zelfbeschikking over eigen troepen.
 
 8.  Er komen ruimhartige genoegdoening en herstelbetalingen aan
-    > slachtoffers van Nederlandse acties overzee.
+    slachtoffers van Nederlandse acties overzee.
 
 9.  We stellen stevige straffen in voor huurlingen die meevechten in
-    > buitenlandse oorlogen. We monitoren alle uitreizigers die zich
-    > aansluiten bij gewelddadige groepen in het buitenland, waaronder
-    > het Israëlisch leger.
+    buitenlandse oorlogen. We monitoren alle uitreizigers die zich
+    aansluiten bij gewelddadige groepen in het buitenland, waaronder
+    het Israëlisch leger.
 
 10. Strijders die zich aansluiten bij buitenlandse strijd ter
-    > verdediging van de waarden van vrijheid en zelfbeschikking van
-    > volkeren worden beschermd.
+    verdediging van de waarden van vrijheid en zelfbeschikking van
+    volkeren worden beschermd.
 
-**Ontwapening en omvorming wapenindustrie**
+## Ontwapening en omvorming wapenindustrie
 
 1.  Kernwapens de wereld uit. Om te beginnen uit Nederland. Nederland
-    > sluit zich aan bij wapenbeheersings- en ontwapeningsverdragen en
-    > toont zich ambassadeur van deze verdragen.
+    sluit zich aan bij wapenbeheersings- en ontwapeningsverdragen en
+    toont zich ambassadeur van deze verdragen.
 
 2.  We maken een einde aan Nederland als belastingparadijs voor
-    > wapenproducenten en de industrie van militaire technologieën. We
-    > verbieden de vestiging van wapenbedrijven in Nederland en heffen
-    > hoge belastingen voor de bestaande wapenindustrie, zolang deze
-    > niet is omgevormd.
+    wapenproducenten en de industrie van militaire technologieën. We
+    verbieden de vestiging van wapenbedrijven in Nederland en heffen
+    hoge belastingen voor de bestaande wapenindustrie, zolang deze
+    niet is omgevormd.
 
 3.  We stimuleren de inzet van ontwikkelde technische kennis in de
-    > wapenindustrie voor de civiele industrie.
+    wapenindustrie voor de civiele industrie.
 
 4.  We maken een eind aan (door)levering van wapens en militaire
-    > technologie aan landen of groeperingen die mensenrechten schenden.
+    technologie aan landen of groeperingen die mensenrechten schenden.
 
 5.  Alle niet geleverde straaljagers (JSF’s) en onderzeeërs worden
-    > afbesteld. Wat al geleverd is wordt gedemonteerd en onderdelen
-    > worden gebruikt voor andere technische en civiele doeleinden.
+    afbesteld. Wat al geleverd is wordt gedemonteerd en onderdelen
+    worden gebruikt voor andere technische en civiele doeleinden.
 
 6.  Er worden geen militairen ingezet tegen mensen, dus ook niet tegen
-    > vluchtelingen en migranten. De Marechaussee wordt onderdeel van de
-    > politie. De Nationale Reserve wordt omgevormd in een
-    > (binnenlandse) civiele rampenorganisatie.
+    vluchtelingen en migranten. De Marechaussee wordt onderdeel van de
+    politie. De Nationale Reserve wordt omgevormd in een
+    (binnenlandse) civiele rampenorganisatie.
 
 7.  In het basis- en voortgezet onderwijs komt er blijvend aandacht voor
-    > vredeseducatie. Er zullen geen reclames meer zijn om jongeren aan
-    > te sporen te gaan werken bij defensie.
+    vredeseducatie. Er zullen geen reclames meer zijn om jongeren aan
+    te sporen te gaan werken bij defensie.
 
-**Een veilige en rechtvaardige werkomgeving**
+## Een veilige en rechtvaardige werkomgeving
 
 1.  We dragen zorg voor een goede (geestelijke) gezondheidszorg voor
-    > krijgsmachtpersoneel en veteranen.
+    krijgsmachtpersoneel en veteranen.
 
 2.  Er wordt ingezet op de bestrijding van racisme, islamofobie,
-    > antisemitisme, seksisme, seksueel en gendergerelateerd geweld,
-    > machogedrag en andere vormen van onderdrukking binnen de
-    > organisatie van de krijgsmacht.
+    antisemitisme, seksisme, seksueel en gendergerelateerd geweld,
+    machogedrag en andere vormen van onderdrukking binnen de
+    organisatie van de krijgsmacht.
 
 3.  Mensen met extreemrechtse opvattingen mogen geen deel uitmaken van
-    > de krijgsmacht. De krijgsmacht moet doordrongen zijn van
-    > democratische waarden. Wie extreemrechtse opvattingen erop
-    > nahoudt, staat lijnrecht tegenover deze waarden.
+    de krijgsmacht. De krijgsmacht moet doordrongen zijn van
+    democratische waarden. Wie extreemrechtse opvattingen erop
+    nahoudt, staat lijnrecht tegenover deze waarden.
 
 4.  Wie weigert mee te vechten in overzeese oorlogen wordt niet
-    > bestraft. Er komt (postuum) eerherstel voor dienstweigeraars uit
-    > het verleden.
+    bestraft. Er komt (postuum) eerherstel voor dienstweigeraars uit
+    het verleden.
 
 5.  De opgeschorte opkomstplicht wordt veranderd in een algehele
-    > opheffing van de dienstplicht. Er komt geen instelling van een
-    > sociale of maatschappelijke dienstplicht.
+    opheffing van de dienstplicht. Er komt geen instelling van een
+    sociale of maatschappelijke dienstplicht.
 
-**DIGITALE RECHTEN EN TECHNOLOGIE**
+# DIGITALE RECHTEN EN TECHNOLOGIE
 
 BIJ1 strijdt voor online en offline privacy, net als voor de vrijheid om
 je door de publieke ruimte te bewegen zonder dat elke beweging
@@ -3207,7 +3334,7 @@ profileren verbannen wordt. Zo werken we toe naar een Nederland waar
 digitale technologieën bijdragen tot gelijke kansen en sociale
 inclusiviteit.
 
-**De risico’s van digitale technologie**
+## De risico’s van digitale technologie
 
 Digitale technologie is overal: onze broekzak, ons huis en onze straat.
 Dat levert gemak en voordelen op, maar ook risico’s. Ons online en
@@ -3226,7 +3353,7 @@ privacy of mensenrechten schenden. Omdat deze technologieën zo nieuw
 zijn, bestaat er nauwelijks wetgeving of beleid voor binnen Europa. Het
 is hoog tijd dat de macht van technologie-giganten gebroken wordt.
 
-**Bevooroordeelde algoritmes en discriminerend beleid**
+## Bevooroordeelde algoritmes en discriminerend beleid
 
 Scholen, ziekenhuizen, de Belastingdienst, het UWV, de politie en andere
 overheidsinstanties maken allemaal gebruik van digitale technologieën om
@@ -3264,100 +3391,105 @@ bestraffen.
 Om meer digitale veiligheid en rechtvaardigheid te waarborgen neemt BIJ1
 de volgende maatregelen.
 
-**Toegankelijkheid en bescherming voor iedereen**
+## Toegankelijkheid en bescherming voor iedereen
 
 1.  Toegang tot het internet is een basisrecht en moet daarom voor
-    > iedereen toegankelijk zijn. Er komt gratis internettoegang voor
-    > iedereen.
+    iedereen toegankelijk zijn. Er komt gratis internettoegang voor
+    iedereen.
 
 2.  Er wordt ingezet op het verder ontwikkelen van educatieprogramma’s
-    > voor alle Nederlandse inwoners om hen meer bewust te maken van hun
-    > digitale rechten en privacyrechten.
+    voor alle Nederlandse inwoners om hen meer bewust te maken van hun
+    digitale rechten en privacyrechten.
 
 3.  Toegankelijkheidseisen moeten worden meegenomen in
-    > digitaliseringsprocessen, waarbij ervaringen van mensen met een
-    > beperking worden meegenomen. Alternatieve kanalen zoals telefoon
-    > of loket moeten open blijven voor mensen die moeite hebben met
-    > digitale technologieën, zoals ouderen, laaggeletterden of mensen
-    > met een verstandelijke beperking.
+    digitaliseringsprocessen, waarbij ervaringen van mensen met een
+    beperking worden meegenomen. Alternatieve kanalen zoals telefoon
+    of loket moeten open blijven voor mensen die moeite hebben met
+    digitale technologieën, zoals ouderen, laaggeletterden of mensen
+    met een verstandelijke beperking.
 
 4.  De overheid moet de ontwikkeling van *open source* en open
-    > standaarden in de publieke en private sector faciliteren.
+    standaarden in de publieke en private sector faciliteren.
 
-**Privacy en data van gebruikers beschermen**
+## Privacy en data van gebruikers beschermen
 
 1.  We streven naar wetgeving en beleid op Nederlands en Europees niveau
-    > om het internet officieel te definiëren als nutsvoorziening in
-    > plaats van een door bedrijven gedomineerde marktplaats.
+    om het internet officieel te definiëren als nutsvoorziening in
+    plaats van een door bedrijven gedomineerde marktplaats.
 
 2.  Er komt een verbod op de ongevraagde verkoop van persoonlijke
-    > informatie.
+    informatie.
 
 3.  We zetten ons in op Nederlands en Europees niveau om de macht van
-    > technologie-giganten als Facebook en Google aan banden te leggen
-    > en de burger hiertegen te beschermen.
+    technologie-giganten als Facebook en Google aan banden te leggen
+    en de burger hiertegen te beschermen.
 
 4.  Er wordt een verbod ingesteld op gezichtsherkenningssoftware en
-    > soortgelijke software die mensen herkent op basis van
-    > lichaamshouding of uiterlijke kenmerken.
+    soortgelijke software die mensen herkent op basis van
+    lichaamshouding of uiterlijke kenmerken.
 
 <!-- -->
 
 5.  End-to-end encryptie blijft gewaarborgd. Dit is het digitale
-    > briefgeheim: beveiligde communicatie tussen twee personen zonder
-    > dat een derde partij hier toegang toe heeft. Dit is een onmisbare
-    > bescherming van het recht op privacy en veilige communicatie.
+    briefgeheim: beveiligde communicatie tussen twee personen zonder
+    dat een derde partij hier toegang toe heeft. Dit is een onmisbare
+    bescherming van het recht op privacy en veilige communicatie.
 
 6.  Het uitbreiden van cameratoezicht in de openbare ruimte wordt
-    > stopgezet.
+    stopgezet.
 
-**Het gebruik van data beveiligen en controleren**
+## Het gebruik van data beveiligen en controleren
 
 1.  Er komt actief overheidsbeleid tegen discriminatie en etnisch
-    > profileren in de digitalisering van overheidsdiensten – van het
-    > ontwerp van algoritmes tot aan het evalueren van
-    > digitaliseringsprocessen. Dit kan alleen als de mensen die deze
-    > trajecten begeleiden de verschillende bevolkingsgroepen in
-    > Nederland vertegenwoordigen.
+    profileren in de digitalisering van overheidsdiensten – van het
+    ontwerp van algoritmes tot aan het evalueren van
+    digitaliseringsprocessen. Dit kan alleen als de mensen die deze
+    trajecten begeleiden de verschillende bevolkingsgroepen in
+    Nederland vertegenwoordigen.
 
 2.  Er komt een onafhankelijke toezichthouder die toeziet op de strijd
-    > tegen discriminatie, etnisch profileren en het schenden van
-    > mensenrechten in dataverzameling over burgers door de overheid.
-    > Deze toezichthouder heeft het mandaat om deze data op te vragen,
-    > te beoordelen en wettelijk bindend advies te geven aan
-    > overheidsinstanties.
+    tegen discriminatie, etnisch profileren en het schenden van
+    mensenrechten in dataverzameling over burgers door de overheid.
+    Deze toezichthouder heeft het mandaat om deze data op te vragen,
+    te beoordelen en wettelijk bindend advies te geven aan
+    overheidsinstanties.
 
 3.  We stellen scherp toezicht en een mensenrechtentoets in voor de
-    > export van surveillance-software door Nederlandse bedrijven. In
-    > geen geval mag Nederlandse surveillance-software bijdragen aan
-    > mensenrechtenschendingen in het buitenland.
+    export van surveillance-software door Nederlandse bedrijven. In
+    geen geval mag Nederlandse surveillance-software bijdragen aan
+    mensenrechtenschendingen in het buitenland.
 
 4.  De Wet op de inlichtingen- en veiligheidsdiensten (Wiv) moet
-    > mensenrechten beter gaan waarborgen. De Nederlandse inlichtingen-
-    > en veiligheidsdiensten moeten stoppen met het uitwisselen van
-    > niet-geëvalueerde bulkdata met alle buitenlandse
-    > inlichtingsdiensten.
+    mensenrechten beter gaan waarborgen. De Nederlandse inlichtingen-
+    en veiligheidsdiensten moeten stoppen met het uitwisselen van
+    niet-geëvalueerde bulkdata met alle buitenlandse
+    inlichtingsdiensten.
 
 5.  Er komt een digitaliseringsbeleid waarbij de rechten en behoeften
-    > van de burger centraal staan, en niet de digitalisering op zich.
+    van de burger centraal staan, en niet de digitalisering op zich.
 
-**WOORDENLIJST  
+# WOORDENLIJST
   
-Aangiftebereidheid:** De bereidheid van iemand om aangifte te doen,
+<strong id="aangiftebereidheid">Aangiftebereidheid</strong>:
+De bereidheid van iemand om aangifte te doen,
 meestal direct verbonden met of de persoon zich veilig en serieus
 genomen voelt.
 
-**Algoritme**: Een algoritme is een formule in de vorm van code om een
+<strong id="algoritme">Algoritme</strong>:
+Een algoritme is een formule in de vorm van code om een
 wiskundig of informaticaprobleem automatisch op te lossen.
 
-**Anti-democratische landen:** Landen waar de democratie,
+<strong id="anti-democratische-landen">Anti-democratische landen</strong>:
+Landen waar de democratie,
 zelfbeschikking en mensenrechten van individuen en groepen (ernstig)
 onder druk staan dan wel in gebrekkige vorm aanwezig zijn.
 
-**Anti-imperialistisch:** Tegen koloniale en kapitalistische invloeden,
+<strong id="anti-imperialistisch">Anti-imperialistisch</strong>:
+Tegen koloniale en kapitalistische invloeden,
 bezettingen en structuren.
 
-**Associatieverdrag Israël:** Een akkoord tussen de EU en Israël,
+<strong id="associatieverdrag-israel">Associatieverdrag Israël</strong>:
+Een akkoord tussen de EU en Israël,
 waarmee de internationale samenwerking met Israël is vastgesteld en dat
 Israël vrijstelt van invoerheffingen in de EU. Associatieovereenkomsten
 die de EU met landen afsluit moeten gebaseerd zijn op respect voor de
@@ -3366,23 +3498,27 @@ buitenlandse politiek moet hierdoor geleid worden. Dat staat ook vermeld
 in artikel 2 van de overeenkomst met Israël, waar Israël zich dus niet
 aan houdt.
 
-**Biodiversiteit:** De diversiteit van flora en fauna binnen een bepaald
+<strong id="biodiversiteit">Biodiversiteit</strong>:
+De diversiteit van flora en fauna binnen een bepaald
 ecosysteem.
 
-**Biomassacentrales:** Centrales waar (afval)hout wordt verbrand om
+<strong id="biomassacentrales">Biomassacentrales</strong>:
+Centrales waar (afval)hout wordt verbrand om
 energie op te wekken. Helaas lang niet altijd met de garantie dat dit
 hout duurzaam verkregen is.
 
-**Blackfacing:** Het opmaken van het gezicht met zwarte/bruine schmink
+<strong id="blackfacing">Blackfacing</strong>:
+Het opmaken van het gezicht met zwarte/bruine schmink
 en eventueel stereotyperende kenmerken om zo een racistische karikatuur
 van een zwart persoon uit te beelden.
 
-**Ceta/EU-Mercosur/TTIP:** Internationale handelsverdragen waar de EU
+<strong id="ceta-eu-mercosur-ttip">Ceta/EU-Mercosur/TTIP</strong>:
+Internationale handelsverdragen waar de EU
 bij betrokken is. Deze gaan veelal gepaard met grote schade aan natuur
 en klimaat, maar ook de rechten van arbeiders en dierenrechten worden
 nauwelijks tot niet meegenomen in deze verdragen.
 
-**Circulaire landbouw**: Ook wel kringlooplandbouw. Een vorm van
+<strong id="circulaire-landbouw">Circulaire landbouw</strong> Ook wel kringlooplandbouw. Een vorm van
 landbouw gebaseerd op het idee dat alles optimaal gebruikt wordt. De
 resten van de ene keten zijn de grondstoffen voor een andere keten. Zo
 wordt bijvoorbeeld voedsel dat wij niet meer eten als diervoeder
@@ -3390,265 +3526,330 @@ gebruikt. Om tot zo’n circulair landbouwsysteem te komen, hebben we een
 transitie nodig waarin plantaardige en dierlijke productieketens slim
 aan elkaar worden geknoopt.
 
-**Cisgender:** Iemand waarbij de genderidentiteit overeenkomt met het
+<strong id="cisgender">Cisgender</strong>:
+Iemand waarbij de genderidentiteit overeenkomt met het
 geslacht dat is aangewezen bij de geboorte.
 
-**Claimrecht:** Het recht van bedrijven om Nederland aan te klagen als
+<strong id="claimrecht">Claimrecht</strong>:
+Het recht van bedrijven om Nederland aan te klagen als
 zij winsten mislopen vanwege een besluit dat de Nederlandse overheid
 heeft genomen.
 
-**Code Diversiteit en Inclusie:** Een richtlijn voor de culturele sector
+<strong id="code-diversiteit-en-inclusie">Code Diversiteit en Inclusie</strong>:
+Een richtlijn voor de culturele sector
 om te verbeteren op het gebied van diversiteit. Oorspronkelijk vooral
 gericht op culturele diversiteit, maar inmiddels richt het zich op een
 breder spectrum, zoals onder andere gender, religie, sociaal-economische
 status en leeftijd.
 
-**Consent:** Wederzijdse toestemming op basis van het recht op
+<strong id="consent">Consent</strong>:
+Wederzijdse toestemming op basis van het recht op
 zelfbeschikking en communicatieve vaardigheden om deze wederzijdse
 toestemming van begin tot eind te kunnen geven. Deze toestemming kan
 alleen vanuit vrijheid gegeven worden, en met de mogelijkheid om van
 gedachten te kunnen veranderen.
 
-**Cultuursensitief:** Handelen met respect voor, en uit het bewust zijn
+<strong id="cultuursensitief">Cultuursensitief</strong>:
+Handelen met respect voor, en uit het bewust zijn
 van de normen en waarden die bij een bepaalde cultuur horen.
 
-**Dekolonisatie:** Het proces waarin gekoloniseerde landen zich ontdoen
+<strong id="dekolonisatie">Dekolonisatie</strong>:
+Het proces waarin gekoloniseerde landen zich ontdoen
 van de koloniale machthebbers, maar ook de processen waarin de
 samenleving afstand neemt van de witte en/of westerse norm als de
 universele waarheid.
 
 Deprivatiseren: Iets uit privé-bezit halen en tot publiek bezit maken.
 
-**Discriminatie:** Het onrechtmatig uitsluiten en niet gelijkwaardig
+<strong id="discriminatie">Discriminatie</strong>:
+Het onrechtmatig uitsluiten en niet gelijkwaardig
 behandelen van en/of onderscheid maken tussen verschillende mensen en/of
 groepen.
 
-**Doelmatigheidskorting:** Een vorm van bezuinigingen in het onderwijs.
+<strong id="doelmatigheidskorting">Doelmatigheidskorting</strong>:
+Een vorm van bezuinigingen in het onderwijs.
 Dit is een gevolg van tekorten op de onderwijsbegroting in een eerdere
 kabinetsperiode. De ‘doelmatigheidskorting’ van het onderwijs bedraagt
 per 2021 in totaal 183 miljoen euro. Het basisonderwijs zal voor bijna
 61 miljoen worden gekort, het voortgezet onderwijs voor ruim 47,3
 miljoen.
 
-**Dublin-verordening:** Een Europese verordening die sinds januari 2014
+<strong id="dublin-verordening">Dublin-verordening</strong>:
+Een Europese verordening die sinds januari 2014
 van kracht is. Deze verordening bepaalt welk land verantwoordelijk is
 voor de behandeling van een asielaanvraag. Meestal is dat het land waar
 de vluchteling aankomt: in de praktijk betekent dit dat Italië en
 Griekenland verreweg de meeste asielaanvragen te verwerken hebben. Deze
 verdeling is oneerlijk en heeft veel schadelijke gevolgen.
 
-**Ecosysteem:** Een systeem van levende wezens dat samen met hun
+<strong id="ecosysteem">Ecosysteem</strong>:
+Een systeem van levende wezens dat samen met hun
 omgeving een keten vormt die het leven binnen het systeem in stand
 houdt.
 
-**Ervaringsdeskundige:** Iemand die eigen ervaringen gebruikt in zijn
+<strong id="ervaringsdeskundige">Ervaringsdeskundige</strong>:
+Iemand die eigen ervaringen gebruikt in zijn
 werk en zo een specifieke vorm van expertise heeft.
 
-**Etniciteit:** Een verzameling van kenmerken die onderdeel zijn van
+<strong id="etniciteit">Etniciteit</strong>:
+Een verzameling van kenmerken die onderdeel zijn van
 iemands achtergrond of identiteit, zoals nationaliteit, taal, cultuur,
 religie, etc.
 
-**Etnisch profileren:** Het hanteren van (uiterlijke) eigenschappen als
+<strong id="etnisch-profileren">Etnisch profileren</strong>:
+Het hanteren van (uiterlijke) eigenschappen als
 huidskleur, nationaliteit, etniciteit, taal of geloof bij opsporing of
 handhaving, terwijl daar geen bewezen aanleiding voor is.
 
-**Eurocentrisme:** Het, al dan niet bewust, benadrukken van (het
+<strong id="eurocentrisme">Eurocentrisme</strong>:
+Het, al dan niet bewust, benadrukken van (het
 perspectief van) Europa, en in het algemeen de westerse ideeën en
 theorieën. Hierbij wordt geen rekening gehouden met de invloeden van
 andere culturen.
 
-**Europees Handvest:** Document waarin de grondrechten van burgers
+<strong id="europees-Handvest">Europees Handvest</strong>:
+Document waarin de grondrechten van burgers
 binnen de Europese Unie worden beschreven.
 
-**Europese Commissie:** Het overheidsorgaan van de Europese Unie,
+<strong id="europese-commissie">Europese Commissie</strong>:
+Het overheidsorgaan van de Europese Unie,
 verantwoordelijk voor onder andere de Europese begroting en het indienen
 van en stemmen over Europese wetgeving.
 
-**Farmaceuten:** De makers/verkopers van geneesmiddelen.
+<strong id="farmaceuten">Farmaceuten</strong>:
+De makers/verkopers van geneesmiddelen.
 
-**Fair Practice Code:** Een gedragscode voor ondernemen en werken binnen
+<strong id="fair-practice-code">Fair Practice Code</strong>:
+Een gedragscode voor ondernemen en werken binnen
 de kunst, cultuur en creatieve sector met als doel het bewerkstelligen
 van een eerlijke en solidaire bedrijfsvoering.
 
-**Flexibilisering van de arbeidsmarkt:** De trend waarin vaste banen en
+<strong id="flexibilisering-arbeidsmarkt">Flexibilisering van de arbeidsmarkt</strong>:
+De trend waarin vaste banen en
 daarmee zekerheid steeds vaker worden vervangen door ‘flexibele
 contractvormen’ zoals uitzendcontracten, contracten op oproepbasis of
 tijdelijke contracten.
 
-**FRONTEX:** *European Border and Coast Guard Agency*. Frontex is een
+<strong id="frontex">FRONTEX</strong>:
+*European Border and Coast Guard Agency*. Frontex is een
 agentschap vanuit samenwerking van Europese lidstaten en bewaakt de
 Europese buitengrenzen.
 
-**Gendergerelateerd geweld:** Geweldpleging tegen iemand vanwege hun
+<strong id="Gendergerelateerd geweld">Gendergerelateerd geweld</strong>:
+Geweldpleging tegen iemand vanwege hun
 gender(identiteit).
 
-**Genderexpressie:** Het uiten van het gevoel gekoppeld aan iemands
+<strong id="genderexpressie">Genderexpressie</strong>:
+Het uiten van het gevoel gekoppeld aan iemands
 genderidentiteit.
 
-**Genderidentiteit:** De wijze waarop iemand zich identificeert op het
+<strong id="genderidentiteit">Genderidentiteit</strong>:
+De wijze waarop iemand zich identificeert op het
 gebied van diens gender.
 
-**Gelijke behandelingsrichtlijn:** Europese richtlijn bestaande uit de
+<strong id="gelijke-behandelingsrichtlijn">Gelijke behandelingsrichtlijn</strong>:
+Europese richtlijn bestaande uit de
 toezegging van landen om zich volledig in te zetten op het gebied van
 bestrijding van alle vormen van uitsluiting en discriminatie.
 
-**Green Deal:** Een wetsvoorstel waarmee grote stappen worden gezet naar
+<strong id="green-deal">Green Deal</strong>:
+Een wetsvoorstel waarmee grote stappen worden gezet naar
 een duurzame en circulaire economie.
 
-**Grootkapitaal:** De groep mensen en instanties met de grootste
+<strong id="grootkapitaal">Grootkapitaal</strong>:
+De groep mensen en instanties met de grootste
 financiële macht.
 
-**Hervestiging:** Als de meest kwetsbare vluchtelingen niet kunnen
+<strong id="hervestiging">Hervestiging</strong>:
+Als de meest kwetsbare vluchtelingen niet kunnen
 terugkeren naar hun eigen land en ze ook niet kunnen blijven in hun
 opvangland, dan komen ze in aanmerking voor hervestiging in Nederland.
 Dit komt bijvoorbeeld voor wanneer vluchtelingen extra gevaar lopen, of
 wanneer kampen of opvanglanden niet genoeg voorzieningen hebben om te
 kunnen omgaan met een complexe medische aandoening of handicap.
 
-**IHRA-definitie:** Door de Israël-lobby wordt een poging gedaan om de
+<strong id="ihra-definitie">IHRA-definitie</strong>:
+Door de Israël-lobby wordt een poging gedaan om de
 gangbare definitie van antisemitisme aan te passen door erin op te nemen
 dat vormen van kritiek op de staat Israël daaronder kunnen vallen. Deze
 pogingen om de IHRA-definitie aangenomen te krijgen door regeringen en
 parlementen gaan niet toevallig samen met campagnes om alle kritiek op
 Israël te delegitimeren.
 
-**Inclusiviteit:** Het actief in de samenleving betrekken van
+<strong id="inclusiviteit">Inclusiviteit</strong>:
+Het actief in de samenleving betrekken van
 achtergestelde groepen op basis van gelijkwaardige rechten en plichten.
 
-**Indexeren:** Het aanpassen van de hoogte van een inkomen of uitkering
+<strong id="indexeren">Indexeren</strong>:
+Het aanpassen van de hoogte van een inkomen of uitkering
 aan de inflatie zodat de koopkracht hetzelfde blijft.
 
-**Inflatievolgend:** Het aanhouden van inflatie (stijging van het
+<strong id="inflatievolgend">Inflatievolgend</strong>:
+Het aanhouden van inflatie (stijging van het
 algemene prijspeil in de economie) als maximale lijn voor bijvoorbeeld
 huurverhogingen.
 
-**Infrastructurele ontwikkelingen:** De aanleg en ontwikkeling van
+<strong id="infrastructurele-ontwikkelingen">Infrastructurele ontwikkelingen</strong>:
+De aanleg en ontwikkeling van
 infrastructuur (bijvoorbeeld wegen, spoorlijnen en
 communicatienetwerken)
 
-**Inspectie SZW:** Overheidsorgaan met als kerntaak het inspecteren op
+<strong id="inspectie-szw">Inspectie SZW</strong>:
+Overheidsorgaan met als kerntaak het inspecteren op
 gebieden als arbeidsomstandigheden en fraude binnen werk en inkomen.
 
-**Institutioneel:** Verweven in de cultuur en normen van instituten,
+<strong id="institutioneel">Institutioneel</strong>:
+Verweven in de cultuur en normen van instituten,
 bijvoorbeeld overheidsinstellingen.
 
-**Intersectioneel feminisme:** Bij intersectioneel feminisme gaat het
+<strong id="intersectioneel-feminisme">Intersectioneel feminisme</strong>:
+Bij intersectioneel feminisme gaat het
 niet alleen over vrouwzijn, maar gaat het daarnaast om de combinatie van
 factoren die je leven ook beïnvloeden en hoe die samenwerken. Het gaat
 dan om factoren als gender, ras, klasse, seksualiteit, beperking,
 enzovoorts.
 
-**Kallemooi:** Een traditie op Schiermonnikoog waarbij een levende haan
+<strong id="kallemooi">Kallemooi</strong>:
+Een traditie op Schiermonnikoog waarbij een levende haan
 gedurende drie dagen op 18 tot 20 meter hoogte in een mand wordt
 vastgehouden.
 
-**Kapitaalvlucht:** Het doorsluizen van kapitaal naar het buitenland,
+<strong id="kapitaalvlucht">Kapitaalvlucht</strong>:
+Het doorsluizen van kapitaal naar het buitenland,
 vaak vanwege gunstige belastingtarieven.
 
-**Kapitalisme:** Ons huidige economische systeem waarin het behalen van
+<strong id="kapitalisme">Kapitalisme</strong>:
+Ons huidige economische systeem waarin het behalen van
 winst en het opbouwen van kapitaal het belangrijkst zijn. De vrije markt
 met de bijbehorende voortdurende groei moet daarvoor zorgen. Dit gebeurt
 door middel van uitbuiting en gaat ten koste van onder andere
 arbeidsrechten, eerlijke verdeling van macht en welvaart, dierenwelzijn
 en het klimaat.
 
-**Klassenjustitie:** Wanneer mensen met meer vermogen of hogere
+<strong id="klassenjustitie">Klassenjustitie</strong>:
+Wanneer mensen met meer vermogen of hogere
 opleidingen gebaseerd op dat gegeven worden bevoorrecht binnen de
 rechtspraak.
 
-**Kostendelersnorm:** Het verlagen van een bijstandsuitkering op het
+<strong id="kostendelersnorm">Kostendelersnorm</strong>:
+Het verlagen van een bijstandsuitkering op het
 moment dat meerdere volwassenen samenwonen op één adres. Dit geldt ook
 als de samenwonende volwassenen een familie vormen.
 
-**Kringlooplandbouw:** Zie Circulaire landbouw.
+<strong id="kringlooplandbouw">Kringlooplandbouw</strong>:
+Zie Circulaire landbouw.
 
-**Kwetsbare vluchtelingen:** Groepen vluchtelingen die door hun
+<strong id="kwetsbare vluchtelingen">Kwetsbare vluchtelingen</strong>:
+Groepen vluchtelingen die door hun
 achtergrond of (delen van) hun identiteit als bijzonder kwetsbaar worden
 aangemerkt, bijvoorbeeld oudere asielzoekers, zwangere vluchtelingen,
 alleenstaande vrouwen (met of zonder kinderen), minderjarigen en
 slachtoffers van martelingen of seksueel misbruik.
 
-**LHBTQI+:** Een afkorting voor ‘Lesbisch, Homoseksueel, Biseksueel,
+<strong id="lhbtiq-plus">LHBTQI+</strong>:
+Een afkorting voor ‘Lesbisch, Homoseksueel, Biseksueel,
 Trans, Queer, Intersekse’ en meer.
 
-**Liberaal:** Politieke stroming waar de overheid zo min mogelijk
+<strong id="liberaal">Liberaal</strong>:
+Politieke stroming waar de overheid zo min mogelijk
 invloed heeft op de invulling van de maatschappij, waar het belang van
 bedrijfseigenaren voorop staat, en radicale verandering vrijwel
 uitgesloten is.
 
-**Loondispensatieregeling in de Wajong:** Een financiële maatregel die
+<strong id="loondispensatieregeling-in-de-wajong">Loondispensatieregeling in de Wajong</strong>:
+Een financiële maatregel die
 werkgevers moet stimuleren meer mensen met een beperking aan te nemen.
 Dit gebeurt door mensen met een Wajong-uitkering onder het minimumloon
 te betalen; de rest wordt als uitkering verstrekt door het UWV.
 
-**Mensenrechtenverdragen:** Gemaakte afspraken tussen landen over het
+<strong id="mensenrechtenverdragen">Mensenrechtenverdragen</strong>:
+Gemaakte afspraken tussen landen over het
 beschermen van mensenrechten. Denk bijvoorbeeld aan de Universele
 Verklaring van de Rechten van de Mens. Ook binnen de Nederlandse en
 Europese wetgeving worden deze in verschillende wetten en afspraken
 behandeld.
 
-**Multilateraal:** Samenwerking tussen meerdere partijen.
+<strong id="multilateraal">Multilateraal</strong>:
+Samenwerking tussen meerdere partijen.
 
-**Neokolonialisme:** Systemen waarin rijke (vaak westerse) landen
+<strong id="neokolonialisme">Neokolonialisme</strong>:
+Systemen waarin rijke (vaak westerse) landen
 voormalig gekoloniseerde gebieden nog steeds uitbuiten.
 
-**Neurodiversiteit:** De van nature aanwezige verschillen en variaties
+<strong id="neurodiversiteit">Neurodiversiteit</strong>:
+De van nature aanwezige verschillen en variaties
 in het menselijk brein, bijvoorbeeld op het gebied van sociale
 interactie of de manier van informatie opnemen. Ook wel een verzamelterm
 voor onder andere autisme en dyslexie.
 
-**NGO:** Een ‘niet-gouvernementele organisatie’, dus een organisatie die
+<strong id="ngo">NGO</strong>:
+Een ‘niet-gouvernementele organisatie’, dus een organisatie die
 onafhankelijk is van de overheid.
 
-**Non-binair:** Een non-binair persoon is iemand die zich niet
+<strong id="non-binair">Non-binair</strong>:
+Een non-binair persoon is iemand die zich niet
 thuisvoelt in de hokjes ‘man’ of ‘vrouw’.
 
-**Nul-op-de-meter-woning:** Een nul-op-de-meter-woning is een
+<strong id="nul-op-de-meter-woning">Nul-op-de-meter-woning</strong>:
+Een nul-op-de-meter-woning is een
 energieneutrale woning: door energie te besparen, en lokaal en duurzaam
 energie op te wekken wordt er net zo veel verbruikt als er opgewekt
 wordt. Soms wordt er zelfs meer energie opgewekt dan er verbruikt wordt.
 
-**OESO-richtlijnen:** Richtlijnen die aangeven wat er van multinationals
+<strong id="oeso-richtlijnen">OESO-richtlijnen</strong>:
+Richtlijnen die aangeven wat er van multinationals
 wordt verwacht op sociaal-maatschappelijk gebied.
 
-**Onteigeningswetgeving:** De mogelijkheid om eigendom van particulieren
+<strong id="onteigeningswetgeving">Onteigeningswetgeving</strong>:
+De mogelijkheid om eigendom van particulieren
 aan de overheid over te dragen.
 
-**Open source:** Vrije toegang tot de gebruikte bronnen van een
+<strong id="open-source">Open source</strong>:
+Vrije toegang tot de gebruikte bronnen van een
 eindproduct.
 
-**Parlementaire enquête:** Een middel voor de Eerste en Tweede Kamer om
+<strong id="parlementaire-enquete">Parlementaire enquête</strong>:
+Een middel voor de Eerste en Tweede Kamer om
 informatie over een specifiek onderwerp te kunnen verkrijgen.
 
-**Rasrichtlijn:** Europese richtlijn aangaande gelijke behandeling
+<strong id="rasrichtlijn">Rasrichtlijn</strong>:
+Europese richtlijn aangaande gelijke behandeling
 ongeacht ras of etniciteit.
 
-**Rechtsherstel:** Compensatie voor de verschillende gevolgen die
+<strong id="rechtsherstel">Rechtsherstel</strong>:
+Compensatie voor de verschillende gevolgen die
 bepaalde groepen hebben moeten doorstaan bij bezetting en/of vervolging.
 
-**Robotisering:** De trend waarin een toenemend aantal taken kan worden
+<strong id="robotisering">Robotisering</strong>:
+De trend waarin een toenemend aantal taken kan worden
 uitgevoerd door geautomatiseerde systemen.
 
-**Schijnzelfstandigheid:** Iemand die werk uitvoert als zelfstandige,
+<strong id="schijnzelfstandigheid">Schijnzelfstandigheid</strong>:
+Iemand die werk uitvoert als zelfstandige,
 maar daarbij eigenlijk wel in constante dienst is van een werkgever en
 onder diens gezag staat.
 
-**Segregatie:** Afzondering van bevolkingsgroepen uit de maatschappij of
+<strong id="segregatie">Segregatie</strong>:
+Afzondering van bevolkingsgroepen uit de maatschappij of
 het scheiden van bevolkingsgroepen. Het tegenovergestelde van
 integratie.
 
-**Sociaal domein:** Alles wat (lokale) overheden doen op het gebied van
+<strong id="sociaal-domein">Sociaal domein</strong>:
+Alles wat (lokale) overheden doen op het gebied van
 participatie, zelfredzaamheid, werk en zorg.
 
-**Speculatie:** Een huis (of iets anders) wordt in dit geval niet
+<strong id="speculatie">Speculatie</strong>:
+Een huis (of iets anders) wordt in dit geval niet
 gekocht om zelf te gebruiken, maar wordt gebruikt voor winst. Veel
 huizen komen op die manier leeg te staan en zorgen voor een kunstmatig
 woningtekort.
 
-**Tobintaks:** Een (kleine) belasting over transacties met buitenlandse
+<strong id="tobintaks">Tobintaks</strong>:
+Een (kleine) belasting over transacties met buitenlandse
 valuta (Euro, Pond, Dollar, etc).
 
-**Turkijedeal:** Een deal tussen de Europese Unie en Turkije over de
+<strong id="turkijedeal">Turkijedeal</strong>:
+Een deal tussen de Europese Unie en Turkije over de
 opvang van Syrische vluchtelingen in Turkije. Daar stond veel Europees
 geld tegenover. Deze deal is gebaseerd op het ‘ruilen’ van
 vluchtelingen: elke teruggestuurde vluchteling leidt tot opname van één
@@ -3657,44 +3858,52 @@ disfunctioneel en heeft onder andere geleid tot het vastzitten van
 duizenden vluchtelingen op de Griekse eilanden in mensonterende
 omstandigheden.
 
-**Validisme:** De discriminatie, stigmatisering en/of uitsluiting van
+<strong id="validisme">Validisme</strong>:
+De discriminatie, stigmatisering en/of uitsluiting van
 mensen met een lichamelijke en/of verstandelijke beperking en van
 neurodivergente mensen.
 
-**Veiligheidsdriehoek:** De samenwerking tussen drie personen/instanties
+<strong id="veiligheidsdriehoek">Veiligheidsdriehoek</strong>:
+De samenwerking tussen drie personen/instanties
 (bijvoorbeeld de burgemeester, politie en justitie), meestal op
 regionaal niveau.
 
-**Verhuurderheffing:** Een bedrag dat woningcorporaties en andere
+<strong id="verhuurderheffing">Verhuurderheffing</strong>:
+Een bedrag dat woningcorporaties en andere
 verhuurders in de gereguleerde sector moeten betalen als ze meer dan 50
 huurwoningen verhuren. Door deze heffing hebben woningcorporaties vaak
 weinig geld om te investeren in bijvoorbeeld het opknappen van woningen
 of het bouwen van meer sociale huurwoningen.
 
-**VN-verdrag inzake rechten van personen met een handicap:** Een sinds
+<strong id="vn-verdrag-handicap">VN-verdrag inzake rechten van personen met een handicap</strong>:
+Een sinds
 2016 geldend verdrag waarmee de Nederlandse staat heeft toegezegd de
 situatie van mensen met een beperking dusdanig te verbeteren dat zij
 volwaardig mee mogen en kunnen doen in de samenleving.
 
-**Vrijheid van verkeer:** De vrijheid om je te verplaatsen naar andere
+<strong id="vrijheid-van-verkeer">Vrijheid van verkeer</strong>:
+De vrijheid om je te verplaatsen naar andere
 landen.**  
 Warmtefonds:** Een fonds waaruit woningbezitters, scholen en
 verenigingen van eigenaren kunnen lenen om de verduurzaming van hun
 woningen of panden te realiseren.
 
-**Wooncoöperatie:** Een organisatie waarin huurders zeggenschap hebben
+<strong id="wooncooperatie">Wooncoöperatie</strong>:
+Een organisatie waarin huurders zeggenschap hebben
 over de woningbouw en huurwoningen.
 
-**Woonplicht:** Het verplichten van huizenkopers om ten minste een
+<strong id="woonplicht">Woonplicht</strong>:
+Het verplichten van huizenkopers om ten minste een
 bepaald aantal jaren te wonen in het huis dat ze kopen. Dit is om
 speculatie tegen te gaan.
 
-**Zwijntje-tik:** Een spel waarbij mensen geblinddoekt achter opgesloten
+<strong id="zwijntje-tik">Zwijntje-tik</strong>:
+Een spel waarbij mensen geblinddoekt achter opgesloten
 varkens aan zitten om ze te ‘tikken’.
 
-**ACHTERGRONDSTUKKEN**
+# ACHTERGRONDSTUKKEN
 
-1.  **ZEGGENSCHAP OVER WERK**
+## ZEGGENSCHAP OVER WERK
 
 In een kapitalistische economie wordt van bovenaf gedicteerd hoe je je
 werk moet doen. Ook in hoger geklasseerde banen als docent in het hoger
@@ -3715,8 +3924,7 @@ democratisch bedrijf ook dat de loonkloof tussen de managers, bazen en
 medewerkers veel kleiner wordt en winst ten goede komt van de
 maatschappij.
 
-2.  **GENDERRECHTVAARDIGHEID EN WERK  
-    > **
+## GENDERRECHTVAARDIGHEID EN WERK
 
 Wereldwijd heeft 42% van de vrouwen geen betaalde baan, tegen 6% van de
 mannen. De reden is dat de tijd van vrouwen veel meer in beslag genomen
@@ -3731,7 +3939,7 @@ Dit betekent dat vrouwen veel minder vaak dan mannen over vermogen en
 bezit beschikken en vaak afhankelijk zijn van een huwelijk omdat ze van
 eigen inkomsten niet kunnen leven.
 
-**En in ons welvarende en moderne land dan?**
+### En in ons welvarende en moderne land dan?
 
 Wij gaan er graag prat op dat de gelijkwaardigheid tussen vrouwen en
 mannen hoort bij onze normen en waarden, waar al die nieuwkomers nog wat
@@ -3756,7 +3964,7 @@ name de half miljoen alleenstaande moeders, die zowel voor inkomen als
 voor zorg verantwoordelijk zijn. Het is geen toeval dat een kwart van de
 alleenstaande moeders op of onder de armoedegrens leeft.
 
-**Welk feminisme?**
+### Welk feminisme?
 
 De beweging die er naar streeft om verandering te brengen in de
 ongelijkheid tussen vrouwen en mannen noemen we feminisme. Maar laat dit
@@ -3791,7 +3999,7 @@ kunnen wanneer we ook antikapitalistisch zijn en allianties sluiten met
 systeemkritische organisaties die ook staan voor een rechtvaardigere
 economie.
 
-**Gelijke beloning, maar gelijk met wie?**
+### Gelijke beloning, maar gelijk met wie?
 
 Dit is het punt. Als we het hebben over gelijke beloning, met wie moeten
 de vrouwen die te weinig verdienen zich vergelijken? Wil mevrouw de
@@ -3829,7 +4037,7 @@ naar het thuisfront. Daarmee blijkt dat deze wereld vooral in stand
 wordt gehouden door vrouwen, en migranten, die daar weinig erkenning en
 zeker geen rechtvaardige beloning voor krijgen.
 
-**Niet om de winst, maar om de mensen**
+### Niet om de winst, maar om de mensen
 
 De belangrijke bijdrage die het feminisme biedt aan de door het marxisme
 geïnspireerde systeem-kritiek, is dat het kapitalisme net zo afhankelijk
@@ -3882,7 +4090,7 @@ onze steun verdienen. Waar we het hebben over schoonmakers zijn het ook
 mannen, vaak mannen van kleur of met een migrantenachtergrond, die
 worden achtergesteld en te weinig verdienen.
 
-3.  **VAN ARMOEDEBESTRIJDING NAAR ARMOEDEPREVENTIE**
+## VAN ARMOEDEBESTRIJDING NAAR ARMOEDEPREVENTIE
 
 We horen regelmatig dat het goed gaat met de economie. Daar wordt niet
 bij verteld wie van het herstel van de economie profiteert en wie niet.
@@ -4021,7 +4229,7 @@ de opbrengst van hun werk verdwijnt in de zakken van de rijken, de
 aandeelhouders en de multinationals. Wij horen zeggenschap te hebben
 over waar het door ons verdiende geld heen gaat.
 
-4.  **ERVARINGSDESKUNDIGHEID IN DE ZORG**
+## ERVARINGSDESKUNDIGHEID IN DE ZORG
 
 BIJ1 heeft als basis: niets over ons, zonder ons. Vanzelfsprekend
 pleiten we dan ook voor de inzet van ervaringsdeskundigheid. Het is een
@@ -4036,7 +4244,7 @@ of onmacht hebt ervaren. Ervaringskennis (van zowel ervaringswerkers,
 hulpverleners als de cliënt) moet gelijkwaardig worden aan
 wetenschappelijke en professionele praktijkkennis.
 
-**Van plofparticipatie naar eigenaarschap**
+### Van plofparticipatie naar eigenaarschap
 
 We signaleren dat er nu vaak sprake is van plofparticipatie, voor de
 schijn en voor de show, zonder eigenaarschap bij de mensen zelf. We
@@ -4045,7 +4253,7 @@ eigenaarschap, voor en door de mensen die zorg ontvangen. Zodat het haar
 eigen vernieuwende kracht kan behouden en het politiek kritische aspect
 met oog voor mensenrechten en (on)macht tot zijn recht komt.
 
-**Vrije ruimte voor de leefwereld**
+### Vrije ruimte voor de leefwereld
 
 Ervaringsdeskundigheid heeft vrije ruimte nodig, die nogal eens wordt
 bekneld vanwege de bestaande kaders. Hierdoor krijgt de vernieuwende
@@ -4059,7 +4267,7 @@ laten werken in de systeemwereld.
 *We kunnen een probleem niet oplossen met de denkwijze die het heeft
 veroorzaakt - Albert Einstein*
 
-**Op alle plekken in verschillende vormen**
+### Op alle plekken in verschillende vormen
 
 Ervaringsdeskundigheid moet op verschillende manieren benut worden.
 Zowel in de vorm van cliëntenparticipatie als in de vorm van een
@@ -4069,7 +4277,7 @@ microniveau (individuele ondersteuning), enigszins op mesoniveau
 (richting of in een organisatie), maar het kan juist ook waardevol zijn
 op macroniveau (gericht op regionaal en landelijk strategisch beleid).
 
-**Gelijkwaardige positionering**
+### Gelijkwaardige positionering
 
 Ervaringsdeskundigheid is een emancipatiebeweging van gelijkwaardigheid.
 Dat betekent dat ervaringsdeskundigen ook gelijkwaardig behandeld en
@@ -4081,7 +4289,7 @@ hulpverleners. Professionalisering van ervaringsdeskundigheid is
 wenselijk, op voorwaarde dat deze professionaliteit de eigen kenmerkende
 kritische en vernieuwende kracht van ervaringskennis behoudt.
 
-5.  **ZORG VOOR TRANS PERSONEN**
+## ZORG VOOR TRANS PERSONEN
 
 BIJ1 is tegen het fenomeen van ‘gatekeeping’ van transgenderzorg. De weg
 naar hormonen en operaties is momenteel lang en omslachtig. Artsen
@@ -4110,7 +4318,7 @@ worden gegeven: zonder tussenkomst van een psychologische beoordeling.
 Ook moet de transgenderzorg worden uitgebreid zodat er een einde komt
 aan de maanden- of soms zelfs jarenlange wachtlijsten.
 
-6.  **ONDERWIJSSEGREGATIE**
+## ONDERWIJSSEGREGATIE
 
 De marktwerking die in de jaren ’80 onder onderwijsminister Deetman (CHU
 en CDA) zijn intrede deed, heeft schadelijke effecten. Tijdens het
@@ -4209,7 +4417,7 @@ voor kinderen met een beperking moeten een optie worden in het hele
 land, zodat iedere leerling en diens ouders een keuze hebben over de
 vorm van onderwijs die zij willen krijgen.
 
-7.  **DE ONDERWIJSVISIE VAN BIJ1**
+## DE ONDERWIJSVISIE VAN BIJ1
 
 Hoofdwerk heeft meer waardering in onze maatschappij dan handwerk. Dit
 wordt op allerlei manieren duidelijk in onderwijs en samenleving:
@@ -4276,7 +4484,7 @@ scholen zou meer ruimte moeten laten voor een diverser en inclusiever
 perspectief op onze geschiedenis, ook om ons heden beter te kunnen
 begrijpen.
 
-8.  **DIGITALISERING IN HET ONDERWIJS**
+## DIGITALISERING IN HET ONDERWIJS
 
 Digitalisering zou een middel moeten zijn om kansengelijkheid en
 onderwijskwaliteit te bevorderen. Dat is het nu vaak niet. De klassen
@@ -4316,7 +4524,7 @@ leerlingen en studenten met een beperking. Daarbij zouden scholen altijd
 laptops en wifi-hotspots ter beschikking moeten stellen voor leerlingen
 uit minima-gezinnen.
 
-9.  **HET MBO**
+## HET MBO
 
 BIJ1 staat voor inclusief en gelijkwaardig onderwijs. Op dit moment is
 er in Nederland nog steeds sprake van een onderwaardering en
@@ -4346,7 +4554,7 @@ praktisch niveau. Dit betekent dat er meer financiële middelen moeten
 komen voor de docenten en de leerlingen; zodat elke leerling de
 benodigde aandacht krijgt.
 
-10. **HET WO**
+## HET WO
 
 In het wetenschappelijk onderwijs (wo) is het niet veel beter dan in
 andere onderwijssectoren. Sinds 2000 zijn er 68% meer studenten in het
@@ -4426,7 +4634,7 @@ Tot slot moeten medewerkers een beroep kunnen doen op onafhankelijke
 ombudsbureaus, die op hun beurt de macht en middelen hebben om een
 onderzoek te beginnen naar misstanden.
 
-11. **HET LERARENTEKORT**
+## HET LERARENTEKORT
 
 Om het huidige lerarentekort tegen te gaan en ervoor te zorgen dat deze
 niet meer terugkomt, is het nodig om aan systeemverandering in plaats
@@ -4482,7 +4690,7 @@ namelijk tegen elkaar uitgespeeld. Pabo’s zouden ook meer aandacht
 moeten besteden aan hoe om te gaan met de werkdruk in het onderwijsveld,
 die vanuit zowel de samenleving, scholen als de ouders komt.
 
-12. **TOEGANKELIJKHEID**
+## TOEGANKELIJKHEID
 
 Om de samenleving voor iedereen mensen toegankelijk en inclusief te
 maken, is het belangrijk om een onderscheid te maken tussen het medische
@@ -4500,7 +4708,7 @@ niet een bibliotheek in kan, maar de drempel bij de ingang, dus de
 samenleving die niet voldoende is aangepast op de beperking.
 
 Voor een duidelijke uitleg over het sociale model, zie het volgende
-filmpje: https://nietsoveronszonderons.nl/sociaalmodel/
+filmpje: [https://nietsoveronszonderons.nl/sociaalmodel/](https://nietsoveronszonderons.nl/sociaalmodel/)
 
 Het huidige systeem volgt het medische model. Hierdoor wordt er
 voornamelijk vanuit liefdadigheid gehandeld naar mensen met een
@@ -4514,7 +4722,7 @@ voor iedereen toegankelijk maken. Er wordt te veel vanuit liefdadigheid
 gedacht en gehandeld, en niet vanuit mensenrechten.
 
 In 2016 is in Nederland het VN-verdrag inzake rechten van personen met
-een handicap[1] geratificeerd. Dit verdrag is al in 2006 opgesteld en
+een handicap[<a href="footnote-vn-handicap">1</a>] geratificeerd. Dit verdrag is al in 2006 opgesteld en
 geschreven vanuit het sociaal model:
 
 > “Erkennend dat het begrip handicap aan verandering onderhevig is en
@@ -4534,7 +4742,12 @@ rechten van personen met een handicap moet worden nageleefd, inclusief
 sancties vanuit de overheid om ervoor te zorgen dat dit ook
 daadwerkelijk gebeurt.
 
-13. **HET RECHT OP ZELFBESCHIKKING VAN MOSLIMS**
+<span a="footnote-vn-handicap">[1]</span> [https://iederin.nl/wp-content/uploads/2019/12/Schaduwrapport-VN-verdrag-Handicap.pdf](https://iederin.nl/wp-content/uploads/2019/12/Schaduwrapport-VN-verdrag-Handicap.pdf)
+Een toegankelijke en makkelijk begrijpelijke versie hiervan is hier te
+vinden:
+[https://iederin.nl/wp-content/uploads/2019/12/Schaduwrapport-eenvoudige-versie.pdf](https://iederin.nl/wp-content/uploads/2019/12/Schaduwrapport-eenvoudige-versie.pdf)
+
+## HET RECHT OP ZELFBESCHIKKING VAN MOSLIMS
 
 Er heerst in Nederland, net als in veel andere delen van de wereld, een
 klimaat van islamofobie. Een jarenlange hetze tegen moslims door
@@ -4555,7 +4768,7 @@ zelf mogen bepalen of ze wel of niet mensen met een hoofddoek, keppeltje
 of andere religieuze attributen in dienst nemen. Dit is discriminatie,
 en daar moet de overheid zich hard tegen uitspreken.
 
-14. **ABORTUS**
+## ABORTUS
 
 Wereldwijd staan vrijheden en rechten zoals abortus onder druk. Ook in
 Nederland zijn er signalen dat er nog altijd huisartsen zijn die
@@ -4628,7 +4841,7 @@ maar weinig mensen hun zorgervaring delen. Om de abortuszorg te kunnen
 verbeteren, is het belangrijk dat mensen die een abortus hebben gehad
 hierover mee kunnen praten.
 
-15. **KLIMAATRACISME**
+## KLIMAATRACISME
 
 De klimaatcrisis heeft op verschillende plekken wereldwijd al enkele
 jaren schadelijke effecten op lokale ecosystemen, de beschikbaarheid van
@@ -4681,7 +4894,7 @@ westerse/witte normen.
 
 *\*Oorspronkelijke bewoners van een land en/of gebied*
 
-16. **PALESTINA**
+## PALESTINA
 
 Vanuit de twee grondwaarden die we bij BIJ1 hanteren, radicale
 gelijkwaardigheid en economische rechtvaardigheid, is het voor ons
@@ -4704,17 +4917,17 @@ is dat er onderhuids paradigma’s meespelen, waardoor we langs elkaar
 heen spreken. In grote lijnen zijn er drie paradigma’s te onderscheiden:
 
 -   Paradigma 1: Israël is een klein land, een toevluchtsoord voor de
-    > joden, de overlevenden van de Shoah, een land dat zich staande
-    > moet houden in een vijandige, Arabische omgeving.
+    joden, de overlevenden van de Shoah, een land dat zich staande
+    moet houden in een vijandige, Arabische omgeving.
 
 -   Paradigma 2: Joodse Israëli’s en Palestijnen vechten om hetzelfde
-    > stukje land, en zijn beiden niet bereid tot compromissen. Met
-    > andere woorden: waar er twee vechten, hebben er twee schuld.
+    stukje land, en zijn beiden niet bereid tot compromissen. Met
+    andere woorden: waar er twee vechten, hebben er twee schuld.
 
 -   Paradigma 3: Israël is een settler-koloniale en bezettende
-    > mogendheid, die de inheemse Palestijnse bewoners van het land bij
-    > de stichting van de staat heeft onteigend en verdreven, en nog
-    > steeds doorgaat met die etnische zuivering.
+    mogendheid, die de inheemse Palestijnse bewoners van het land bij
+    de stichting van de staat heeft onteigend en verdreven, en nog
+    steeds doorgaat met die etnische zuivering.
 
 Deze tegenover elkaar staande paradigma’s gaan dus over de vraag wie de
 hoofdverantwoordelijken zijn voor de ontstane situatie in het land dat
@@ -4788,7 +5001,7 @@ maken aan schendingen van het recht is evident, maar staat in geen
 verhouding tot de Israëlische onderdrukking van miljoenen Palestijnen op
 de Westelijke Jordaanoever, in Oost-Jeruzalem en in Gaza.”
 
-**De politiek van de staat Israël**
+### De politiek van de staat Israël
 
 Israël heeft geen grondwet die de gelijkheid voor de wet van alle
 inwoners, ongeacht etniciteit of religie garandeert. Integendeel. Israël
@@ -4865,7 +5078,7 @@ van antisemitisme. De Israël-lobby in Nederland probeert al jaren
 eenieder die bijvoorbeeld achter de BDS-beweging staat weg te zetten als
 antisemieten. De pijlen zijn ook al enkele keren op BIJ1 gericht.
 
-**De Internationale BDS-beweging**
+### De Internationale BDS-beweging
 
 In 2005 hebben 171 maatschappelijke Palestijnse organisaties opgeroepen
 tot vreedzaam verzet tegen Israël. Het is een oproep tot boycot,
@@ -4937,7 +5150,7 @@ zo goed op aangesproken te worden. Wij horen ook in ons eigen land de
 hand in eigen boezem te steken waar het gaat om het handhaven van
 internationaal recht en mensenrechten.
 
-17. **GENDER-GERELATEERD GEWELD**
+## GENDER-GERELATEERD GEWELD
 
 We leven in een verkrachtingscultuur: dat wil zeggen dat verkrachting is
 genormaliseerd en zelfs wordt verexcuseerd in de media en in onze
@@ -4957,7 +5170,7 @@ aandacht voor de vraag waarom mannen leren dat ze ‘recht’ hebben op
 seks. Verkrachtingscultuur zit in onze systemen, in onze media, maar ook
 in onze taal. Zo komt er schuld en schaamte bij het slachtoffer terecht,
 en niet bij de dader. Dit zorgt ook voor een hoge drempel van
-aangiftebereidheid.
+<a href="#aangiftebereidheid">aangiftebereidheid</a>.
 
 We leven in een samenleving die mannelijk geweld bagatelliseert,
 legitimeert, normaliseert en zelfs uitlokt. Een halve eeuw nadat de
@@ -5044,8 +5257,3 @@ de zorg, beroepen die traditioneel als vrouwelijk worden gezien.
 
 Alleen door de problemen rondom gender-gerelateerd geweld bij de wortel
 aan te pakken, kunnen we er daadwerkelijk iets tegen doen.
-
-[1] [<u>https://iederin.nl/wp-content/uploads/2019/12/Schaduwrapport-VN-verdrag-Handicap.pdf</u>](https://iederin.nl/wp-content/uploads/2019/12/Schaduwrapport-VN-verdrag-Handicap.pdf)
-Een toegankelijke en makkelijk begrijpelijke versie hiervan is hier te
-vinden:
-[<u>https://iederin.nl/wp-content/uploads/2019/12/Schaduwrapport-eenvoudige-versie.pdf</u>](https://iederin.nl/wp-content/uploads/2019/12/Schaduwrapport-eenvoudige-versie.pdf)
