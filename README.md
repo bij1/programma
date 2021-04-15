@@ -1893,7 +1893,7 @@ kernpunten voor ogen.
 2.  Alle overheidsbeleid moet worden getoetst op duurzaamheid en impact
     op klimaat en milieu, ook met terugwerkende kracht.
 
-3.  De Nederlandse uitstoot van broeikasgassen is in 2025 minstens 75%
+3.  De Nederlandse uitstoot van broeikasgassen is in 2025 minstens 85%
     lager dan in 1990 en staat in 2030 op 0. Deze doelen worden
     wettelijk vastgelegd en zijn bindend.
 
