@@ -22,6 +22,7 @@ Heb je een idee maar weet je nog niet precies hoe het amendement eruit moet zien
 - Duw vervolgens tweemaal op **Create Pull Request**
 
 Animatie die dit proces laat zien:
+
 ![demonstration of how to create an amendment](pr.gif)
 
 ### offline amendementen maken
