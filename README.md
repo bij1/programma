@@ -11,15 +11,15 @@ Heb je een idee maar weet je nog niet precies hoe het amendement eruit moet zien
 
 ## amendementen maken
 
+- [Maak een account](https://github.com/join) en [log in](https://github.com/login)
+- Duw rechtsboven op **Fork**
+
 ### amendementen maken via de browser
 
-- Maak een account en log in
-- Ga naar de file [`programma.md`](./programma.md)
-- Duw op ✏️ **Edit File** (op mobile verstopt achter **...**)
-- Als Github vraagt of je een *fork* wil maken duw **OK**
+- Ga naar **✏️ [`programma.md` wijzigen](https://github.com/KiaraGrouwstra/bij1-programma/edit/main/programma.md)**
 - Maak je gewenste amendementen
-- Omschrijf je amendement onderaan de pagina en duw op **Propose Changes**
-- Duw vervolgens tweemaal op **Create Pull Request**
+- Omschrijf je amendement onderaan de pagina en duw op **Propose Changes** (groene knop)
+- Duw vervolgens tweemaal op **Create Pull Request** (groene knop)
 
 Animatie die dit proces laat zien:
 
