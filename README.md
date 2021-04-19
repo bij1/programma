@@ -29,3 +29,7 @@ Animatie die dit proces laat zien:
 
 Het is tevens mogelijk om offline aan amendementen te werken.
 Dit kan ofwel via een grafische tool als [Github Desktop](https://desktop.github.com/), ofwel (gevorderden) via [Git](https://git-scm.com/).
+
+## Kom je er niet uit?
+
+Omschrijf je probleem in een nieuwe [issue](issues/new/choose) of stuur een [email](mailto:cinerealk+github@gmail.com)!
