@@ -1,0 +1,10 @@
+include:
+  - project: 'bij1/ci-templates'  
+    ref: 'main'
+    file: 'markdown.yml'
+
+variables:
+  PROJECT_ID  : ${CI_PROJECT_ID}
+  PROJECT_NAME: ${CI_PROJECT_NAME}
+  PROJECT_SLUG: ${CI_PROJECT_PATH_SLUG}
+  MARKDOWN_FILE: programma.md
