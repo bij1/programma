@@ -1,6 +1,6 @@
 # 1. ANTI-RACISME EN DEKOLONISATIE
 
-## NA DE KOMMA BEGINT NU
+## <mark>NA DE KOMMA BEGINT NU</mark>
 
 **BIJ1 droomt van een wereld zonder racisme, seksisme, islamofobie,
 LHBTQIA+ discriminatie, kapitalisme, en alle andere vormen van
@@ -20,10 +20,12 @@ iedereen, ook op witte mensen. Alleen de allerrijksten profiteren van
 onze racistische en koloniale wereld die solidariteit en echte
 verandering tegenwerkt.
 
+<mark>
 Daarom moeten we deze systemen nu voor eens en voor altijd afbreken, en
 vanuit intersectionele solidariteit werken naar een wereld gebaseerd op
 radicale gelijkwaardigheid. Hiervoor heeft BIJ1 de volgende kernpunten
 voor ogen:
+</mark>
 
 ## INSTITUTIONEEL ANTIRACISME
 
@@ -150,7 +152,7 @@ voor ogen:
 
 # 2. WERK EN BESTAANSZEKERHEID
 
-## ALLES IS ALTIJD AL VAN ONS
+## <mark>ALLES IS ALTIJD AL VAN ONS</mark>
 
 **Bestaanszekerheid en een goed leven voor iedereen moet de norm zijn.
 In de huidige economie wordt onze arbeidskracht als product verkocht. Op
@@ -174,8 +176,10 @@ mensen tegen te gaan. Vaste contracten en zekerheid worden weer de norm
 in plaats van de uitzondering, en met goede cao's en betere rechten voor
 stakers brengen we de macht terug naar de werknemers.
 
+<mark>
 Samen pakken we terug wat altijd al van ons was. Dit doen we op de
 volgende manieren:
+</mark>
 
 ## EEN INCLUSIEVE EN GELIJKWAARDIGE ARBEIDSMARKT
 
@@ -274,7 +278,7 @@ volgende manieren:
 
 # 3. ECONOMIE
 
-## EEN ECONOMIE VOOR EN DOOR IEDEREEN  
+## <mark>EEN ECONOMIE VOOR EN DOOR IEDEREEN</mark>  
   
 **BIJ1 staat voor een economie die werkt voor iedereen en niet alleen
 voor een klein groepje mensen. Onze ideale economie is socialistisch:
@@ -296,9 +300,11 @@ andere vormen van discriminatie. Dat betekent ook dat we een einde maken
 aan ons aandeel in het economisch imperialisme, waarbij het Globale
 Noorden, het Globale Zuiden uitbuit.  
   
+<mark>
 Niet groei en winst, maar vrijheid en gelijkwaardigheid horen het
 einddoel te zijn van een economie. Om tot deze economie te komen, heeft
 BIJ1 de volgende kernpunten voor ogen:
+</mark>
 
 ## VAN PRIVATISERING NAAR NATIONALISERING
 
@@ -383,7 +389,7 @@ BIJ1 de volgende kernpunten voor ogen:
 
 4. KLIMAAT 
 
-## EEN LEEFBARE PLANEET
+## <mark>EEN LEEFBARE PLANEET</mark>
 
 **BIJ1 vecht voor een wereld waarin ecosystemen, mens en dier duurzaam
 met elkaar samenleven. De tijd van aarzelen en schijnoplossingen is
@@ -416,7 +422,7 @@ samenleving. Het leren, waarderen en volgen van de kennis van inheemse
 volkeren dient daarbij uitgangspunt te zijn. BIJ1 heeft de volgende
 kernpunten voor ogen:
 
-## KLIMAATRECHTVAARDIGHEID NU
+## <mark>KLIMAATRECHTVAARDIGHEID NU</mark>
 
 1.  De Nederlandse overheid roept per direct de klimaatcrisis uit. Zij
     is daarbij eerlijk en transparant over de gevolgen van de
@@ -517,7 +523,7 @@ kernpunten voor ogen:
 
 # 5. WONEN
 
-## VAN WONINGMARKT NAAR VOLKSHUISVESTING
+## <mark>VAN WONINGMARKT NAAR VOLKSHUISVESTING</mark>
 
 **BIJ1 strijdt voor een maatschappij waarin iedereen een veilige,
 toegankelijke en betaalbare woning heeft. Wonen hoort een recht te zijn,
@@ -544,8 +550,10 @@ moet er meer actie worden genomen tegen klimaat gerelateerde schade,
 vooral op Bonaire, Statia en Saba, die het hardst getroffen (zullen)
 worden door bijvoorbeeld overstromingen.
 
+<mark>
 Om iedereen van een betaalbare en leefbare woning te kunnen voorzien,
 heeft BIJ1 de volgende plannen:
+</mark>
 
 ## WONEN IS EEN RECHT
 
@@ -659,7 +667,7 @@ heeft BIJ1 de volgende plannen:
 
 # 6. ARUBA, BONAIRE, CURAÇAO, SABA, STATIA EN SINT MAARTEN
 
-## RADICALE GELIJKWAARDIGHEID EN HERSTEL IN HET KONINKRIJK
+## <mark>RADICALE GELIJKWAARDIGHEID EN HERSTEL IN HET KONINKRIJK</mark>
 
 **BIJ1 gelooft in een samenleving waar iedereen, of ze nu in het
 Europese of het Caribische gedeelte van het Koninkrijk wonen, een
@@ -684,11 +692,13 @@ Nederlandse overheid alleen leningen geven, en alleen als alle eisen van
 Nederland gevolgd werden. Nederland deed hetzelfde toen Sint Maarten
 verwoest werd door Orkaan Irma. Dit moet radicaal anders.
 
+<mark>
 BIJ1 strijd voor het herstellen en repareren van koloniale schade, en
 wil de eilanden de macht geven om dingen zelf te kunnen bepalen.
 Nederland heeft daarbij de plicht om, waar gewenst, de eilanden te
 ondersteunen zonder voorwaarden. Daarvoor heeft BIJ1 de volgende
 kernpunten voor ogen:
+</mark>
 
 ## HERSTELLEN VAN KOLONIALE SCHADE
 
@@ -786,7 +796,7 @@ kernpunten voor ogen:
 
 # 7. ZORG
 
-## DE MENS CENTRAAL
+## <mark>DE MENS CENTRAAL</mark>
 
 **BIJ1 vecht voor een zorgsysteem dat van, voor en door iedereen is. Op
 dit moment is de zorg een verdienmodel voor zorginstellingen. Dit gaat
@@ -807,8 +817,10 @@ zorgsysteem moet op de schop. Daarom brengen we de zorg weer in publieke
 handen en zetten we ons in voor een betaalbaar, toegankelijk en
 rechtvaardig zorgsysteem.
 
+<mark>
 De zorg moet niet langer draaien om geld, maar om mensen. Daarvoor heeft
 BIJ1 de volgende kernpunten voor ogen:
+</mark>
 
 ## ZORG IN PUBLIEKE HANDEN
 
@@ -948,7 +960,7 @@ BIJ1 de volgende kernpunten voor ogen:
 
 # 8. ASIEL EN MIGRATIE 
 
-## BESCHERM MENSEN, GEEN GRENZEN
+## <mark>BESCHERM MENSEN, GEEN GRENZEN</mark>
 
 **BIJ1 staat voor een wereld waarin het recht om vrij te kunnen reizen
 beschermd en gestimuleerd wordt. Grenzen, vaak met willekeur getekend,
@@ -967,8 +979,10 @@ mogelijk maken, ongeacht hun land van herkomst. Zo verdient iedereen het
 om te kunnen werken, studeren en een woning te hebben. Goede,
 menswaardige opvanglocaties zijn daarbij een eerste vereiste.
 
+<mark>
 Wij werken toe naar een wereld waarin mensen worden beschermd, in plaats
 van grenzen. Daarvoor heeft BIJ1 de volgende punten:
+</mark>
 
 ## VEILIGE MIGRATIE EN MENSWAARDIGE OPVANG
 
@@ -1119,7 +1133,7 @@ van grenzen. Daarvoor heeft BIJ1 de volgende punten:
 
 # 9. ZELFBESCHIKKING
 
-## JOUW LICHAAM, JOUW KEUZES
+## <mark>JOUW LICHAAM, JOUW KEUZES</mark>
 
 **Het recht op zelfbeschikking is een groot goed, van je geboorte tot
 aan je dood. Je hebt het recht goed geïnformeerd te worden over zaken
@@ -1136,8 +1150,10 @@ Het recht op zelfbeschikking staat voor verschillende groepen mensen
 onder druk. BIJ1 gelooft dat zelf mogen bepalen wat er met je lichaam
 gebeurt, een belangrijk recht is dat altijd beschermd moet worden.
 
+<mark>
 Om het recht op zelfbeschikking te beschermen, stelt BIJ1 de volgende
 beleidsveranderingen voor:
+</mark>
 
 ## TOEGANKELIJKE ANTICONCEPTIE EN ABORTUS
 
@@ -1243,7 +1259,7 @@ beleidsveranderingen voor:
 
 # 10. TOEGANKELIJKHEID EN INCLUSIE 
 
-## NIETS OVER ONS, ZONDER ONS
+## <mark>NIETS OVER ONS, ZONDER ONS</mark>
 
 **In Nederland leven ongeveer 3 miljoen mensen met een beperking. Deze
 mensen kunnen niet vanzelfsprekend meedoen in de maatschappij, zonder
@@ -1263,8 +1279,10 @@ een beperking ondertekend. Maar het volgen van dit verdrag gebeurt nu te
 vrijblijvend. BIJ1 wil zien dat dit wordt omgezet in daadkracht en
 wetgeving. Zo nodig met sancties.
 
+<mark>
 Voor een samenleving die toegankelijk is voor iedereen, heeft BIJ1 de
 volgende kernpunten voor ogen:
+</mark>
 
 ## GELIJKE BEHANDELING EN RECHTSPOSITIE
 
@@ -1315,7 +1333,7 @@ volgende kernpunten voor ogen:
 
 # 11. VEILIGHEID EN JUSTITIE
 
-## BESTAANSZEKERHEID BOVEN REPRESSIE
+## <mark>BESTAANSZEKERHEID BOVEN REPRESSIE</mark>
 
 **  
 BIJ1 staat voor een samenleving die voor iedereen vrij, veilig en
@@ -1343,9 +1361,11 @@ gewelddadig orgaan. Daarom investeren we niet langer in staatsgeweld,
 bestraffing en opsluiting, maar in collectieve voorzieningen en
 bestaanszekerheid: zaken die onze gemeenschappen wél veilig houden.
 
+<mark>
 Wij staan voor een samenleving waar niet afstraffing, maar
 medemenselijkheid centraal staat. Hiervoor heeft BIJ1 de volgende
 kernpunten voor ogen:
+</mark>
 
 ## VAN STRAFKETEN NAAR EEN RECHTVAARDIGE MAATSCHAPPIJ 
 
@@ -1438,7 +1458,7 @@ kernpunten voor ogen:
 
 # 12. INTERNATIONALE SAMENWERKING 
 
-## EEN WERELD VAN VREDE EN SOLIDARITEIT
+## <mark>EEN WERELD VAN VREDE EN SOLIDARITEIT</mark>
 
 **BIJ1 staat voor een wereld waar armoede, onderdrukking, geweld en
 oorlog niet meer bestaan. Een gedekoloniseerde wereld gebaseerd op
@@ -1461,8 +1481,10 @@ centrale rol innemen. Daarnaast zijn we voor een kernwapenvrije wereld.
 Zolang er kernwapens in de wereld zijn, is de toekomst van de mensheid
 onzeker.
 
+<mark>
 Om langdurige vrede, stabiliteit en internationale rechtvaardigheid te
 bereiken heeft BIJ1 de volgende kernpunten voor ogen:
+</mark>
 
 ## EEN EINDE AAN IMPERIALISME
 
@@ -1585,7 +1607,7 @@ bereiken heeft BIJ1 de volgende kernpunten voor ogen:
 
 # 13. SEKSWERK 
 
-## ZIJ AAN ZIJ MET SEKSWERKERS
+## <mark>ZIJ AAN ZIJ MET SEKSWERKERS</mark>
 
 **BIJ1 kan niet vaak genoeg benadrukken dat sekswerk gewoon werk is. Wij
 strijden voor een land waarin sekswerkers vrij van vooroordelen zijn en
@@ -1610,10 +1632,12 @@ maatregelen die keer op keer bewezen hebben een tegengesteld effect te
 hebben. Sekswerkers weten zelf heel goed wat ze nodig hebben. Daarom
 praten wij met hen, in plaats van over hen.
 
+<mark>
 BIJ1 strijdt voor een beleid waarin zelfbeschikking en goede
 werkomstandigheden centraal staan, en sekswerkers zeggenschap krijgen
 over hun eigen werk. Daarvoor hebben wij de volgende kernpunten voor
 ogen:
+</mark>
 
 ## SEKSWERK IS WERK
 
@@ -1663,7 +1687,7 @@ ogen:
 
 # 14. ONDERWIJS EN WETENSCHAP 
 
-## KENNIS IS KRACHT
+## <mark>KENNIS IS KRACHT</mark>
 
 **BIJ1 staat voor gelijke kansen voor alle leerlingen en studenten. Het
 mag niet uitmaken wie je bent of waar je vandaan komt. Ook het inkomen
@@ -1690,8 +1714,10 @@ diverse perspectieven op en ervaringen van identiteit, marginalisatie en
 de geschiedenis van Nederland. In het onderwijs komt er fors meer
 aandacht voor helden uit de (voormalige) koloniën.
 
+<mark>
 Voor het creëren van inclusief, toegankelijk en kwalitatief hoogwaardig
 onderwijs, heeft BIJ1 de volgende kernpunten voor ogen:
+</mark>
 
 ## VOOR BETAALBAAR EN TOEGANKELIJK ONDERWIJS
 
@@ -1793,7 +1819,7 @@ onderwijs, heeft BIJ1 de volgende kernpunten voor ogen:
 
 # 15. DEMOCRATIE & STAATSRECHT
 
-## NAAR EEN ECHTE DEMOCRATIE
+## <mark>NAAR EEN ECHTE DEMOCRATIE</mark>
 
 **BIJ1 staat pal achter een democratie die gebaseerd is op
 gelijkwaardigheid, en niet op de belangen van de vrije markt en de
@@ -1814,8 +1840,10 @@ democratisch proces vervuilen. Volksvertegenwoordigers moeten worden
 gesteund in hun steeds zwaarder wordende werklast, maar zullen worden
 beperkt als ze te veel macht naar zich toe trekken.
 
+<mark>
 Het is tijd voor een radicale democratisering van onze samenleving.
 Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
+</mark>
 
 ## NAAR EEN DEMOCRATISCHE REPUBLIEK
 
@@ -1925,7 +1953,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 # 16. KUNST, CULTUUR EN MEDIA 
 
-## SAMEN VERBEELDEN WE EEN NIEUWE TOEKOMST  
+## <mark>SAMEN VERBEELDEN WE EEN NIEUWE TOEKOMST</mark>  
   
 **BIJ1 zet zich in voor een bloeiende kunst-, cultuur- en mediasector
 die de Nederlandse samenleving weerspiegelt, en die toegankelijk en
@@ -1954,9 +1982,11 @@ andere landen. We geven deze gestolen kunst per direct terug. Daarnaast
 maken we een einde aan de onzichtbare armoede in de cultuursector. Want
 alle kunstenaars en creatieven moeten kunnen leven van hun werk.
 
+<mark>
 Samen bouwen we aan een duurzame sector en een samenleving waarin ruimte
 is voor creativiteit en radicale verbeeldingskracht. Daarvoor heeft BIJ1
 de volgende kernpunten voor ogen:
+</mark>
 
 ## VOOR DE MAKERS
 
@@ -2035,7 +2065,7 @@ de volgende kernpunten voor ogen:
 
 # 17. DIGITALE RECHTEN EN TECHNOLOGIE
 
-## TECHNOLOGIE VOOR MENS, DIER EN PLANEET
+## <mark>TECHNOLOGIE VOOR MENS, DIER EN PLANEET</mark>
 
 **BIJ1 staat voor een wereld waarin technologie, mens, dier en planeet
 ondersteunt. Voor ons is er technologische vooruitgang, als technologie
@@ -2052,9 +2082,11 @@ in de gaten houdt, en dat het veelzijdige maar goede informatie
 verspreidt. Technologie moet worden ingezet om mensen te beschermen en
 helpen.
 
+<mark>
 We strijden voor het waarborgen van digitale veiligheid en zetten ons in
 om technologie te laten werken in het belang van mens, dier en planeet.
 Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
+</mark>
 
 ## TECHNOLOGIE EN DIGITALISERING: VAN EN VOOR IEDEREEN
 
