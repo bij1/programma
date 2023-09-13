@@ -6,172 +6,172 @@
 
 [**1. ANTI-RACISME EN DEKOLONISATIE 4**](#anti-racisme-en-dekolonisatie)
 
-> [INSTITUTIONEEL ANTIRACISME 5](#institutioneel-antiracisme)
->
-> [GEEN PLEK VOOR FASCISME EN RACISTISCH GEWELD
-> 6](#geen-plek-voor-fascisme-en-racistisch-geweld)
->
-> [KOLONIALE SCHADE HERSTELLEN EN HEDENDAAGS KOLONIALISME AFBREKEN
-> 6](#koloniale-schade-herstellen-en-hedendaags-kolonialisme-afbreken)
+[INSTITUTIONEEL ANTIRACISME 5](#institutioneel-antiracisme)
+
+[GEEN PLEK VOOR FASCISME EN RACISTISCH GEWELD
+6](#geen-plek-voor-fascisme-en-racistisch-geweld)
+
+[KOLONIALE SCHADE HERSTELLEN EN HEDENDAAGS KOLONIALISME AFBREKEN
+6](#koloniale-schade-herstellen-en-hedendaags-kolonialisme-afbreken)
 
 [**2. WERK EN BESTAANSZEKERHEID 8**](#werk-en-bestaanszekerheid)
 
-> [EEN INCLUSIEVE EN GELIJKWAARDIGE ARBEIDSMARKT
-> 9](#een-inclusieve-en-gelijkwaardige-arbeidsmarkt)
->
-> [EERLIJKE WAARDERING & MEER ZEGGENSCHAP
-> 10](#eerlijke-waardering-meer-zeggenschap)
->
-> [EEN GOED LEVEN, OOK ALS JE NIET (MEER) WERKT
-> 10](#een-goed-leven-ook-als-je-niet-meer-werkt)
+[EEN INCLUSIEVE EN GELIJKWAARDIGE ARBEIDSMARKT
+9](#een-inclusieve-en-gelijkwaardige-arbeidsmarkt)
+
+[EERLIJKE WAARDERING & MEER ZEGGENSCHAP
+10](#eerlijke-waardering-meer-zeggenschap)
+
+[EEN GOED LEVEN, OOK ALS JE NIET (MEER) WERKT
+10](#een-goed-leven-ook-als-je-niet-meer-werkt)
 
 [**3. ECONOMIE 12**](#economie)
 
-> [VAN PRIVATISERING NAAR NATIONALISERING
-> 13](#van-privatisering-naar-nationalisering)
->
-> [DEMOCRATIE OP DE WERKVLOER 14](#democratie-op-de-werkvloer)
->
-> [EEN ECONOMIE ZONDER VERLIEZERS 14](#een-economie-zonder-verliezers)
+[VAN PRIVATISERING NAAR NATIONALISERING
+13](#van-privatisering-naar-nationalisering)
+
+[DEMOCRATIE OP DE WERKVLOER 14](#democratie-op-de-werkvloer)
+
+[EEN ECONOMIE ZONDER VERLIEZERS 14](#een-economie-zonder-verliezers)
 
 [**4. KLIMAAT 14**](#klimaat)
 
-> [KLIMAATRECHTVAARDIGHEID NU 16](#klimaatrechtvaardigheid-nu)
->
-> [NATUUR EN VERVOER 17](#natuur-en-vervoer)
->
-> [INTERNATIONALE KLIMAATRECHTVAARDIGHEID
-> 17](#internationale-klimaatrechtvaardigheid)
+[KLIMAATRECHTVAARDIGHEID NU 16](#klimaatrechtvaardigheid-nu)
+
+[NATUUR EN VERVOER 17](#natuur-en-vervoer)
+
+[INTERNATIONALE KLIMAATRECHTVAARDIGHEID
+17](#internationale-klimaatrechtvaardigheid)
 
 [**5. WONEN 19**](#wonen)
 
-> [WONEN IS EEN RECHT 20](#wonen-is-een-recht)
->
-> [BETAALBAAR EN ZEKER WONEN 21](#betaalbaar-en-zeker-wonen)
->
-> [EEN TOEGANKELIJKE, INCLUSIEVE EN GROENE WOONOMGEVING
-> 22](#een-toegankelijke-inclusieve-en-groene-woonomgeving)
+[WONEN IS EEN RECHT 20](#wonen-is-een-recht)
+
+[BETAALBAAR EN ZEKER WONEN 21](#betaalbaar-en-zeker-wonen)
+
+[EEN TOEGANKELIJKE, INCLUSIEVE EN GROENE WOONOMGEVING
+22](#een-toegankelijke-inclusieve-en-groene-woonomgeving)
 
 [**6. ARUBA, BONAIRE, CURAÇAO, SABA, STATIA EN SINT MAARTEN
 23**](#aruba-bonaire-curaçao-saba-statia-en-sint-maarten)
 
-> [HERSTELLEN VAN KOLONIALE SCHADE 24](#herstellen-van-koloniale-schade)
->
-> [RADICALE GELIJKWAARDIGHEID CENTRAAL STELLEN
-> 25](#radicale-gelijkwaardigheid-centraal-stellen)
->
-> [EILANDEN DE MACHT GEVEN 25](#eilanden-de-macht-geven)
+[HERSTELLEN VAN KOLONIALE SCHADE 24](#herstellen-van-koloniale-schade)
+
+[RADICALE GELIJKWAARDIGHEID CENTRAAL STELLEN
+25](#radicale-gelijkwaardigheid-centraal-stellen)
+
+[EILANDEN DE MACHT GEVEN 25](#eilanden-de-macht-geven)
 
 [**7. ZORG 27**](#zorg)
 
-> [ZORG IN PUBLIEKE HANDEN 28](#zorg-in-publieke-handen)
->
-> [LAAT DE ZORG WEER WERKEN 29](#laat-de-zorg-weer-werken)
->
-> [TOEGANKELIJK EN VOOR IEDEREEN 30](#toegankelijk-en-voor-iedereen)
+[ZORG IN PUBLIEKE HANDEN 28](#zorg-in-publieke-handen)
+
+[LAAT DE ZORG WEER WERKEN 29](#laat-de-zorg-weer-werken)
+
+[TOEGANKELIJK EN VOOR IEDEREEN 30](#toegankelijk-en-voor-iedereen)
 
 [**8. ASIEL EN MIGRATIE 32**](#asiel-en-migratie)
 
-> [VEILIGE MIGRATIE EN MENSWAARDIGE OPVANG
-> 33](#veilige-migratie-en-menswaardige-opvang)
->
-> [EEN SOLIDAIRE ASIELPROCEDURE 34](#een-solidaire-asielprocedure)
->
-> [UITGEPROCEDEERDE ASIELZOEKERS EN ONGEDOCUMENTEERDEN
-> 35](#uitgeprocedeerde-asielzoekers-en-ongedocumenteerden)
->
-> [LANGETERMIJNVISIE: EEN NIEUW MIGRATIEBELEID
-> 35](#langetermijnvisie-een-nieuw-migratiebeleid)
+[VEILIGE MIGRATIE EN MENSWAARDIGE OPVANG
+33](#veilige-migratie-en-menswaardige-opvang)
+
+[EEN SOLIDAIRE ASIELPROCEDURE 34](#een-solidaire-asielprocedure)
+
+[UITGEPROCEDEERDE ASIELZOEKERS EN ONGEDOCUMENTEERDEN
+35](#uitgeprocedeerde-asielzoekers-en-ongedocumenteerden)
+
+[LANGETERMIJNVISIE: EEN NIEUW MIGRATIEBELEID
+35](#langetermijnvisie-een-nieuw-migratiebeleid)
 
 [**9. ZELFBESCHIKKING 38**](#zelfbeschikking)
 
-> [TOEGANKELIJKE ANTICONCEPTIE EN ABORTUS 39](#_heading=)
->
-> [ZWANGERSCHAP, OUDERSCHAP EN ADOPTIE
-> 39](#zwangerschap-ouderschap-en-adoptie)
->
-> [GESLACHTSONTWIKKELING EN GENDER (NIET-STANDAARD)
-> 40](#geslachtsontwikkeling-en-gender-niet-standaard)
->
-> [ONDRAAGLIJK LIJDEN EN EUTHANASIE
-> 40](#ondraaglijk-lijden-en-euthanasie)
->
-> [RELIGIE EN ZELFBESCHIKKING 40](#religie-en-zelfbeschikking)
+[TOEGANKELIJKE ANTICONCEPTIE EN ABORTUS 39](#_heading=)
+
+[ZWANGERSCHAP, OUDERSCHAP EN ADOPTIE
+39](#zwangerschap-ouderschap-en-adoptie)
+
+[GESLACHTSONTWIKKELING EN GENDER (NIET-STANDAARD)
+40](#geslachtsontwikkeling-en-gender-niet-standaard)
+
+[ONDRAAGLIJK LIJDEN EN EUTHANASIE
+40](#ondraaglijk-lijden-en-euthanasie)
+
+[RELIGIE EN ZELFBESCHIKKING 40](#religie-en-zelfbeschikking)
 
 [**10. TOEGANKELIJKHEID EN INCLUSIE 42**](#toegankelijkheid-en-inclusie)
 
-> [GELIJKE BEHANDELING EN RECHTSPOSITIE
-> 43](#gelijke-behandeling-en-rechtspositie)
->
-> [TOEGANKELIJKHEID IN DE OPENBARE RUIMTE
-> 43](#toegankelijkheid-in-de-openbare-ruimte)
+[GELIJKE BEHANDELING EN RECHTSPOSITIE
+43](#gelijke-behandeling-en-rechtspositie)
+
+[TOEGANKELIJKHEID IN DE OPENBARE RUIMTE
+43](#toegankelijkheid-in-de-openbare-ruimte)
 
 [**11. VEILIGHEID EN JUSTITIE 45**](#veiligheid-en-justitie)
 
-> [VAN STRAFKETEN NAAR EEN RECHTVAARDIGE MAATSCHAPPIJ
-> 46](#van-strafketen-naar-een-rechtvaardige-maatschappij)
->
-> [VAN POLITIECONTROLE NAAR CONTROLE OVER DE POLITIE
-> 47](#van-politiecontrole-naar-controle-over-de-politie)
->
-> [EEN ONGEWAPENDE POLITIE 47](#een-ongewapende-politie)
+[VAN STRAFKETEN NAAR EEN RECHTVAARDIGE MAATSCHAPPIJ
+46](#van-strafketen-naar-een-rechtvaardige-maatschappij)
+
+[VAN POLITIECONTROLE NAAR CONTROLE OVER DE POLITIE
+47](#van-politiecontrole-naar-controle-over-de-politie)
+
+[EEN ONGEWAPENDE POLITIE 47](#een-ongewapende-politie)
 
 [**12. INTERNATIONALE SAMENWERKING 49**](#internationale-samenwerking)
 
-> [EEN EINDE AAN IMPERIALISME 50](#een-einde-aan-imperialisme)
->
-> [ECONOMISCHE RECHTVAARDIGHEID 51](#economische-rechtvaardigheid)
->
-> [EEN NIEUW EUROPA 51](#een-nieuw-europa)
->
-> [INVESTEREN IN VREDE 52](#investeren-in-vrede)
+[EEN EINDE AAN IMPERIALISME 50](#een-einde-aan-imperialisme)
+
+[ECONOMISCHE RECHTVAARDIGHEID 51](#economische-rechtvaardigheid)
+
+[EEN NIEUW EUROPA 51](#een-nieuw-europa)
+
+[INVESTEREN IN VREDE 52](#investeren-in-vrede)
 
 [**13. SEKSWERK 53**](#sekswerk)
 
-> [SEKSWERK IS WERK 54](#sekswerk-is-werk)
->
-> [ZEGGENSCHAP OVER EIGEN WERK EN LEVEN
-> 54](#zeggenschap-over-eigen-werk-en-leven)
->
-> [VEILIGE WERKPLEKKEN 55](#veilige-werkplekken)
+[SEKSWERK IS WERK 54](#sekswerk-is-werk)
+
+[ZEGGENSCHAP OVER EIGEN WERK EN LEVEN
+54](#zeggenschap-over-eigen-werk-en-leven)
+
+[VEILIGE WERKPLEKKEN 55](#veilige-werkplekken)
 
 [**14. ONDERWIJS EN WETENSCHAP 57**](#onderwijs-en-wetenschap)
 
-> [VOOR BETAALBAAR EN TOEGANKELIJK ONDERWIJS
-> 58](#kunst-cultuur-en-media)
->
-> [DOCENTEN VERDIENEN BETER 59](#kunst-cultuur-en-media)
->
-> [MEER WAARDERING, DEMOCRATIE EN DIVERSITEIT
-> 59](#kunst-cultuur-en-media)
+[VOOR BETAALBAAR EN TOEGANKELIJK ONDERWIJS
+58](#kunst-cultuur-en-media)
+
+[DOCENTEN VERDIENEN BETER 59](#kunst-cultuur-en-media)
+
+[MEER WAARDERING, DEMOCRATIE EN DIVERSITEIT
+59](#kunst-cultuur-en-media)
 
 [**15. DEMOCRATIE & STAATSRECHT 61**](#democratie-staatsrecht)
 
-> [NAAR EEN DEMOCRATISCHE REPUBLIEK
-> 62](#naar-een-democratische-republiek)
->
-> [DEMOCRATIE VOOR IEDEREEN 63](#democratie-voor-iedereen)
->
-> [INFORMATIE- EN DEMONSTRATIERECHT
-> 63](#informatie--en-demonstratierecht)
+[NAAR EEN DEMOCRATISCHE REPUBLIEK
+62](#naar-een-democratische-republiek)
+
+[DEMOCRATIE VOOR IEDEREEN 63](#democratie-voor-iedereen)
+
+[INFORMATIE- EN DEMONSTRATIERECHT
+63](#informatie--en-demonstratierecht)
 
 [**16. KUNST, CULTUUR EN MEDIA 65**](#kunst-cultuur-en-media)
 
-> [VOOR DE MAKERS 66](#voor-de-makers)
->
-> [EEN INCLUSIEVE CULTUURSECTOR 67](#een-inclusieve-cultuursector)
->
-> [TOEGANKELIJKHEID & EDUCATIE 67](#toegankelijkheid-educatie)
+[VOOR DE MAKERS 66](#voor-de-makers)
+
+[EEN INCLUSIEVE CULTUURSECTOR 67](#een-inclusieve-cultuursector)
+
+[TOEGANKELIJKHEID & EDUCATIE 67](#toegankelijkheid-educatie)
 
 [**17. DIGITALE RECHTEN EN TECHNOLOGIE
 68**](#digitale-rechten-en-technologie)
 
-> [TECHNOLOGIE EN DIGITALISERING: VAN EN VOOR IEDEREEN
-> 69](#technologie-en-digitalisering-van-en-voor-iedereen)
->
-> [PRIVACY EN VEILIGHEID 70](#privacy-en-veiligheid)
->
-> [BIG TECH 70](#big-tech)
+[TECHNOLOGIE EN DIGITALISERING: VAN EN VOOR IEDEREEN
+69](#technologie-en-digitalisering-van-en-voor-iedereen)
+
+[PRIVACY EN VEILIGHEID 70](#privacy-en-veiligheid)
+
+[BIG TECH 70](#big-tech)
 
 # 1. ANTI-RACISME EN DEKOLONISATIE
 
@@ -511,28 +511,28 @@ BIJ1 de volgende kernpunten voor ogen:
 ## DEMOCRATIE OP DE WERKVLOER
 
 1.  De werknemerscoöperatie wordt de standaard eigendomsstructuur voor
-    > nieuw opgerichte rechtspersoonlijkheden.
+    nieuw opgerichte rechtspersoonlijkheden.
 
 2.  Elk bestaand beursgenoteerd bedrijf met meer dan 100 werknemers
-    > wordt verplicht een werknemersfonds op te richten, waaraan zij
-    > jaarlijks een aantal nieuwe aandelen, proportioneel aan de
-    > jaarwinst, uitschrijven. Het werknemersfonds wordt uitsluitend
-    > beheerd door de werknemers van de firma die haar heeft opgericht.
+    wordt verplicht een werknemersfonds op te richten, waaraan zij
+    jaarlijks een aantal nieuwe aandelen, proportioneel aan de
+    jaarwinst, uitschrijven. Het werknemersfonds wordt uitsluitend
+    beheerd door de werknemers van de firma die haar heeft opgericht.
 
 3.  Er wordt grootschalig onderzoek gedaan naar het duurzaam oprichten
-    > van publieke banken en investeringsfondsen die uitsluitend
-    > coöperatieven bedienen.
+    van publieke banken en investeringsfondsen die uitsluitend
+    coöperatieven bedienen.
 
 4.  Bij faillissement assisteert de overheid werknemers als een
-    > democratiserende overkoop gewenst is, zo mogelijk ook financieel.
-    > Waar nodig wordt een vakbond betrokken bij dit proces.
+    democratiserende overkoop gewenst is, zo mogelijk ook financieel.
+    Waar nodig wordt een vakbond betrokken bij dit proces.
 
 5.  Multinationale bedrijven met dependances in Nederland zijn verplicht
-    > een plan te schrijven waarin wordt uiteengezet hoe er binnen
-    > afzienbare tijd minimaal 51% van de aandelen aan de werknemers van
-    > de desbetreffende dependance wordt verkocht. Als hier geen gevolg
-    > aan wordt gegeven, wordt het recht ontzegd binnen Nederlandse
-    > grenzen te opereren.
+    een plan te schrijven waarin wordt uiteengezet hoe er binnen
+    afzienbare tijd minimaal 51% van de aandelen aan de werknemers van
+    de desbetreffende dependance wordt verkocht. Als hier geen gevolg
+    aan wordt gegeven, wordt het recht ontzegd binnen Nederlandse
+    grenzen te opereren.
 
 ## EEN ECONOMIE ZONDER VERLIEZERS
 
@@ -2032,35 +2032,35 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 ## DEMOCRATIE VOOR IEDEREEN
 
 1.  Alle mensenrechtenverdragen, zoals het Kinderrechtenverdrag, het
-    > Vrouwenrechtenverdrag en het VN-verdrag inzake rechten van
-    > personen met een handicap, krijgen rechtstreekse werking in het
-    > Nederlandse recht. Etniciteit, afkomst, nationaliteit,
-    > genderidentiteit en genderexpressie worden in artikel 1 van de
-    > Grondwet opgenomen.
+    Vrouwenrechtenverdrag en het VN-verdrag inzake rechten van
+    personen met een handicap, krijgen rechtstreekse werking in het
+    Nederlandse recht. Etniciteit, afkomst, nationaliteit,
+    genderidentiteit en genderexpressie worden in artikel 1 van de
+    Grondwet opgenomen.
 
 2.  Actief en passief stemrecht zijn basisrechten voor iedereen.
-    > Vluchtelingen en migranten moeten ook gebruik kunnen maken van
-    > deze rechten, niet pas na vijf jaar. De dag van de Tweede
-    > Kamerverkiezingen wordt een nationale feestdag, zodat iedereen
-    > tijd heeft om te gaan stemmen en de opkomst vergroot wordt.
+    Vluchtelingen en migranten moeten ook gebruik kunnen maken van
+    deze rechten, niet pas na vijf jaar. De dag van de Tweede
+    Kamerverkiezingen wordt een nationale feestdag, zodat iedereen
+    tijd heeft om te gaan stemmen en de opkomst vergroot wordt.
 
 3.  De betrokkenheid van burgers bij het democratisch bestuur wordt
-    > vergroot. Dit gebeurt onder andere door gratis educatieprogramma's
-    > over de politiek, het vertalen van debatten, en het stimuleren van
-    > lokale vormen van directe democratie, zoals wijkraden, burgerfora
-    > en burgerberaden.
+    vergroot. Dit gebeurt onder andere door gratis educatieprogramma's
+    over de politiek, het vertalen van debatten, en het stimuleren van
+    lokale vormen van directe democratie, zoals wijkraden, burgerfora
+    en burgerberaden.
 
 4.  Er komt een structurele oplossing voor het democratisch deficit in
-    > het Koninkrijk. Hierbij krijgen Aruba, Bonaire, Curaçao, Sint
-    > Maarten, Statia en Saba niet alleen meer directe
-    > vertegenwoordiging, maar ook meer zeggenschap terug over het
-    > beleid op de eilanden (voor uitgebreidere punten over democratie
-    > in het Koninkrijk: zie het hoofdstuk *Radicale Gelijkwaardigheid
-    > en Herstel in het Koninkrijk*).
+    het Koninkrijk. Hierbij krijgen Aruba, Bonaire, Curaçao, Sint
+    Maarten, Statia en Saba niet alleen meer directe
+    vertegenwoordiging, maar ook meer zeggenschap terug over het
+    beleid op de eilanden (voor uitgebreidere punten over democratie
+    in het Koninkrijk: zie het hoofdstuk *Radicale Gelijkwaardigheid
+    en Herstel in het Koninkrijk*).
 
 5.  De mogelijkheden om een dubbele nationaliteit te hebben of te
-    > behouden worden verbreed: een meerduidige identiteit heeft
-    > meerwaarde en mag niet worden onderdrukt.
+    behouden worden verbreed: een meerduidige identiteit heeft
+    meerwaarde en mag niet worden onderdrukt.
 
 ## INFORMATIE- EN DEMONSTRATIERECHT
 
@@ -2073,30 +2073,30 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     vanwege het deelnemen aan een niet-aangemeld protest.
 
 2.  ID-controles tijdens vreedzame demonstraties mogen niet meer worden
-    > uitgevoerd zonder wettige bevoegdheid om een identiteitsbewijs te
-    > vorderen. De politie wordt verplicht om de ID-controles die ze wel
-    > uitvoeren, te registreren. In de registraties worden onder andere
-    > de omstandigheden en verdenkingen vastgelegd. De registraties
-    > worden gebruikt voor onderzoek naar discriminatie en de politie
-    > dient publiek verantwoording af te leggen hierover.
+    uitgevoerd zonder wettige bevoegdheid om een identiteitsbewijs te
+    vorderen. De politie wordt verplicht om de ID-controles die ze wel
+    uitvoeren, te registreren. In de registraties worden onder andere
+    de omstandigheden en verdenkingen vastgelegd. De registraties
+    worden gebruikt voor onderzoek naar discriminatie en de politie
+    dient publiek verantwoording af te leggen hierover.
 
 3.  De Mobiele Eenheid wordt ontmanteld en de aanwezigheid van politie
-    > in burger op demonstraties, de zogenaamde stillen, wordt verboden.
-    > Handhavers mogen alleen aanwezig zijn op demonstraties wanneer dit
-    > nodig is om een protest te beschermen tegen geweld van anderen.
+    in burger op demonstraties, de zogenaamde stillen, wordt verboden.
+    Handhavers mogen alleen aanwezig zijn op demonstraties wanneer dit
+    nodig is om een protest te beschermen tegen geweld van anderen.
 
 4.  De onafhankelijkheid van journalisten wordt beschermd. Intimidatie,
-    > opsluiting en tracking van journalisten door het OM en
-    > veiligheidsdiensten stopt. De overheid gaat zich harder inzetten
-    > voor het vergroten van de veiligheid, ondersteuning en noodhulp
-    > aan journalisten in binnen- en buitenland.
+    opsluiting en tracking van journalisten door het OM en
+    veiligheidsdiensten stopt. De overheid gaat zich harder inzetten
+    voor het vergroten van de veiligheid, ondersteuning en noodhulp
+    aan journalisten in binnen- en buitenland.
 
 5.  Veiligheidsdiensten (zoals de AIVD en de NCTV) en politie-onderdelen
-    > zoals TOOI en ID-WIV, worden ontmanteld. Tot dit gerealiseerd is,
-    > intensiveren en verbeteren we de strenge, bindende, onafhankelijke
-    > democratische controle over deze diensten. Hun bevoegdheden worden
-    > ingeperkt, en gegevensverstrekking aan buitenlandse geheime
-    > diensten wordt aan banden gelegd.
+    zoals TOOI en ID-WIV, worden ontmanteld. Tot dit gerealiseerd is,
+    intensiveren en verbeteren we de strenge, bindende, onafhankelijke
+    democratische controle over deze diensten. Hun bevoegdheden worden
+    ingeperkt, en gegevensverstrekking aan buitenlandse geheime
+    diensten wordt aan banden gelegd.
 
 # 16. KUNST, CULTUUR EN MEDIA 
 
