@@ -556,7 +556,7 @@ BIJ1 de volgende kernpunten voor ogen:
     maar één schuldeiser is en schulden niet oplopen. Ook saneert de
     overheid vaker schulden, zodat mensen een nieuwe start kunnen maken
 
-#  **4. KLIMAAT** 
+4. KLIMAAT 
 
 **EEN LEEFBARE PLANEET**
 
