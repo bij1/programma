@@ -2,11 +2,13 @@
 
 ## <mark>Na de Komma Begint Nu</mark>
 
-**BIJ1 droomt van een wereld zonder racisme, seksisme, islamofobie,
+<strong>
+BIJ1 droomt van een wereld zonder racisme, seksisme, islamofobie,
 LHBTQIA+ discriminatie, kapitalisme, en alle andere vormen van
 onderdrukking. Een wereld waarin we erkennen dat we onvolledig zijn
 zonder elkaar, en daarom altijd solidair moeten zijn met elkaars strijd
-voor een volwaardig leven.**
+voor een volwaardig leven.
+</strong>
 
 De wereld van vandaag is gebouwd op 400 jaar wereldwijde kolonialisme en
 slavernij. Inmiddels heeft ook de Nederlandse staat zelf het grote
@@ -154,7 +156,8 @@ voor ogen:
 
 ## <mark>Alles is Altijd al van Ons</mark>
 
-**Bestaanszekerheid en een goed leven voor iedereen moet de norm zijn.
+<strong>
+Bestaanszekerheid en een goed leven voor iedereen moet de norm zijn.
 In de huidige economie wordt onze arbeidskracht als product verkocht. Op
 het werk dat wij doen maken de bazen enorme winsten. BIJ1 gelooft in een
 wereld waar werk geen uitbuiting meer is en waarin werkende mensen de
@@ -163,7 +166,8 @@ mens niet afhangt van of je werkt of hoe productief je bent. Ook
 huishoudelijk werk, mantelzorg en vrijwilligerswerk is van onschatbare
 waarde voor onze maatschappij: onze economie zou niet kunnen draaien
 zonder. Het is tijd dat we niet langer onderscheid maken tussen welk
-werk we wel en niet waarderen of belonen.**
+werk we wel en niet waarderen of belonen.
+</strong>
 
 We moeten ruimte maken voor de grote diversiteit aan vormen waarop
 mensen hun leven inrichten, ongeacht gender, gezinssamenstelling,
@@ -280,14 +284,16 @@ volgende manieren:
 
 ## <mark>Een Economie voor en door Iedereen</mark>
 
-**BIJ1 staat voor een economie die werkt voor iedereen en niet alleen
+<strong>
+BIJ1 staat voor een economie die werkt voor iedereen en niet alleen
 voor een klein groepje mensen. Onze ideale economie is socialistisch:
 een economie die de rechten en gezondheid van mens, dier en planeet
 altijd voorop stelt. Ons huidige kapitalistische systeem, is onhoudbaar.
 Voor een toekomstbestendige economie, moeten we afscheid nemen van een
 systeem dat vermogenden, aandeelhouders en grote beursgenoteerde
 bedrijven in staat stelt onze democratie in te perk en mensen wereldwijd
-uit te buiten. Want er is meer dan genoeg voor iedereen.**
+uit te buiten. Want er is meer dan genoeg voor iedereen.
+</strong>
 
 Dat betekent een radicale democratisering van de economie. BIJ1 durft te
 dromen van een systeem dat er nu nog niet is en werkt stapsgewijs, van
@@ -391,11 +397,13 @@ BIJ1 de volgende kernpunten voor ogen:
 
 ## <mark>Een Leefbare Planeet</mark>
 
-**BIJ1 vecht voor een wereld waarin ecosystemen, mens en dier duurzaam
+<strong>
+BIJ1 vecht voor een wereld waarin ecosystemen, mens en dier duurzaam
 met elkaar samenleven. De tijd van aarzelen en schijnoplossingen is
 voorbij. We hebben radicale systeemverandering nodig: niet langer
 kapitalisme, niet langer groei. Alle benodigde klimaatmaatregelen worden
-voortaan getoetst op klimaatrechtvaardigheid.**
+voortaan getoetst op klimaatrechtvaardigheid.
+</strong>
 
 Dat betekent dat de kosten van klimaatbeleid worden gedragen door de
 grootste vervuilers en niet door landen die nauwelijks hebben
@@ -525,12 +533,14 @@ kernpunten voor ogen:
 
 ## <mark>Van Woningmarkt naar Volkshuisvesting</mark>
 
-**BIJ1 strijdt voor een maatschappij waarin iedereen een veilige,
+<strong>
+BIJ1 strijdt voor een maatschappij waarin iedereen een veilige,
 toegankelijke en betaalbare woning heeft. Wonen hoort een recht te zijn,
 geen verdienmodel. De huidige wooncrisis is een gevolg van neoliberaal
 wanbeleid en vraagt om een radicale aanpak. We zetten ons in voor een
 wereld waarin de basisbehoefte van een goede woning voor iedereen wordt
-gegarandeerd.**
+gegarandeerd.
+</strong>
 
 BIJ1 wil dat iedereen van een woning verzekerd is. Ongeacht huidskleur,
 religie, levenswijze, gender, seksuele geaardheid, sociaaleconomische
@@ -669,7 +679,8 @@ heeft BIJ1 de volgende plannen:
 
 ## <mark>Radicale Gelijkwaardigheid en Herstel in het Koninkrijk</mark>
 
-**BIJ1 gelooft in een samenleving waar iedereen, of ze nu in het
+<strong>
+BIJ1 gelooft in een samenleving waar iedereen, of ze nu in het
 Europese of het Caribische gedeelte van het Koninkrijk wonen, een
 menswaardig bestaan. Een bestaan vrij van armoede, racisme en andere
 vormen van onderdrukking. Een nieuwe realiteit waarin de doorwerkingen
@@ -677,7 +688,8 @@ van kolonialisme en slavernij afgebroken zijn en we samen constructief
 bouwen aan een toekomst waar een menswaardig bestaan leeft. Een nieuwe
 vorm van samenwerken met Aruba, Bonaire, Curaçao, Saba, Statia en Sint
 Maarten, waarin de belangen van de eilanden centraal staan. Een nieuwe
-relatie gebaseerd op antikolonialisme en radicale gelijkwaardigheid.**
+relatie gebaseerd op antikolonialisme en radicale gelijkwaardigheid.
+</strong>
 
 Het Nederlandse Koninkrijk is nog steeds een koloniale macht, zelfs als
 dit niet meer officieel zo genoemd wordt. In het Caribische deel van het
@@ -798,13 +810,15 @@ kernpunten voor ogen:
 
 ## <mark>De Mens Centraal</mark>
 
-**BIJ1 vecht voor een zorgsysteem dat van, voor en door iedereen is. Op
+<strong>
+BIJ1 vecht voor een zorgsysteem dat van, voor en door iedereen is. Op
 dit moment is de zorg een verdienmodel voor zorginstellingen. Dit gaat
 ten koste van de betaalbare, toegankelijke en gelijkwaardige zorg waar
 wij allemaal recht op hebben. Niet het geld, maar de mens hoort centraal
 te staan. De zorg moet bestuurd worden door de mensen die daadwerkelijk
 met zorg in aanraking komen: de zorgverlener en degene die zorg
-ontvangt. Zo werken we naar een zorgsysteem dat voor iedereen werkt.**
+ontvangt. Zo werken we naar een zorgsysteem dat voor iedereen werkt.
+</strong>
 
 We hebben de zorg lange tijd overgelaten aan de verwoestende vrije
 markt. Het heeft ervoor gezorgd dat zorginstellingen gericht zijn op het
@@ -962,13 +976,15 @@ BIJ1 de volgende kernpunten voor ogen:
 
 ## <mark>Bescherm Mensen, Geen Grenzen</mark>
 
-**BIJ1 staat voor een wereld waarin het recht om vrij te kunnen reizen
+<strong>
+BIJ1 staat voor een wereld waarin het recht om vrij te kunnen reizen
 beschermd en gestimuleerd wordt. Grenzen, vaak met willekeur getekend,
 zijn een koloniaal litteken dat in het heden nog steeds pijn doet.
 Daarnaast werken ze hedendaags economisch kolonialisme in de hand. Een
 radicale omslag in ons asiel- en migratiebeleid is nodig. We moeten
 afrekenen met het gewelddadige grensbeleid en zorgen voor rechtvaardige
-opvang, veilige migratie en een wereld zonder grenzen.**
+opvang, veilige migratie en een wereld zonder grenzen.
+</strong>
 
 Door mensen als gelijkwaardig te zien in plaats van als last, brengen we
 de medemenselijkheid terug in het asiel- en migratiebeleid. Het is hoog
@@ -1133,7 +1149,8 @@ van grenzen. Daarvoor heeft BIJ1 de volgende punten:
 
 ## <mark>Jouw Lichaam, Jouw Keuzes</mark>
 
-**Het recht op zelfbeschikking is een groot goed, van je geboorte tot
+<strong>
+Het recht op zelfbeschikking is een groot goed, van je geboorte tot
 aan je dood. Je hebt het recht goed geïnformeerd te worden over zaken
 die betrekking hebben op jouw leven en lichaam, en op basis daarvan je
 eigen keuzes te maken. Dit betekent ook dat je het recht hebt om je te
@@ -1142,7 +1159,8 @@ drukken zoals jij wilt en te geloven waarin jij wilt. Het betekent dat
 je zelf mag bepalen wat je met je lichaam doet, en welke medische of
 psychische behandelingen je wel of niet wilt ondergaan. Natuurlijk is
 het recht op zelfbeschikking wel aan grenzen gebonden, namelijk waar
-jouw recht datzelfde recht van anderen schendt.**
+jouw recht datzelfde recht van anderen schendt.
+</strong>
 
 Het recht op zelfbeschikking staat voor verschillende groepen mensen
 onder druk. BIJ1 gelooft dat zelf mogen bepalen wat er met je lichaam
@@ -1259,7 +1277,8 @@ beleidsveranderingen voor:
 
 ## <mark>Niets Over Ons, Zonder Ons</mark>
 
-**In Nederland leven ongeveer 3 miljoen mensen met een beperking. Deze
+<strong>
+In Nederland leven ongeveer 3 miljoen mensen met een beperking. Deze
 mensen kunnen niet vanzelfsprekend meedoen in de maatschappij, zonder
 extra zaken te regelen en extra kosten te maken. BIJ1 staat voor een
 inclusieve samenleving in de breedste zin van het woord. Een beperking
@@ -1267,7 +1286,8 @@ is een onderdeel van de diversiteit van de mensheid, geen medisch
 probleem dat opgelost moet worden. Vanuit onze intersectionele
 benadering, zetten wij ons bovendien specifiek in voor mensen met een
 beperking die ook onderdeel uitmaken van andere gemarginaliseerde
-groepen.**
+groepen.
+</strong>
 
 Mensen met een beperking zijn voornamelijk afhankelijk van de goede wil
 van anderen. Wij willen hier een einde aan. BIJ1 pleit ervoor dat mensen
@@ -1333,7 +1353,8 @@ volgende kernpunten voor ogen:
 
 ## <mark>Bestaanszekerheid Boven Repressie</mark>
 
-**
+<strong>
+
 BIJ1 staat voor een samenleving die voor iedereen vrij, veilig en
 rechtvaardig is. Een samenleving waarin mensen zonder de dreiging van
 staatsgeweld, vreedzaam kunnen samenleven. We streven ernaar dat
@@ -1341,7 +1362,8 @@ collectieve voorzieningen zo goed geregeld zijn en preventie zo goed
 werkt, dat de politie en gevangenissen zoals we die nu kennen niet meer
 hoeven te bestaan. Een wereld waarin we collectieve zorg dragen voor
 elkaar. En waarin elk mens de kans krijgt om hun fouten te herstellen en
-de waardigheid te krijgen waar wij allen recht op hebben.**
+de waardigheid te krijgen waar wij allen recht op hebben.
+</strong>
 
 Veiligheid gaat namelijk over veel meer dan het onderdrukken van
 criminaliteit en het bestraffen van misdaad. Veiligheid gaat over
@@ -1458,14 +1480,16 @@ kernpunten voor ogen:
 
 ## <mark>Een Wereld van Vrede en Solidariteit</mark>
 
-**BIJ1 staat voor een wereld waar armoede, onderdrukking, geweld en
+<strong>
+BIJ1 staat voor een wereld waar armoede, onderdrukking, geweld en
 oorlog niet meer bestaan. Een gedekoloniseerde wereld gebaseerd op
 internationale solidariteit en anti-imperialisme. Omdat kapitalisme,
 kolonialisme en de verschillende vormen van onderdrukking, wereldwijde
 systemen zijn, moeten we de strijd voor radicale gelijkwaardigheid
 internationaal aangaan. Anti-imperialisme, dekolonisatie en pacifisme
 moeten centraal staan in het Nederlandse beleid voor internationale
-samenwerking, Europa en defensie.**
+samenwerking, Europa en defensie.
+</strong>
 
 De Europese Unie moet dan ook drastisch veranderen. We gaan van een
 liberaal, imperialistisch racistisch verlengstuk van de CEO's en
@@ -1607,7 +1631,8 @@ bereiken heeft BIJ1 de volgende kernpunten voor ogen:
 
 ## <mark>Zij aan Zij met Sekswerkers</mark>
 
-**BIJ1 kan niet vaak genoeg benadrukken dat sekswerk gewoon werk is. Wij
+<strong>
+BIJ1 kan niet vaak genoeg benadrukken dat sekswerk gewoon werk is. Wij
 strijden voor een land waarin sekswerkers vrij van vooroordelen zijn en
 in veiligheid hun werk kunnen doen. Dat is helaas nog lang niet het
 geval. Het Nederlandse sekswerkbeleid is ouderwets en achterhaald, en
@@ -1616,7 +1641,8 @@ het voorbeeld van Nieuw Zeeland en streeft naar totale decriminalisering
 van sekswerk. Sekswerkers verdienen vertrouwen en goede arbeidsrechten
 in plaats van stigmatisering. Zo zorgen we ervoor dat hun positie
 structureel beter wordt en zij gelijkwaardig mee kunnen doen aan onze
-samenleving.**
+samenleving.
+</strong>
 
 BIJ1 zet zich in het bijzonder in voor sekswerkers die in kwetsbare
 posities zitten omdat zij bijvoorbeeld trans zijn, of ongedocumenteerd,
@@ -1685,12 +1711,14 @@ ogen:
 
 ## <mark>Kennis is Kracht</mark>
 
-**BIJ1 staat voor gelijke kansen voor alle leerlingen en studenten. Het
+<strong>
+BIJ1 staat voor gelijke kansen voor alle leerlingen en studenten. Het
 mag niet uitmaken wie je bent of waar je vandaan komt. Ook het inkomen
 of de achtergrond van je ouders of verzorgers mag geen rol spelen. Als
 je op latere leeftijd een opleiding wilt doen, moet dat mogelijk zijn.
 Al het onderwijs moet volledig toegankelijk zijn voor leerlingen met een
-beperking.**
+beperking.
+</strong>
 
 Om gelijke kansen te creëren in het onderwijs willen we niet bezuinigen,
 maar juist investeren. De instroom en doorstroom van leerlingen mag niet
@@ -1817,7 +1845,8 @@ onderwijs, heeft BIJ1 de volgende kernpunten voor ogen:
 
 ## <mark>Naar een Echte Democratie</mark>
 
-**BIJ1 staat pal achter een democratie die gebaseerd is op
+<strong>
+BIJ1 staat pal achter een democratie die gebaseerd is op
 gelijkwaardigheid, en niet op de belangen van de vrije markt en de
 rijken. Onze huidige liberale parlementaire democratie maakt haar
 beloftes zelden waar. De belangen van machtige groepen winnen het te
@@ -1825,7 +1854,8 @@ vaak van de belangen van gemarginaliseerde gemeenschappen. We willen een
 rechtsstaat die vrij en veilig is. Een rechtsstaat waarin klokkenluiders
 en journalisten goed worden beschermd. Waar democratie niet leidt tot
 competitie, maar tot solidariteit en respect. Want een échte democratie
-is er voor iedereen.**
+is er voor iedereen.
+</strong>
 
 Dat betekent dat het democratisch principe nog verder moet worden
 doorgevoerd. Democratie behoort een levend, dagelijks iets te zijn; niet
@@ -1951,7 +1981,8 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 ## <mark>Samen Verbeelden we een Nieuwe Toekomst</mark>
 
-**BIJ1 zet zich in voor een bloeiende kunst-, cultuur- en mediasector
+<strong>
+BIJ1 zet zich in voor een bloeiende kunst-, cultuur- en mediasector
 die de Nederlandse samenleving weerspiegelt, en die toegankelijk en
 betaalbaar is voor iedereen. Een sector die ons scherp houdt, ons
 vermaakt en onderwijst, maar die ook haar verantwoordelijkheid neemt
@@ -1960,7 +1991,8 @@ BIJ1 strijdt voor genoeg plekken waar makers en kunstenaars hun werk
 kunnen maken en tonen, terwijl zij ook eerlijk betaald krijgen. Als we
 ruimte maken voor alle perspectieven en verhalen die onze samenleving
 rijk is, kan kunst en cultuur en media van grote betekenis zijn voor
-iedereen.**
+iedereen.
+</strong>
 
 Cultuur is geen luxeproduct. Cultuur is het cement van de samenleving.
 In geen andere sector wordt de maatschappelijke realiteit al eeuwenlang
@@ -2063,13 +2095,15 @@ de volgende kernpunten voor ogen:
 
 ## <mark>Technologie voor Mens, Dier en Planeet</mark>
 
-**BIJ1 staat voor een wereld waarin technologie, mens, dier en planeet
+<strong>
+BIJ1 staat voor een wereld waarin technologie, mens, dier en planeet
 ondersteunt. Voor ons is er technologische vooruitgang, als technologie
 ons leven echt beter maakt, en niet alleen de zakken van bedrijven vult
 of maatschappelijke ongelijkheid versterkt. Technologie moet eerlijker
 worden ingezet om discriminatie tegen te gaan, onderdrukte groepen een
 stem te geven, levensreddende medicatie te maken, het klimaat te redden,
-en welvaart eerlijker te verdelen.**
+en welvaart eerlijker te verdelen.
+</strong>
 
 Dat betekent onder andere dat technologie toegankelijk moet zijn voor
 iedereen, dat mensen centraal staan in de ontwikkeling, dat het bouwt op
