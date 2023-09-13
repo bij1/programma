@@ -278,8 +278,8 @@ volgende manieren:
 
 # 3. ECONOMIE
 
-## <mark>EEN ECONOMIE VOOR EN DOOR IEDEREEN</mark>  
-  
+## <mark>EEN ECONOMIE VOOR EN DOOR IEDEREEN</mark>
+
 **BIJ1 staat voor een economie die werkt voor iedereen en niet alleen
 voor een klein groepje mensen. Onze ideale economie is socialistisch:
 een economie die de rechten en gezondheid van mens, dier en planeet
@@ -298,8 +298,8 @@ iedereen gelijkwaardig kan deelnemen. Vrij van racisme,
 genderongelijkheid, [validisme](https://bij1.org/woordenlijst/) en
 andere vormen van discriminatie. Dat betekent ook dat we een einde maken
 aan ons aandeel in het economisch imperialisme, waarbij het Globale
-Noorden, het Globale Zuiden uitbuit.  
-  
+Noorden, het Globale Zuiden uitbuit.
+
 <mark>
 Niet groei en winst, maar vrijheid en gelijkwaardigheid horen het
 einddoel te zijn van een economie. Om tot deze economie te komen, heeft
@@ -387,7 +387,7 @@ BIJ1 de volgende kernpunten voor ogen:
     maar één schuldeiser is en schulden niet oplopen. Ook saneert de
     overheid vaker schulden, zodat mensen een nieuwe start kunnen maken
 
-4. KLIMAAT 
+4. KLIMAAT
 
 ## <mark>EEN LEEFBARE PLANEET</mark>
 
@@ -958,7 +958,7 @@ BIJ1 de volgende kernpunten voor ogen:
     opgeleid voor hormoonbehandelingen. Daarnaast hoeven trans personen
     geen diagnose meer te ontvangen om zorg te krijgen.
 
-# 8. ASIEL EN MIGRATIE 
+# 8. ASIEL EN MIGRATIE
 
 ## <mark>BESCHERM MENSEN, GEEN GRENZEN</mark>
 
@@ -1129,7 +1129,7 @@ van grenzen. Daarvoor heeft BIJ1 de volgende punten:
     hoogbetaalde banen gaan net zoveel belasting betalen als ieder
     ander.
 
-8.  
+8.
 
 # 9. ZELFBESCHIKKING
 
@@ -1257,7 +1257,7 @@ beleidsveranderingen voor:
 
 4.  Er komen meer begraafplaatsen voor eeuwige grafrust.
 
-# 10. TOEGANKELIJKHEID EN INCLUSIE 
+# 10. TOEGANKELIJKHEID EN INCLUSIE
 
 ## <mark>NIETS OVER ONS, ZONDER ONS</mark>
 
@@ -1335,7 +1335,7 @@ volgende kernpunten voor ogen:
 
 ## <mark>BESTAANSZEKERHEID BOVEN REPRESSIE</mark>
 
-**  
+**
 BIJ1 staat voor een samenleving die voor iedereen vrij, veilig en
 rechtvaardig is. Een samenleving waarin mensen zonder de dreiging van
 staatsgeweld, vreedzaam kunnen samenleven. We streven ernaar dat
@@ -1367,7 +1367,7 @@ medemenselijkheid centraal staat. Hiervoor heeft BIJ1 de volgende
 kernpunten voor ogen:
 </mark>
 
-## VAN STRAFKETEN NAAR EEN RECHTVAARDIGE MAATSCHAPPIJ 
+## VAN STRAFKETEN NAAR EEN RECHTVAARDIGE MAATSCHAPPIJ
 
 1.  De rol van politie en BOA's in de samenleving wordt geminimaliseerd
     en zal uiteindelijk verdwijnen. We stoppen met investeren in
@@ -1456,7 +1456,7 @@ kernpunten voor ogen:
     Het afnemen van DNA wordt alleen toegestaan bij zeer ernstige
     misdrijven en na toetsing door een rechter.
 
-# 12. INTERNATIONALE SAMENWERKING 
+# 12. INTERNATIONALE SAMENWERKING
 
 ## <mark>EEN WERELD VAN VREDE EN SOLIDARITEIT</mark>
 
@@ -1605,7 +1605,7 @@ bereiken heeft BIJ1 de volgende kernpunten voor ogen:
     niet is hervormd. We stimuleren de inzet van ontwikkelde technische
     kennis in de wapenindustrie voor de civiele industrie.
 
-# 13. SEKSWERK 
+# 13. SEKSWERK
 
 ## <mark>ZIJ AAN ZIJ MET SEKSWERKERS</mark>
 
@@ -1618,8 +1618,8 @@ het voorbeeld van Nieuw Zeeland en streeft naar totale decriminalisering
 van sekswerk. Sekswerkers verdienen vertrouwen en goede arbeidsrechten
 in plaats van stigmatisering. Zo zorgen we ervoor dat hun positie
 structureel beter wordt en zij gelijkwaardig mee kunnen doen aan onze
-samenleving.**  
-  
+samenleving.**
+
 BIJ1 zet zich in het bijzonder in voor sekswerkers die in kwetsbare
 posities zitten omdat zij bijvoorbeeld trans zijn, of ongedocumenteerd,
 of een combinatie daarvan. Deze sekswerkers moeten hun werk vaak
@@ -1683,9 +1683,9 @@ ogen:
     creëren waar zij kunnen werken met gedeelde voorzieningen en in
     nabijheid van collega's.
 
-1.  
+1.
 
-# 14. ONDERWIJS EN WETENSCHAP 
+# 14. ONDERWIJS EN WETENSCHAP
 
 ## <mark>KENNIS IS KRACHT</mark>
 
@@ -1951,10 +1951,10 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     ingeperkt, en gegevensverstrekking aan buitenlandse geheime
     diensten wordt aan banden gelegd.
 
-# 16. KUNST, CULTUUR EN MEDIA 
+# 16. KUNST, CULTUUR EN MEDIA
 
-## <mark>SAMEN VERBEELDEN WE EEN NIEUWE TOEKOMST</mark>  
-  
+## <mark>SAMEN VERBEELDEN WE EEN NIEUWE TOEKOMST</mark>
+
 **BIJ1 zet zich in voor een bloeiende kunst-, cultuur- en mediasector
 die de Nederlandse samenleving weerspiegelt, en die toegankelijk en
 betaalbaar is voor iedereen. Een sector die ons scherp houdt, ons
@@ -1964,8 +1964,8 @@ BIJ1 strijdt voor genoeg plekken waar makers en kunstenaars hun werk
 kunnen maken en tonen, terwijl zij ook eerlijk betaald krijgen. Als we
 ruimte maken voor alle perspectieven en verhalen die onze samenleving
 rijk is, kan kunst en cultuur en media van grote betekenis zijn voor
-iedereen.**  
-  
+iedereen.**
+
 Cultuur is geen luxeproduct. Cultuur is het cement van de samenleving.
 In geen andere sector wordt de maatschappelijke realiteit al eeuwenlang
 zo goed vertolkt als in de kunsten. Om tot een gelijkwaardige sector te
