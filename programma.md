@@ -1129,8 +1129,6 @@ van grenzen. Daarvoor heeft BIJ1 de volgende punten:
     hoogbetaalde banen gaan net zoveel belasting betalen als ieder
     ander.
 
-8.
-
 # 9. ZELFBESCHIKKING
 
 ## <mark>JOUW LICHAAM, JOUW KEUZES</mark>
@@ -1682,8 +1680,6 @@ ogen:
     sekswerkers het willen, moet het makkelijk zijn werkplekken te
     creëren waar zij kunnen werken met gedeelde voorzieningen en in
     nabijheid van collega's.
-
-1.
 
 # 14. ONDERWIJS EN WETENSCHAP
 
