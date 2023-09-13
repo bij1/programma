@@ -806,8 +806,8 @@ heeft BIJ1 de volgende plannen:
 ## EEN TOEGANKELIJKE, INCLUSIEVE EN GROENE WOONOMGEVING
 
 1.  Zo veel mogelijk nieuwbouw- en bestaande woningen worden geschikt
-    gemaakt voor mensen met een beperking. [<u>Het VN-verdrag
-    Handicap</u>](https://bij1.org/woordenlijst/) is hierin het
+    gemaakt voor mensen met een beperking. [Het VN-verdrag
+    Handicap](https://bij1.org/woordenlijst/) is hierin het
     uitgangspunt. Ook worden nieuwe wijken op toegankelijkheid getoetst,
     waaronder toegankelijkheid voor vrouwen, jongeren, en mensen van
     kleur.
@@ -1038,8 +1038,8 @@ BIJ1 de volgende kernpunten voor ogen:
     ondersteuningsvraag, onder welke zorgwet die vraag ook valt.
 
 3.  De 'harde knip' wanneer je 18 wordt, moet uit de Jeugdzorg. De
-    [<u>Big
-    5</u>](https://www.spirit.nl/programma-16-27/professionals-de-big-5/)
+    [Big
+    5](https://www.spirit.nl/programma-16-27/professionals-de-big-5/)
     gaat daarbij werken als basisaanpak voor bestaanszekerheid in het
     leven van jongeren. Jongeren die uit het zicht raken van de
     instanties, ook wel 'spookjongeren', moeten nog steeds aanspraak
@@ -1664,8 +1664,8 @@ bereiken heeft BIJ1 de volgende kernpunten voor ogen:
 4.  We maken een einde aan de bezetting en kolonisatie van Palestijns
     grond en het Palestijnse volk. Palestijnse vluchtelingen moeten het
     recht hebben op terugkeer naar hun huizen en bezittingen. We
-    schorten het [<u>Associatieverdrag met
-    Israël</u>](https://bij1.org/woordenlijst/) op en tevens alle
+    schorten het [Associatieverdrag met
+    Israël](https://bij1.org/woordenlijst/) op en tevens alle
     handelsbetrekkingen met Israël. Nederland erkent de staat Palestina
     volgens diens eigen definitie, en zet zich actief in voor een einde
     aan de kolonisatie en illegale nederzettingen.
@@ -2156,9 +2156,9 @@ de volgende kernpunten voor ogen:
 
 ## EEN INCLUSIEVE CULTUURSECTOR
 
-1.  We investeren fors in de [<u>Fair Practice
-    Code</u>](https://bij1.org/woordenlijst/) en de [<u>Code Culturele
-    Diversiteit</u>](https://bij1.org/woordenlijst/) en maken deze
+1.  We investeren fors in de [Fair Practice
+    Code](https://bij1.org/woordenlijst/) en de [Code Culturele
+    Diversiteit](https://bij1.org/woordenlijst/) en maken deze
     bindend. Er komen extra middelen voor kleinere instellingen,
     onafhankelijke makers en de NPO om deze codes in te voeren.
 
@@ -2256,8 +2256,8 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
     zoals telefoon of loket, blijven beschikbaar voor iedereen die daar
     behoefte aan heeft.
 
-6.  De overheid zet zich in voor de ontwikkeling van [<u>open
-    source</u>](https://bij1.org/woordenlijst/) en open standaarden in
+6.  De overheid zet zich in voor de ontwikkeling van [open
+    source](https://bij1.org/woordenlijst/) en open standaarden in
     de publieke en private sector.
 
 7.  Producten moeten te repareren zijn. Fabrikanten moeten
