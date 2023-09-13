@@ -23,10 +23,12 @@ zwijgen over ons koloniale verleden doorbroken.
 Maar na de komma begint
 nu.
 We moeten de verbinding tussen ons verleden en het heden zoeken,
-aanwijzen en herstellen: het is tijd voor een dekoloniale politiek.
+aanwijzen en herstellen:
+het is tijd voor een dekoloniale politiek.
 Want
 het koloniale- en slavernijverleden van Nederland is geen afgesloten
-zwarte bladzijde: ook vandaag de dag wordt dit boek nog geschreven.
+zwarte bladzijde:
+ook vandaag de dag wordt dit boek nog geschreven.
 De
 koloniale basis van onze samenleving heeft een negatieve impact op
 iedereen,
@@ -247,7 +249,8 @@ mens niet afhangt van of je werkt of hoe productief je bent.
 Ook
 huishoudelijk werk,
 mantelzorg en vrijwilligerswerk is van onschatbare
-waarde voor onze maatschappij: onze economie zou niet kunnen draaien
+waarde voor onze maatschappij:
+onze economie zou niet kunnen draaien
 zonder.
 Het is tijd dat we niet langer onderscheid maken tussen welk
 werk we wel en niet waarderen of belonen.
@@ -377,7 +380,8 @@ volgende manieren:
     cao-onderhandelingen doen alleen vakbonden mee die voldoende
     onafhankelijk zijn van werkgevers.
     Het stakingsrecht wordt
-    uitgebreid: werkgevers bepalen niet wanneer je wel of niet mag
+    uitgebreid:
+    werkgevers bepalen niet wanneer je wel of niet mag
     staken.
 
 ## Een Goed Leven, ook als je niet (meer) Werkt
@@ -547,7 +551,8 @@ BIJ1 de volgende kernpunten voor ogen:
     garantie.
 
 1.  We zetten de grenzen open voor mensen,
-    niet voor kapitaal: we
+    niet voor kapitaal:
+    we
     gaan [kapitaalvlucht](https://bij1.org/woordenlijst/) tegen.
     In internationaal verband investeren we in het opsporen van
     belastingontduikers.
@@ -579,7 +584,8 @@ mens en dier duurzaam
 met elkaar samenleven.
 De tijd van aarzelen en schijnoplossingen is
 voorbij.
-We hebben radicale systeemverandering nodig: niet langer
+We hebben radicale systeemverandering nodig:
+niet langer
 kapitalisme,
 niet langer groei.
 Alle benodigde klimaatmaatregelen worden
@@ -615,7 +621,8 @@ van ons koloniaal verleden;
 de klimaatcrisis begon immers bij
 kolonialisme en slavernij.
 Ook in Europees Nederland moeten we
-klimaatongelijkheid aanpakken: de gevolgen van hoge uitstoot en slechte
+klimaatongelijkheid aanpakken:
+de gevolgen van hoge uitstoot en slechte
 luchtkwaliteit raken vooral mensen in een zwakkere sociaaleconomische
 positie.
 Dat is onrechtvaardig.
@@ -915,7 +922,8 @@ heeft BIJ1 de volgende plannen:
 
 1.  Huisjesmelkers kunnen niet langer hun zakken vullen over de ruggen
     van kwetsbare huurders.
-    Wonen is een recht: geen markt waar
+    Wonen is een recht:
+    geen markt waar
     beleggers rijk van kunnen worden.
     We beginnen met het onteigenen van
     de grootste private beleggers en particuliere huisjesmelkers.
@@ -1040,9 +1048,11 @@ Maarten officieel "autonome landen" zijn binnen het Koninkrijk.
 Het
 Koninkrijk is officieel gelijkwaardig en de eilanden zelfstandig,
 maar
-de vuistregel is: "wie betaalt,
+de vuistregel is:
+"wie betaalt,
 bepaalt".
-Oftewel: je doet wat Nederland
+Oftewel:
+je doet wat Nederland
 wil en anders krijg je niks.
 Toen Aruba,
 Curaçao en Sint Maarten
@@ -1079,7 +1089,8 @@ kernpunten voor ogen:
     het kolonialisme,
     de invulling van het herstelproces en de
     uitkomsten worden juridisch bindend en vastgelegd in een
-    consensusrijkswet Herstelmaatregelen (zie: hoofdstuk *Antiracisme en
+    consensusrijkswet Herstelmaatregelen (zie:
+    hoofdstuk *Antiracisme en
     Dekolonisatie*).
     Deze reparaties zullen zowel materieel als
     immaterieel zijn,
@@ -1214,7 +1225,8 @@ Niet het geld,
 maar de mens hoort centraal
 te staan.
 De zorg moet bestuurd worden door de mensen die daadwerkelijk
-met zorg in aanraking komen: de zorgverlener en degene die zorg
+met zorg in aanraking komen:
+de zorgverlener en degene die zorg
 ontvangt.
 Zo werken we naar een zorgsysteem dat voor iedereen werkt.
 </strong>
@@ -1231,7 +1243,8 @@ Zorgmedewerkers
 worden te weinig betaald,
 personeel valt voortdurend uit vanwege de hoge
 werkdruk en er is sprake van enorme wachtlijsten.
-Kortom: het
+Kortom:
+het
 zorgsysteem moet op de schop.
 Daarom brengen we de zorg weer in publieke
 handen en zetten we ons in voor een betaalbaar,
@@ -1527,7 +1540,8 @@ Daarvoor heeft BIJ1 de volgende punten:
     beginnen.
     Ook ongedocumenteerde mensen mogen werken en studeren.
 
-1.  Er komt structurele doorstroom van AZC's naar vaste woningen: wonen
+1.  Er komt structurele doorstroom van AZC's naar vaste woningen:
+    wonen
     is een recht van iedereen.
     Crisiscentra worden gesloten.
 
@@ -1682,7 +1696,8 @@ Daarvoor heeft BIJ1 de volgende punten:
     betaalt niet mee aan grenspolitie,
     wapens of hekken,
     detentie of
-    quasi-detentie faciliteiten: binnen de EU en wereldwijd.
+    quasi-detentie faciliteiten:
+    binnen de EU en wereldwijd.
 
 1.  Nederland zet zich binnen de EU actief in voor een solidair
     asielsysteem,
@@ -1695,7 +1710,8 @@ Daarvoor heeft BIJ1 de volgende punten:
     zoals culturele achtergrond en
     familiebanden.
 
-1.  De 30%-regeling wordt afgeschaft: buitenlandse werknemers met
+1.  De 30%-regeling wordt afgeschaft:
+    buitenlandse werknemers met
     hoogbetaalde banen gaan net zoveel belasting betalen als ieder
     ander.
 
@@ -1742,7 +1758,8 @@ beleidsveranderingen voor:
 
 1.  Er komt een volledige vergoeding van anticonceptie.
 
-1.  Het taboe rondom abortus wordt actief bestreden: abortus wordt uit
+1.  Het taboe rondom abortus wordt actief bestreden:
+    abortus wordt uit
     het Wetboek van Strafrecht gehaald.
 
 1.  De overheid stopt met het subsidiëren van organisaties die geen
@@ -1991,7 +2008,8 @@ de waardigheid te krijgen waar wij allen recht op hebben.
 Veiligheid gaat namelijk over veel meer dan het onderdrukken van
 criminaliteit en het bestraffen van misdaad.
 Veiligheid gaat over
-bestaanszekerheid: over een menswaardig bestaan kunnen leven.
+bestaanszekerheid:
+over een menswaardig bestaan kunnen leven.
 BIJ1
 strijdt voor een rechtssysteem waarin mens en planeet worden beschermd,
 en wij gezamenlijk de plicht dragen om veiligheid te garanderen.
@@ -2014,7 +2032,8 @@ gewelddadig orgaan.
 Daarom investeren we niet langer in staatsgeweld,
 bestraffing en opsluiting,
 maar in collectieve voorzieningen en
-bestaanszekerheid: zaken die onze gemeenschappen wél veilig houden.
+bestaanszekerheid:
+zaken die onze gemeenschappen wél veilig houden.
 
 <mark>
 Wij staan voor een samenleving waar niet afstraffing,
@@ -2535,7 +2554,8 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 
 ## Voor Betaalbaar en Toegankelijk Onderwijs
 
-1.  Het collegegeld wordt afgeschaft: beroepsonderwijs en universiteit
+1.  Het collegegeld wordt afgeschaft:
+    beroepsonderwijs en universiteit
     worden gratis.
     De basisbeurs wordt opnieuw ingevoerd en wordt
     inkomensafhankelijk,
@@ -2604,7 +2624,8 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 
 ## Docenten Verdienen Beter
 
-1.  De arbeidsvoorwaarden van docenten worden verbeterd: hoger salaris
+1.  De arbeidsvoorwaarden van docenten worden verbeterd:
+    hoger salaris
     en minder werkdruk.
 
 1.  Op universiteiten wordt zo min mogelijk met tijdelijke contracten
@@ -2722,7 +2743,8 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Constitutioneel Hof,
     dat Nederlandse wetten toetst aan die Grondwet.
 
-1.  De monarchie wordt afgeschaft: Nederland wordt een democratische
+1.  De monarchie wordt afgeschaft:
+    Nederland wordt een democratische
     republiek.
     We onteigenen het kapitaal van de adel en gebruiken dit
     voor rechtsherstel voor de voormalige koloniën.
@@ -2818,11 +2840,13 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     vertegenwoordiging,
     maar ook meer zeggenschap terug over het
     beleid op de eilanden (voor uitgebreidere punten over democratie
-    in het Koninkrijk: zie het hoofdstuk *Radicale Gelijkwaardigheid
+    in het Koninkrijk:
+    zie het hoofdstuk *Radicale Gelijkwaardigheid
     en Herstel in het Koninkrijk*).
 
 1.  De mogelijkheden om een dubbele nationaliteit te hebben of te
-    behouden worden verbreed: een meerduidige identiteit heeft
+    behouden worden verbreed:
+    een meerduidige identiteit heeft
     meerwaarde en mag niet worden onderdrukt.
 
 ## Informatie- en Demonstratierecht
