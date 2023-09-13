@@ -419,8 +419,6 @@ volgende manieren:
     of in deeltijd te werken en zorgen voor eerlijke vergoedingen voor
     stages.
 
-<!-- -->
-
 1.  Staken is een recht. We zorgen dat alle bedrijfstakken een cao
     hebben, zodat bescherming van werknemers beter geregeld is. Bij
     cao-onderhandelingen doen alleen vakbonden mee die voldoende
@@ -882,8 +880,6 @@ kernpunten voor ogen:
     samenlevingen van de eilanden. Nederland ondersteunt dit proces
     volledig financieel en naar behoefte logistiek.
 
-<!-- -->
-
 3.  Er komt aandacht voor ecologische schade tijdens herstelgesprekken.
     Voor alle zes de eilanden wordt onderzocht hoe Nederland de
     mogelijke effecten van klimaatverandering en klimaatschade, en de
@@ -1279,8 +1275,6 @@ van grenzen. Daarvoor heeft BIJ1 de volgende punten:
     bieden aan mensen aan de Europese grenzen. Nederland zet hier extra
     geld en middelen voor in.
 
-<!-- -->
-
 6.  Nederland draagt niet langer bij aan Europees grensgeweld. Het
     betaalt niet mee aan grenspolitie, wapens of hekken, detentie of
     quasi-detentie faciliteiten: binnen de EU en wereldwijd.
@@ -1601,8 +1595,6 @@ kernpunten voor ogen:
     pepperspray en een kleine gummiknuppel. BOA's krijgen geen enkele
     vorm van bewapening.
 
-<!-- -->
-
 1.  Politieagenten mogen alleen in uitzonderlijke gevallen wapenstokken,
     tasers en vuurwapens dragen. Training en protocollen omtrent
     gewelds- en wapengebruik worden fors strenger.
@@ -1725,8 +1717,6 @@ bereiken heeft BIJ1 de volgende kernpunten voor ogen:
     Europese Raad, Raad van de Europese Unie, de Europese Commissie en
     andere vormen van onderhandelingen moeten transparant worden.
 
-<!-- -->
-
 3.  Nederland zet zich in voor het versterken van gelijkwaardigheid in
     Europa. Meer middelen en capaciteit worden ingezet om de rechten van
     o.a. migranten, asielzoekers, staatlozen, moslims, LHBTQIA+ mensen,
@@ -1843,8 +1833,6 @@ ogen:
     sekswerkers het willen, moet het makkelijk zijn werkplekken te
     creëren waar zij kunnen werken met gedeelde voorzieningen en in
     nabijheid van collega's.
-
-<!-- -->
 
 1.  
 
@@ -2083,8 +2071,6 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     vanwege het ontbreken van (tijdige) kennisgeving of aanmelding van
     het protest. Autoriteiten mogen demonstranten niet bestraffen
     vanwege het deelnemen aan een niet-aangemeld protest.
-
-<!-- -->
 
 2.  ID-controles tijdens vreedzame demonstraties mogen niet meer worden
     > uitgevoerd zonder wettige bevoegdheid om een identiteitsbewijs te
