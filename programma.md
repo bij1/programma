@@ -1,10 +1,10 @@
-**BIJ1 PARTIJPROGRAMMA 2023**
+## BIJ1 PARTIJPROGRAMMA 2023
 
-**DE TOEKOMST BEGINT HIER**
+## DE TOEKOMST BEGINT HIER
 
 # INHOUDSOPGAVE
 
-[**1. ANTI-RACISME EN DEKOLONISATIE 4**](#anti-racisme-en-dekolonisatie)
+## [1. ANTI-RACISME EN DEKOLONISATIE 4](#anti-racisme-en-dekolonisatie)
 
 [INSTITUTIONEEL ANTIRACISME 5](#institutioneel-antiracisme)
 
@@ -14,7 +14,7 @@
 [KOLONIALE SCHADE HERSTELLEN EN HEDENDAAGS KOLONIALISME AFBREKEN
 6](#koloniale-schade-herstellen-en-hedendaags-kolonialisme-afbreken)
 
-[**2. WERK EN BESTAANSZEKERHEID 8**](#werk-en-bestaanszekerheid)
+## [2. WERK EN BESTAANSZEKERHEID 8](#werk-en-bestaanszekerheid)
 
 [EEN INCLUSIEVE EN GELIJKWAARDIGE ARBEIDSMARKT
 9](#een-inclusieve-en-gelijkwaardige-arbeidsmarkt)
@@ -25,7 +25,7 @@
 [EEN GOED LEVEN, OOK ALS JE NIET (MEER) WERKT
 10](#een-goed-leven-ook-als-je-niet-meer-werkt)
 
-[**3. ECONOMIE 12**](#economie)
+## [3. ECONOMIE 12](#economie)
 
 [VAN PRIVATISERING NAAR NATIONALISERING
 13](#van-privatisering-naar-nationalisering)
@@ -34,7 +34,7 @@
 
 [EEN ECONOMIE ZONDER VERLIEZERS 14](#een-economie-zonder-verliezers)
 
-[**4. KLIMAAT 14**](#klimaat)
+## [4. KLIMAAT 14](#klimaat)
 
 [KLIMAATRECHTVAARDIGHEID NU 16](#klimaatrechtvaardigheid-nu)
 
@@ -43,7 +43,7 @@
 [INTERNATIONALE KLIMAATRECHTVAARDIGHEID
 17](#internationale-klimaatrechtvaardigheid)
 
-[**5. WONEN 19**](#wonen)
+## [5. WONEN 19](#wonen)
 
 [WONEN IS EEN RECHT 20](#wonen-is-een-recht)
 
@@ -62,7 +62,7 @@
 
 [EILANDEN DE MACHT GEVEN 25](#eilanden-de-macht-geven)
 
-[**7. ZORG 27**](#zorg)
+## [7. ZORG 27](#zorg)
 
 [ZORG IN PUBLIEKE HANDEN 28](#zorg-in-publieke-handen)
 
@@ -70,7 +70,7 @@
 
 [TOEGANKELIJK EN VOOR IEDEREEN 30](#toegankelijk-en-voor-iedereen)
 
-[**8. ASIEL EN MIGRATIE 32**](#asiel-en-migratie)
+## [8. ASIEL EN MIGRATIE 32](#asiel-en-migratie)
 
 [VEILIGE MIGRATIE EN MENSWAARDIGE OPVANG
 33](#veilige-migratie-en-menswaardige-opvang)
@@ -83,7 +83,7 @@
 [LANGETERMIJNVISIE: EEN NIEUW MIGRATIEBELEID
 35](#langetermijnvisie-een-nieuw-migratiebeleid)
 
-[**9. ZELFBESCHIKKING 38**](#zelfbeschikking)
+## [9. ZELFBESCHIKKING 38](#zelfbeschikking)
 
 [TOEGANKELIJKE ANTICONCEPTIE EN ABORTUS 39](#_heading=)
 
@@ -98,7 +98,7 @@
 
 [RELIGIE EN ZELFBESCHIKKING 40](#religie-en-zelfbeschikking)
 
-[**10. TOEGANKELIJKHEID EN INCLUSIE 42**](#toegankelijkheid-en-inclusie)
+## [10. TOEGANKELIJKHEID EN INCLUSIE 42](#toegankelijkheid-en-inclusie)
 
 [GELIJKE BEHANDELING EN RECHTSPOSITIE
 43](#gelijke-behandeling-en-rechtspositie)
@@ -106,7 +106,7 @@
 [TOEGANKELIJKHEID IN DE OPENBARE RUIMTE
 43](#toegankelijkheid-in-de-openbare-ruimte)
 
-[**11. VEILIGHEID EN JUSTITIE 45**](#veiligheid-en-justitie)
+## [11. VEILIGHEID EN JUSTITIE 45](#veiligheid-en-justitie)
 
 [VAN STRAFKETEN NAAR EEN RECHTVAARDIGE MAATSCHAPPIJ
 46](#van-strafketen-naar-een-rechtvaardige-maatschappij)
@@ -116,7 +116,7 @@
 
 [EEN ONGEWAPENDE POLITIE 47](#een-ongewapende-politie)
 
-[**12. INTERNATIONALE SAMENWERKING 49**](#internationale-samenwerking)
+## [12. INTERNATIONALE SAMENWERKING 49](#internationale-samenwerking)
 
 [EEN EINDE AAN IMPERIALISME 50](#een-einde-aan-imperialisme)
 
@@ -126,7 +126,7 @@
 
 [INVESTEREN IN VREDE 52](#investeren-in-vrede)
 
-[**13. SEKSWERK 53**](#sekswerk)
+## [13. SEKSWERK 53](#sekswerk)
 
 [SEKSWERK IS WERK 54](#sekswerk-is-werk)
 
@@ -135,7 +135,7 @@
 
 [VEILIGE WERKPLEKKEN 55](#veilige-werkplekken)
 
-[**14. ONDERWIJS EN WETENSCHAP 57**](#onderwijs-en-wetenschap)
+## [14. ONDERWIJS EN WETENSCHAP 57](#onderwijs-en-wetenschap)
 
 [VOOR BETAALBAAR EN TOEGANKELIJK ONDERWIJS
 58](#kunst-cultuur-en-media)
@@ -145,7 +145,7 @@
 [MEER WAARDERING, DEMOCRATIE EN DIVERSITEIT
 59](#kunst-cultuur-en-media)
 
-[**15. DEMOCRATIE & STAATSRECHT 61**](#democratie-staatsrecht)
+## [15. DEMOCRATIE & STAATSRECHT 61](#democratie-staatsrecht)
 
 [NAAR EEN DEMOCRATISCHE REPUBLIEK
 62](#naar-een-democratische-republiek)
@@ -155,7 +155,7 @@
 [INFORMATIE- EN DEMONSTRATIERECHT
 63](#informatie--en-demonstratierecht)
 
-[**16. KUNST, CULTUUR EN MEDIA 65**](#kunst-cultuur-en-media)
+## [16. KUNST, CULTUUR EN MEDIA 65](#kunst-cultuur-en-media)
 
 [VOOR DE MAKERS 66](#voor-de-makers)
 
@@ -175,7 +175,7 @@
 
 # 1. ANTI-RACISME EN DEKOLONISATIE
 
-**NA DE KOMMA BEGINT NU**
+## NA DE KOMMA BEGINT NU
 
 **BIJ1 droomt van een wereld zonder racisme, seksisme, islamofobie,
 LHBTQIA+ discriminatie, kapitalisme, en alle andere vormen van
@@ -325,7 +325,7 @@ voor ogen:
 
 # 2. WERK EN BESTAANSZEKERHEID
 
-**ALLES IS ALTIJD AL VAN ONS**
+## ALLES IS ALTIJD AL VAN ONS
 
 **Bestaanszekerheid en een goed leven voor iedereen moet de norm zijn.
 In de huidige economie wordt onze arbeidskracht als product verkocht. Op
@@ -449,7 +449,7 @@ volgende manieren:
 
 # 3. ECONOMIE
 
-**EEN ECONOMIE VOOR EN DOOR IEDEREEN**  
+## EEN ECONOMIE VOOR EN DOOR IEDEREEN  
   
 **BIJ1 staat voor een economie die werkt voor iedereen en niet alleen
 voor een klein groepje mensen. Onze ideale economie is socialistisch:
@@ -558,7 +558,7 @@ BIJ1 de volgende kernpunten voor ogen:
 
 4. KLIMAAT 
 
-**EEN LEEFBARE PLANEET**
+## EEN LEEFBARE PLANEET
 
 **BIJ1 vecht voor een wereld waarin ecosystemen, mens en dier duurzaam
 met elkaar samenleven. De tijd van aarzelen en schijnoplossingen is
@@ -692,7 +692,7 @@ kernpunten voor ogen:
 
 # 5. WONEN
 
-**VAN WONINGMARKT NAAR VOLKSHUISVESTING**
+## VAN WONINGMARKT NAAR VOLKSHUISVESTING
 
 **BIJ1 strijdt voor een maatschappij waarin iedereen een veilige,
 toegankelijke en betaalbare woning heeft. Wonen hoort een recht te zijn,
@@ -834,7 +834,7 @@ heeft BIJ1 de volgende plannen:
 
 # 6. ARUBA, BONAIRE, CURAÇAO, SABA, STATIA EN SINT MAARTEN
 
-**RADICALE GELIJKWAARDIGHEID EN HERSTEL IN HET KONINKRIJK**
+## RADICALE GELIJKWAARDIGHEID EN HERSTEL IN HET KONINKRIJK
 
 **BIJ1 gelooft in een samenleving waar iedereen, of ze nu in het
 Europese of het Caribische gedeelte van het Koninkrijk wonen, een
@@ -961,7 +961,7 @@ kernpunten voor ogen:
 
 # 7. ZORG
 
-**DE MENS CENTRAAL**
+## DE MENS CENTRAAL
 
 **BIJ1 vecht voor een zorgsysteem dat van, voor en door iedereen is. Op
 dit moment is de zorg een verdienmodel voor zorginstellingen. Dit gaat
@@ -1123,7 +1123,7 @@ BIJ1 de volgende kernpunten voor ogen:
 
 # 8. ASIEL EN MIGRATIE 
 
-**BESCHERM MENSEN, GEEN GRENZEN**
+## BESCHERM MENSEN, GEEN GRENZEN
 
 **BIJ1 staat voor een wereld waarin het recht om vrij te kunnen reizen
 beschermd en gestimuleerd wordt. Grenzen, vaak met willekeur getekend,
@@ -1294,7 +1294,7 @@ van grenzen. Daarvoor heeft BIJ1 de volgende punten:
 
 # 9. ZELFBESCHIKKING
 
-**JOUW LICHAAM, JOUW KEUZES**
+## JOUW LICHAAM, JOUW KEUZES
 
 **Het recht op zelfbeschikking is een groot goed, van je geboorte tot
 aan je dood. Je hebt het recht goed geïnformeerd te worden over zaken
@@ -1418,7 +1418,7 @@ beleidsveranderingen voor:
 
 # 10. TOEGANKELIJKHEID EN INCLUSIE 
 
-**NIETS OVER ONS, ZONDER ONS**
+## NIETS OVER ONS, ZONDER ONS
 
 **In Nederland leven ongeveer 3 miljoen mensen met een beperking. Deze
 mensen kunnen niet vanzelfsprekend meedoen in de maatschappij, zonder
@@ -1490,7 +1490,7 @@ volgende kernpunten voor ogen:
 
 # 11. VEILIGHEID EN JUSTITIE
 
-**BESTAANSZEKERHEID BOVEN REPRESSIE**
+## BESTAANSZEKERHEID BOVEN REPRESSIE
 
 **  
 BIJ1 staat voor een samenleving die voor iedereen vrij, veilig en
@@ -1613,7 +1613,7 @@ kernpunten voor ogen:
 
 # 12. INTERNATIONALE SAMENWERKING 
 
-**EEN WERELD VAN VREDE EN SOLIDARITEIT**
+## EEN WERELD VAN VREDE EN SOLIDARITEIT
 
 **BIJ1 staat voor een wereld waar armoede, onderdrukking, geweld en
 oorlog niet meer bestaan. Een gedekoloniseerde wereld gebaseerd op
@@ -1760,7 +1760,7 @@ bereiken heeft BIJ1 de volgende kernpunten voor ogen:
 
 # 13. SEKSWERK 
 
-**ZIJ AAN ZIJ MET SEKSWERKERS**
+## ZIJ AAN ZIJ MET SEKSWERKERS
 
 **BIJ1 kan niet vaak genoeg benadrukken dat sekswerk gewoon werk is. Wij
 strijden voor een land waarin sekswerkers vrij van vooroordelen zijn en
@@ -1838,7 +1838,7 @@ ogen:
 
 # 14. ONDERWIJS EN WETENSCHAP 
 
-**KENNIS IS KRACHT**
+## KENNIS IS KRACHT
 
 **BIJ1 staat voor gelijke kansen voor alle leerlingen en studenten. Het
 mag niet uitmaken wie je bent of waar je vandaan komt. Ook het inkomen
@@ -1968,7 +1968,7 @@ onderwijs, heeft BIJ1 de volgende kernpunten voor ogen:
 
 # 15. DEMOCRATIE & STAATSRECHT
 
-**NAAR EEN ECHTE DEMOCRATIE**
+## NAAR EEN ECHTE DEMOCRATIE
 
 **BIJ1 staat pal achter een democratie die gebaseerd is op
 gelijkwaardigheid, en niet op de belangen van de vrije markt en de
@@ -2100,7 +2100,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 # 16. KUNST, CULTUUR EN MEDIA 
 
-**SAMEN VERBEELDEN WE EEN NIEUWE TOEKOMST**  
+## SAMEN VERBEELDEN WE EEN NIEUWE TOEKOMST  
   
 **BIJ1 zet zich in voor een bloeiende kunst-, cultuur- en mediasector
 die de Nederlandse samenleving weerspiegelt, en die toegankelijk en
@@ -2210,7 +2210,7 @@ de volgende kernpunten voor ogen:
 
 # 17. DIGITALE RECHTEN EN TECHNOLOGIE
 
-**TECHNOLOGIE VOOR MENS, DIER EN PLANEET**
+## TECHNOLOGIE VOOR MENS, DIER EN PLANEET
 
 **BIJ1 staat voor een wereld waarin technologie, mens, dier en planeet
 ondersteunt. Voor ons is er technologische vooruitgang, als technologie
