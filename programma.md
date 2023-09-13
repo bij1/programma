@@ -849,10 +849,10 @@ relatie gebaseerd op antikolonialisme en radicale gelijkwaardigheid.**
 Het Nederlandse Koninkrijk is nog steeds een koloniale macht, zelfs als
 dit niet meer officieel zo genoemd wordt. In het Caribische deel van het
 Koninkrijk zijn de eilanden Bonaire, Statia en Saba sinds 2010
-“bijzondere gemeenten" van Nederland, terwijl Aruba, Curaçao en Sint
-Maarten officieel “autonome landen” zijn binnen het Koninkrijk. Het
+"bijzondere gemeenten" van Nederland, terwijl Aruba, Curaçao en Sint
+Maarten officieel "autonome landen" zijn binnen het Koninkrijk. Het
 Koninkrijk is officieel gelijkwaardig en de eilanden zelfstandig, maar
-de vuistregel is: “wie betaalt, bepaalt”. Oftewel: je doet wat Nederland
+de vuistregel is: "wie betaalt, bepaalt". Oftewel: je doet wat Nederland
 wil en anders krijg je niks. Toen Aruba, Curaçao en Sint Maarten
 financiële hulp nodig hadden tijdens de coronapandemie, wilde de
 Nederlandse overheid alleen leningen geven, en alleen als alle eisen van
@@ -1407,7 +1407,7 @@ beleidsveranderingen voor:
 
 2.  De overheid waarborgt het recht op zelfbeschikking van
     moslimvrouwen. Het gedeeltelijk verbod op gezichtsbedekkende kleding
-    (in de volksmond “niqab-verbod”) moet per direct worden opgeheven.
+    (in de volksmond "niqab-verbod") moet per direct worden opgeheven.
     Ook het verbod op het dragen van een hoofddoek voor rechters,
     griffiers en bij de politie wordt opgeheven.
 
@@ -1600,7 +1600,7 @@ kernpunten voor ogen:
     gewelds- en wapengebruik worden fors strenger.
 
 2.  De inzet van geweldsmiddelen zoals waterkanonnen, elektrische
-    wapenstok, rubberkogels, traangas, “sonische wapens” zoals
+    wapenstok, rubberkogels, traangas, "sonische wapens" zoals
     mosquito's, politiepaarden en zogenaamde surveillancehonden wordt
     verboden.
 
