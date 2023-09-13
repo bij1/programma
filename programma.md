@@ -236,7 +236,7 @@ voor ogen:
     voor leiderschapsposities; moeten bedrijven stilte- en gebedsruimtes
     inrichten; en worden organisatiestructuren zodanig aangepast dat
     bedrijven hun diversiteit kunnen faciliteren en behouden. Ook worden
-    diploma’s uit niet-westerse landen erkend.
+    diploma's uit niet-westerse landen erkend.
 
 5.  We pakken racisme in de zorg aan. Het effect van racisme in de zorg
     wordt uitgebreid onderzocht en bestreden, zowel in de vorm van
@@ -262,7 +262,7 @@ voor ogen:
 
 2.  Er komt meer aandacht voor educatie over fascisme in alle vormen,
     zodat racistische en antisemitische theorieën zoals de
-    omvolkingstheorie, ‘cultuurmarxisme’, of leugens over een Joods
+    omvolkingstheorie, 'cultuurmarxisme', of leugens over een Joods
     complot beter bestreden kunnen worden. Ook verbieden we en ontbinden
     we organisaties waar racistisch gedachtegoed verspreid en
     uitgewisseld wordt.
@@ -352,7 +352,7 @@ een eerlijke verdeling is van betaald én onbetaald werk. Daarnaast
 pleiten wij voor het per direct fors verhogen van het minimumloon, om de
 grote inkomenskloof te dichten en de groeiende armoede onder werkende
 mensen tegen te gaan. Vaste contracten en zekerheid worden weer de norm
-in plaats van de uitzondering, en met goede cao’s en betere rechten voor
+in plaats van de uitzondering, en met goede cao's en betere rechten voor
 stakers brengen we de macht terug naar de werknemers.
 
 Samen pakken we terug wat altijd al van ons was. Dit doen we op de
@@ -378,7 +378,7 @@ volgende manieren:
     zonder dat ze risico lopen op uitzetting. De rechten en beloning van
     arbeidsmigranten worden beter beschermd.
 
-4.  Onbetaald werk dat nog vaak als ‘vrouwenwerk’ wordt gezien, zoals
+4.  Onbetaald werk dat nog vaak als 'vrouwenwerk' wordt gezien, zoals
     mantelzorg, huishoudelijk werk of zorg voor kinderen, wordt beter
     gecompenseerd.
 
@@ -436,7 +436,7 @@ volgende manieren:
 
 ## EEN GOED LEVEN, OOK ALS JE NIET (MEER) WERKT
 
-1.  We steken meer geld in scholingsprogramma’s voor mensen zonder werk.
+1.  We steken meer geld in scholingsprogramma's voor mensen zonder werk.
     De tegenprestaties en sancties voor mensen in de bijstand worden
     afgeschaft.
 
@@ -445,7 +445,7 @@ volgende manieren:
     artsen.
 
 3.  Er komt een Nationaal Pensioenfonds waarbij collectiviteit voorop
-    staat en waarop ook zzp’ers aanspraak maken.
+    staat en waarop ook zzp'ers aanspraak maken.
 
 4.  We verlagen de AOW-leeftijd naar 65. Het blijft wel mogelijk om door
     te werken en ook gaan we strenger toezien op
@@ -745,7 +745,7 @@ heeft BIJ1 de volgende plannen:
 
 2.  We maken het bestrijden van dak- en thuisloosheid een doelstelling
     van het nationaal woonbeleid. Dit doen we door middel van de
-    ‘Housing First’ aanpak. Hiervoor worden er direct genoeg gratis
+    'Housing First' aanpak. Hiervoor worden er direct genoeg gratis
     zelfstandige woningen voor alle dak- en thuislozen gerealiseerd, met
     het doel om in 2030 nul dakloze mensen te hebben (Lissabon
     Verklaring). Daarbij wordt ook de opvang van dakloze EU-arbeiders en
@@ -1045,16 +1045,16 @@ BIJ1 de volgende kernpunten voor ogen:
     ondersteuningsvraag. We investeren fors in gespecialiseerde
     praktijkondersteuning.
 
-2.  Continuïteit van zorg moet gewaarborgd worden. ‘Eén plan, één
-    regisseur’ wordt de basis van hulp voor mensen met een zorg- of
+2.  Continuïteit van zorg moet gewaarborgd worden. 'Eén plan, één
+    regisseur' wordt de basis van hulp voor mensen met een zorg- of
     ondersteuningsvraag, onder welke zorgwet die vraag ook valt.
 
-3.  De ‘harde knip’ wanneer je 18 wordt, moet uit de Jeugdzorg. De
+3.  De 'harde knip' wanneer je 18 wordt, moet uit de Jeugdzorg. De
     [<u>Big
     5</u>](https://www.spirit.nl/programma-16-27/professionals-de-big-5/)
     gaat daarbij werken als basisaanpak voor bestaanszekerheid in het
     leven van jongeren. Jongeren die uit het zicht raken van de
-    instanties, ook wel ‘spookjongeren’, moeten nog steeds aanspraak
+    instanties, ook wel 'spookjongeren', moeten nog steeds aanspraak
     kunnen maken op alle voorzieningen. We gaan deze jongeren actiever
     opsporen om ze te kunnen helpen.
 
@@ -1083,7 +1083,7 @@ BIJ1 de volgende kernpunten voor ogen:
 
 8.  Om het werk van de ervaringsprofessionals te erkennen en
     gelijkwaardig te behandelen met andere beroepsgroepen, wordt de
-    functie ervaringswerker in de zorg-CAO’s opgenomen. Voor de betaling
+    functie ervaringswerker in de zorg-CAO's opgenomen. Voor de betaling
     van ervaringsdeskundige vrijwilligers worden landelijke richtlijnen
     opgesteld. De inzet van ervaringskennis wordt daarbij een vast
     onderdeel van het curriculum in alle opleidingen voor hulpverleners.
@@ -1129,7 +1129,7 @@ BIJ1 de volgende kernpunten voor ogen:
     worden meer transklinieken geopend. Expertise wordt gedeeld tussen
     de vijf grootste ziekenhuizen, zodat wachtlijsten kunnen worden
     weggewerkt. (Hormoon)behandelingen en operaties worden vergoed,
-    zonder toestemming van ‘experts’ en verzekeringen. Huisartsen worden
+    zonder toestemming van 'experts' en verzekeringen. Huisartsen worden
     opgeleid voor hormoonbehandelingen. Daarnaast hoeven trans personen
     geen diagnose meer te ontvangen om zorg te krijgen.
 
@@ -1193,11 +1193,11 @@ van grenzen. Daarvoor heeft BIJ1 de volgende punten:
 
 7.  Er komen structureel meer investeringen voor de materiële,
     persoonlijke en medische ondersteuning van vluchtelingen in gedegen
-    AZC’s met goede voorzieningen. Deze ondersteuning en voorzieningen
+    AZC's met goede voorzieningen. Deze ondersteuning en voorzieningen
     moeten voldoen aan de minimumstandaarden die ook voor Nederlandse
     staatsburgers gelden.
 
-8.  In AZC’s komt meer aandacht voor LHBTQI+ personen en in het
+8.  In AZC's komt meer aandacht voor LHBTQI+ personen en in het
     bijzonder trans personen. Zij moeten toegang hebben tot zorg in een
     veilige omgeving.
 
@@ -1220,7 +1220,7 @@ van grenzen. Daarvoor heeft BIJ1 de volgende punten:
     Nederlanders en migranten van buiten de EU. Extra ruime
     mogelijkheden voor vluchtelingen blijven bestaan. Ook
     niet-traditionale vormen van familie, zoals LHBTQIA+ families en
-    banden buiten het ‘kerngezin', komen in aanmerking voor hereniging.
+    banden buiten het 'kerngezin', komen in aanmerking voor hereniging.
 
 4.  De inburgeringstoets wordt door de overheid afgenomen en verandert
     naar een naturalisatiecursus die mensen in twee jaar tijd mogen
@@ -1363,7 +1363,7 @@ beleidsveranderingen voor:
     kinderen, draagouders en wensouders.
 
 4.  Er komt een wet voor meerouderschap. Het huidige huwelijksrecht en
-    samenlevingsrecht worden op zo’n manier aangepast, dat er gelijke
+    samenlevingsrecht worden op zo'n manier aangepast, dat er gelijke
     sociale en financiële rechten worden geboden aan alle gezinnen,
     samenwonenden en samenlevenden.
 
@@ -1540,7 +1540,7 @@ kernpunten voor ogen:
 
 ## VAN STRAFKETEN NAAR EEN RECHTVAARDIGE MAATSCHAPPIJ 
 
-1.  De rol van politie en BOA’s in de samenleving wordt geminimaliseerd
+1.  De rol van politie en BOA's in de samenleving wordt geminimaliseerd
     en zal uiteindelijk verdwijnen. We stoppen met investeren in
     handhaving, en investeren dat geld in goede collectieve
     voorzieningen. Iedereen krijgt goede toegang tot onderwijs, een
@@ -1569,7 +1569,7 @@ kernpunten voor ogen:
     gezichtsbedekkende kleding, worden afgeschaft.
 
 6.  Gevangenisstraffen worden een uiterst middel. Gevangenissen worden
-    omgevormd naar Fins ‘open’ model, zodat daders menswaardig worden
+    omgevormd naar Fins 'open' model, zodat daders menswaardig worden
     behandeld. De voorwaarden om voor vervroegde vrijlating in
     aanmerking te komen worden versoepeld.
 
@@ -1595,7 +1595,7 @@ kernpunten voor ogen:
     identificatienummers en uitgebreide identificatiebewijzen. Want ook
     handhavers dienen zich te identificeren tegenover burgers.
 
-6.  Er komt een einde aan preventief fouilleren, ‘patsercontroles’ en
+6.  Er komt een einde aan preventief fouilleren, 'patsercontroles' en
     andere controles die etnisch profileren in de hand werken. Het
     gebruik van etniciteit, nationaliteit en afkomst in risicoprofielen
     wordt verboden.
@@ -1608,7 +1608,7 @@ kernpunten voor ogen:
 ## EEN ONGEWAPENDE POLITIE
 
 1.  De basisbewapening van de politie wordt teruggebracht tot
-    pepperspray en een kleine gummiknuppel. BOA’s krijgen geen enkele
+    pepperspray en een kleine gummiknuppel. BOA's krijgen geen enkele
     vorm van bewapening.
 
 <!-- -->
@@ -1619,10 +1619,10 @@ kernpunten voor ogen:
 
 2.  De inzet van geweldsmiddelen zoals waterkanonnen, elektrische
     wapenstok, rubberkogels, traangas, “sonische wapens” zoals
-    mosquito’s, politiepaarden en zogenaamde surveillancehonden wordt
+    mosquito's, politiepaarden en zogenaamde surveillancehonden wordt
     verboden.
 
-3.  De politie-inzet van camera’s wordt tot een minimum beperkt.
+3.  De politie-inzet van camera's wordt tot een minimum beperkt.
     Predictive policing wordt verboden.
 
 4.  Het gebruik van private DNA-banken door de politie wordt verboden.
@@ -1643,7 +1643,7 @@ moeten centraal staan in het Nederlandse beleid voor internationale
 samenwerking, Europa en defensie.**
 
 De Europese Unie moet dan ook drastisch veranderen. We gaan van een
-liberaal, imperialistisch racistisch verlengstuk van de CEO’s en
+liberaal, imperialistisch racistisch verlengstuk van de CEO's en
 multinationals van deze wereld, naar een unie die werkt in het belang
 van mens, dier en planeet. BIJ1 wil een einde maken aan de oorlogszucht
 van Westerse landen om invloed te krijgen in andere landen voor
@@ -1701,7 +1701,7 @@ bereiken heeft BIJ1 de volgende kernpunten voor ogen:
 
 2.  Het budget voor internationale armoedebestrijding wordt opgehoogd
     tot 1% van het Bruto Nationaal Product (BNP). Het beschermen van
-    mensenrechten en het wereldwijd behalen van de SDG’s staat centraal
+    mensenrechten en het wereldwijd behalen van de SDG's staat centraal
     in ons buitenlandbeleid. De landenselectie voor internationale hulp
     wordt bepaald op basis van noodzaak en behoefte in de landen zelf,
     en de toegevoegde waarde van de Nederlandse bijdrage.
@@ -1820,7 +1820,7 @@ ogen:
     arbeidsrechten van andere zelfstandigen en werknemers.
 
 3.  De vergunningseis voor zelfstandige sekswerkers wordt opgeheven.
-    Sekswerkers krijgen de mogelijkheid om thuis een ‘eenmanszaak’ te
+    Sekswerkers krijgen de mogelijkheid om thuis een 'eenmanszaak' te
     starten. Daarbij stellen we hen in staat diensten bij derden in te
     kopen zonder dat die partij gecriminaliseerd wordt.
 
@@ -1854,7 +1854,7 @@ ogen:
 2.  We versimpelen het vergunningstelsel voor exploitanten. Als
     sekswerkers het willen, moet het makkelijk zijn werkplekken te
     creëren waar zij kunnen werken met gedeelde voorzieningen en in
-    nabijheid van collega’s.
+    nabijheid van collega's.
 
 <!-- -->
 
@@ -1902,14 +1902,14 @@ onderwijs, heeft BIJ1 de volgende kernpunten voor ogen:
     worden gratis. De basisbeurs wordt opnieuw ingevoerd en wordt
     inkomensafhankelijk, gebaseerd op het inkomen van de
     ouder(s)/verzorger(s) en dat van de student zelf. Studieschulden van
-    de ‘pechgeneratie’ worden kwijtgescholden.
+    de 'pechgeneratie' worden kwijtgescholden.
 
 2.  De selectie en toetsing van basisschoolleerlingen voor het
     voortgezet onderwijs moet anders en op een later moment. Advies voor
     vervolgonderwijs wordt voortaan gebaseerd op een overeenkomst tussen
     leraar, ouder(s)/verzorger(s) en leerling. We stimuleren brede
     brugklassen en scholengemeenschappen met verschillende schoolsoorten
-    (vmbo, havo, vwo). Diploma’s in het voortgezet onderwijs moeten
+    (vmbo, havo, vwo). Diploma's in het voortgezet onderwijs moeten
     gestapeld kunnen worden zonder aanvullende eisen.
 
 3.  Scholen moeten volledig toegankelijk worden voor leerlingen met een
@@ -2079,7 +2079,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     > tijd heeft om te gaan stemmen en de opkomst vergroot wordt.
 
 3.  De betrokkenheid van burgers bij het democratisch bestuur wordt
-    > vergroot. Dit gebeurt onder andere door gratis educatieprogramma’s
+    > vergroot. Dit gebeurt onder andere door gratis educatieprogramma's
     > over de politiek, het vertalen van debatten, en het stimuleren van
     > lokale vormen van directe democratie, zoals wijkraden, burgerfora
     > en burgerberaden.
@@ -2232,7 +2232,7 @@ de volgende kernpunten voor ogen:
     ondertiteling, meertaligheid en toegankelijke communicatie wordt de
     norm.
 
-3.  We sturen aan op gratis toegankelijke, online programma’s van de
+3.  We sturen aan op gratis toegankelijke, online programma's van de
     publieke omroep.
 
 4.  Er komt een cultuurbudget voor ieder kind dat zich in Nederland
@@ -2272,7 +2272,7 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
 1.  Toegang tot het internet is een basisrecht en moet daarom voor
     iedereen toegankelijk zijn. Er komt gratis internettoegang voor
     iedereen. Daarnaast moet iedereen gratis toegang kunnen krijgen tot
-    educatieprogramma’s over internetgebruik en digitale rechten.
+    educatieprogramma's over internetgebruik en digitale rechten.
 
 2.  Het aanbod van diensten online moet diverser. Internet toegang moet
     niet afhankelijk zijn van het verplicht gebruiken van bepaalde
@@ -2308,7 +2308,7 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
 
 2.  Online en offline surveillance wordt flink ingeperkt en in sommige
     gevallen verboden. Zo wordt het cameratoezicht in de openbare ruimte
-    en het aantal camera’s in de publieke ruimte teruggebracht.
+    en het aantal camera's in de publieke ruimte teruggebracht.
     Technologie die het mogelijk maakt om mensen op afstand te
     identificeren, zoals gezichtsherkenningstechnologie, wordt verboden.
     Surveillance van activisten, vreedzame demonstraties en protest
@@ -2324,7 +2324,7 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
 
 ## BIG TECH
 
-1.  ‘Big Tech’ monopolies worden opgebroken. Het op surveillance
+1.  'Big Tech' monopolies worden opgebroken. Het op surveillance
     gebaseerde bedrijfsmodel van Big Tech wordt verboden.
 
 2.  Er komt een integrale aanpak om techbedrijven aan te pakken die
@@ -2335,7 +2335,7 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
     algoritmes, in de tech platform economie.
 
 3.  Belangenorganisaties worden in staat gesteld goede controle te
-    kunnen uitoefenen op ‘Big Tech' en de overheid, in het bijzonder
+    kunnen uitoefenen op 'Big Tech' en de overheid, in het bijzonder
     waar het gaat om AI.
 
 4.  Discriminerende algoritmen worden verboden en ontmanteld. Er komt
