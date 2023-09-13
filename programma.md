@@ -275,7 +275,7 @@ voor ogen:
     bestraft.
 
 5.  Er komt een eerlijke definitie van antisemitisme. De
-    [<u>IHRA-definitie</u>](https://bij1.org/woordenlijst/), die het
+    [IHRA-definitie](https://bij1.org/woordenlijst/), die het
     benoemen van het racistische karakter van de staat Israël als
     antisemitisch beoordeelt, wordt verworpen. Er komt ook erkenning
     voor het antisemitisme binnen de Zionistische beweging, zoals dat
@@ -418,7 +418,7 @@ volgende manieren:
 4.  Werknemers die langer dan negen maanden met een tijdelijk contract
     werken, krijgen een vast contract. We verbeteren de
     ontslagbescherming en gaan
-    [<u>schijnzelfstandigheid</u>](https://bij1.org/woordenlijst/)
+    [schijnzelfstandigheid](https://bij1.org/woordenlijst/)
     tegen.
 
 5.  We creëren vrijheid voor werknemers om eigen werktijden te bepalen
@@ -498,7 +498,7 @@ BIJ1 de volgende kernpunten voor ogen:
     belastingtarief van 100% geldt. De hoogte van deze limiet wordt
     democratisch besloten. Vermogens- en erfbelasting wordt drastisch
     verhoogd. Daarnaast versoepelen we de
-    [<u>onteigeningswetgeving</u>](https://bij1.org/woordenlijst/), op
+    [onteigeningswetgeving](https://bij1.org/woordenlijst/), op
     het gebied van kapitaal, aandelen en bezit in grond.
 
 4.  Private bedrijven die in Nederland hun producten verkopen gaan forse
@@ -550,7 +550,7 @@ BIJ1 de volgende kernpunten voor ogen:
     garantie.
 
 2.  We zetten de grenzen open voor mensen, niet voor kapitaal: we
-    gaan [<u>kapitaalvlucht</u>](https://bij1.org/woordenlijst/) tegen.
+    gaan [kapitaalvlucht](https://bij1.org/woordenlijst/) tegen.
     In internationaal verband investeren we in het opsporen van
     belastingontduikers.
 
@@ -738,9 +738,9 @@ heeft BIJ1 de volgende plannen:
     wordt opgeheven en het niet benutten van woningen en panden wordt
     verboden. Er komt actieve handhaving om leegstand te bestrijden,
     onder andere door middel van
-    [<u>onteigening</u>](https://bij1.org/woordenlijst/). Daarnaast
+    [onteigening](https://bij1.org/woordenlijst/). Daarnaast
     hanteren we een
-    [<u>zelfbewoningsplicht</u>](https://bij1.org/woordenlijst/) en
+    [zelfbewoningsplicht](https://bij1.org/woordenlijst/) en
     anti-speculatie.
 
 2.  We maken het bestrijden van dak- en thuisloosheid een doelstelling
@@ -793,7 +793,7 @@ heeft BIJ1 de volgende plannen:
     de grootste private beleggers en particuliere huisjesmelkers.
 
 4.  Er komt beleid om kwetsbare huurders beter te beschermen. De
-    [<u>kostendelersnorm</u>](https://bij1.org/woordenlijst/) wordt
+    [kostendelersnorm](https://bij1.org/woordenlijst/) wordt
     afgeschaft. De partnertoets en inkomensafhankelijke bijdragen uit
     wetten zoals de Participatiewet worden afgeschaft, zodat samenwonen
     voor mensen met een beperking makkelijker wordt. De mogelijkheden
@@ -1548,7 +1548,7 @@ kernpunten voor ogen:
     wordt geïnvesteerd in goede hulp voor mensen met onbegrepen gedrag:
     de politie heeft daarin geen rol.
 
-2.  [<u>Klassenjustitie</u>](https://bij1.org/woordenlijst/) wordt
+2.  [Klassenjustitie](https://bij1.org/woordenlijst/) wordt
     bestreden. Iedereen heeft recht op goede, gratis en toegankelijke
     rechtsbijstand van sociale advocaten die eerlijk worden betaald.
     Boetes worden proportioneel aan iemands inkomen en vermogen. Om de
@@ -1665,7 +1665,7 @@ bereiken heeft BIJ1 de volgende kernpunten voor ogen:
     organisaties en de weerbaarheid van lokale gemeenschappen.
 
 2.  We steunen de strijd tegen de
-    [<u>neokoloniale</u>](https://bij1.org/woordenlijst/) dominantie en
+    [neokoloniale](https://bij1.org/woordenlijst/) dominantie en
     uitbuiting van het mondiale Zuiden door het Westen. Daarnaast moeten
     niet-kapitalistische economische modellen en bewegingen die zich
     inzetten voor een rechtvaardige herverdeling van rijkdom, gesteund
@@ -1688,7 +1688,7 @@ bereiken heeft BIJ1 de volgende kernpunten voor ogen:
     volgens diens eigen definitie, en zet zich actief in voor een einde
     aan de kolonisatie en illegale nederzettingen.
 
-5.  [<u>Dekolonisatie</u>](https://bij1.org/woordenlijst/), emancipatie,
+5.  [Dekolonisatie](https://bij1.org/woordenlijst/), emancipatie,
     en zelfbeschikking van volkeren geldt als uitgangspunt bij erkenning
     van nieuwe staten. Nederland erkent de Republik Maluku Selatan en
     steunt de onafhankelijkheidsstrijd van West-Papoea.
@@ -1713,7 +1713,7 @@ bereiken heeft BIJ1 de volgende kernpunten voor ogen:
     vervuiling gaat in internationaal verband omhoog.
 
 4.  Nederland verzet zich tegen het
-    [<u>neokolonialisme</u>](https://bij1.org/woordenlijst/) van
+    [neokolonialisme](https://bij1.org/woordenlijst/) van
     internationale ondemocratische instituties zoals de IMF en
     Wereldbank. Daarnaast zet Nederland zich internationaal actief in
     voor het kwijtschelden van alle schulden van landen die te lijden
