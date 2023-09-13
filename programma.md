@@ -2,8 +2,6 @@
 
 **DE TOEKOMST BEGINT HIER**
 
-#  
-
 # INHOUDSOPGAVE
 
 [**1. ANTI-RACISME EN DEKOLONISATIE 4**](#anti-racisme-en-dekolonisatie)
@@ -174,10 +172,6 @@
 > [PRIVACY EN VEILIGHEID 70](#privacy-en-veiligheid)
 >
 > [BIG TECH 70](#big-tech)
-
-# 
-
-#  
 
 # 1. ANTI-RACISME EN DEKOLONISATIE
 
@@ -697,8 +691,6 @@ kernpunten voor ogen:
     van handelsmissies. De financiering van ontbossing, landroof en
     productie van fossiele brandstoffen wordt voor zowel private als
     publieke financiële instellingen onmogelijk.
-
-#  
 
 # 5. WONEN
 
@@ -1304,8 +1296,6 @@ van grenzen. Daarvoor heeft BIJ1 de volgende punten:
     hoogbetaalde banen gaan net zoveel belasting betalen als ieder
     ander.
 
-#  
-
 8.  
 
 # 9. ZELFBESCHIKKING
@@ -1778,8 +1768,6 @@ bereiken heeft BIJ1 de volgende kernpunten voor ogen:
     niet is hervormd. We stimuleren de inzet van ontwikkelde technische
     kennis in de wapenindustrie voor de civiele industrie.
 
-#  
-
 # 13. SEKSWERK 
 
 **ZIJ AAN ZIJ MET SEKSWERKERS**
@@ -1860,8 +1848,6 @@ ogen:
 
 1.  
 
-#  
-
 # 14. ONDERWIJS EN WETENSCHAP 
 
 **KENNIS IS KRACHT**
@@ -1895,8 +1881,6 @@ Voor het creëren van inclusief, toegankelijk en kwalitatief hoogwaardig
 onderwijs, heeft BIJ1 de volgende kernpunten voor ogen:
 
 ## VOOR BETAALBAAR EN TOEGANKELIJK ONDERWIJS
-
-# 
 
 1.  Het collegegeld wordt afgeschaft: beroepsonderwijs en universiteit
     worden gratis. De basisbeurs wordt opnieuw ingevoerd en wordt
@@ -1966,8 +1950,6 @@ onderwijs, heeft BIJ1 de volgende kernpunten voor ogen:
 
 ## MEER WAARDERING, DEMOCRATIE EN DIVERSITEIT
 
-# 
-
 1.  De overheid werkt samen met hogescholen en universiteiten om de
     academische vrijheid te waarborgen.
 
@@ -1996,11 +1978,7 @@ onderwijs, heeft BIJ1 de volgende kernpunten voor ogen:
     onderwijs- en bestuurslagen in het theoretisch en wetenschappelijk
     onderwijs.
 
-#  
-
 # 15. DEMOCRATIE & STAATSRECHT
-
-#  
 
 **NAAR EEN ECHTE DEMOCRATIE**
 
