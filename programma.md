@@ -448,7 +448,7 @@ Het leren, waarderen en volgen van de kennis van inheemse volkeren
 dient daarbij uitgangspunt te zijn.
 BIJ1 heeft de volgende kernpunten voor ogen:
 
-## <mark>Klimaatrechtvaardigheid Nu</mark>
+## Klimaatrechtvaardigheid Nu
 
 1.  De Nederlandse overheid roept per direct de klimaatcrisis uit.
     Zij is daarbij eerlijk en transparant over de gevolgen van de klimaatcrisis,
