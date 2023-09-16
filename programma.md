@@ -694,126 +694,6 @@ heeft BIJ1 de volgende plannen:
     Huurders (zowel individueel als collectief),
     krijgen meer invloed op woningverbeteringen via initiatiefrecht.
 
-# 6. Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
-
-## <mark>Radicale Gelijkwaardigheid en Herstel in het Koninkrijk</mark>
-
-<strong>
-BIJ1 gelooft in een samenleving waar iedereen,
-of ze nu in het Europese of het Caribische gedeelte van het Koninkrijk wonen,
-een menswaardig bestaan.
-Een bestaan vrij van armoede, racisme en andere vormen van onderdrukking.
-Een nieuwe realiteit waarin de doorwerkingen van kolonialisme en slavernij afgebroken zijn
-en we samen constructief bouwen aan een toekomst waar een menswaardig bestaan leeft.
-Een nieuwe vorm van samenwerken met Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten,
-waarin de belangen van de eilanden centraal staan.
-Een nieuwe relatie gebaseerd op antikolonialisme en radicale gelijkwaardigheid.
-</strong>
-
-Het Nederlandse Koninkrijk is nog steeds een koloniale macht,
-zelfs als dit niet meer officieel zo genoemd wordt.
-In het Caribische deel van het Koninkrijk zijn de eilanden
-Bonaire, Statia en Saba sinds 2010 "bijzondere gemeenten" van Nederland,
-terwijl Aruba, Curaçao en Sint Maarten officieel "autonome landen" zijn binnen het Koninkrijk.
-Het Koninkrijk is officieel gelijkwaardig en de eilanden zelfstandig,
-maar de vuistregel is: "wie betaalt, bepaalt".
-Oftewel: je doet wat Nederland wil en anders krijg je niks.
-Toen Aruba, Curaçao en Sint Maarten financiële hulp nodig hadden tijdens de coronapandemie,
-wilde de Nederlandse overheid alleen leningen geven,
-en alleen als alle eisen van Nederland gevolgd werden.
-Nederland deed hetzelfde toen Sint Maarten verwoest werd door Orkaan Irma.
-Dit moet radicaal anders.
-
-<mark>
-BIJ1 strijd voor het herstellen en repareren van koloniale schade,
-en wil de eilanden de macht geven om dingen zelf te kunnen bepalen.
-Nederland heeft daarbij de plicht om, waar gewenst,
-de eilanden te ondersteunen zonder voorwaarden.
-Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
-</mark>
-
-## Herstellen van Koloniale Schade
-
-1.  Alle schulden van de eilanden worden kwijtgescholden.
-    Hier mogen geen eisen aan verbonden worden.
-
-1.  Nederland herstelt de schade van het slavernijverleden
-    en de doorwerking daarvan in het heden.
-    De excuses voor de slavernij en het kolonialisme,
-    de invulling van het herstelproces en de uitkomsten
-    worden juridisch bindend en vastgelegd in een
-    consensusrijkswet Herstelmaatregelen (zie: hoofdstuk *Antiracisme en Dekolonisatie*).
-    Deze reparaties zullen zowel materieel als immaterieel zijn,
-    maar de precieze invulling wordt besloten door de samenlevingen van de eilanden.
-    Nederland ondersteunt dit proces volledig financieel en naar behoefte logistiek.
-
-1.  Er komt aandacht voor ecologische schade tijdens herstelgesprekken.
-    Voor alle zes de eilanden wordt onderzocht hoe Nederland
-    de mogelijke effecten van klimaatverandering en klimaatschade,
-    en de benodigde maatregelen kan financieren en faciliteren.
-
-1.  Er komt speciale aandacht voor mentale en geestelijke dekolonisatie.
-    Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-    moet actief dekoloniaal en antiracistisch beleid voeren.
-    Ook moet Nederland geld vrijmaken voor projecten
-    om geïnternaliseerd racisme op de eilanden te adresseren.
-    De exacte invulling wordt lokaal besloten.
-
-1.  Nederland doet op korte termijn grote investeringen in de onderwijssystemen op de eilanden.
-    Bij het ontwikkelen van het onderwijs krijgen de eilanden alle ruimte
-    om ook Caribische, Zuid-Amerikaanse en Pan-Afrikaanse perspectieven op het onderwijs mee te nemen.
-
-## Radicale Gelijkwaardigheid Centraal Stellen
-
-1.  Het Statuut wordt in overleg met de eilanden hervormd.
-    Het uitgangspunt wordt een nieuw Statuut waar daadwerkelijke gelijkwaardigheid centraal staat.
-    Nederland maakt dit financieel mogelijk.
-
-1.  Er komt onmiddellijk een bestaansminimum voor de Bonaire, Statia en Saba gebaseerd op de werkelijke levenskosten.
-    Het minimumloon mag niet lager liggen dan het bestaansminimum.
-    Kinderopvang wordt gratis en andere regelingen van het Nederlandse socialezekerheidsstelsel worden ingevoerd.
-    Deze uitkeringen zijn hetzelfde of hoger dan in Europees Nederland.
-    Er is speciaal aandacht voor het feit
-    dat de levenskosten in het Caribische deel van het Koninkrijk hoger zijn dan in Nederland.
-
-1.  Er komt extra aandacht voor bestaansminima en armoedebestrijding op Aruba, Curaçao en Sint Maarten.
-    Nederland neemt financiële verantwoordelijkheid,
-    maar de overheden van de eilanden beslissen over de uitvoering.
-
-1.  Bewindslieden en ambtenaren die met Aruba, Bonaire, Curaçao, Saba, Statia of Sint Maarten te maken hebben,
-    krijgen training gebaseerd op antiracisme en dekolonisatie.
-
-1.  Nederland biedt jongeren van de Caribische eilanden betere ondersteuning bij een studie in Nederland,
-    zodat ze zich hier thuis voelen en hun studie succesvol kunnen afronden zonder studieschuld.
-    Ook het aanvragen van studiefinanciering, het vinden van huisvesting
-    en het wegwijs worden in de Nederlandse bureaucratie wordt toegankelijk gemaakt.
-    Academische kennisuitwisseling binnen het Koninkrijk wordt blijvend gestimuleerd.
-
-## Eilanden de Macht Geven
-
-1.  De Rijksministerraad wordt afgeschaft en vervangen
-    door een nieuwe vorm van Koninkrijk-breed overleg,
-    waar de relevante ministers van alle landen samenkomen
-    en een gelijke stem hebben in alle genomen beslissingen.
-
-1.  De Nederlandse overheid mag nooit meer zomaar
-    ingrijpen op Bonaire, Statia en Saba en democratisch gekozen besturen afzetten.
-    De rol van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties wordt kleiner gemaakt,
-    door de eilandsraden meer macht te geven in het vormen van lokaal beleid.
-
-1.  De autonomie van de overheden van Aruba, Curaçao en Sint Maarten wordt behouden en versterkt.
-    Nederland dicteert niet meer hoe de eilanden bestuurd moeten worden.
-    Westerse bestuurlijke eisen worden losgelaten.
-
-1.  Nederland maakt het een prioriteit om samen met Aruba, Curaçao en Sint Maarten
-    op korte termijn een geschillenregeling binnen het Koninkrijk vast te leggen.
-
-1.  Alle parlementen in het Koninkrijk krijgen
-    evenveel macht om wetsvoorstellen voor rijkswetten in te dienen.
-    Deze worden voortaan in alle parlementen van de betrokken landen goedgekeurd.
-    Nederland start gesprekken om samen met de eilanden
-    tot een structurele oplossing voor het democratisch deficit te komen.
-
 # 7. Zorg
 
 ## <mark>De Mens Centraal</mark>
@@ -974,6 +854,126 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     zonder toestemming van 'experts' en verzekeringen.
     Huisartsen worden opgeleid voor hormoonbehandelingen.
     Daarnaast hoeven trans personen geen diagnose meer te ontvangen om zorg te krijgen.
+
+# 6. Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
+
+## <mark>Radicale Gelijkwaardigheid en Herstel in het Koninkrijk</mark>
+
+<strong>
+BIJ1 gelooft in een samenleving waar iedereen,
+of ze nu in het Europese of het Caribische gedeelte van het Koninkrijk wonen,
+een menswaardig bestaan.
+Een bestaan vrij van armoede, racisme en andere vormen van onderdrukking.
+Een nieuwe realiteit waarin de doorwerkingen van kolonialisme en slavernij afgebroken zijn
+en we samen constructief bouwen aan een toekomst waar een menswaardig bestaan leeft.
+Een nieuwe vorm van samenwerken met Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten,
+waarin de belangen van de eilanden centraal staan.
+Een nieuwe relatie gebaseerd op antikolonialisme en radicale gelijkwaardigheid.
+</strong>
+
+Het Nederlandse Koninkrijk is nog steeds een koloniale macht,
+zelfs als dit niet meer officieel zo genoemd wordt.
+In het Caribische deel van het Koninkrijk zijn de eilanden
+Bonaire, Statia en Saba sinds 2010 "bijzondere gemeenten" van Nederland,
+terwijl Aruba, Curaçao en Sint Maarten officieel "autonome landen" zijn binnen het Koninkrijk.
+Het Koninkrijk is officieel gelijkwaardig en de eilanden zelfstandig,
+maar de vuistregel is: "wie betaalt, bepaalt".
+Oftewel: je doet wat Nederland wil en anders krijg je niks.
+Toen Aruba, Curaçao en Sint Maarten financiële hulp nodig hadden tijdens de coronapandemie,
+wilde de Nederlandse overheid alleen leningen geven,
+en alleen als alle eisen van Nederland gevolgd werden.
+Nederland deed hetzelfde toen Sint Maarten verwoest werd door Orkaan Irma.
+Dit moet radicaal anders.
+
+<mark>
+BIJ1 strijd voor het herstellen en repareren van koloniale schade,
+en wil de eilanden de macht geven om dingen zelf te kunnen bepalen.
+Nederland heeft daarbij de plicht om, waar gewenst,
+de eilanden te ondersteunen zonder voorwaarden.
+Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
+</mark>
+
+## Herstellen van Koloniale Schade
+
+1.  Alle schulden van de eilanden worden kwijtgescholden.
+    Hier mogen geen eisen aan verbonden worden.
+
+1.  Nederland herstelt de schade van het slavernijverleden
+    en de doorwerking daarvan in het heden.
+    De excuses voor de slavernij en het kolonialisme,
+    de invulling van het herstelproces en de uitkomsten
+    worden juridisch bindend en vastgelegd in een
+    consensusrijkswet Herstelmaatregelen (zie: hoofdstuk *Antiracisme en Dekolonisatie*).
+    Deze reparaties zullen zowel materieel als immaterieel zijn,
+    maar de precieze invulling wordt besloten door de samenlevingen van de eilanden.
+    Nederland ondersteunt dit proces volledig financieel en naar behoefte logistiek.
+
+1.  Er komt aandacht voor ecologische schade tijdens herstelgesprekken.
+    Voor alle zes de eilanden wordt onderzocht hoe Nederland
+    de mogelijke effecten van klimaatverandering en klimaatschade,
+    en de benodigde maatregelen kan financieren en faciliteren.
+
+1.  Er komt speciale aandacht voor mentale en geestelijke dekolonisatie.
+    Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+    moet actief dekoloniaal en antiracistisch beleid voeren.
+    Ook moet Nederland geld vrijmaken voor projecten
+    om geïnternaliseerd racisme op de eilanden te adresseren.
+    De exacte invulling wordt lokaal besloten.
+
+1.  Nederland doet op korte termijn grote investeringen in de onderwijssystemen op de eilanden.
+    Bij het ontwikkelen van het onderwijs krijgen de eilanden alle ruimte
+    om ook Caribische, Zuid-Amerikaanse en Pan-Afrikaanse perspectieven op het onderwijs mee te nemen.
+
+## Radicale Gelijkwaardigheid Centraal Stellen
+
+1.  Het Statuut wordt in overleg met de eilanden hervormd.
+    Het uitgangspunt wordt een nieuw Statuut waar daadwerkelijke gelijkwaardigheid centraal staat.
+    Nederland maakt dit financieel mogelijk.
+
+1.  Er komt onmiddellijk een bestaansminimum voor de Bonaire, Statia en Saba gebaseerd op de werkelijke levenskosten.
+    Het minimumloon mag niet lager liggen dan het bestaansminimum.
+    Kinderopvang wordt gratis en andere regelingen van het Nederlandse socialezekerheidsstelsel worden ingevoerd.
+    Deze uitkeringen zijn hetzelfde of hoger dan in Europees Nederland.
+    Er is speciaal aandacht voor het feit
+    dat de levenskosten in het Caribische deel van het Koninkrijk hoger zijn dan in Nederland.
+
+1.  Er komt extra aandacht voor bestaansminima en armoedebestrijding op Aruba, Curaçao en Sint Maarten.
+    Nederland neemt financiële verantwoordelijkheid,
+    maar de overheden van de eilanden beslissen over de uitvoering.
+
+1.  Bewindslieden en ambtenaren die met Aruba, Bonaire, Curaçao, Saba, Statia of Sint Maarten te maken hebben,
+    krijgen training gebaseerd op antiracisme en dekolonisatie.
+
+1.  Nederland biedt jongeren van de Caribische eilanden betere ondersteuning bij een studie in Nederland,
+    zodat ze zich hier thuis voelen en hun studie succesvol kunnen afronden zonder studieschuld.
+    Ook het aanvragen van studiefinanciering, het vinden van huisvesting
+    en het wegwijs worden in de Nederlandse bureaucratie wordt toegankelijk gemaakt.
+    Academische kennisuitwisseling binnen het Koninkrijk wordt blijvend gestimuleerd.
+
+## Eilanden de Macht Geven
+
+1.  De Rijksministerraad wordt afgeschaft en vervangen
+    door een nieuwe vorm van Koninkrijk-breed overleg,
+    waar de relevante ministers van alle landen samenkomen
+    en een gelijke stem hebben in alle genomen beslissingen.
+
+1.  De Nederlandse overheid mag nooit meer zomaar
+    ingrijpen op Bonaire, Statia en Saba en democratisch gekozen besturen afzetten.
+    De rol van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties wordt kleiner gemaakt,
+    door de eilandsraden meer macht te geven in het vormen van lokaal beleid.
+
+1.  De autonomie van de overheden van Aruba, Curaçao en Sint Maarten wordt behouden en versterkt.
+    Nederland dicteert niet meer hoe de eilanden bestuurd moeten worden.
+    Westerse bestuurlijke eisen worden losgelaten.
+
+1.  Nederland maakt het een prioriteit om samen met Aruba, Curaçao en Sint Maarten
+    op korte termijn een geschillenregeling binnen het Koninkrijk vast te leggen.
+
+1.  Alle parlementen in het Koninkrijk krijgen
+    evenveel macht om wetsvoorstellen voor rijkswetten in te dienen.
+    Deze worden voortaan in alle parlementen van de betrokken landen goedgekeurd.
+    Nederland start gesprekken om samen met de eilanden
+    tot een structurele oplossing voor het democratisch deficit te komen.
 
 # 8. Asiel en Migratie
 
@@ -1540,10 +1540,6 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     voor het kwijtschelden van alle schulden van landen
     die te lijden hebben gehad onder koloniaal bewind.
 
-1.  Nederland neemt als eerste westerse land de verantwoordelijkheid
-    voor ons grote aandeel in het veroorzaken van klimaatverandering
-    en neemt in VN-verband het voortouw.
-
 ## Een Nieuw Europa
 
 1.  We maken een einde aan de militarisering van de grenzen van Europa.
@@ -1565,6 +1561,10 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     Lobbyen door multinationals en industrieën wordt verboden.
     Nederland stemt ook niet in met verdragen die bedrijven een claimrecht geven
     en stuurt de EU er op aan deze in te trekken.
+
+1.  Nederland neemt als eerste westerse land de verantwoordelijkheid
+    voor ons grote aandeel in het veroorzaken van klimaatverandering
+    en neemt in VN-verband het voortouw.
 
 ## Investeren in Vrede
 
@@ -1730,10 +1730,6 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     Op dit moment zijn in Nederland 25% van onze 15-jarigen laaggeletterd.
     Dat aantal moet de komende 4 jaar tot maximaal 5% worden teruggebracht.
 
-1.  De voorschool wordt gratis voor alle kinderen.
-    De vrijwillige ouderbijdrage in het basisonderwijs en voortgezet onderwijs wordt afgeschaft,
-    en bijles moet gratis zijn voor mensen die het anders niet kunnen betalen.
-
 1.  Op elke vorm van beroeps- en hoger onderwijs
     komt er een schoolpsycholoog waar studenten met mentale problemen terecht kunnen.
 
@@ -1747,6 +1743,10 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     De toegang tot het theoretisch en wetenschappelijk onderwijs wordt makkelijker gemaakt,
     bijvoorbeeld door drempels voor werkende mensen weg te nemen,
     en door schakelprogramma's.
+
+1.  De voorschool wordt gratis voor alle kinderen.
+    De vrijwillige ouderbijdrage in het basisonderwijs en voortgezet onderwijs wordt afgeschaft,
+    en bijles moet gratis zijn voor mensen die het anders niet kunnen betalen.
 
 ## Docenten Verdienen Beter
 
@@ -1877,13 +1877,6 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     het vertalen van debatten, en het stimuleren van lokale vormen van directe democratie,
     zoals wijkraden, burgerfora en burgerberaden.
 
-1.  Er komt een structurele oplossing voor het democratisch deficit in het Koninkrijk.
-    Hierbij krijgen Aruba, Bonaire, Curaçao, Sint Maarten, Statia en Saba
-    niet alleen meer directe vertegenwoordiging,
-    maar ook meer zeggenschap terug over het beleid op de eilanden
-    (voor uitgebreidere punten over democratie in het Koninkrijk:
-    zie het hoofdstuk *Radicale Gelijkwaardigheid en Herstel in het Koninkrijk*).
-
 1.  De mogelijkheden om een dubbele nationaliteit te hebben of te behouden worden verbreed:
     een meerduidige identiteit heeft meerwaarde en mag niet worden onderdrukt.
 
@@ -1896,6 +1889,13 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     vanwege het ontbreken van (tijdige) kennisgeving of aanmelding van het protest.
     Autoriteiten mogen demonstranten niet bestraffen
     vanwege het deelnemen aan een niet-aangemeld protest.
+
+1.  Er komt een structurele oplossing voor het democratisch deficit in het Koninkrijk.
+    Hierbij krijgen Aruba, Bonaire, Curaçao, Sint Maarten, Statia en Saba
+    niet alleen meer directe vertegenwoordiging,
+    maar ook meer zeggenschap terug over het beleid op de eilanden
+    (voor uitgebreidere punten over democratie in het Koninkrijk:
+    zie het hoofdstuk *Radicale Gelijkwaardigheid en Herstel in het Koninkrijk*).
 
 1.  ID-controles tijdens vreedzame demonstraties mogen niet meer worden uitgevoerd
     zonder wettige bevoegdheid om een identiteitsbewijs te vorderen.
@@ -2063,14 +2063,6 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
     Internet toegang moet niet afhankelijk zijn
     van het verplicht gebruiken van bepaalde diensten.
 
-1.  Er komt een ministerie van Digitale Zaken.
-    Zij overzien alle digitaliseringsprojecten bij alle overheidsdiensten.
-    Zij bewaken dat mens en mensenrechten hierbij centraal staan.
-
-1.  De overheid investeert in (digitale) infrastructuur en technologie,
-    waaronder AI-technologie in het publieke belang.
-    De afhankelijkheid van techbedrijven wordt verminderd.
-
 1.  De rechten en behoeften van mensen staan centraal in het digitaliseringsbeleid.
     Toegankelijkheidseisen en de ervaringen van mensen met een beperking worden meegenomen.
     Alternatieve kanalen zoals telefoon of loket,
@@ -2129,3 +2121,11 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  De data en informatie waar AI systemen op zijn gebouwd zijn niet discriminerend
     of zonder toestemming van en vergoeding voor de oorspronkelijke bron ingezet.
+
+1.  Er komt een ministerie van Digitale Zaken.
+    Zij overzien alle digitaliseringsprojecten bij alle overheidsdiensten.
+    Zij bewaken dat mens en mensenrechten hierbij centraal staan.
+
+1.  De overheid investeert in (digitale) infrastructuur en technologie,
+    waaronder AI-technologie in het publieke belang.
+    De afhankelijkheid van techbedrijven wordt verminderd.
