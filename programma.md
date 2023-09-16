@@ -1504,16 +1504,16 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     Ook zet Nederland zich in om particuliere organisaties en bedrijven
     aan te kunnen klagen bij het Internationaal Strafhof voor mensenrechtenschendingen.
 
+1.  [Dekolonisatie](https://bij1.org/woordenlijst/), emancipatie, en zelfbeschikking van volkeren
+    geldt als uitgangspunt bij erkenning van nieuwe staten.
+    Nederland erkent de Republik Maluku Selatan en steunt de onafhankelijkheidsstrijd van West-Papoea.
+
 1.  We maken een einde aan de bezetting en kolonisatie van Palestijns grond en het Palestijnse volk.
     Palestijnse vluchtelingen moeten het recht hebben op terugkeer naar hun huizen en bezittingen.
     We schorten het [Associatieverdrag met Israël](https://bij1.org/woordenlijst/) op
     en tevens alle handelsbetrekkingen met Israël.
     Nederland erkent de staat Palestina volgens diens eigen definitie,
     en zet zich actief in voor een einde aan de kolonisatie en illegale nederzettingen.
-
-1.  [Dekolonisatie](https://bij1.org/woordenlijst/), emancipatie, en zelfbeschikking van volkeren
-    geldt als uitgangspunt bij erkenning van nieuwe staten.
-    Nederland erkent de Republik Maluku Selatan en steunt de onafhankelijkheidsstrijd van West-Papoea.
 
 ## Economische Rechtvaardigheid
 
