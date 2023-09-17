@@ -494,6 +494,11 @@ BIJ1 heeft hiervoor de volgende plannen:
     zodat mensen met lagere inkomens
     niet de rekening gepresenteerd krijgen voor de energietransitie.
 
+1.  Om de klimaatcrisis aan te pakken, moet eerst de desinformatiecrisis aangepakt worden.
+    Bij1 stelt een parlementaire commissie in die onderzoek doet naar de geschiedenis van desinformatie
+    ten aanzien van de menselijke invloed op klimaatverandering
+    en de mogelijkheid tot een verbod op desinformatie.
+
 ### Natuur en Vervoer
 
 1.  OV-bedrijven worden genationaliseerd.
