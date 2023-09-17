@@ -534,6 +534,20 @@ BIJ1 heeft hiervoor de volgende plannen:
     moeten rechten krijgen om bescherming, behoud (en eventueel herstel) te waarborgen.
     De Waddenzee moet als eerste als zelfstandige rechtspersoonlijkheid aangemerkt worden.
 
+1.  Autorijden is voor mensen met een handicap, vele gezinnen en mensen buiten de randstad essentieel.
+    We pleiten niet voor een kilometerheffing of een verdere accijnsverhogingen op brandstoffen.
+    Met onze MIRT gaan we de concurrentie aan met auto's,
+    waardoor mensen eerder hun auto laten staan of er geen aanschaffen.
+    Zo zorgen we ervoor dat de kosten van klimaatverandering niet bij de gewone burger komt te liggen.
+
+1.  Voor mensen met een gehandicaptenpas komt er vrijstelling komen
+    op de motorrijtuigenbelasting (MRB) en aanschafbelasting (BPM).
+    Ook als dit geen aangepaste rolstoelbus betreft. Mobiliteit is een recht.
+
+1.  Wij schromen niet om auto's om te laten rijden ten opzichte van het openbaar vervoer of de fiets.
+    Zo worden fietsroute's en OV-routes automatisch efficiënter.
+    Het gebruik van 30km wegen moedigen wij aan.
+
 ### Internationale Klimaatrechtvaardigheid
 
 1.  Bedrijven die verantwoordelijk zijn
