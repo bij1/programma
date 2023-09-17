@@ -494,6 +494,13 @@ BIJ1 heeft hiervoor de volgende plannen:
     zodat mensen met lagere inkomens
     niet de rekening gepresenteerd krijgen voor de energietransitie.
 
+1.  We investeren in betrouwbare, uitstootvrije en genationaliseerde kernenergie.
+    Kerncentrales hebben een grote eenmalige investering nodig,
+    maar de operationele kosten zijn verwaarloosbaar.
+    Na de opening van de centrale kan je Nederlandse burgers voorzien van gratis stroom
+    en verdien je de centrale terug door bedrijven te laten voor elektriciteitsgebruik.
+    Kerncentrale's zorgen tevens voor veel hoogwaardige, langdurige banen in regio's met minder werkgelegenheid.
+
 ### Natuur en Vervoer
 
 1.  OV-bedrijven worden genationaliseerd.
