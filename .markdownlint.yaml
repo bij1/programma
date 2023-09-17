@@ -1,8 +1,3 @@
-# MD002/first-heading-h1/first-header-h1 - First heading should be a top-level heading
-MD002:
-  # Heading level
-  level: 2
-
 # MD013/line-length - Line length
 MD013:
   # Number of characters
@@ -30,3 +25,8 @@ MD033:
 
 # MD034/no-bare-urls - Bare URL used
 MD034: false
+
+# MD041/first-line-heading/first-line-h1 - First line in a file should be a top-level heading
+MD041:
+  # Heading level
+  level: 2
