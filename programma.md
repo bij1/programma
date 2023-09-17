@@ -1866,6 +1866,13 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Etniciteit, afkomst, nationaliteit, genderidentiteit en genderexpressie
     worden in artikel 1 van de Grondwet opgenomen.
 
+1.  Er komt een structurele oplossing voor het democratisch deficit in het Koninkrijk.
+    Hierbij krijgen Aruba, Bonaire, Curaçao, Sint Maarten, Statia en Saba
+    niet alleen meer directe vertegenwoordiging,
+    maar ook meer zeggenschap terug over het beleid op de eilanden
+    (voor uitgebreidere punten over democratie in het Koninkrijk:
+    zie het hoofdstuk *Radicale Gelijkwaardigheid en Herstel in het Koninkrijk*).
+
 1.  Actief en passief stemrecht zijn basisrechten voor iedereen.
     Vluchtelingen en migranten moeten ook gebruik kunnen maken van deze rechten,
     niet pas na vijf jaar.
@@ -1889,13 +1896,6 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     vanwege het ontbreken van (tijdige) kennisgeving of aanmelding van het protest.
     Autoriteiten mogen demonstranten niet bestraffen
     vanwege het deelnemen aan een niet-aangemeld protest.
-
-1.  Er komt een structurele oplossing voor het democratisch deficit in het Koninkrijk.
-    Hierbij krijgen Aruba, Bonaire, Curaçao, Sint Maarten, Statia en Saba
-    niet alleen meer directe vertegenwoordiging,
-    maar ook meer zeggenschap terug over het beleid op de eilanden
-    (voor uitgebreidere punten over democratie in het Koninkrijk:
-    zie het hoofdstuk *Radicale Gelijkwaardigheid en Herstel in het Koninkrijk*).
 
 1.  ID-controles tijdens vreedzame demonstraties mogen niet meer worden uitgevoerd
     zonder wettige bevoegdheid om een identiteitsbewijs te vorderen.
