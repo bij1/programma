@@ -1,4 +1,4 @@
-# Inleiding
+## Inleiding
 
 Beste lezer,
 Wij hebben in de opmaak van dit programma verschillende woorden en begrippen gemarkeerd met een grijze achtergrond. Deze woorden staan uitgelegd in de woordenlijst achterin dit programma (pagina 67).
@@ -7,9 +7,9 @@ Wij wensen u veel leesplezier.
 
 **Programmacommissie BIJ1**
 
-# 1. Anti-Racisme en Dekolonisatie
+## 1. Anti-Racisme en Dekolonisatie
 
-## <mark>Na de Komma Begint Nu</mark>
+### <mark>Na de Komma Begint Nu</mark>
 
 <strong>
 BIJ1 droomt van een wereld zonder
@@ -39,7 +39,7 @@ en vanuit intersectionele solidariteit werken naar een wereld gebaseerd op radic
 Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
 </mark>
 
-## Institutioneel Antiracisme
+### Institutioneel Antiracisme
 
 1.  Racisme wordt in alle opzichten aangepakt,
     zowel in de overheid als in de hele samenleving.
@@ -84,7 +84,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     en we verbieden het vernielen van heilige schriften.
     Wetgeving die moslims onterecht koppelt aan veiligheid wordt ingetrokken.
 
-## Geen Plek voor Fascisme en Racistisch Geweld
+### Geen Plek voor Fascisme en Racistisch Geweld
 
 1.  We bouwen een grotere organisatie rondom de
     Nationaal Coördinator tegen Discriminatie en Racisme (NCDR),
@@ -118,7 +118,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     behalve in musea.
     Hitleraanbidding wordt bij wet verboden.
 
-## Koloniale Schade Herstellen en Hedendaags Kolonialisme Afbreken
+### Koloniale Schade Herstellen en Hedendaags Kolonialisme Afbreken
 
 1.  Nederland herstelt de schade die is veroorzaakt door 400 jaar kolonialisme en slavernij.
     Reparaties zullen zowel materieel als immaterieel zijn,
@@ -163,9 +163,9 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     en 18 maart (Dia di Himno y Bandera, de Arubaanse Dag van het Volkslied en de Vlag)
     worden nationale feestdagen.
 
-# 2. Werk En Bestaanszekerheid
+## 2. Werk En Bestaanszekerheid
 
-## <mark>Alles is Altijd al van Ons</mark>
+### <mark>Alles is Altijd al van Ons</mark>
 
 <strong>
 Bestaanszekerheid en een goed leven voor iedereen moet de norm zijn.
@@ -198,7 +198,7 @@ Samen pakken we terug wat altijd al van ons was.
 Dit doen we op de volgende manieren:
 </mark>
 
-## Een Inclusieve en Gelijkwaardige Arbeidsmarkt
+### Een Inclusieve en Gelijkwaardige Arbeidsmarkt
 
 1.  We schaffen de 40-urige werkweek af en gaan naar een 30-urige werkweek met loonbehoud.
     Partnerverlof wordt gelijkgetrokken met het kraam- en bevallingsverlof.
@@ -242,7 +242,7 @@ Dit doen we op de volgende manieren:
     Daarom worden medische keuringen bij arbeidsongeschiktheid niet door het UWV gedaan,
     maar in samenspraak met de persoon zelf en door onafhankelijke artsen.
 
-## Eerlijke Waardering & Meer Zeggenschap
+### Eerlijke Waardering & Meer Zeggenschap
 
 1.  Het minimumloon wordt per direct verhoogd naar 16 euro per uur
     met een gelijke verhoging van de AOW en de bijstand.
@@ -274,7 +274,7 @@ Dit doen we op de volgende manieren:
     Het stakingsrecht wordt uitgebreid:
     werkgevers bepalen niet wanneer je wel of niet mag staken.
 
-## Een Goed Leven, ook als je niet (meer) Werkt
+### Een Goed Leven, ook als je niet (meer) Werkt
 
 1.  We steken meer geld in scholingsprogramma's voor mensen zonder werk.
     De tegenprestaties en sancties voor mensen in de bijstand worden afgeschaft.
@@ -293,9 +293,9 @@ Dit doen we op de volgende manieren:
 1.  De regels voor de AIO (aanvullende inkomensondersteuning),
     waar veel ouderen met een migratieachtergrond aanspraak op maken vanwege het AOW-gat, worden versoepeld.
 
-# 3. Economie
+## 3. Economie
 
-## <mark>Een Economie voor en door Iedereen</mark>
+### <mark>Een Economie voor en door Iedereen</mark>
 
 <strong>
 BIJ1 staat voor een economie die werkt voor iedereen
@@ -329,7 +329,7 @@ maar vrijheid en gelijkwaardigheid horen het einddoel te zijn van een economie.
 Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
 </mark>
 
-## Van Privatisering naar Nationalisering
+### Van Privatisering naar Nationalisering
 
 1.  We brengen belangrijke sectoren van de economie,
     zoals banken, pensioenfondsen, het openbaar vervoer en de zorg,
@@ -364,7 +364,7 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
     maar wederom eigendom van de overheid.
     Deze kan ze vervolgens weer uitschrijven aan een volgende generatie.
 
-## Democratie op de Werkvloer
+### Democratie op de Werkvloer
 
 1.  De werknemerscoöperatie wordt de standaard eigendomsstructuur
     voor nieuw opgerichte rechtspersoonlijkheden.
@@ -392,7 +392,7 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
     Als hier geen gevolg aan wordt gegeven,
     wordt het recht ontzegd binnen Nederlandse grenzen te opereren.
 
-## Een Economie zonder Verliezers
+### Een Economie zonder Verliezers
 
 1.  Het recht op huisvesting, voeding en gezondheidszorg
     wordt geherformuleerd verankerd in de Grondwet
@@ -415,9 +415,9 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
     Ook saneert de overheid vaker schulden,
     zodat mensen een nieuwe start kunnen maken.
 
-# 4. Klimaat
+## 4. Klimaat
 
-## <mark>Een Leefbare Planeet</mark>
+### <mark>Een Leefbare Planeet</mark>
 
 <strong>
 BIJ1 vecht voor een wereld waarin ecosystemen,
@@ -459,7 +459,7 @@ Het leren, waarderen en volgen van de kennis van inheemse volkeren
 dient daarbij uitgangspunt te zijn.
 BIJ1 heeft hiervoor de volgende plannen:
 
-## Klimaatrechtvaardigheid Nu
+### Klimaatrechtvaardigheid Nu
 
 1.  De Nederlandse overheid roept per direct de klimaatcrisis uit.
     Zij is daarbij eerlijk en transparant over de gevolgen van de klimaatcrisis,
@@ -493,7 +493,7 @@ BIJ1 heeft hiervoor de volgende plannen:
     zodat mensen met lagere inkomens
     niet de rekening gepresenteerd krijgen voor de energietransitie.
 
-## Natuur en Vervoer
+### Natuur en Vervoer
 
 1.  OV-bedrijven worden genationaliseerd.
     Het openbaar vervoer wordt gratis en toegankelijk,
@@ -533,7 +533,7 @@ BIJ1 heeft hiervoor de volgende plannen:
     moeten rechten krijgen om bescherming, behoud (en eventueel herstel) te waarborgen.
     De Waddenzee moet als eerste als zelfstandige rechtspersoonlijkheid aangemerkt worden.
 
-## Internationale Klimaatrechtvaardigheid
+### Internationale Klimaatrechtvaardigheid
 
 1.  Bedrijven die verantwoordelijk zijn
     voor het aanrichten van klimaatschade en humanitaire rampen,
@@ -561,9 +561,9 @@ BIJ1 heeft hiervoor de volgende plannen:
     De financiering van ontbossing, landroof en productie van fossiele brandstoffen
     wordt voor zowel private als publieke financiële instellingen onmogelijk.
 
-# 5. Wonen
+## 5. Wonen
 
-## <mark>Van Woningmarkt naar Volkshuisvesting</mark>
+### <mark>Van Woningmarkt naar Volkshuisvesting</mark>
 
 <strong>
 BIJ1 strijdt voor een maatschappij waarin iedereen
@@ -603,7 +603,7 @@ Om iedereen van een betaalbare en leefbare woning te kunnen voorzien,
 heeft BIJ1 de volgende plannen:
 </mark>
 
-## Wonen is een Recht
+### Wonen is een Recht
 
 1.  Het recht op wonen wordt wettelijk afdwingbaar.
     Het kraakverbod wordt opgeheven
@@ -637,7 +637,7 @@ heeft BIJ1 de volgende plannen:
     waardoor het voor wooncoöperaties makkelijker wordt hun projecten te financieren.
     Alle bestaande woningcorporaties worden genationaliseerd.
 
-## Betaalbaar en Zeker Wonen
+### Betaalbaar en Zeker Wonen
 
 1.  We maken huren betaalbaarder voor mensen,
     door huurtoeslag onafhankelijk van woonvorm te maken
@@ -680,7 +680,7 @@ heeft BIJ1 de volgende plannen:
     ambtenaren, stagiairs en anderen uit Nederland,
     ten koste van de inwoners van de eilanden, wordt tegengegaan.
 
-## Een Toegankelijke, Inclusieve en Groene Woonomgeving
+### Een Toegankelijke, Inclusieve en Groene Woonomgeving
 
 1.  Zo veel mogelijk nieuwbouw- en bestaande woningen
     worden geschikt gemaakt voor mensen met een beperking.
@@ -707,9 +707,9 @@ heeft BIJ1 de volgende plannen:
     Huurders (zowel individueel als collectief),
     krijgen meer invloed op woningverbeteringen via initiatiefrecht.
 
-# 6. Zorg
+## 6. Zorg
 
-## <mark>De Mens Centraal</mark>
+### <mark>De Mens Centraal</mark>
 
 <strong>
 BIJ1 vecht voor een zorgsysteem dat van, voor en door iedereen is.
@@ -738,7 +738,7 @@ De zorg moet niet langer draaien om geld, maar om mensen.
 Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 </mark>
 
-## Zorg in Publieke Handen
+### Zorg in Publieke Handen
 
 1.  We zetten een Nationaal Zorgfonds op dat de zorgverzekeraars gaat vervangen.
     Het Nationaal Zorgfonds gaat alle zorg en tandheelkunde dekken.
@@ -781,7 +781,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Zij moeten vanuit eigen regie toegang hebben
     tot een passend en samenhangend pakket aan zorg en ondersteuning.
 
-## Laat de Zorg weer Werken
+### Laat de Zorg weer Werken
 
 1.  Huisartsenpraktijken worden zorgcentra in de wijk,
     waar zorg samenkomt en je terecht kunt met iedere zorg- of ondersteuningsvraag.
@@ -827,7 +827,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     De inzet van ervaringskennis wordt daarbij
     een vast onderdeel van het curriculum in alle opleidingen voor hulpverleners.
 
-## Toegankelijk en voor Iedereen
+### Toegankelijk en voor Iedereen
 
 1.  Er moet meer toezicht komen op naleving van het VN-verdrag Handicap
     in het sociaal domein door het opstellen van een landelijk normenkader.
@@ -869,9 +869,9 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Huisartsen worden opgeleid voor hormoonbehandelingen.
     Daarnaast hoeven trans personen geen diagnose meer te ontvangen om zorg te krijgen.
 
-# 7. Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
+## 7. Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
 
-## <mark>Radicale Gelijkwaardigheid en Herstel in het Koninkrijk</mark>
+### <mark>Radicale Gelijkwaardigheid en Herstel in het Koninkrijk</mark>
 
 <strong>
 BIJ1 gelooft in een samenleving waar iedereen,
@@ -906,7 +906,7 @@ de eilanden te ondersteunen zonder voorwaarden.
 Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 </mark>
 
-## Herstellen van Koloniale Schade
+### Herstellen van Koloniale Schade
 
 1.  Alle schulden van de eilanden worden kwijtgescholden.
     Hier mogen geen eisen aan verbonden worden.
@@ -937,7 +937,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Bij het ontwikkelen van het onderwijs krijgen de eilanden alle ruimte
     om ook Caribische, Zuid-Amerikaanse en Pan-Afrikaanse perspectieven op het onderwijs mee te nemen.
 
-## Radicale Gelijkwaardigheid Centraal Stellen
+### Radicale Gelijkwaardigheid Centraal Stellen
 
 1.  Het Statuut wordt in overleg met de eilanden hervormd.
     Het uitgangspunt wordt een nieuw Statuut waar daadwerkelijke gelijkwaardigheid centraal staat.
@@ -963,7 +963,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     en het wegwijs worden in de Nederlandse bureaucratie wordt toegankelijk gemaakt.
     Academische kennisuitwisseling binnen het Koninkrijk wordt blijvend gestimuleerd.
 
-## Eilanden de Macht Geven
+### Eilanden de Macht Geven
 
 1.  De Rijksministerraad wordt afgeschaft en vervangen
     door een nieuwe vorm van Koninkrijk-breed overleg,
@@ -988,9 +988,9 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Nederland start gesprekken om samen met de eilanden
     tot een structurele oplossing voor het democratisch deficit te komen.
 
-# 8. Asiel en Migratie
+## 8. Asiel en Migratie
 
-## <mark>Bescherm Mensen, Geen Grenzen</mark>
+### <mark>Bescherm Mensen, Geen Grenzen</mark>
 
 <strong>
 BIJ1 staat voor een wereld waarin het recht om vrij te kunnen reizen beschermd en gestimuleerd wordt.
@@ -1016,7 +1016,7 @@ in plaats van grenzen.
 Dit doen we op de volgende manieren:
 </mark>
 
-## Veilige Migratie en Menswaardige Opvang
+### Veilige Migratie en Menswaardige Opvang
 
 1.  Ieder mens moet vrij zijn om te verhuizen, te werken, te zijn waar die wil,
     en om overal ter wereld als volwaardig mens erkend te worden.
@@ -1057,7 +1057,7 @@ Dit doen we op de volgende manieren:
 1.  In AZC's komt meer aandacht voor LHBTQI+ personen en in het bijzonder trans personen.
     Zij moeten toegang hebben tot zorg in een veilige omgeving.
 
-## Een Solidaire Asielprocedure
+### Een Solidaire Asielprocedure
 
 1.  De IND neemt een besluit tot toekenning van een verblijfsvergunning binnen een termijn van 8 weken,
     met een uiterlijke uitloop tot 6 maanden als nader onderzoek nodig is.
@@ -1088,7 +1088,7 @@ Dit doen we op de volgende manieren:
 1.  Minderjarige asielzoekers die langer dan 3 jaar in Nederland wonen, krijgen verblijfsrecht.
     Ze behouden hun verblijfsrecht als ze meerderjarig worden.
 
-## Uitgeprocedeerde Asielzoekers en Ongedocumenteerde mensen
+### Uitgeprocedeerde Asielzoekers en Ongedocumenteerde mensen
 
 1.  Er komt een generaal pardon voor alle uitgeprocedeerde asielzoekers
     en ongedocumenteerde mensen die zich in Nederland bevinden.
@@ -1115,7 +1115,7 @@ Dit doen we op de volgende manieren:
     ongeacht nationaliteit en verblijfsstatus.
     Datzelfde geldt voor medische zorg.
 
-## Langetermijnvisie: Een Nieuw Migratiebeleid
+### Langetermijnvisie: Een Nieuw Migratiebeleid
 
 1.  Migranten en asielzoekers krijgen toegang tot dezelfde rechten als Nederlanders,
     ongeacht hun documenten of gebrek daaraan.
@@ -1154,9 +1154,9 @@ Dit doen we op de volgende manieren:
     buitenlandse werknemers met hoogbetaalde banen
     gaan net zoveel belasting betalen als ieder ander.
 
-# 9. Zelfbeschikking
+## 9. Zelfbeschikking
 
-## <mark>Jouw Lichaam, Jouw Keuzes</mark>
+### <mark>Jouw Lichaam, Jouw Keuzes</mark>
 
 <strong>
 Het recht op zelfbeschikking is een groot goed, van je geboorte tot aan je dood.
@@ -1180,7 +1180,7 @@ Om het recht op zelfbeschikking te beschermen,
 stelt BIJ1 de volgende beleidsveranderingen voor:
 </mark>
 
-## Toegankelijke Anticonceptie en Abortus
+### Toegankelijke Anticonceptie en Abortus
 
 1.  Er komt een volledige vergoeding van anticonceptie.
 
@@ -1197,7 +1197,7 @@ stelt BIJ1 de volgende beleidsveranderingen voor:
     Zowel verloskundigen als de huisarts moeten de abortuspil kunnen voorschrijven
     en werken hierin actief samen met abortusartsen.
 
-## Zwangerschap, Ouderschap en Adoptie
+### Zwangerschap, Ouderschap en Adoptie
 
 1.  Vruchtbaarheidsbehandelingen zoals IVF en KID moeten vergoed worden.
     Het aantal vergoede behandelingen moet uitgebreid worden op basis van kansen, niet kosten.
@@ -1226,7 +1226,7 @@ stelt BIJ1 de volgende beleidsveranderingen voor:
     hebben het recht om de feiten van hun afstamming te weten
     en worden hierin waar mogelijk gesteund door de overheid.
 
-## Geslachtsontwikkeling en Gender (Niet-Standaard)
+### Geslachtsontwikkeling en Gender (Niet-Standaard)
 
 1.  Er komt wetgeving dat een einde maakt aan medisch ingrijpen bij
     (niet-levensbedreigende) geslachtelijke ontwikkeling van intersekse kinderen,
@@ -1243,7 +1243,7 @@ stelt BIJ1 de volgende beleidsveranderingen voor:
 
 1.  Non-binaire personen mogen hun voornaam kosteloos wijzigen in de gemeentelijke basisadministratie.
 
-## Ondraaglijk Lijden en Euthanasie
+### Ondraaglijk Lijden en Euthanasie
 
 1.  Euthanasie wordt uit het Wetboek van Strafrecht gehaald.
     Mensen die hun leven als voltooid ervaren,
@@ -1262,7 +1262,7 @@ stelt BIJ1 de volgende beleidsveranderingen voor:
     waarin hulp bij zelfdoding niet strafbaar is,
     zoals het helpen van een dierbare met een duurzame wens tot zelfdoding.
 
-## Religie en Zelfbeschikking
+### Religie en Zelfbeschikking
 
 1.  Alle vormen van religieus onderwijs, scholen en gebedshuizen worden volgens gelijke criteria beschermd.
 
@@ -1275,9 +1275,9 @@ stelt BIJ1 de volgende beleidsveranderingen voor:
 
 1.  Er komen meer begraafplaatsen voor eeuwige grafrust.
 
-# 10. Toegankelijkheid en Inclusie
+## 10. Toegankelijkheid en Inclusie
 
-## <mark>Niets Over Ons, Zonder Ons</mark>
+### <mark>Niets Over Ons, Zonder Ons</mark>
 
 <strong>
 In Nederland leven ongeveer 3 miljoen mensen met een beperking.
@@ -1305,7 +1305,7 @@ Voor een samenleving die toegankelijk is voor iedereen,
 heeft BIJ1 de volgende kernpunten voor ogen:
 </mark>
 
-## Gelijke Behandeling en Rechtspositie
+### Gelijke Behandeling en Rechtspositie
 
 1.  Er komt een nationale strategie om de achterstelling en uitsluiting
     van mensen met een beperking tegen te gaan,
@@ -1325,7 +1325,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  In elke gemeente wordt een lokale gehandicaptenraad ingesteld.
 
-## Toegankelijkheid in de Openbare Ruimte
+### Toegankelijkheid in de Openbare Ruimte
 
 1.  Alle overheidsgebouwen worden en blijven volledig toegankelijk.
     Er komen doelgerichte budgetten voor gemeenten
@@ -1348,9 +1348,9 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 1.  Informatie van de overheid wordt standaard toegankelijk gemaakt,
     in begrijpelijke taal en beschikbaar in braille.
 
-# 11. Veiligheid en Justitie
+## 11. Veiligheid en Justitie
 
-## <mark>Bestaanszekerheid Boven Repressie</mark>
+### <mark>Bestaanszekerheid Boven Repressie</mark>
 
 <strong>
 
@@ -1385,7 +1385,7 @@ maar medemenselijkheid centraal staat.
 Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
 </mark>
 
-## Van Strafketen naar een Rechtvaardige Maatschappij
+### Van Strafketen naar een Rechtvaardige Maatschappij
 
 1.  De rol van politie en BOA's in de samenleving wordt geminimaliseerd
     en zal uiteindelijk verdwijnen.
@@ -1421,7 +1421,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     zodat daders menswaardig worden behandeld.
     De voorwaarden om voor vervroegde vrijlating in aanmerking te komen worden versoepeld.
 
-## Van Politiecontrole naar Controle over de Politie
+### Van Politiecontrole naar Controle over de Politie
 
 1.  De politie mag niet langer aanwezig zijn op campussen
     en hun aanwezigheid in overheidsgebouwen wordt ingeperkt.
@@ -1449,7 +1449,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     Gedetailleerde data over politiecontacten met burgers
     en onderzoeken naar racisme en politiegeweld worden publiek gemaakt.
 
-## Een Ongewapende Politie
+### Een Ongewapende Politie
 
 1.  De basisbewapening van de politie wordt teruggebracht tot pepperspray en een kleine gummiknuppel.
     BOA's krijgen geen enkele vorm van bewapening.
@@ -1469,9 +1469,9 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     Het afnemen van DNA wordt alleen toegestaan
     bij zeer ernstige misdrijven en na toetsing door een rechter.
 
-# 12. Internationale Samenwerking
+## 12. Internationale Samenwerking
 
-## <mark>Een Wereld van Vrede en Solidariteit</mark>
+### <mark>Een Wereld van Vrede en Solidariteit</mark>
 
 <strong>
 BIJ1 staat voor een wereld waar armoede, onderdrukking, geweld en oorlog niet meer bestaan.
@@ -1499,7 +1499,7 @@ Om langdurige vrede, stabiliteit en internationale rechtvaardigheid te bereiken
 heeft BIJ1 de volgende kernpunten voor ogen:
 </mark>
 
-## Een Einde aan Imperialisme
+### Een Einde aan Imperialisme
 
 1.  Nederland stapt uit de NAVO.
     Het vrijgekomen geld gaat naar preventie van conflicten, sociale doeleinden,
@@ -1528,7 +1528,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     Nederland erkent de staat Palestina,
     en zet zich actief in voor een einde aan de kolonisatie en illegale nederzettingen.
 
-## Economische Rechtvaardigheid
+### Economische Rechtvaardigheid
 
 1.  Nederland stelt protocollen op voor eerlijke handel, duurzaamheid en mensenrechten voor bedrijven,
     zowel binnen als buiten Nederland.
@@ -1554,7 +1554,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     voor het kwijtschelden van alle schulden van landen
     die te lijden hebben gehad onder koloniaal bewind.
 
-## Een Nieuw Europa
+### Een Nieuw Europa
 
 1.  We maken een einde aan de militarisering van de grenzen van Europa.
     Nederland zet zich ervoor in dat de Europese Unie
@@ -1580,7 +1580,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     voor ons grote aandeel in het veroorzaken van klimaatverandering
     en neemt in VN-verband het voortouw.
 
-## Investeren in Vrede
+### Investeren in Vrede
 
 1.  Nederland trekt zich militair terug uit alle internationale conflicten
     en steunt verzet tegen imperialistische uitbuiting, geweld en onderdrukking.
@@ -1613,9 +1613,9 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     zolang deze nog niet is hervormd.
     We stimuleren de inzet van ontwikkelde technische kennis in de wapenindustrie voor de civiele industrie.
 
-# 13. Sekswerk
+## 13. Sekswerk
 
-## <mark>Zij aan Zij met Sekswerkers</mark>
+### <mark>Zij aan Zij met Sekswerkers</mark>
 
 <strong>
 BIJ1 kan niet vaak genoeg benadrukken dat sekswerk gewoon werk is.
@@ -1649,7 +1649,7 @@ en sekswerkers zeggenschap krijgen over hun eigen werk.
 Dit doen we op de volgende manieren:
 </mark>
 
-## Sekswerk is Werk
+### Sekswerk is Werk
 
 1.  Sekswerk wordt volledig gedecriminaliseerd.
 
@@ -1669,7 +1669,7 @@ Dit doen we op de volgende manieren:
     Sekswerk wordt belegd bij het Ministerie van sociale zaken
     en mensenhandel bij het Ministerie van Justitie & Veiligheid.
 
-## Zeggenschap over Eigen Werk en Leven
+### Zeggenschap over Eigen Werk en Leven
 
 1.  We praten met sekswerkers, niet over hen.
     Sekswerkers krijgen inspraak in en bepalen mede het beleid over sekswerk.
@@ -1679,7 +1679,7 @@ Dit doen we op de volgende manieren:
 1.  Sekswerkers krijgen toegang tot (zakelijke) dienstverlening.
     Zij kunnen een bankrekening openen of hypotheek krijgen en worden met respect behandeld.
 
-## Veilige Werkplekken
+### Veilige Werkplekken
 
 1.  We stimuleren gemeenten om lokaal voldoende veilige werkplekken voor sekswerkers te faciliteren
     en voorkomen dat gemeenten een eigen beleid van criminalisering kunnen voeren.
@@ -1688,9 +1688,9 @@ Dit doen we op de volgende manieren:
     Als sekswerkers het willen, moet het makkelijk zijn werkplekken te creëren
     waar zij kunnen werken met gedeelde voorzieningen en in nabijheid van collega's.
 
-# 14. Onderwijs en Wetenschap
+## 14. Onderwijs en Wetenschap
 
-## <mark>Kennis is Kracht</mark>
+### <mark>Kennis is Kracht</mark>
 
 <strong>
 BIJ1 staat voor gelijke kansen voor alle leerlingen en studenten.
@@ -1723,7 +1723,7 @@ Voor het creëren van inclusief, toegankelijk en kwalitatief hoogwaardig onderwi
 heeft BIJ1 de volgende kernpunten voor ogen:
 </mark>
 
-## Voor Betaalbaar en Toegankelijk Onderwijs
+### Voor Betaalbaar en Toegankelijk Onderwijs
 
 1.  Het collegegeld wordt afgeschaft:
     beroepsonderwijs en universiteit worden gratis.
@@ -1756,7 +1756,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     bijvoorbeeld door drempels voor werkende mensen weg te nemen,
     en door schakelprogramma's.
 
-## Dekolonisatie en gelijke kansen
+### Dekolonisatie en gelijke kansen
 
 1.  We zetten ons actief in om onderadvisering tegen te gaan.
     De selectie en toetsing van basisschoolleerlingen voor het voortgezet onderwijs
@@ -1792,7 +1792,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     De vrijwillige ouderbijdrage in het basisonderwijs en voortgezet onderwijs wordt afgeschaft,
     en bijles moet gratis zijn voor mensen die het anders niet kunnen betalen.
 
-## Docenten Verdienen Beter
+### Docenten Verdienen Beter
 
 1.  De arbeidsvoorwaarden van docenten worden verbeterd:
     hoger salaris en minder werkdruk.
@@ -1810,7 +1810,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     aan de werkdruk in het onderwijsveld (veroorzaakt door samenleving, schoolbestuur en ouders)
     en hoe daarmee om moet worden gegaan.
 
-## Meer Waardering, Democratie en Diversiteit
+### Meer Waardering, Democratie en Diversiteit
 
 1.  De overheid werkt samen met hogescholen en universiteiten om de academische vrijheid te waarborgen.
 
@@ -1838,9 +1838,9 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     en er komen diversiteitsquota in alle onderwijs- en bestuurslagen
     in het theoretisch en wetenschappelijk onderwijs.
 
-# 15. Democratie & Staatsrecht
+## 15. Democratie & Staatsrecht
 
-## <mark>Naar een Echte Democratie</mark>
+### <mark>Naar een Echte Democratie</mark>
 
 <strong>
 BIJ1 staat pal achter een democratie die gebaseerd is op gelijkwaardigheid,
@@ -1868,7 +1868,7 @@ Het is tijd voor een radicale democratisering van onze samenleving.
 Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 </mark>
 
-## Naar een Democratische Republiek
+### Naar een Democratische Republiek
 
 1.  Nederland krijgt een nieuwe Grondwet die de bestaande koloniale, kapitalistische Grondwet vervangt.
     Daarnaast komt er een Constitutioneel Hof, dat Nederlandse wetten toetst aan die Grondwet.
@@ -1902,7 +1902,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Gemeenten staan namelijk veel dichter bij de burgers voor wie ze het beleid maken en uitvoeren.
     Zij weten daarom beter dan de landelijke overheid wat er lokaal het hardst nodig is.
 
-## Democratie voor Iedereen
+### Democratie voor Iedereen
 
 1.  Alle mensenrechtenverdragen, zoals het Kinderrechtenverdrag, het Vrouwenrechtenverdrag
     en het VN-verdrag inzake rechten van personen met een handicap,
@@ -1931,7 +1931,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 1.  De mogelijkheden om een dubbele nationaliteit te hebben of te behouden worden verbreed:
     een meerduidige identiteit heeft meerwaarde en mag niet worden onderdrukt.
 
-## Informatie- en Demonstratierecht
+### Informatie- en Demonstratierecht
 
 1.  Het recht op demonstratie wordt strikt beschermd.
     In lijn met onze mensenrechten mogen autoriteiten
@@ -1966,9 +1966,9 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Hun bevoegdheden worden ingeperkt,
     en gegevensverstrekking aan buitenlandse geheime diensten wordt aan banden gelegd.
 
-# 16. Kunst, Cultuur en Media
+## 16. Kunst, Cultuur en Media
 
-## <mark>Samen Verbeelden we een Nieuwe Toekomst</mark>
+### <mark>Samen Verbeelden we een Nieuwe Toekomst</mark>
 
 <strong>
 BIJ1 zet zich in voor een bloeiende kunst-, cultuur- en mediasector
@@ -2005,7 +2005,7 @@ waarin ruimte is voor creativiteit en radicale verbeeldingskracht.
 Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 </mark>
 
-## Voor de Makers
+### Voor de Makers
 
 1.  We stellen structureel meer fondsen beschikbaar op het gebied van kunst, cultuur en media.
     We versimpelen de subsidie en prestatie-voorwaarden,
@@ -2024,7 +2024,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     worden zzp-ers, flexwerkers, makers en instellingen die weinig of geen subsidie krijgen
     net zo ruimhartig gecompenseerd als de instellingen die onder de basisinfrastructuur vallen.
 
-## Een Inclusieve Cultuursector
+### Een Inclusieve Cultuursector
 
 1.  We investeren fors in de [Fair Practice Code](https://bij1.org/woordenlijst/)
     en de [Code Culturele Diversiteit](https://bij1.org/woordenlijst/) en maken deze bindend.
@@ -2050,7 +2050,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Omroepen die ongrondwettelijke racistische denkbeelden en nepnieuws verspreiden
     worden verboden en krijgen geen vergunning.
 
-## Toegankelijkheid & Educatie
+### Toegankelijkheid & Educatie
 
 1.  De toegangsprijzen van musea en culturele instellingen gaan flink omlaag,
     zodat iedereen van kunst en cultuur kan genieten, ongeacht hun inkomen.
@@ -2070,9 +2070,9 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     de culturele omgeving van de school en de kunst- en cultuursector.
     Ook participatie in de vrije tijd is toegankelijk en betaalbaar voor ieder kind.
 
-# 17. Digitale Rechten en Technologie
+## 17. Digitale Rechten en Technologie
 
-## <mark>Technologie voor Mens, Dier en Planeet</mark>
+### <mark>Technologie voor Mens, Dier en Planeet</mark>
 
 <strong>
 BIJ1 staat voor een wereld waarin technologie, mens, dier en planeet ondersteunt.
@@ -2109,7 +2109,7 @@ om technologie te laten werken in het belang van mens, dier en planeet.
 Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
 </mark>
 
-## Technologie en Digitalisering: van en voor Iedereen
+### Technologie en Digitalisering: van en voor Iedereen
 
 1.  Toegang tot het internet is een basisrecht en moet daarom voor iedereen toegankelijk zijn.
     Er komt gratis internettoegang voor iedereen.
@@ -2134,7 +2134,7 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
 1.  De overheid zet zich in voor de ontwikkeling van [open source](https://bij1.org/woordenlijst/)
     en open standaarden in de publieke en private sector.
 
-## Privacy en Veiligheid
+### Privacy en Veiligheid
 
 1.  Handel in privé-informatie wordt volledig verboden
     en het opslaan van privé-gegevens door bedrijven en overheid wordt verder geminimaliseerd.
@@ -2168,7 +2168,7 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
     De data en informatie waar AI systemen op zijn gebouwd zijn niet discriminerend
     of zonder toestemming van en vergoeding voor de oorspronkelijke bron ingezet.
 
-## Technologie die ons Beschermt
+### Technologie die ons Beschermt
 
 1.  Er komt actief overheidsbeleid tegen
     discriminatie en etnisch profileren in de digitalisering van overheidsdiensten:
