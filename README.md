@@ -395,6 +395,11 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
 
 ### Een Economie zonder Verliezers
 
+1.  Onze maatschappij is sociaal en ecologisch destructief;
+    de afgelopen generaties hebben hierdoor een slechtere aarde geërfd dan de vorige.
+    Wij stellen een Bureau voor Intergenerationele Rechtvaardigheid voor die intergenerationeel onrecht
+    identificeert, bijhoudt, hier onderzoek naar doet en oplossingen zoekt.
+
 1.  Het recht op huisvesting, voeding en gezondheidszorg
     wordt geherformuleerd verankerd in de Grondwet
     zodat deze mensenrechten niet langer
