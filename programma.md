@@ -2106,6 +2106,8 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
     het promoten van mis- en disinformatie en racistisch geweld door techbedrijven,
     en het rangschikken en scoren van medewerkers
     en verdelen van werk met algoritmes, in de tech platform economie.
+1.  De data en informatie waar AI systemen op zijn gebouwd zijn niet discriminerend
+    of zonder toestemming van en vergoeding voor de oorspronkelijke bron ingezet.
 
 1.  Belangenorganisaties worden in staat gesteld
     goede controle te kunnen uitoefenen op 'Big Tech' en de overheid,
@@ -2118,9 +2120,6 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
     en het beschermen en bevorderen van mensenrechten.
     Wanneer overheid en bedrijven gebruik maken van geavanceerde technologie,
     is er het recht op menselijke tussenkomst.
-
-1.  De data en informatie waar AI systemen op zijn gebouwd zijn niet discriminerend
-    of zonder toestemming van en vergoeding voor de oorspronkelijke bron ingezet.
 
 1.  Er komt een ministerie van Digitale Zaken.
     Zij overzien alle digitaliseringsprojecten bij alle overheidsdiensten.
