@@ -1,7 +1,8 @@
 ## Inleiding
 
 Beste lezer,
-Wij hebben in de opmaak van dit programma verschillende woorden en begrippen gemarkeerd met een grijze achtergrond. Deze woorden staan uitgelegd in de woordenlijst achterin dit programma (pagina 67).
+Wij hebben in de opmaak van dit programma verschillende woorden en begrippen gemarkeerd met een grijze achtergrond.
+Deze woorden staan uitgelegd in de woordenlijst achterin dit programma (pagina 67).
 
 Wij wensen u veel leesplezier.
 
@@ -723,7 +724,8 @@ Zo werken we naar een zorgsysteem dat voor iedereen werkt.
 </strong>
 
 We hebben de zorg lange tijd overgelaten aan de verwoestende vrije markt.
-Het heeft ervoor gezorgd dat zorginstellingen gericht zijn op het eindeloos vergroten van hun winsten, wat de zorg alleen maar duurder heeft gemaakt.
+Het heeft ervoor gezorgd dat zorginstellingen gericht zijn op het eindeloos vergroten van hun winsten,
+wat de zorg alleen maar duurder heeft gemaakt.
 Daarnaast zorgt de complexe bureaucratie ervoor
 dat mensen steeds moeilijker bij de juiste zorg komen.
 Zorgmedewerkers worden te weinig betaald,
@@ -807,7 +809,8 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 1.  We hebben [een](https://docs.google.com/document/d/1kbkyCiu22_8dobcZf9pj88DKOe_EpmJwGVqg1Str9sw/edit?usp=sharing)
     radicale omslag nodig in de GGZ.
     We zetten ons in voor een GGZ zonder
-    doorgeslagen diagnostisering, lange wachtlijsten, personeelstekorten, separeercellen en burn-outs onder medewerkers.
+    doorgeslagen diagnostisering, lange wachtlijsten, personeelstekorten,
+    separeercellen en burn-outs onder medewerkers.
     Naar een GGZ waar de menselijke maat centraal staat.
 
 1.  Onze ouderen verdienen respect.
