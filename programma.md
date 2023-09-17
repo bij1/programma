@@ -3,7 +3,7 @@
 Beste lezer,
 Wij hebben in de opmaak van dit programma verschillende woorden en begrippen gemarkeerd met een grijze achtergrond. Deze woorden staan uitgelegd in de woordenlijst achterin dit programma (pagina 67).
 
-Wij wensen u veel leesplezier. 
+Wij wensen u veel leesplezier.
 
 **Programmacommissie BIJ1**
 
