@@ -500,7 +500,8 @@ BIJ1 heeft hiervoor de volgende plannen:
     Het openbaar vervoer wordt gratis en toegankelijk,
     en is uiterlijk in 2030 volledig elektrisch.
 
-1.  Nederlandse vliegvelden, waaronder Schiphol, mogen niet verder uitbreiden.
+1.  Nederlandse vliegvelden, waaronder Schiphol, worden verplicht hun vluchtaanbod zo aan te passen
+    dat uitstoot van broeikasgassen jaarlijks vermindert en in 2030 verwaarloosbaar is.
     Er komt BTW en accijns op kerosine,
     en we zetten ons op Europees niveau in om zo snel mogelijk
     op duurzame wijze een Europees spoornetwerk te realiseren.
