@@ -1711,14 +1711,6 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     gebaseerd op het inkomen van de ouder(s)/verzorger(s) en dat van de student zelf.
     Studieschulden van de 'pechgeneratie' worden kwijtgescholden.
 
-1.  De selectie en toetsing van basisschoolleerlingen voor het voortgezet onderwijs
-    moet anders en op een later moment.
-    Advies voor vervolgonderwijs wordt voortaan gebaseerd
-    op een overeenkomst tussen leraar, ouder(s)/verzorger(s) en leerling.
-    We stimuleren brede brugklassen
-    en scholengemeenschappen met verschillende schoolsoorten (vmbo, havo, vwo).
-    Diploma's in het voortgezet onderwijs moeten gestapeld kunnen worden zonder aanvullende eisen.
-
 1.  Scholen moeten volledig toegankelijk worden voor leerlingen met een beperking
     en we maken extra budget vrij voor de ondersteuning van deze leerlingen.
     We vormen het onderwijs zodanig om,
@@ -1743,6 +1735,14 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     De toegang tot het theoretisch en wetenschappelijk onderwijs wordt makkelijker gemaakt,
     bijvoorbeeld door drempels voor werkende mensen weg te nemen,
     en door schakelprogramma's.
+
+1.  De selectie en toetsing van basisschoolleerlingen voor het voortgezet onderwijs
+    moet anders en op een later moment.
+    Advies voor vervolgonderwijs wordt voortaan gebaseerd
+    op een overeenkomst tussen leraar, ouder(s)/verzorger(s) en leerling.
+    We stimuleren brede brugklassen
+    en scholengemeenschappen met verschillende schoolsoorten (vmbo, havo, vwo).
+    Diploma's in het voortgezet onderwijs moeten gestapeld kunnen worden zonder aanvullende eisen.
 
 1.  De voorschool wordt gratis voor alle kinderen.
     De vrijwillige ouderbijdrage in het basisonderwijs en voortgezet onderwijs wordt afgeschaft,
