@@ -1905,6 +1905,13 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Gemeenten staan namelijk veel dichter bij de burgers voor wie ze het beleid maken en uitvoeren.
     Zij weten daarom beter dan de landelijke overheid wat er lokaal het hardst nodig is.
 
+1.  In overheids- en semioverheidsorganisaties dringen doorgaans opportunistische baantjesjagers
+    door tot bestuurlijke en managementposities.
+    Hierom is een onafhankelijke organisatie nodig die mensen selecteert op hun werkelijke kwaliteiten,
+    zoals inzicht en een karakter die het algemeen belang dient in plaats van het eigen belang.
+    Dit moet zo gebeuren dat ook de kwaliteiten
+    van mensen uit gemarginaliseerde groepen eindelijk eens erkend worden.
+
 ### Democratie voor Iedereen
 
 1.  Alle mensenrechtenverdragen, zoals het Kinderrechtenverdrag, het Vrouwenrechtenverdrag
