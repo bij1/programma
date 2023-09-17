@@ -7,7 +7,8 @@
 
 ## ideeën
 
-Heb je een idee maar weet je nog niet precies hoe het amendement eruit moet zien? Omschrijf dan wat er beter kan in een nieuwe [issue](issues/new/choose)!
+Heb je een idee maar weet je nog niet precies hoe het amendement eruit moet zien?
+Omschrijf dan wat er beter kan in een nieuwe [issue](issues/new/choose)!
 
 ## amendementen maken
 
@@ -16,7 +17,7 @@ Heb je een idee maar weet je nog niet precies hoe het amendement eruit moet zien
 
 ### amendementen maken via de browser
 
-- Ga naar **✏️ [`programma.md` wijzigen](https://github.com/KiaraGrouwstra/bij1-programma/edit/main/programma.md)**
+- Ga naar **✏️ [`programma.md` wijzigen](https://github.com/bij1/programma/edit/main/programma.md)**
 - Maak je gewenste amendementen
 - Omschrijf je amendement onderaan de pagina en duw op **Propose Changes** (groene knop)
 - Duw vervolgens tweemaal op **Create Pull Request** (groene knop)
@@ -28,8 +29,9 @@ Animatie die dit proces laat zien:
 ### offline amendementen maken
 
 Het is tevens mogelijk om offline aan amendementen te werken.
-Dit kan ofwel via een grafische tool als [Github Desktop](https://desktop.github.com/), ofwel (gevorderden) via [Git](https://git-scm.com/).
+Dit kan ofwel via een grafische tool als [Github Desktop](https://desktop.github.com/),
+ofwel (gevorderden) via [Git](https://git-scm.com/).
 
 ## Kom je er niet uit?
 
-Omschrijf je probleem in een nieuwe [issue](issues/new/choose) of stuur een [email](mailto:cinerealk+github@gmail.com)!
+Omschrijf je probleem in een nieuwe [issue](issues/new/choose) of stuur een [email](mailto:ict@bij1.org)!
