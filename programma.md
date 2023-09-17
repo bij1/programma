@@ -1,3 +1,12 @@
+# Inleiding
+
+Beste lezer,
+Wij hebben in de opmaak van dit programma verschillende woorden en begrippen gemarkeerd met een grijze achtergrond. Deze woorden staan uitgelegd in de woordenlijst achterin dit programma (pagina 67).
+
+Wij wensen u veel leesplezier. 
+
+**Programmacommissie BIJ1**
+
 # 1. Anti-Racisme en Dekolonisatie
 
 ## <mark>Na de Komma Begint Nu</mark>
@@ -123,7 +132,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  Er komt een consensusrijkswet Herstelmaatregelen voor het gehele Koninkrijk,
     zodat het uitvoeren van herstelbeleid bij wet wordt gegarandeerd
-    en niet afhangt van de welwillendheid van een willekeurige regering.
+    en niet afhangt van de welwillendheid van een willekeurige Europees Nederlandse regering.
 
 1.  Ook in het Europese deel van Nederland moet heling van kolonialisme centraal staan.
     Dekolonisatiebeleid wordt bij alle ministeries een prioriteit.
@@ -202,7 +211,7 @@ Dit doen we op de volgende manieren:
     We maken vóór 2025 een einde aan loon- en inkomensongelijkheid tussen mannen en vrouwen.
     Discriminerende bedrijven worden strafrechtelijk verantwoordelijk gehouden.
 
-1.  Arbeidsmigranten en ongedocumenteerden verdienen dezelfde rechten
+1.  Arbeidsmigranten en ongedocumenteerde mensen verdienen dezelfde rechten
     als elke andere werknemer.
     Ongedocumenteerde mensen die te maken krijgen met geweld of dwang op het werk,
     moeten dit kunnen melden zonder dat ze risico lopen op uitzetting.
@@ -237,6 +246,8 @@ Dit doen we op de volgende manieren:
 
 1.  Het minimumloon wordt per direct verhoogd naar 16 euro per uur
     met een gelijke verhoging van de AOW en de bijstand.
+    We koppelen het minimumloon aan 60% van het mediaan inkomen,
+    zodat het structureel meestijgt met andere lonen.
     Het minimumjeugdloon wordt afgeschaft
     en gelijkgetrokken met het minimumloon voor volwassenen.
 
@@ -279,8 +290,8 @@ Dit doen we op de volgende manieren:
     Het blijft wel mogelijk om door te werken
     en ook gaan we strenger toezien op arbeidsmarktdiscriminatie op basis van leeftijd.
 
-1.  De regels voor de AIO (aanvullende inkomen ondersteuning),
-    waar veel ouderen met een migratieachtergrond aanspraak op maken vanwege het AOW-gat worden versoepeld
+1.  De regels voor de AIO (aanvullende inkomensondersteuning),
+    waar veel ouderen met een migratieachtergrond aanspraak op maken vanwege het AOW-gat, worden versoepeld.
 
 # 3. Economie
 
@@ -296,14 +307,14 @@ Ons huidige kapitalistische systeem, is onhoudbaar.
 Voor een toekomstbestendige economie,
 moeten we afscheid nemen van een systeem dat
 vermogenden, aandeelhouders en grote beursgenoteerde bedrijven
-in staat stelt onze democratie in te perk
+in staat stelt onze democratie in te perken
 en mensen wereldwijd uit te buiten.
 Want er is meer dan genoeg voor iedereen.
 </strong>
 
 Dat betekent een radicale democratisering van de economie.
 BIJ1 durft te dromen van een systeem dat er nu nog niet is
-en werkt stapsgewijs, van de grond af aan naar een democratisch socialisme.
+en werkt stapsgewijs, van de grond af aan, naar een democratisch socialisme.
 De groeiende kloof tussen Nederlanders met lage lonen en de allerrijksten wordt gedicht.
 Een rechtvaardige economie die voor ons allemaal werkt
 en waarbij iedereen gelijkwaardig kan deelnemen.
@@ -402,7 +413,7 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
     De overheid neemt daarnaast schulden vaker over,
     zodat er maar één schuldeiser is en schulden niet oplopen.
     Ook saneert de overheid vaker schulden,
-    zodat mensen een nieuwe start kunnen maken
+    zodat mensen een nieuwe start kunnen maken.
 
 # 4. Klimaat
 
@@ -418,8 +429,8 @@ Alle benodigde klimaatmaatregelen worden
 voortaan getoetst op klimaatrechtvaardigheid.
 </strong>
 
-Dat betekent dat de kosten van klimaatbeleid worden gedragen door de grootste vervuilers
-en niet door landen die nauwelijks hebben bijgedragen aan de klimaatcrisis,
+Dat betekent dat de kosten van klimaatbeleid worden gedragen door de grootste vervuilers.
+Niet door burgers en zeker niet door landen die nauwelijks hebben bijgedragen aan de klimaatcrisis,
 maar wel als eerste te maken krijgen met de gevolgen ervan.
 Die gevolgen kunnen worden voorkomen,
 als westerse landen hun verantwoordelijkheid zouden nemen
@@ -446,7 +457,7 @@ volledig moeten herzien om te komen tot
 een rechtvaardige, circulaire en duurzame samenleving.
 Het leren, waarderen en volgen van de kennis van inheemse volkeren
 dient daarbij uitgangspunt te zijn.
-BIJ1 heeft de volgende kernpunten voor ogen:
+BIJ1 heeft hiervoor de volgende plannen:
 
 ## Klimaatrechtvaardigheid Nu
 
@@ -486,7 +497,7 @@ BIJ1 heeft de volgende kernpunten voor ogen:
 
 1.  OV-bedrijven worden genationaliseerd.
     Het openbaar vervoer wordt gratis en toegankelijk,
-    en is uiterlijk 2030 volledig elektrisch. 
+    en is uiterlijk in 2030 volledig elektrisch. 
 
 1.  Nederlandse vliegvelden, waaronder Schiphol, mogen niet verder uitbreiden.
     Er komt BTW en accijns op kerosine,
@@ -531,7 +542,7 @@ BIJ1 heeft de volgende kernpunten voor ogen:
     en er komt een reclameverbod voor de fossiele industrie en vliegmaatschappijen.
 
 1.  Nederland zet zich in voor een forse herziening van het Europees landbouwbeleid,
-    waarbij alleen nog subsidies worden verstrekt aan kringlooplandbouw.
+    waarbij alleen nog subsidies worden verstrekt aan circulaire landbouw.
 
 1.  Nederland draagt er internationaal zorg voor
     dat de duurzame energietransitie geen negatieve gevolgen heeft
@@ -583,9 +594,9 @@ en zetten ons in voor vergroening en toegankelijkheid van de woonomgeving.
 We strijden voor een nieuwe aanpak waarbij de behoeften van bewoners,
 in het bijzonder mensen met een beperking,
 voorrang krijgen bij nieuwe bouwplannen.
-Ook moet er meer actie worden genomen tegen klimaat gerelateerde schade,
-vooral op Bonaire, Statia en Saba,
-die het hardst getroffen (zullen) worden door bijvoorbeeld overstromingen.
+Ook moet er meer actie worden genomen tegen klimaatgerelateerde schade,
+vooral op de ABCSSS-eilanden,
+die het hardst getroffen (zullen) worden door bijvoorbeeld overstromingen en orkanen.
 
 <mark>
 Om iedereen van een betaalbare en leefbare woning te kunnen voorzien,
@@ -603,7 +614,7 @@ heeft BIJ1 de volgende plannen:
 
 1.  We maken het bestrijden van dak- en thuisloosheid
     een doelstelling van het nationaal woonbeleid.
-    Dit doen we door middel van de 'Housing First' aanpak.
+    Dit doen we door middel van de Housing First aanpak.
     Hiervoor worden er direct genoeg gratis zelfstandige woningen voor alle dak- en thuislozen gerealiseerd,
     met het doel om in 2030 nul dakloze mensen te hebben (Lissabon Verklaring).
     Daarbij wordt ook de opvang van dakloze EU-arbeiders en ongedocumenteerde mensen gegarandeerd.
@@ -634,10 +645,12 @@ heeft BIJ1 de volgende plannen:
 
 1.  Huisjesmelkers maken misbruik van de wooncrisis door veel te hoge huurprijzen te vragen,
     onderhoud te verwaarlozen en soms zelfs huurders te intimideren.
-    Hier gaan we huurders voor beschermen.
-    Er wordt een verhuurvergunning met kwalificatie-eisen ingevoerd
-    en huurcontracten voor onbepaalde tijd worden de standaard.
-    Ook private huur krijgt een huurplafond gebaseerd op een eerlijk puntenstelsel,
+    Hier gaan we huurders tegen beschermen.
+    Er wordt een verhuurvergunning met strenge kwalificatie-eisen ingevoerd
+    en er wordt geïnvesteerd in de controlediensten van de gemeenten die hierop moeten toezien.
+    
+1.  Huurcontracten voor onbepaalde tijd worden de standaard en
+    ook private huur krijgt een huurplafond gebaseerd op een eerlijk puntenstelsel,
     waarin de kwaliteit van de woning wordt meegenomen.
     Makelaars, bemiddelaars of verhuurders die discrimineren,
     verliezen het recht om deze functies nog langer te beoefenen
@@ -694,7 +707,7 @@ heeft BIJ1 de volgende plannen:
     Huurders (zowel individueel als collectief),
     krijgen meer invloed op woningverbeteringen via initiatiefrecht.
 
-# 7. Zorg
+# 6. Zorg
 
 ## <mark>De Mens Centraal</mark>
 
@@ -728,7 +741,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 ## Zorg in Publieke Handen
 
 1.  We zetten een Nationaal Zorgfonds op dat de zorgverzekeraars gaat vervangen.
-    Het Nationaal Zorgfonds gaat alle zorg en tandheelkunde betalen.
+    Het Nationaal Zorgfonds gaat alle zorg en tandheelkunde dekken.
     Om dit te kunnen betalen, heffen we progressieve belastingen.
     De premies en eigen bijdragen worden afgeschaft.
 
@@ -807,7 +820,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     om hun klachten of bezwaren in te dienen en hun recht te halen wanneer dat nodig is.
     Iedereen krijgt toegang tot onafhankelijke cliëntondersteuning.
 
-1.  Om het werk van de ervaringsprofessionals te erkennen
+1.  Om het werk van de ervaringsdeskundigen te erkennen
     en gelijkwaardig te behandelen met andere beroepsgroepen,
     wordt de functie ervaringswerker in de zorg-CAO's opgenomen.
     Voor de betaling van ervaringsdeskundige vrijwilligers worden landelijke richtlijnen opgesteld.
@@ -845,7 +858,8 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     goede begeleiding en suïcidepreventie bij LHBTQIA+-mensen.
     Ook worden er safehouses voor hen ingericht, verspreid over het land.
     We bevorderen (ervarings)deskundigheid over de LHBTQIA+-gemeenschap in de GGZ en de Jeugdzorg.
-    De zorg voor trans personen moet worden gezien als een reguliere vorm van medische zorg
+
+1.  De zorg voor trans personen moet worden gezien als een reguliere vorm van medische zorg
     en moet worden meegenomen in het basiscurriculum van medische gezondheidsopleidingen.
     We vergroten het aanbod van transzorg en er worden meer transklinieken geopend.
     Expertise wordt gedeeld tussen de vijf grootste ziekenhuizen,
@@ -855,17 +869,16 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Huisartsen worden opgeleid voor hormoonbehandelingen.
     Daarnaast hoeven trans personen geen diagnose meer te ontvangen om zorg te krijgen.
 
-# 6. Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
+# 7. Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
 
 ## <mark>Radicale Gelijkwaardigheid en Herstel in het Koninkrijk</mark>
 
 <strong>
 BIJ1 gelooft in een samenleving waar iedereen,
 of ze nu in het Europese of het Caribische gedeelte van het Koninkrijk wonen,
-een menswaardig bestaan.
+een menswaardig bestaan leidt.
 Een bestaan vrij van armoede, racisme en andere vormen van onderdrukking.
-Een nieuwe realiteit waarin de doorwerkingen van kolonialisme en slavernij afgebroken zijn
-en we samen constructief bouwen aan een toekomst waar een menswaardig bestaan leeft.
+Een nieuwe realiteit waarin de doorwerkingen van kolonialisme en slavernij afgebroken zijn.
 Een nieuwe vorm van samenwerken met Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten,
 waarin de belangen van de eilanden centraal staan.
 Een nieuwe relatie gebaseerd op antikolonialisme en radicale gelijkwaardigheid.
@@ -903,7 +916,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     De excuses voor de slavernij en het kolonialisme,
     de invulling van het herstelproces en de uitkomsten
     worden juridisch bindend en vastgelegd in een
-    consensusrijkswet Herstelmaatregelen (zie: hoofdstuk *Antiracisme en Dekolonisatie*).
+    consensusrijkswet Herstelmaatregelen.
     Deze reparaties zullen zowel materieel als immaterieel zijn,
     maar de precieze invulling wordt besloten door de samenlevingen van de eilanden.
     Nederland ondersteunt dit proces volledig financieel en naar behoefte logistiek.
@@ -992,7 +1005,7 @@ en zorgen voor rechtvaardige opvang, veilige migratie en een wereld zonder grenz
 Door mensen als gelijkwaardig te zien in plaats van als last,
 brengen we de medemenselijkheid terug in het asiel- en migratiebeleid.
 Het is hoog tijd om de rechtspositie van vluchtelingen en arbeidsmigranten te verbeteren.
-De terechte warmte waarmee een grote groep vluchtelingen met Oekraiens paspoort werd onthaald,
+De terechte warmte waarmee een grote groep vluchtelingen met Oekraïens paspoort werd onthaald,
 willen wij voor alle vluchtelingen mogelijk maken, ongeacht hun land van herkomst.
 Zo verdient iedereen het om te kunnen werken, studeren en een woning te hebben.
 Goede, menswaardige opvanglocaties zijn daarbij een eerste vereiste.
@@ -1000,7 +1013,7 @@ Goede, menswaardige opvanglocaties zijn daarbij een eerste vereiste.
 <mark>
 Wij werken toe naar een wereld waarin mensen worden beschermd,
 in plaats van grenzen.
-Daarvoor heeft BIJ1 de volgende punten:
+Dit doen we op de volgende manieren:
 </mark>
 
 ## Veilige Migratie en Menswaardige Opvang
@@ -1016,7 +1029,7 @@ Daarvoor heeft BIJ1 de volgende punten:
     We pleiten in EU-verband voor onmiddellijke opzegging van dit soort deals,
     en sluiten ook geen nieuwe migratiedeals.
 
-1.  Nederland hervestigt jaarlijks een groeiend aantal kwetsbare mensen uit vluchtelingenkampen.
+1.  Nederland hervestigt jaarlijks een groeiend aantal kwetsbare vluchtelingen uit vluchtelingenkampen.
 
 1.  Asielzoekers mogen tijdens hun procedure werk zoeken en een studie beginnen.
     Ook ongedocumenteerde mensen mogen werken en studeren.
@@ -1075,7 +1088,7 @@ Daarvoor heeft BIJ1 de volgende punten:
 1.  Minderjarige asielzoekers die langer dan 3 jaar in Nederland wonen, krijgen verblijfsrecht.
     Ze behouden hun verblijfsrecht als ze meerderjarig worden.
 
-## Uitgeprocedeerde Asielzoekers en Ongedocumenteerden
+## Uitgeprocedeerde Asielzoekers en Ongedocumenteerde mensen
 
 1.  Er komt een generaal pardon voor alle uitgeprocedeerde asielzoekers
     en ongedocumenteerde mensen die zich in Nederland bevinden.
@@ -1086,7 +1099,10 @@ Daarvoor heeft BIJ1 de volgende punten:
 
 1.  Niemand komt in vreemdelingenbewaring.
     Alle detentiecentra voor uitgeprocedeerde asielzoekers en ongedocumenteerde mensen worden gesloten,
-    net zoals detentie-achtige faciliteiten, zoals de HTL, VBL en de PBL.
+    net zoals detentie-achtige faciliteiten,
+    zoals de handhaving en toezichtslocatie (htl),
+    vrijheidsbeperkendelocaties (vbl)
+    en de procesbeschikbaarheidslocaties (pbl).
     Nederland stopt met deportaties.
 
 1.  Afgewezen asielzoekers die onuitzetbaar zijn omdat hun land van herkomst hen niet erkent,
@@ -1339,7 +1355,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 <strong>
 
 BIJ1 staat voor een samenleving die voor iedereen vrij, veilig en rechtvaardig is.
-Een samenleving waarin mensen zonder de dreiging van staatsgeweld, vreedzaam kunnen samenleven.
+Een samenleving waarin mensen, zonder de dreiging van staatsgeweld, vreedzaam kunnen samenleven.
 We streven ernaar dat collectieve voorzieningen zo goed geregeld zijn en preventie zo goed werkt,
 dat de politie en gevangenissen zoals we die nu kennen niet meer hoeven te bestaan.
 Een wereld waarin we collectieve zorg dragen voor elkaar.
@@ -1353,15 +1369,12 @@ Veiligheid gaat over bestaanszekerheid:
 over een menswaardig bestaan kunnen leven.
 BIJ1 strijdt voor een rechtssysteem waarin mens en planeet worden beschermd,
 en wij gezamenlijk de plicht dragen om veiligheid te garanderen.
-We strijden voor een samenleving waarin wij zorg dragen voor elkaar,
-en medemenselijkheid centraal stellen.
-Ook als je fouten begaat.
 Ons huidige systeem is een systeem dat misdaad niet voorkomt,
 maar eerder creëert met een cultuur van bestraffing, geweld en opsluiting.
 Ons is wijsgemaakt dat een systeem als de politie
 het enige middel is voor het creëren van veiligheid in onze buurten,
 maar wij geloven dat veiligheid op geen enkele manier kan worden gegarandeerd
-door een gewapend en gewelddadig orgaan.
+door een gewapend orgaan.
 Daarom investeren we niet langer in staatsgeweld, bestraffing en opsluiting,
 maar in collectieve voorzieningen en bestaanszekerheid:
 zaken die onze gemeenschappen wél veilig houden.
@@ -1450,7 +1463,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     politiepaarden en zogenaamde surveillancehonden wordt verboden.
 
 1.  De politie-inzet van camera's wordt tot een minimum beperkt.
-    Predictive policing wordt verboden.
+    Predictive Policing wordt verboden.
 
 1.  Het gebruik van private DNA-banken door de politie wordt verboden.
     Het afnemen van DNA wordt alleen toegestaan
@@ -1494,9 +1507,9 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     waarbij er focus komt op humanitaire organisaties en de weerbaarheid van lokale gemeenschappen.
 
 1.  We steunen de strijd tegen de [neokoloniale](https://bij1.org/woordenlijst/) dominantie
-    en uitbuiting van het mondiale Zuiden door het Westen.
-    Daarnaast moeten niet-kapitalistische economische modellen
-    en bewegingen die zich inzetten voor een rechtvaardige herverdeling van rijkdom, gesteund worden.
+    en uitbuiting van het Globale Zuiden door het Westen.
+    Daarnaast steunen we niet-kapitalistische economische modellen
+    en bewegingen die zich inzetten voor een rechtvaardige herverdeling van rijkdom.
 
 1.  Nederland zet zich in voor het aanklagen en arresteren van oorlogsmisdadigers, ook uit westerse landen.
     Wij zetten ons extra in om bij het Internationaal Strafhof
@@ -1512,7 +1525,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     Palestijnse vluchtelingen moeten het recht hebben op terugkeer naar hun huizen en bezittingen.
     We schorten het [Associatieverdrag met Israël](https://bij1.org/woordenlijst/) op
     en tevens alle handelsbetrekkingen met Israël.
-    Nederland erkent de staat Palestina volgens diens eigen definitie,
+    Nederland erkent de staat Palestina,
     en zet zich actief in voor een einde aan de kolonisatie en illegale nederzettingen.
 
 ## Economische Rechtvaardigheid
@@ -1532,7 +1545,8 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 1.  Nederland zet zich in voor een internationaal minimum belastingpercentage voor bedrijven.
     Landen voelen hierdoor niet langer de druk
     om belastingen voor bedrijven te verlagen om investeringen aan te trekken.
-    De belasting op vermogen, winst en vervuiling gaat in internationaal verband omhoog.
+    De belasting op vermogen, winst en vervuiling gaat in internationaal verband omhoog,
+    zodat extreme ongelijkheid en klimaatverandering aangepakt kunnen worden.
 
 1.  Nederland verzet zich tegen het [neokolonialisme](https://bij1.org/woordenlijst/)
     van internationale ondemocratische instituties zoals de IMF en Wereldbank.
@@ -1554,13 +1568,13 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  Nederland zet zich in voor het versterken van gelijkwaardigheid in Europa.
     Meer middelen en capaciteit worden ingezet om de rechten van o.a.
-    migranten, asielzoekers, staatlozen, moslims, LHBTQIA+ mensen, en Roma en Sinti te beschermen.
+    migranten, asielzoekers, staatlozen, LHBTQIA+ mensen, en Roma en Sinti te beschermen.
     Er komt sociale wetgeving om een bestaansminimum in de hele EU mogelijk te maken.
 
 1.  Klimaat en natuur krijgen een nog belangrijkere plek in EU-beleid.
     Lobbyen door multinationals en industrieën wordt verboden.
     Nederland stemt ook niet in met verdragen die bedrijven een claimrecht geven
-    en stuurt de EU er op aan deze in te trekken.
+    en stuurt de EU erop aan deze in te trekken.
 
 1.  Nederland neemt als eerste westerse land de verantwoordelijkheid
     voor ons grote aandeel in het veroorzaken van klimaatverandering
@@ -1574,7 +1588,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     aan slachtoffers van Nederlandse overzeese militaire acties.
 
 1.  Nederland zet zich in voor een eind aan de invasie door Rusland in Oekraïne.
-    Nederland doet dit met politieke steun, humanitaire hulp
+    Nederland doet dit door humanitaire hulp
     en het toezien op naleving van het humanitair recht.
     Nederland stopt met het sturen van wapens en stuurt aan op een staakt-het-vuren.
 
@@ -1583,6 +1597,13 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     Mensen met extreemrechtse opvattingen mogen geen deel uitmaken van de krijgsmacht.
     Wie weigert mee te vechten in overzeese oorlogen wordt niet bestraft.
     Er komt (postuum) eerherstel voor dienstweigeraars uit het verleden.
+
+1.  Er komt per direct een stop op het ontwikkelen van AI-systemen voor militaire doeleinden:
+    de ontwikkeling en het gebruik van AI
+    zijn nog altijd doordrongen van discriminerende algoritmes en data.
+    In de praktijk leidt dit ertoe dat gemarginaliseerde groepen
+    disproportioneel harder worden getroffen
+    door de gevolgen van onrechtvaardige AI systemen.
 
 1.  Nederland ondertekent het verbodsverdrag voor kernwapens en toont zich ambassadeur van deze verdragen.
     Financiële instellingen en bedrijven mogen niet langer meer investeren in nucleaire wapens.
@@ -1625,7 +1646,7 @@ Daarom praten wij met hen, in plaats van over hen.
 <mark>
 BIJ1 strijdt voor een beleid waarin zelfbeschikking en goede werkomstandigheden centraal staan,
 en sekswerkers zeggenschap krijgen over hun eigen werk.
-Daarvoor hebben wij de volgende kernpunten voor ogen:
+Dit doen we op de volgende manieren:
 </mark>
 
 ## Sekswerk is Werk
@@ -1640,7 +1661,7 @@ Daarvoor hebben wij de volgende kernpunten voor ogen:
     Daarbij stellen we hen in staat diensten bij derden in te kopen
     zonder dat die partij gecriminaliseerd wordt.
 
-1.  Sekswerkers wordt nooit verplicht bijzondere persoonlijke informatie te delen of zich te laten registreren.
+1.  Sekswerkers worden nooit verplicht bijzondere persoonlijke informatie te delen of zich te laten registreren.
     De Wet Regulering Sekswerk (WRS) gaat van tafel.
 
 1.  We maken in beleid onderscheid tussen sekswerk en mensenhandel.
@@ -1681,22 +1702,21 @@ Al het onderwijs moet volledig toegankelijk zijn voor leerlingen met een beperki
 
 Om gelijke kansen te creëren in het onderwijs willen we niet bezuinigen,
 maar juist investeren.
-De instroom en doorstroom van leerlingen mag niet langer op te jonge leeftijd bepaald worden
-en we gaan onderadvisering tegen.
-Daarnaast willen we meer en structureel investeren in salarissen van leraren.
+In alle lagen van het onderwijssysteem werkt ongelijkheid door.
+Scholen dienen actieve verantwoordelijkheid te nemen
+en een veilige en inclusieve omgeving te creëren voor al hun leerlingen.
+We zetten ons actief in voor het dekoloniseren van het onderwijs
+door fors meer aandacht te besteden aan de koloniale geschiedenis,
+en af te rekenen met eurocentrisme of lesmateriaal dat racisme in de hand werkt.
+We gaan onderadvisering tegen en bevorderen bredere klassen met verschillende schoolsoorten.
 BIJ1 vindt het belangrijk dat elke leerling en student
 plek krijgt om hun eigen talenten en interesses te ontplooien,
-en tegelijkertijd te groeien als mens.
-Onderwijsinstellingen krijgen daarom meer ruimte voor de begeleiding van leerlingen en studenten.
-Diploma's verschillen, want ze zijn een erkenning van verschillende kwalificaties,
-maar ze zouden evenveel waard moeten zijn.
-In plaats van praten over "hoger" of "lager" opgeleid,
-moet de overheid het goede voorbeeld geven door met alternatieve namen te komen,
-zoals theoretisch of praktisch opgeleid.
+en tegelijkertijd te groeien als mens:
+of zij nou theoretisch of praktisch opgeleid zijn.
+Onderwijsinstellingen krijgen daarom meer ruimte
+voor de begeleiding van leerlingen en studenten bij hun zelfontwikkeling.
 Beroepen zoals loodgieter, elektricien, bouwvakker worden geherwaardeerd.
-We gaan daarnaast blijvende aandacht besteden aan diverse perspectieven op
-en ervaringen van identiteit, marginalisatie en de geschiedenis van Nederland.
-In het onderwijs komt er fors meer aandacht voor helden uit de (voormalige) koloniën.
+Daarnaast willen we meer en structureel investeren in salarissen van leraren.
 
 <mark>
 Voor het creëren van inclusief, toegankelijk en kwalitatief hoogwaardig onderwijs,
@@ -1736,13 +1756,37 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     bijvoorbeeld door drempels voor werkende mensen weg te nemen,
     en door schakelprogramma's.
 
-1.  De selectie en toetsing van basisschoolleerlingen voor het voortgezet onderwijs
+## Dekolonisatie en gelijke kansen
+
+1.  We zetten ons actief in om onderadvisering tegen te gaan.
+    De selectie en toetsing van basisschoolleerlingen voor het voortgezet onderwijs
     moet anders en op een later moment.
     Advies voor vervolgonderwijs wordt voortaan gebaseerd
     op een overeenkomst tussen leraar, ouder(s)/verzorger(s) en leerling.
     We stimuleren brede brugklassen
     en scholengemeenschappen met verschillende schoolsoorten (vmbo, havo, vwo).
     Diploma's in het voortgezet onderwijs moeten gestapeld kunnen worden zonder aanvullende eisen.
+
+1.  Er wordt geen lesmateriaal meer gebruikt
+    waarin een eenzijdig en eurocentrisch verhaal over de geschiedenis wordt gepresenteerd.
+    Scholen stoppen onmiddellijk met het gebruik van lesmateriaal
+    waarin koloniale misdadigers verheerlijkt worden.
+    De slavernij en koloniale geschiedenis krijgt een prominente plek
+    in het lesmateriaal van het basis- en voortgezet onderwijs.
+    Ook wordt er fors meer aandacht besteed aan helden uit de (voormalige) koloniën.
+    De manieren waarop het koloniale en slavernijverleden doorwerkt in het heden
+    worden structureel besproken in alle lagen van het onderwijs.
+
+1.  Scholen moeten verantwoordelijkheid nemen om een veilige leeromgeving te creëren
+    voor Zwarte, niet-witte en queer leerlingen.
+    In samenwerking met ervaringsdeskundigen en professionals, wordt er beleid gevormd
+    om kansenongelijkheid, onderadvisering en discriminatie binnen onderwijsinstellingen tegen te gaan.
+    Er worden middelen vrijgemaakt voor trainingen aan onderwijsinstellingen
+    over racisme, discriminatie en de doorwerking van kolonialisme.
+    Daarnaast wordt het makkelijker voor scholieren en studenten om meldingen te maken van racisme en discriminatie.
+
+1.  Bedrijven die discrimineren in hun selectie voor stagiairs worden beboet
+    en uitgesloten van overheidsopdrachten en subsidies.
 
 1.  De voorschool wordt gratis voor alle kinderen.
     De vrijwillige ouderbijdrage in het basisonderwijs en voortgezet onderwijs wordt afgeschaft,
@@ -1834,7 +1878,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Het dragen van adellijke titels wordt, naar Oostenrijks voorbeeld, verboden.
 
 1.  De drempels voor het meedoen aan verkiezingen (als nieuwe politieke partij),
-    zoals waarborgsommen en kiesdrempels, worden weggenomen.
+    zoals waarborgsommen en (onofficiele) kiesdrempels, worden weggenomen.
     De waterschappen worden geheel democratisch verkozen.
     Geborgde zetels worden afgeschaft.
     De verkiezingen en de functie van de Eerste Kamer worden herzien en hervormd.
@@ -1965,7 +2009,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  We stellen structureel meer fondsen beschikbaar op het gebied van kunst, cultuur en media.
     We versimpelen de subsidie en prestatie-voorwaarden,
-    waardoor meer instellingen aanspraak kunnen maken op deze fondsen.
+    waardoor meer makers aanspraak kunnen maken op deze fondsen.
 
 1.  De Wet Werk & Inkomen Kunstenaars wordt weer in het leven geroepen
     en er komt structurele inzet om een einde te maken
@@ -2040,11 +2084,24 @@ het klimaat te redden, en welvaart eerlijker te verdelen.
 </strong>
 
 Dat betekent onder andere dat technologie toegankelijk moet zijn voor iedereen,
-dat mensen centraal staan in de ontwikkeling,
+dat mensen en planeet centraal staan in de ontwikkeling,
 dat het bouwt op eerlijk verkregen data en informatie,
-dat het mensen vrij laat en niet in de gaten houdt,
-en dat het veelzijdige maar goede informatie verspreidt.
-Technologie moet worden ingezet om mensen te beschermen en helpen.
+en dat het mensen vrij laat en niet in de gaten houdt.
+Verschillende overheidsinstanties maken gebruik van algoritmes
+om gegevens van burgers te analyseren en mogelijke risico's in te schatten.
+De ontwikkelaars van deze nieuwe technologische innovaties en algoritmes
+zijn zelf niet altijd vrij van vooroordelen
+en kunnen die vooroordelen, al dan niet bewust, in hun algoritmes verwerken.
+Dat leidt vaak tot racistische en discriminerende rekenmodellen.
+Dit is onrechtvaardig, werkt etnisch profileren en klassenprofilering in de hand,
+en heeft rampzalige gevolgen op burgers,
+zoals we hebben gezien bij het Toeslagenschandaal.
+Discriminatie en etnisch profileren in de digitalisering van overheidsdiensten
+moeten daarom de kop in worden gedrukt.
+We maken per direct middelen vrij voor om (mogelijke) discriminatie en racisme
+in algoritmes en gegevensverwerking te bestrijden en bestraffen.
+Mensenrechtentoetsen worden voortaan vooraf uitgevoerd
+en een onafhankelijke partij houdt toezicht over dit proces.
 
 <mark>
 We strijden voor het waarborgen van digitale veiligheid en zetten ons in
@@ -2056,30 +2113,31 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  Toegang tot het internet is een basisrecht en moet daarom voor iedereen toegankelijk zijn.
     Er komt gratis internettoegang voor iedereen.
-    Daarnaast moet iedereen gratis toegang kunnen krijgen
-    tot educatieprogramma's over internetgebruik en digitale rechten.
+    Om digitale ongeletterdheid tegen te gaan,
+    moet iedereen gratis toegang kunnen krijgen
+    tot educatieprogramma's over (verantwoord) internetgebruik en digitale rechten.
 
-1.  Het aanbod van diensten online moet diverser.
-    Internet toegang moet niet afhankelijk zijn
+1.  Het aanbod van online diensten, zoals browsers, zoekmachines en social media platforms, moet diverser.
+    Internettoegang moet niet afhankelijk zijn
     van het verplicht gebruiken van bepaalde diensten.
 
-1.  De rechten en behoeften van mensen staan centraal in het digitaliseringsbeleid.
+1.  De rechten en behoeften van mensen en planeet staan centraal in het digitaliseringsbeleid.
     Toegankelijkheidseisen en de ervaringen van mensen met een beperking worden meegenomen.
-    Alternatieve kanalen zoals telefoon of loket,
+    Alternatieve kanalen zoals telefoon of fysieke loketten,
     blijven beschikbaar voor iedereen die daar behoefte aan heeft.
+
+1.  Het ontwikkelen, onderhouden en innoveren van technologische ontwikkelingen,
+    zoals het gebruik van AI, berust op de uitbuiting van grondstoffen en mensen uit het Globale Zuiden,
+    terwijl het slechts ten goede komt aan het Globale Noorden.
+    Digitaliseringsbeleid bestrijdt daarom deze vormen van hedendaags kolonialisme.
 
 1.  De overheid zet zich in voor de ontwikkeling van [open source](https://bij1.org/woordenlijst/)
     en open standaarden in de publieke en private sector.
 
-1.  Producten moeten te repareren zijn.
-    Fabrikanten moeten reserveonderdelen en reparatiehandleidingen aanbieden.
-    Iedereen krijgt het recht producten te repareren en soms ook aan te passen,
-    zonder dat de garantie vervalt.
-
 ## Privacy en Veiligheid
 
-1.  Handel in privé-informatie wordt verboden
-    en het opslaan van privé-gegevens door bedrijven en overheid wordt geminimaliseerd.
+1.  Handel in privé-informatie wordt volledig verboden
+    en het opslaan van privé-gegevens door bedrijven en overheid wordt verder geminimaliseerd.
 
 1.  Online en offline surveillance wordt flink ingeperkt en in sommige gevallen verboden.
     Zo wordt het cameratoezicht in de openbare ruimte
@@ -2095,36 +2153,50 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
 1.  Op scholen en universiteiten vindt geen indringende surveillance plaats
     tijdens de examens, in de gangen of via leerlingvolgsystemen.
 
-## Big Tech
-
-1.  'Big Tech' monopolies worden opgebroken.
+1.  Big Tech monopolies worden opgebroken.
     Het op surveillance gebaseerde bedrijfsmodel van Big Tech wordt verboden.
+    Belangenorganisaties worden in staat gesteld
+    goede controle te kunnen uitoefenen op 'Big Tech' en de overheid,
+    in het bijzonder waar het gaat om AI.
 
 1.  Er komt een integrale aanpak om techbedrijven aan te pakken
     die misbruik maken van geavanceerde kunstmatige intelligentie (AI) en algoritmes.
     Dit omvat onder andere optreden tegen
-    het promoten van mis- en disinformatie en racistisch geweld door techbedrijven,
+    het promoten van mis- en disinformatie en racisme door techbedrijven,
     en het rangschikken en scoren van medewerkers
     en verdelen van werk met algoritmes, in de tech platform economie.
-1.  De data en informatie waar AI systemen op zijn gebouwd zijn niet discriminerend
+    De data en informatie waar AI systemen op zijn gebouwd zijn niet discriminerend
     of zonder toestemming van en vergoeding voor de oorspronkelijke bron ingezet.
 
-1.  Belangenorganisaties worden in staat gesteld
-    goede controle te kunnen uitoefenen op 'Big Tech' en de overheid,
-    in het bijzonder waar het gaat om AI.
+## Technologie die ons Beschermt
+
+1.  Er komt actief overheidsbeleid tegen
+    discriminatie en etnisch profileren in de digitalisering van overheidsdiensten:
+    van het ontwerp van algoritmes tot aan het evalueren van digitaliseringsprocessen.
+    De leidende stem van gemarginaliseerde groepen die het hardst
+    door discriminatie en etnisch profileren worden geraakt, is in dit proces onmisbaar.
+    Er komt een onafhankelijke toezichthouder die toeziet op
+    de strijd tegen discriminatie, etnisch profileren
+    en het schenden van mensenrechten in dataverzameling over burgers door de overheid.
+    Deze toezichthouder heeft het mandaat om deze data
+    op te vragen, te beoordelen en wettelijk bindend advies te geven aan overheidsinstanties.
+    Er komt een verbod op het gebruik van etniciteit en nationaliteit in risicoprofielen.
 
 1.  Discriminerende algoritmen worden verboden en ontmanteld.
-    Er komt een instantie die AI-software reguleert
-    en keurt voordat het op de markt komt,
-    gericht op het voorkomen van discriminatie
-    en het beschermen en bevorderen van mensenrechten.
-    Wanneer overheid en bedrijven gebruik maken van geavanceerde technologie,
-    is er het recht op menselijke tussenkomst.
+    Er komt een instantie die mensenrechtentoetsen uitvoert op AI-software,
+    die de software reguleert en keurt voordat het op de markt komt,
+    zodat discriminatie wordt voorkomen en mensenrechten bevorderd en beschermd.
 
 1.  Er komt een ministerie van Digitale Zaken.
     Zij overzien alle digitaliseringsprojecten bij alle overheidsdiensten.
-    Zij bewaken dat mens en mensenrechten hierbij centraal staan.
+    Zij bewaken dat mens en planeet hierbij centraal staan,
+    en bouwen hierin voort op bestaande kennis in het veld,
+    van NGOs tot aan de Autoriteit Persoonsgegevens (AP).
+    De AP krijgt daarnaast meer middelen
+    om hun taak als waakhond ter bescherming van persoonsgegevens goed te kunnen uitvoeren.
 
 1.  De overheid investeert in (digitale) infrastructuur en technologie,
     waaronder AI-technologie in het publieke belang.
+    Het garanderen en beschermen van mensenrechten blijven hierin centraal staan,
+    en zullen worden gecontroleerd.
     De afhankelijkheid van techbedrijven wordt verminderd.
