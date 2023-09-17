@@ -627,6 +627,13 @@ heeft BIJ1 de volgende plannen:
     We zetten extra in op het bouwen van
     passende, betaalbare en goede woningen voor jongeren en ouderen.
 
+1.  De inkomensgrens voor sociale huur verdwijnt.
+    In 2016 is er via de Wet Passend Toewijzen een maximale inkomensgrens ingesteld
+    om een sociale huurwoning te kunnen bemachtigen.
+    Uiteindelijk gaat Nederland naar een systeem toe
+    met alleen maar voldoende sociale huurwoningen voor iedere Nederlander
+    en stoppen we met vrije-sectorhuur en middenhuur.
+
 1.  We zorgen voor voldoende betaalbare woningen voor jongeren, studenten en starters.
     Daarnaast komt er een nationale jeugdstrategie
     waar jongeren betrokken worden in de ontwikkeling van nieuwe jongerenwoningen.
