@@ -5,7 +5,7 @@ Wij hebben in de opmaak van dit programma verschillende woorden en begrippen gem
 
 Wij wensen u veel leesplezier.
 
-**Programmacommissie BIJ1**
+<strong>Programmacommissie BIJ1<strong>
 
 ## 1. Anti-Racisme en Dekolonisatie
 
