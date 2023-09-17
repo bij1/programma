@@ -498,7 +498,7 @@ BIJ1 heeft hiervoor de volgende plannen:
 
 1.  OV-bedrijven worden genationaliseerd.
     Het openbaar vervoer wordt gratis en toegankelijk,
-    en is uiterlijk in 2030 volledig elektrisch. 
+    en is uiterlijk in 2030 volledig elektrisch.
 
 1.  Nederlandse vliegvelden, waaronder Schiphol, mogen niet verder uitbreiden.
     Er komt BTW en accijns op kerosine,
@@ -649,7 +649,7 @@ heeft BIJ1 de volgende plannen:
     Hier gaan we huurders tegen beschermen.
     Er wordt een verhuurvergunning met strenge kwalificatie-eisen ingevoerd
     en er wordt geïnvesteerd in de controlediensten van de gemeenten die hierop moeten toezien.
-    
+
 1.  Huurcontracten voor onbepaalde tijd worden de standaard en
     ook private huur krijgt een huurplafond gebaseerd op een eerlijk puntenstelsel,
     waarin de kwaliteit van de woning wordt meegenomen.
@@ -841,16 +841,16 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  Chronische stress en trauma veroorzaakt door racisme
     krijgen meer erkenning als oorzaken van gezondheidsproblemen,
-    zoals depressie en hart- en vaatziektes. 
+    zoals depressie en hart- en vaatziektes.
 
 1.  Niet alleen de witte cis man moet centraal staan bij medisch onderzoek.
     Er wordt meer geïnvesteerd in onderzoek
     naar ziektebeelden, geneesmiddelen en behandelmethoden
-    bij niet-witte mensen, vrouwen en niet-witte vrouwen. 
+    bij niet-witte mensen, vrouwen en niet-witte vrouwen.
 
 1.  In de opleiding van artsen, hulpverleners, thuis- en ouderenzorg en medisch personeel
     komt meer aandacht voor de bestrijding van racistische stereotypen.
-    Cultuursensitieve zorg krijgt hierin een belangrijke plek. 
+    Cultuursensitieve zorg krijgt hierin een belangrijke plek.
 
 1.  De inzet van tolken en gebarentolken moet niet
     uit het budget van de zorgvrager worden betaald,
