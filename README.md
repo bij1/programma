@@ -517,14 +517,16 @@ BIJ1 heeft hiervoor de volgende plannen:
     waaraan alle financieringsplannen worden getoetst.
     Deze norm bepaalt de maximale afstand tussen burgers en openbaar vervoer.
 
-1.  De bio-industrie moet afgebouwd worden en uiteindelijk verdwijnen.
+1.  De dierlijke bio-industrie moet afgebouwd worden en uiteindelijk verdwijnen.
     Dit moet deels gebeuren door het uitkopen, sluiten en onteigenen
-    van grote intensieve veehouders (megastallen).
-    Daarnaast moet de overheid sterk investeren in diervriendelijkere landbouw
-    en nieuwe initiatieven daartoe ondersteunen.
+    van veehouders, te beginnen met grote intensieve veehouders (megastallen).
+    Daarnaast moet de overheid sterk investeren in volledig plantaardige landbouw
+    en nieuwe intitiatieven daartoe ondersteunen.
     Regeneratieve landbouw (zoals voedselbossen),
     en in het bijzonder agrarische bedrijven die hiernaar overstappen,
     worden (financieel) ondersteund.
+    Dit zal onder andere gebeuren door subsidies die nu naar de dierlijke bio-industrie gaan
+    om te leiden naar regeneratieve plantaardige landbouw.
 
 1.  Biodiversiteit wordt prioriteit.
     Maaibeleid wordt aangepast om natuur de ruimte te geven
