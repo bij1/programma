@@ -494,6 +494,13 @@ BIJ1 heeft hiervoor de volgende plannen:
     zodat mensen met lagere inkomens
     niet de rekening gepresenteerd krijgen voor de energietransitie.
 
+1.  De overheid zorgt ervoor dat huurders,
+    die zelf niet of nauwelijks invloed hebben op hoe groen hun woning is, niet buiten de boot vallen.
+    Bijvoorbeeld door huurders te compenseren voor hogere energiekosten,
+    verhuurders die woningen in hun bezit niet snel genoeg vergroenen te beboeten.
+    Verhuurders die herhaaldelijk hun huurders in de kou laten staan worden onteigend
+    en de woningen ondergebracht in een woningbouwvereniging zonder winstoogmerk.
+
 ### Natuur en Vervoer
 
 1.  OV-bedrijven worden genationaliseerd.
