@@ -416,7 +416,7 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
     Ook saneert de overheid vaker schulden,
     zodat mensen een nieuwe start kunnen maken.
 
-## 4. Klimaat
+## 4. Natuur, Milieu, Klimaat en Dierenrechten
 
 ### <mark>Een Leefbare Planeet</mark>
 
