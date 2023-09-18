@@ -630,7 +630,7 @@ heeft BIJ1 de volgende plannen:
 1.  We zorgen voor voldoende betaalbare woningen voor jongeren, studenten en starters.
     Daarnaast komt er een nationale jeugdstrategie
     waar jongeren betrokken worden in de ontwikkeling van nieuwe jongerenwoningen.
-    Ook worden jongeren op hun 16e automatisch ingeschreven voor Woningnet in hun woonplaats.
+    Ook worden jongeren op hun 16e automatisch ingeschreven als woningzoekende in hun woonplaats.
 
 1.  Wonen in zelfbeheer en wooncoöperaties worden gestimuleerd.
     We richten democratisch georganiseerde regionale wooncoöperaties op,
