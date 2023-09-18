@@ -534,6 +534,11 @@ BIJ1 heeft hiervoor de volgende plannen:
     moeten rechten krijgen om bescherming, behoud (en eventueel herstel) te waarborgen.
     De Waddenzee moet als eerste als zelfstandige rechtspersoonlijkheid aangemerkt worden.
 
+1.  Visserij wordt sterk beperkt.
+    Alle wateren die vallen onder het Koninkrijk der Nederlanden worden visreservaten
+    waarin alleen kleinschalige traditionele visserij is toegestaan.
+    Ook het kweken vis, schaal- en schelpdieren in open water wordt verboden.
+
 ### Internationale Klimaatrechtvaardigheid
 
 1.  Bedrijven die verantwoordelijk zijn
