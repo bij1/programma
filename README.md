@@ -333,8 +333,9 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
 ### Van Privatisering naar Nationalisering
 
 1.  We brengen belangrijke sectoren van de economie,
-    zoals banken, pensioenfondsen, het openbaar vervoer en de zorg,
+    zoals banken, pensioenfondsen, energie, het openbaar vervoer en de zorg,
     in publieke handen.
+    De financiële en energiesector hebben hierbij de hoogste urgentie.
 
 1.  Nederland is niet langer een belastingparadijs.
     Het oprichten van een brievenbus-BV wordt onmogelijk gemaakt.
