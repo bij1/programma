@@ -1829,6 +1829,11 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 1.  "Outputfinanciering" wordt afgeschaft.
     Het geldbedrag dat onderwijsinstellingen ontvangen,
     hangt niet langer af van het percentage afgestudeerden.
+    Tijdelijke financiering van onderzoeksinstellingen door middel van beurzen en prijzen
+    creëert perverse prikkels om maar zo veel mogelijk projecten te verzinnen,
+    onafhankelijk van of deze projecten maatschappelijk of wetenschappelijk nut hebben.
+    De financiering voor onderzoeksinstellingen wordt daarom structureler
+    zodat deze instellingen niet constant van beurs naar beurs hoeven te springen.
 
 1.  De invloed van de fossiele industrie op onderwijs en onderzoek moet stoppen.
     Om de macht van academische uitgevers tegen te gaan,
