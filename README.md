@@ -494,6 +494,13 @@ BIJ1 heeft hiervoor de volgende plannen:
     zodat mensen met lagere inkomens
     niet de rekening gepresenteerd krijgen voor de energietransitie.
 
+1.  Nadat we de strijd voor nul CO2-uitstoot hebben gewonnen,
+    is onze prioriteit om een koolstofvrij energienetwerk
+    in stand te houden met zo'n laag mogelijk grondstoffengebruik.
+    Hiermee laten we de behoefte aan mijnbouw dalen,
+    wat nu een grote aanslag doet op natuur en milieu,
+    en ook zorgt voor zware uitbuiting en daarmee klimaatimperialisme.
+
 ### Natuur en Vervoer
 
 1.  OV-bedrijven worden genationaliseerd.
