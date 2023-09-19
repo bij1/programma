@@ -494,6 +494,13 @@ BIJ1 heeft hiervoor de volgende plannen:
     zodat mensen met lagere inkomens
     niet de rekening gepresenteerd krijgen voor de energietransitie.
 
+1.  Om energiegerelateerde CO2-emissies (serieus) te reduceren investeren we in kernenergie.
+    Deze duurzame, veilige en schone vorm van energie is samen met zon en wind
+    cruciaal voor een stabiele en daarmee goedkope energievoorziening,
+    die ook levert als het niet waait of de zon minder of niet schijnt.
+    Om het kernafval en de noodzaak tot mijnbouw te verkleinen,
+    zetten we in op de bouw van snelle kweekreactoren.
+
 ### Natuur en Vervoer
 
 1.  OV-bedrijven worden genationaliseerd.
