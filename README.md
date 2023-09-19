@@ -562,6 +562,12 @@ BIJ1 heeft hiervoor de volgende plannen:
     De financiering van ontbossing, landroof en productie van fossiele brandstoffen
     wordt voor zowel private als publieke financiële instellingen onmogelijk.
 
+1.  Het bederven van landschap, leefomgeving is eindig.
+    Veel distributiedozen zijn overbodig en kunnen worden afgebroken.
+    Hyperscaledatacentra die clouds uit Afrika opslaan, kunnen beter naar waar de data thuishoort.
+    BIJ1 kiest voor een forse uitbreiding van de ecologische hoofdstructuur
+    zodat alle barrières(hekken) voor wilde dieren om zich door het land te verplaatsen worden geslecht
+
 ## 5. Wonen
 
 ### <mark>Van Woningmarkt naar Volkshuisvesting</mark>
