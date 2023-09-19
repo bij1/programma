@@ -872,6 +872,11 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Huisartsen worden opgeleid voor hormoonbehandelingen.
     Daarnaast hoeven trans personen geen diagnose meer te ontvangen om zorg te krijgen.
 
+1.  Maatschappelijke zorg moet weer nationaal gecoördoneerd worden
+    zodat willekeur per gemeente niet meer voorkomt.
+    Alle WMO-ambtenaren moeten extra geschoold worden
+    over validisme, neurodivergentie, en het VN-verdrag Handicap.
+
 ## 7. Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
 
 ### <mark>Radicale Gelijkwaardigheid en Herstel in het Koninkrijk</mark>
