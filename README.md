@@ -192,7 +192,7 @@ om de grote inkomenskloof te dichten
 en de groeiende armoede onder werkende mensen tegen te gaan.
 Vaste contracten en zekerheid worden weer de norm in plaats van de uitzondering,
 en met goede cao's en betere rechten voor stakers
-brengen we de macht terug naar de werknemers.
+brengen we de macht terug naar de medewerkers.
 
 <mark>
 Samen pakken we terug wat altijd al van ons was.
@@ -213,7 +213,7 @@ Dit doen we op de volgende manieren:
     Discriminerende bedrijven worden strafrechtelijk verantwoordelijk gehouden.
 
 1.  Arbeidsmigranten en ongedocumenteerde mensen verdienen dezelfde rechten
-    als elke andere werknemer.
+    als elke andere medewerker.
     Ongedocumenteerde mensen die te maken krijgen met geweld of dwang op het werk,
     moeten dit kunnen melden zonder dat ze risico lopen op uitzetting.
     De rechten en beloning van arbeidsmigranten worden beter beschermd.
@@ -223,7 +223,7 @@ Dit doen we op de volgende manieren:
     wordt beter gecompenseerd.
 
 1.  We gaan strenger toezien op de geldende regels
-    voor het faciliteren van noden van werknemers,
+    voor het faciliteren van noden van medewerkers,
     zoals kolven of bidden op de werkvloer.
     We stellen een menstruatieverlof in.
 
@@ -253,27 +253,27 @@ Dit doen we op de volgende manieren:
     en gelijkgetrokken met het minimumloon voor volwassenen.
 
 1.  Bedrijven en werkplekken worden democratisch bestuurd
-    en komen in handen van werknemers in plaats van bedrijfseigenaren.
+    en komen in handen van medewerkers in plaats van bedrijfseigenaren.
 
 1.  Krapte op de arbeidsmarkt in sectoren
     als de zorg, onderwijs en het openbaar vervoer,
     worden bestreden door flinke loonsverhogingen.
 
-1.  Werknemers die langer dan negen maanden met een tijdelijk contract werken,
+1.  medewerkers die langer dan negen maanden met een tijdelijk contract werken,
     krijgen een vast contract.
     We verbeteren de ontslagbescherming en gaan
     [schijnzelfstandigheid](https://bij1.org/woordenlijst/) tegen.
 
-1.  We creëren vrijheid voor werknemers om eigen werktijden te bepalen
+1.  We creëren vrijheid voor medewerkers om eigen werktijden te bepalen
     of in deeltijd te werken en zorgen voor eerlijke vergoedingen voor stages.
 
 1.  Staken is een recht.
     We zorgen dat alle bedrijfstakken een cao hebben,
-    zodat bescherming van werknemers beter geregeld is.
+    zodat bescherming van medewerkers beter geregeld is.
     Bij cao-onderhandelingen doen alleen vakbonden mee
-    die voldoende onafhankelijk zijn van werkgevers.
+    die voldoende onafhankelijk zijn van bedrijfseigenaren.
     Het stakingsrecht wordt uitgebreid:
-    werkgevers bepalen niet wanneer je wel of niet mag staken.
+    bedrijfseigenaren bepalen niet wanneer je wel of niet mag staken.
 
 ### Een Goed Leven, ook als je niet (meer) Werkt
 
@@ -367,21 +367,21 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
 
 ### Democratie op de Werkvloer
 
-1.  De werknemerscoöperatie wordt de standaard eigendomsstructuur
+1.  De medewerkerscoöperatie wordt de standaard eigendomsstructuur
     voor nieuw opgerichte rechtspersoonlijkheden.
 
-1.  Elk bestaand beursgenoteerd bedrijf met meer dan 100 werknemers
-    wordt verplicht een werknemersfonds op te richten,
+1.  Elk bestaand beursgenoteerd bedrijf met meer dan 100 medewerkers
+    wordt verplicht een medewerkersfonds op te richten,
     waaraan zij jaarlijks een aantal nieuwe aandelen,
     proportioneel aan de jaarwinst, uitschrijven.
-    Het werknemersfonds wordt uitsluitend beheerd
-    door de werknemers van de firma die haar heeft opgericht.
+    Het medewerkersfonds wordt uitsluitend beheerd
+    door de medewerkers van de firma die haar heeft opgericht.
 
 1.  Er wordt grootschalig onderzoek gedaan naar het duurzaam oprichten
     van publieke banken en investeringsfondsen
     die uitsluitend coöperatieven bedienen.
 
-1.  Bij faillissement assisteert de overheid werknemers
+1.  Bij faillissement assisteert de overheid medewerkers
     als een democratiserende overkoop gewenst is,
     zo mogelijk ook financieel.
     Waar nodig wordt een vakbond betrokken bij dit proces.
@@ -389,7 +389,7 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
 1.  Multinationale bedrijven met dependances in Nederland
     zijn verplicht een plan te schrijven waarin wordt uiteengezet
     hoe er binnen afzienbare tijd minimaal 51% van de aandelen
-    aan de werknemers van de desbetreffende dependance wordt verkocht.
+    aan de medewerkers van de desbetreffende dependance wordt verkocht.
     Als hier geen gevolg aan wordt gegeven,
     wordt het recht ontzegd binnen Nederlandse grenzen te opereren.
 
@@ -478,7 +478,7 @@ BIJ1 heeft hiervoor de volgende plannen:
     Er komen geen nieuwe vergunningen voor olie- en gasvelden,
     op land en op zee.
     De huidige olie- en gasproductie moet worden afgebouwd,
-    waarbij rechtvaardige oplossingen voor de werknemers voorop staan.
+    waarbij rechtvaardige oplossingen voor de medewerkers voorop staan.
 
 1.  Ziekmakende installaties, zoals Tata en Chemours,
     worden uit klimaatrechtvaardige overwegingen niet gesloten,
@@ -1154,7 +1154,7 @@ Dit doen we op de volgende manieren:
     zoals culturele achtergrond en familiebanden.
 
 1.  De 30%-regeling wordt afgeschaft:
-    buitenlandse werknemers met hoogbetaalde banen
+    buitenlandse medewerkers met hoogbetaalde banen
     gaan net zoveel belasting betalen als ieder ander.
 
 ## 9. Zelfbeschikking
@@ -1657,7 +1657,7 @@ Dit doen we op de volgende manieren:
 1.  Sekswerk wordt volledig gedecriminaliseerd.
 
 1.  De rechten van sekswerkers worden gelijkgetrokken
-    met de arbeidsrechten van andere zelfstandigen en werknemers.
+    met de arbeidsrechten van andere zelfstandigen en medewerkers.
 
 1.  De vergunningseis voor zelfstandige sekswerkers wordt opgeheven.
     Sekswerkers krijgen de mogelijkheid om thuis een 'eenmanszaak' te starten.
