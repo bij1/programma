@@ -513,6 +513,7 @@ BIJ1 heeft hiervoor de volgende plannen:
     wordt een bereikbaarheidsfonds met als doel
     niet alleen het financieren van beter openbaar vervoer,
     maar ook (lokale) voorzieningen voor fietsen en deelvervoer.
+    Vormen van deelvervoer moeten collectief en niet op concurrerend marktdenken geschoeid zijn.
     Er wordt een bereikbaarheidsnorm vastgesteld
     waaraan alle financieringsplannen worden getoetst.
     Deze norm bepaalt de maximale afstand tussen burgers en openbaar vervoer.
