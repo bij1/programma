@@ -532,7 +532,6 @@ BIJ1 heeft hiervoor de volgende plannen:
     Er komt een nationaal bomenplan om het aantal bomen in Nederlandse steden fors uit te breiden.
     Belangrijke ecosystemen, natuurgebieden en wilde dieren
     moeten rechten krijgen om bescherming, behoud (en eventueel herstel) te waarborgen.
-    De Waddenzee moet als eerste als zelfstandige rechtspersoonlijkheid aangemerkt worden.
 
 ### Internationale Klimaatrechtvaardigheid
 
