@@ -1132,8 +1132,8 @@ Dit doen we op de volgende manieren:
 1.  Het mandaat van de IND wordt omgezet in een loketfunctie
     om mensen op weg te helpen in Nederland.
 
-1.  Arbeidsmigranten krijgen een eigen vakbond
-    die kan opkomen voor het waarborgen van hun rechten,
+1.  Arbeidsmigranten mogen volwaardig lid worden van een bestaande vakbond,
+    of mogen een eigen vakbond oprichten die kan opkomen voor het waarborgen van hun rechten,
     en hun bescherming tegen uitbuiting en erbarmelijke leefomstandigheden.
 
 1.  Nederland zet zich op Europees niveau in voor het afschaffen van FRONTEX en de Dublinverordening.
