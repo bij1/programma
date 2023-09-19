@@ -356,14 +356,7 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
     op mens en klimaat overal ter wereld.
     Daarnaast wordt lokale productie en distributie zo veel mogelijk gestimuleerd.
 
-1.  De private effectenbeurs wordt stapsgewijs afgeschaald en vervangen
-    door een collectief couponsysteem waarin elke Nederlandse burger
-    een gelijk aantal niet-verkoopbare coupons ontvangt
-    op hun 18<sup>e</sup> verjaardag.
-    Deze coupons kunnen worden geïnvesteerd in publieke beleggingsfondsen
-    en worden na overlijden niet ge-erft door nabestaanden,
-    maar wederom eigendom van de overheid.
-    Deze kan ze vervolgens weer uitschrijven aan een volgende generatie.
+1.  De private effectenbeurs wordt stapsgewijs afgeschaft.
 
 ### Democratie op de Werkvloer
 
