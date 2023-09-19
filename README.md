@@ -1472,6 +1472,11 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     Het afnemen van DNA wordt alleen toegestaan
     bij zeer ernstige misdrijven en na toetsing door een rechter.
 
+1.  Naarmate de maatschappelijke zorg verbeterd wordt
+    en het justitiële systeem wordt hervormd,
+    kan het politie-apparaat steeds verder krimpen,
+    tot deze uiteindelijk volledig kan worden afgeschaft.
+
 ## 12. Internationale Samenwerking
 
 ### <mark>Een Wereld van Vrede en Solidariteit</mark>
