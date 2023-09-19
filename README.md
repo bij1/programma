@@ -375,7 +375,7 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
     waaraan zij jaarlijks een aantal nieuwe aandelen,
     proportioneel aan de jaarwinst, uitschrijven.
     Het werknemersfonds wordt uitsluitend beheerd
-    door de werknemers van de firma die haar heeft opgericht.
+    door de werknemers van dit bedrijf.
 
 1.  Er wordt grootschalig onderzoek gedaan naar het duurzaam oprichten
     van publieke banken en investeringsfondsen
