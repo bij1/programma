@@ -1781,7 +1781,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     worden structureel besproken in alle lagen van het onderwijs.
 
 1.  Scholen moeten verantwoordelijkheid nemen om een veilige leeromgeving te creëren
-    voor Zwarte, niet-witte en queer leerlingen.
+    voor niet-witte en LHBTQI+ leerlingen.
     In samenwerking met ervaringsdeskundigen en professionals, wordt er beleid gevormd
     om kansenongelijkheid, onderadvisering en discriminatie binnen onderwijsinstellingen tegen te gaan.
     Er worden middelen vrijgemaakt voor trainingen aan onderwijsinstellingen
