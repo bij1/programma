@@ -539,8 +539,13 @@ BIJ1 heeft hiervoor de volgende plannen:
 1.  Bedrijven die verantwoordelijk zijn
     voor het aanrichten van klimaatschade en humanitaire rampen,
     worden verantwoordelijk gehouden voor misdaden tegen mens en natuur.
-    Ecocide wordt strafbaar
-    en er komt een reclameverbod voor de fossiele industrie en vliegmaatschappijen.
+    Ecocide wordt strafbaar.
+
+1.  Het doel van reclame is om ervoor te zorgen dat mensen (meer) dingen kopen
+    die ze eigenlijk niet nodig hebben.
+    Dit is een onnodige belasting op het klimaat,
+    en daarom wordt deze consumptie-inducerende reclame verboden.
+    Enkel puur informerende advertenties blijven toegestaan.
 
 1.  Nederland zet zich in voor een forse herziening van het Europees landbouwbeleid,
     waarbij alleen nog subsidies worden verstrekt aan circulaire landbouw.
