@@ -2120,7 +2120,11 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
     moet iedereen gratis toegang kunnen krijgen
     tot educatieprogramma's over (verantwoord) internetgebruik en digitale rechten.
 
-1.  Het aanbod van online diensten, zoals browsers, zoekmachines en social media platforms, moet diverser.
+1.  De verdienmodellen van de tech-giganten leiden structureel
+    tot privacyschendingen, bubbelvorming, internetverslaving en andere ellende.
+    Online diensten, zoals browsers, zoekmachines en social media platforms dienen daarom non-profit te zijn.
+    We ondersteunen bestaande non-profit initiatieven,
+    en helpen deze op te richten wanneer deze nog niet bestaan.
     Internettoegang moet niet afhankelijk zijn
     van het verplicht gebruiken van bepaalde diensten.
 
