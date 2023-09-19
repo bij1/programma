@@ -114,7 +114,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     die het benoemen van het racistische karakter van de staat Israël
     als antisemitisch beoordeelt, wordt verworpen.
     Er komt ook erkenning voor het antisemitisme binnen de Zionistische beweging,
-    zoals dat van Viktor Orbán en extremistische christenen.
+    zoals dat van kolonisten en extremistische christenen.
     Het bezit van nazi-attributen mag voortaan alleen met een vergunning,
     behalve in musea.
     Hitleraanbidding wordt bij wet verboden.
