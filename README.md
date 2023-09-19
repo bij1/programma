@@ -153,7 +153,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     voortzet in de maatschappij en het beleid van de Nederlandse staat,
     moet afgebroken worden.
     Dit gebeurt onder andere door dekolonisatie in het onderwijs in curricula,
-    gedekoloniseerde lesmethodes en het erkennen van de waarde van niet-Westerse kennis.
+    gedekoloniseerde lesmethodes en het erkennen van de waarde van niet-westerse kennis, niet-westerse geschiedenis en hun beschavingen.
     Ook moet de koloniale verheerlijking middels
     standbeelden en straatnamen uit het straatbeeld verdwijnen.
 
