@@ -1598,7 +1598,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 1.  We krimpen onze krijgsmacht in om uiteindelijk de krijgsmacht te vervangen door een civiele hulporganisatie.
     Tot die tijd moet de krijgsmacht doordrongen zijn van anti-racistische en democratische waarden.
     Mensen met extreemrechtse opvattingen mogen geen deel uitmaken van de krijgsmacht.
-    Wie weigert mee te vechten in overzeese oorlogen wordt niet bestraft.
+    Wie weigert mee te vechten in oorlogen wordt niet bestraft.
     Er komt (postuum) eerherstel voor dienstweigeraars uit het verleden.
 
 1.  Er komt per direct een stop op het ontwikkelen van AI-systemen voor militaire doeleinden:
