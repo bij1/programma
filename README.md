@@ -251,6 +251,8 @@ Dit doen we op de volgende manieren:
     zodat het structureel meestijgt met andere lonen.
     Het minimumjeugdloon wordt afgeschaft
     en gelijkgetrokken met het minimumloon voor volwassenen.
+    We leggen inflatiecorrectie van de lonen wettelijk vast,
+    zodat de lonen automatisch met de inflatie meestijgen.
 
 1.  Bedrijven en werkplekken worden democratisch bestuurd
     en komen in handen van werknemers in plaats van bedrijfseigenaren.
