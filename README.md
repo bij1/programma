@@ -916,8 +916,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  Nederland herstelt de schade van het slavernijverleden
     en de doorwerking daarvan in het heden.
-    De excuses voor de slavernij en het kolonialisme,
-    de invulling van het herstelproces en de uitkomsten
+    De invulling van het herstelproces en de uitkomsten
     worden juridisch bindend en vastgelegd in een
     consensusrijkswet Herstelmaatregelen.
     Deze reparaties zullen zowel materieel als immaterieel zijn,
