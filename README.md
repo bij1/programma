@@ -775,6 +775,9 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Mensen die intensief (mantel)zorg bieden,
     worden financieel gecompenseerd met een inkomen
     en opbouw van WW- en pensioenrechten.
+    De drempel voor de GGZ moet lager worden.
+    Wij kiezen er voor om de eerstelijns en tweedelijns GGZ
+    toegankelijker te maken om druk op de derdelaags GGZ te verlichten.
 
 1.  We stoppen de stapeling van zorgkosten en boetes op ziek zijn,
     voor mensen met een levenslange en levensbrede beperking.
@@ -782,6 +785,9 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     dat ze passende zorg en ondersteuning nodig hebben.
     Zij moeten vanuit eigen regie toegang hebben
     tot een passend en samenhangend pakket aan zorg en ondersteuning.
+
+1.  Ook moeten de verslavingszorg en GGZ samengevoegd voor een einde aan het
+    "van het kastje naar de muur gestuurd worden" binnen de mentale gezondheidszorg.
 
 ### Laat de Zorg weer Werken
 
