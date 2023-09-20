@@ -872,6 +872,13 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Huisartsen worden opgeleid voor hormoonbehandelingen.
     Daarnaast hoeven trans personen geen diagnose meer te ontvangen om zorg te krijgen.
 
+1.  Er wordt structureel geïnvesteerd in (biomedisch) onderzoek
+    naar postinfectieuze aandoeningen zoals long covid en ME/CVS.
+    Er komt erkenning van de manier waarop patiënten in de steek zijn gelaten.
+    Passende zorg wordt ingericht, bijvoorbeeld in specialistische poliklinieken.
+    Tevens zal er een voorlichtingscampagne komen over het bestaan en de effecten van deze aandoeningen.
+    Naast diagnose en behandeling wordt ook voorkómen van postinfectieuze aandoeningen een prioriteit.
+
 ## 7. Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
 
 ### <mark>Radicale Gelijkwaardigheid en Herstel in het Koninkrijk</mark>
