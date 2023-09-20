@@ -1514,11 +1514,13 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     Daarnaast steunen we niet-kapitalistische economische modellen
     en bewegingen die zich inzetten voor een rechtvaardige herverdeling van rijkdom.
 
-1.  Nederland zet zich in voor het aanklagen en arresteren van oorlogsmisdadigers, ook uit westerse landen.
-    Wij zetten ons extra in om bij het Internationaal Strafhof
-    de mensenrechten van anti-imperialistische activisten te beschermen.
-    Ook zet Nederland zich in om particuliere organisaties en bedrijven
-    aan te kunnen klagen bij het Internationaal Strafhof voor mensenrechtenschendingen.
+1.  Nederland zet zich in voor het aanklagen en arresteren van personen,
+    ook als ze uit Westerse landen komen,
+    die betrokken zijn geweest bij het plegen van genocide, oorlogsmisdrijven,
+    misdrijven tegen de menselijkheid en misdrijven tegen de vrede.
+    Ook zet Nederland zich internationaal in om het Statuut van Rome aan te passen
+    zodat het Internationaal Strafhof bedrijven en andere particuliere organisaties
+    kan vervolgen voor betrokkenheid bij deze internationale misdrijven.
 
 1.  [Dekolonisatie](https://bij1.org/woordenlijst/), emancipatie, en zelfbeschikking van volkeren
     geldt als uitgangspunt bij erkenning van nieuwe staten.
