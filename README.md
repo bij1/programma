@@ -856,11 +856,16 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     uit het budget van de zorgvrager worden betaald,
     maar standaard vergoed worden vanuit de overheid.
 
-1.  Suïcidaliteit en dak- en thuisloosheid onder LHBTQIA+-jongeren is hoog.
-    Er komt daarom meer aandacht voor passende zorg,
-    goede begeleiding en suïcidepreventie bij LHBTQIA+-mensen.
-    Ook worden er safehouses voor hen ingericht, verspreid over het land.
-    We bevorderen (ervarings)deskundigheid over de LHBTQIA+-gemeenschap in de GGZ en de Jeugdzorg.
+1.  Suïcidaliteit en dak- en thuisloosheid is hoog, in het bijzonder onder LHBTQIA+- jongeren.
+    We signaleren een zorgelijke trend; op steeds jongere leeftijd manifesteert suïcidaliteit zich,
+    zelfs bij jongeren zo jong als 11 jaar.
+    Er komt daarom betere en meer structurele financiering.
+    We zetten in op meer aandacht voor passende zorg, goede begeleiding en suïcidepreventie.
+    Met speciale aandacht voor LHBTQIA+- mensen en in het bijzonder LHBTQIA+- jongeren.
+    Zo worden er verspreid over het land safe houses voor hen ingericht.
+    We zetten een Nationaal Meld- & Schakelpunt LHBTQIA+- in Nood op met doorzettingsmacht op.
+    En we zetten fors in op het bevorderen van de (ervarings)deskundigheid
+    over de LHBTQIA+- gemeenschap in de GGZ en de Jeugdzorg.
 
 1.  De zorg voor trans personen moet worden gezien als een reguliere vorm van medische zorg
     en moet worden meegenomen in het basiscurriculum van medische gezondheidsopleidingen.
