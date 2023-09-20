@@ -1890,7 +1890,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     meegroeien met het aantal inwoners in Nederland,
     want volksvertegenwoordigers kunnen hun werk alleen goed doen
     wanneer ze voldoende tijd en ondersteuning krijgen.
-    Dat betekent dat het huidige aantal van 150 Kamerleden flink moet worden vergroot.
+    We verdubbelen het aantal Tweede Kamerleden naar 300, en we verhogen de kiesdrempel naar 2 zetels.
     Ook wordt het budget voor fractiemedewerkers verhoogd.
 
 1.  Het salaris van voltijdsvolksvertegenwoordigers wordt herzien en verlaagd.
