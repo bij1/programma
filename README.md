@@ -2676,7 +2676,8 @@ Dit is om speculatie tegen te gaan.
 ### Z
 
 Zeggenschap
-: De mate waarin individuen en werknemers zelf beslissingen kunnen nemen en invloed kunnen uitoefenen over de manier waarop zij werken.
+: De mate waarin individuen en werknemers zelf beslissingen kunnen nemen
+en invloed kunnen uitoefenen over de manier waarop zij werken.
 
 Zelfbeschikking
 : Het kunnen en mogen maken van je eigen keuzes.
