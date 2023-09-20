@@ -1608,8 +1608,16 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     disproportioneel harder worden getroffen
     door de gevolgen van onrechtvaardige AI systemen.
 
-1.  Nederland ondertekent het verbodsverdrag voor kernwapens en toont zich ambassadeur van deze verdragen.
-    Financiële instellingen en bedrijven mogen niet langer meer investeren in nucleaire wapens.
+1.  Nederland zet zich actief in voor een wereld vrij van kernwapens.
+    Nederland sluit zich daarom aan bij het Verdrag inzake het verbod op kernwapens
+    en toont zich internationaal ambassadeur voor deze en andere ontwapenings- en wapenbeheersingsovereenkomsten.
+    Nederland wijst het dreigen met het gebruik van kernwapens —
+    en dus ook het concept van nucleaire afschrikking — af.
+    Amerikaanse kernwapens die sinds de jaren '60
+    gestationeerd zijn op vliegbasis Volkel worden uit Nederland teruggetrokken
+    en er worden geen nieuwe kernwapens meer geplaatst op Nederlands grondgebied.
+    Financiële instellingen en andere publieke en private ondernemingen mogen niet langer investeren
+    in de ontwikkeling, de productie of het onderhoud van kernwapens en hun overbrengingsmiddelen.
 
 1.  We verbieden de vestiging van wapenbedrijven in Nederland
     en heffen hoge belastingen voor de bestaande wapenindustrie,
