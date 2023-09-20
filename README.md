@@ -1509,8 +1509,8 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     diplomatie en verdere investeringen in noodhulp,
     waarbij er focus komt op humanitaire organisaties en de weerbaarheid van lokale gemeenschappen.
 
-1.  We steunen de strijd tegen de [neokoloniale](https://bij1.org/woordenlijst/) dominantie
-    en uitbuiting van het Globale Zuiden door het Westen.
+1.  We zijn solidair met het Globale Zuiden en steunen de strijd tegen de neokoloniale overheersing
+    en uitbuiting door het Globale Noorden en andere mogendheden.
     Daarnaast steunen we niet-kapitalistische economische modellen
     en bewegingen die zich inzetten voor een rechtvaardige herverdeling van rijkdom.
 
