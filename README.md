@@ -2210,3 +2210,474 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
     Het garanderen en beschermen van mensenrechten blijven hierin centraal staan,
     en zullen worden gecontroleerd.
     De afhankelijkheid van techbedrijven wordt verminderd.
+
+## Woordenlijst
+
+### A
+
+ABCSSS-eilanden
+: Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten.
+
+Actief en passief stemrecht
+: Actief stemrecht is het recht om te stemmen. Passief stemrecht is het recht om verkiesbaar te zijn voor stemmingen.
+
+AI
+: Een computersysteem dat voorspellingen maakt of acties onderneemt op basis van patronen in bestaande gegevens
+en vervolgens kan leren van fouten om de nauwkeurigheid te vergroten.
+
+Algoritme
+: Een algoritme is een formule in de vorm van code om een wiskundig of informaticaprobleem automatisch op te lossen.
+
+Anti-imperialistisch
+: Tegen koloniale en kapitalistische invloeden, bezettingen en structuren.
+
+Associatieverdrag Israël
+: Een akkoord tussen de EU en Israël, waarmee de internationale samenwerking met Israël is vastgesteld
+en dat Israël vrijstelt van invoerheffingen in de EU.
+Associatieovereenkomsten die de EU met landen afsluit
+moeten gebaseerd zijn op respect voor de mensenrechten en op democratische beginselen.
+Hun interne en buitenlandse politiek moet hierdoor geleid worden.
+Dat staat ook vermeld in artikel 2 van de overeenkomst met Israël, waar Israël zich dus niet aan houdt.
+
+Autonome landen
+: Aruba (sinds 1986), Curaçao en Sint Maarten (sinds 2010) zijn autonome landen binnen het Koninkrijk.
+Dit betekent dat zij verantwoordelijk zijn voor hun bestuur en een eigen Parlement en Grondwet hebben.
+Zij zijn nog wel deel van het Nederlands Koninkrijk.
+Officieel zijn de landen gelijkwaardig,
+maar de regelingen zijn zo opgezet dat Europees Nederland de grootste macht heeft
+en zelf kan besluiten om in te grijpen op de eilanden.
+
+### B
+
+Bestaanszekerheid
+: De zekerheid waarin personen en gemeenschappen van hun basisbehoeften zijn voorzien,
+en een goed en waardig leven kunnen leiden.
+Voor BIJ1 betekent bestaanszekerheid een goed en betaalbaar huis hebben,
+passende zorg krijgen wanneer je dat nodig hebt,
+ruimte om jezelf te ontwikkelen zoals jij dat wilt, een leefbaar inkomen.
+
+Big Tech
+: De grootste en meest invloedrijke technologiebedrijven ter wereld.
+Enkele van de meest prominente Big Tech-bedrijven zijn: Amazon, Apple, Google en Meta.
+
+Big 5
+: De voorwaarden die je als jongere (uit de jeugdzorg) nodig hebt om zonder hulp verder te kunnen.
+Namelijk; een woning, een dagbesteding, een volwassene om op terug te vallen,
+financiële zelfstandigheid en een sociaal netwerk.
+
+Bijzondere gemeenten
+: De BES-eilanden (Bonaire, Statia en Saba) zijn sinds 2010 bijzondere gemeenten van Nederland.
+Ze maken geen deel uit van een provincie, maar zijn gemeenten als onderdeel van het Nederlandse Koninkrijk.
+
+Biodiversiteit
+: De diversiteit van flora en fauna binnen een bepaald ecosysteem.
+
+Biomassacentrales
+: Centrales waar (afval)hout wordt verbrand om energie op te wekken.
+Helaas lang niet altijd met de garantie dat dit hout duurzaam verkregen is.
+
+Blackface
+: Het opmaken van het gezicht met zwarte/bruine schmink en eventueel stereotyperende kenmerken
+om zo een racistische karikatuur van een zwart persoon uit te beelden.
+
+### C
+
+Circulaire landbouw
+: Ook wel kringlooplandbouw.
+Een vorm van landbouw gebaseerd op het idee dat alles optimaal gebruikt wordt.
+De resten van de ene keten zijn de grondstoffen voor een andere keten.
+Zo wordt bijvoorbeeld voedsel dat wij niet meer eten als diervoeder gebruikt.
+Om tot zo'n circulair landbouwsysteem te komen, hebben we een transitie nodig
+waarin plantaardige en dierlijke productieketens slim aan elkaar worden geknoopt.
+
+Claimrecht
+: Het recht van bedrijven om Nederland aan te klagen
+als zij winsten mislopen vanwege een besluit dat de Nederlandse overheid heeft genomen.
+
+Code Culturele Diversiteit
+: Een richtlijn voor de culturele sector om te verbeteren op het gebied van diversiteit.
+Oorspronkelijk vooral gericht op culturele diversiteit,
+maar inmiddels richt het zich op een breder spectrum,
+zoals onder andere gender, religie, sociaal-economische status en leeftijd.
+
+Cultuurmarxisme
+: Cultuurmarxisme is een neonazistische complottheorie,
+die veronderstelt dat een Joodse linkse elite in het geheim de westerse cultuur omver wil werpen via cultuur.
+
+Cultuursensitief
+: Handelen met respect voor, en uit het bewust zijn van de normen en waarden die bij een bepaalde cultuur horen.
+
+Curriculum (meervoud: curricula)
+: Een curriculum is een gestructureerd plan of programma van onderwijsinstellingen, scholen, en opleidingen
+Het wordt gebruikt om de inhoud, doelen en leeractiviteiten voor een bepaald vakgebied of onderwerp te bepalen.
+
+### D
+
+Decriminalisering
+: In sekswerkbeleid: de vergunningsplicht vervalt en er wordt niet meer opgetreden of gehandhaafd op sekswerk.
+Sekswerkers hebben dezelfde rechten als andere arbeiders.
+
+Dekolonisatie
+: Het proces waarin gekoloniseerde landen zich ontdoen van de koloniale machthebbers,
+maar ook de processen waarin de samenleving afstand neemt van de witte en/of westerse norm als de universele waarheid.
+
+Democratisch deficit
+: Een democratisch deficit bestaat als er groepen zijn die geen vertegenwoordiging hebben in een democratie,
+maar wel te maken hebben met de wetgeving die door dat parlement gemaakt wordt.
+In het Koninkrijk is er een democratisch deficit,
+omdat het Nederlandse Parlement Rijkswetten vastlegt voor het hele Koninkrijk,
+maar de Parlementen van de autonome landen (Aruba, Curaçao en Sint Maarten) daar geen stemrecht in hebben.
+Omdat inwoners van die eilanden niet voor de Nederlandse Tweede Kamer kunnen stemmen,
+is er dus een democratisch deficit.
+
+Discriminatie
+: Het onrechtmatig uitsluiten en niet gelijkwaardig behandelen van
+en/of onderscheid maken tussen verschillende mensen en/of groepen.
+
+Dublin-verordening
+: Een Europese verordening die sinds januari 2014 van kracht is.
+Deze verordening bepaalt welk land verantwoordelijk is voor de behandeling van een asielaanvraag.
+Meestal is dat het land waar de vluchteling aankomt:
+in de praktijk betekent dit dat Italië en Griekenland verreweg de meeste asielaanvragen te verwerken hebben.
+Deze verdeling is oneerlijk en heeft veel schadelijke gevolgen.
+
+### E
+
+Ecocide
+: Het doelbewust of op basis van nalatigheid verwoesten van een ecosysteem door menselijk handelen.
+
+Ecosysteem
+: Een systeem van levende wezens dat samen met hun omgeving een keten vormt
+die het leven binnen het systeem in stand houdt.
+
+Eilandsraad
+: De eilandsraden op Bonaire, Saba en Sint Eustatius zijn de democratisch gekozen vertegenwoordigers op de eilanden.
+Zij zijn vergelijkbaar met gemeenteraden.
+
+Ervaringsdeskundige
+: Iemand die eigen ervaringen gebruikt in zijn werk en zo een specifieke vorm van expertise heeft.
+
+Etniciteit
+: Een verzameling van kenmerken die onderdeel zijn van iemands achtergrond of identiteit,
+zoals nationaliteit, taal, cultuur, religie, etc.
+
+Etnisch profileren
+: Het hanteren van (uiterlijke) eigenschappen als huidskleur, nationaliteit, etniciteit, taal of geloof
+bij opsporing of handhaving, terwijl daar geen bewezen aanleiding voor is.
+
+Eurocentrisme
+: Het, al dan niet bewust, benadrukken van (het perspectief van) Europa,
+en in het algemeen de westerse ideeën en theorieën.
+Hierbij wordt geen rekening gehouden met de invloeden van andere culturen.
+
+Europees Parlement
+: Het Europees Parlement is het enige orgaan binnen de Europese Unie, dat direct is verkozen door EU-burgers.
+
+Europese Commissie
+: Het overheidsorgaan van de Europese Unie, verantwoordelijk voor onder andere de Europese begroting
+en het indienen van en stemmen over Europese wetgeving.
+
+Europese Raad
+: De Europese Raad bestaat uit de regeringsleiders van alle EU-lidstaten en de voorzitter van de Europese Commissie.
+Zij zijn het belangrijkste beslissingsorgaan van de EU en hebben het laatste woord over Europees beleid.
+
+### F
+
+Fair Practice Code
+: Een gedragscode voor ondernemen en werken binnen de kunst, cultuur en creatieve sector
+met als doel het bewerkstelligen van een eerlijke en solidaire bedrijfsvoering.
+
+FRONTEX
+: European Border and Coast Guard Agency.
+Frontex is een agentschap vanuit samenwerking van Europese lidstaten en bewaakt de Europese buitengrenzen.
+
+### G
+
+Genderexpressie
+: Het uiten van het gevoel gekoppeld aan iemands genderidentiteit.
+
+Genderidentiteit
+: De wijze waarop iemand zich identificeert op het gebied van diens gender.
+
+Gentrificatie
+: Het verdrijven van oude bewoners uit een vaak multiculturele volkswijk,
+waarvoor vaak een nieuwe rijke bevolking in de plaats komt.
+
+Gereguleerd
+: Regels opleggen en hier actief toezicht over houden om iets in goede banen te leiden.
+
+Geschillenregeling
+: Een procedure waarin geschillen of conflicten tussen partijen worden opgelost.
+Momenteel is er in het Koninkrijk geen procedure wanneer de landen het oneens zijn met elkaar.
+Uiteindelijk beslist meestal de Rijksministerraad als er een geschil is, waarin Nederland de macht heeft.
+
+### H
+
+Hervestiging
+: Als de meest kwetsbare vluchtelingen niet kunnen terugkeren naar hun eigen land
+en ze ook niet kunnen blijven in hun opvangland,
+dan komen ze in aanmerking voor hervestiging in Nederland.
+Dit komt bijvoorbeeld voor wanneer vluchtelingen extra gevaar lopen,
+of wanneer kampen of opvanglanden niet genoeg voorzieningen hebben
+om te kunnen omgaan met een complexe medische aandoening of handicap.
+
+Housing First
+: Housing First is een bewezen effectief model om dakloosheid te beëindigen.
+Het doel van het Housing First model is om dak- en thuisloze mensen
+zo snel mogelijk in een stabiele huisvestingssituatie te plaatsen
+en hen van daaruit te helpen bij het aanpakken van andere problemen die tot dakloosheid hebben geleid.
+Dit model is gebaseerd op het idee dat huisvesting een fundamenteel recht is
+en dat mensen beter in staat zijn om aan hun andere problemen te werken
+als ze een veilige en stabiele plek hebben om te wonen.
+
+### I
+
+IHRA-definitie
+: Door de Israël-lobby wordt een poging gedaan om de gangbare definitie van antisemitisme aan te passen
+door erin op te nemen dat vormen van kritiek op de staat Israël daaronder kunnen vallen.
+Deze pogingen om de IHRA-definitie aangenomen te krijgen door regeringen en parlementen
+gaan niet toevallig samen met campagnes om alle kritiek op Israël te delegitimeren.
+
+Immateriële reparaties
+: Immateriële vormen van herstel zijn maatregelen die niet met financiële compensaties zijn op te lossen.
+Voorbeelden hiervan zijn formele excuses, eerherstel voor verzetshelden en educatie en bewustwording.
+Immateriële reparaties gaan vaak samen met materiële reparaties,
+voor een alomvattende aanpak die recht doet aan de aangedane schade van het koloniale en slavernijverleden.
+
+IMF
+: Internationaal Monetair Fonds, is een VN-organisatie.
+Zij gaan over internationale samenwerking op monetair gebied,
+de bestrijding van financiële crises en kredietverlening voor staten met betalingsproblemen.
+Het IMF is een gespecialiseerde organisatie van de Verenigde Naties met hoofdkantoor in Washington.
+BIJ1 vind het IMF een ondemocratisch orgaan
+dat gedomineerd wordt door enkele grote kapitalistische landen, zoals de VS.
+Het IMF staat bekend om het afdwingen van neoliberaal economisch beleid,
+als voorwaarde voor bijstand aan landen in financiële moeilijkheden.
+
+Inclusiviteit
+: Het actief in de samenleving betrekken van achtergestelde groepen op basis van gelijkwaardige rechten en plichten.
+
+Institutioneel
+: Verweven in de cultuur en normen van instituten, bijvoorbeeld overheidsinstellingen.
+
+Intersectionaliteit
+: Een term afkomstig uit het Zwart feminisme,
+om aan te duiden hoe verschillende identiteitskenmerken niet afzonderlijk kunnen worden begrepen,
+maar eerder samenwerken om de ervaringen van individuen te vormen.
+Intersectioneel feminisme gaat bijvoorbeeld niet alleen over vrouwzijn,
+maar de combinatie van factoren die je leven ook beïnvloeden en hoe die samenwerken.
+Het gaat dan bijvoorbeeld om gender, ras, klasse, seksualiteit, beperking en meer.
+
+### K
+
+Kapitaalvlucht
+: Het doorsluizen van kapitaal naar het buitenland, vaak vanwege gunstige belastingtarieven.
+
+Kapitalisme
+: Ons huidige economische systeem waarin het behalen van winst en het opbouwen van kapitaal het belangrijkst zijn.
+De vrije markt met de bijbehorende voortdurende groei moet daarvoor zorgen.
+Dit gebeurt door middel van uitbuiting en gaat ten koste van onder andere arbeidsrechten,
+eerlijke verdeling van macht en welvaart, dierenwelzijn en het klimaat.
+
+Klassenjustitie
+: Wanneer mensen met meer vermogen of hogere opleidingen
+gebaseerd op dat gegeven worden bevoorrecht binnen de rechtspraak.
+
+Kostendelersnorm
+: Het verlagen van een bijstandsuitkering op het moment dat meerdere volwassenen samenwonen op één adres.
+Dit geldt ook als de samenwonende volwassenen een familie vormen.
+
+Kwetsbare vluchtelingen
+: Groepen vluchtelingen die door hun achtergrond of (delen van) hun identiteit
+als bijzonder kwetsbaar worden aangemerkt,
+bijvoorbeeld oudere asielzoekers, zwangere vluchtelingen, alleenstaande vrouwen (met of zonder kinderen),
+minderjarigen en slachtoffers van martelingen of seksueel misbruik.
+
+### L
+
+LHBTQIA+
+: Een afkorting voor 'Lesbisch, Homoseksueel, Biseksueel, Trans, Queer, Intersekse, Aseksueel' en meer.
+
+Liberaal
+: Politieke stroming waar de overheid zo min mogelijk invloed heeft op de invulling van de maatschappij,
+waar het belang van bedrijfseigenaren voorop staat, en radicale verandering vrijwel uitgesloten is.
+
+### M
+
+Materiele reparaties
+: Maatregelen om schade door kolonialisme en slavernij te herstellen,
+met financiele compensaties en andere materiele vormen van herstel.
+Herstelbetalingen zijn hier een voorbeeld van.
+
+Mensenrechtenverdragen
+: Gemaakte afspraken tussen landen over het beschermen van mensenrechten.
+Denk bijvoorbeeld aan de Universele Verklaring van de Rechten van de Mens.
+Ook binnen de Nederlandse en Europese wetgeving worden deze in verschillende wetten en afspraken behandeld.
+
+### N
+
+Nationaal Coördinator tegen Discriminatie en Racisme (NCDR)
+: De Nationaal Coördinator tegen Discriminatie en Racisme (NCDR) is een onafhankelijk regeringcommisaris
+die sinds oktober 2021 actief bezig is met een aanpak voor racisme en discriminatie.
+De Kamer deed dat voorstel naar aanleiding van onder andere de grootschalige Black Lives Matter-demonstraties in 2020
+en de onthullingen over institutioneel racisme bij de kinderopvangtoeslag door de belastingdienst.
+
+Neokolonialisme
+: Systemen waarin rijke (vaak westerse) landen voormalig gekoloniseerde gebieden nog steeds uitbuiten.
+
+Neurodiversiteit
+: De van nature aanwezige verschillen en variaties in het menselijk brein,
+bijvoorbeeld op het gebied van sociale interactie of de manier van informatie opnemen.
+Ook wel een verzamelterm voor onder andere autisme en dyslexie.
+
+NGO
+: Een 'niet-gouvernementele organisatie', dus een organisatie die onafhankelijk is van de overheid.
+
+Non-binair
+: Een non-binair persoon is iemand die zich niet thuisvoelt in de hokjes 'man' of 'vrouw'.
+
+### O
+
+Onbegrepen gedrag
+: Gedrag waar mensen zonder ervaring of deskundigheid met moeite op de juiste manier mee om gaan.
+
+Onderadvisering
+: Wanneer iemand een lager advies krijgt dan anderen met vergelijkbare presentaties op basis van externe factoren,
+of lager wordt ingeschat aan de hand van vooroordelen.
+
+Onteigeningswetgeving
+: De mogelijkheid om eigendom van particulieren aan de overheid over te dragen.
+
+Open source
+: Vrije toegang tot de gebruikte bronnen van een eindproduct.
+
+### P
+
+Pan-Afrikaans
+: Een politieke en filosofische stroming die een gedeelde relatie ziet tussen alle Zwarte mensen op de wereld.
+Deze relatie wordt gezien op cultureel gebied (muziek bijvoorbeeld), politiek gebied (verzet tegen anti-Zwart racisme),
+en identiteit (een gevoel van verbinding met andere Zwarte mensen en het Afrikaanse continent).
+
+Predictive Policing
+: Het gebruik van analytische technieken om voorspellingen te maken over toekomstige misdaden door de politie.
+Dit leidt in de praktijk tot etnisch profileren.
+
+### R
+
+Raad van de Europese Unie
+: De Raad van de Europese Unie bestaat uit de ministers van alle EU-lidstaten
+die per onderwerp samenkomen om beslissingen te maken over het beleid van de EU.
+Een voorbeeld hiervan is als de ministers van Buitenlandse Zaken van alle lidstaten samenkomen.
+
+Rechtsbijstand
+: Hulpverlening bij juridische kwesties.
+
+Rechtsherstel
+: Compensatie voor de verschillende gevolgen
+die bepaalde groepen hebben moeten doorstaan bij bezetting en/of vervolging.
+
+Rijksministerraad
+: De Rijksministerraad is de ministerraad van het Koninkrijk.
+Zij beslissen over zaken die met het Koninkrijk te maken hebben of waarvan geregeld is
+dat het een verantwoordelijkheid van het Koninkrijk is.
+Ook kan de Rijksministerraad ingrijpen in de landen van het Koninkrijk via "aanwijzingen."
+De Rijksministerraad is niet representatief:
+hierin zitten alle Nederlandse ministers (in Rutte IV waren er 20 ministers)
+en 1 vertegenwoordiger per eiland (dus een voor Aruba, een voor Curaçao en een voor Sint Maarten).
+In de praktijk betekent dit dat Nederland altijd beslist.
+
+Rijkswet
+: Rijkswetten zijn wetgeving die voor alle landen in het Koninkrijk gelden (Nederland, Aruba, Curaçao, Sint Maarten).
+Deze wetten worden alleen via het Nederlandse parlement goedgekeurd.
+Er wordt wel om inspraak gevraagd van de eilanden, maar zij hoeven niet voor te stemmen.
+Uiteindelijk beslist Nederland dus.
+
+### S
+
+Safe houses
+: Een locatie waar de veiligheid van mensen kan worden gegarandeerd.
+
+Schijnzelfstandigheid
+: Iemand die werk uitvoert als zelfstandige,
+maar daarbij eigenlijk wel in constante dienst is van een werkgever en onder diens gezag staat.
+
+SDG's
+: Sustainable Development Goals of duurzame ontwikkelingsdoelen.
+Dit zijn 17 doelen opgesteld door de VN,
+die in 2030 voor een duurzame wereld zorgen waarin niemand wordt buitengesloten.
+
+Sociaal domein
+: Alles wat (lokale) overheden doen op het gebied van participatie, zelfredzaamheid, werk en zorg.
+
+Socialistisch
+: In een socialistische economie staat gezamenlijkheid centraal.
+Middelen en macht zijn in handen van iedereen en worden democratisch verdeeld,
+in plaats van dat deze in handen zijn van een aantal grootmachten.
+BIJ1 gelooft in een economie waarin we met elkaar kunnen delen, beslissen en besturen.
+Basisvoorzieningen worden beschermd en zijn in handen van de staat in plaats van de vrije markt.
+
+Speculatie
+: Een huis (of iets anders) wordt in dit geval niet gekocht om zelf te gebruiken, maar wordt gebruikt voor winst.
+Veel huizen komen op die manier leeg te staan en zorgen voor een kunstmatig woningtekort.
+
+Statuut der Nederlanden
+: Een verdrag van het Koninkrijk der Nederlanden, dat boven de Grondwet van Nederland staat.
+In het Statuut zijn onder meer de relaties tussen de verschillende landen
+van het Koninkrijk (Aruba, Curaçao, Nederland en Sint Maarten) geregeld.
+
+Stigmatisering
+: Het geven van negatieve vooroordelen of het 'brandmerken' van een groep mensen.
+
+### V
+
+Validisme
+: De discriminatie, stigmatisering en/of uitsluiting van mensen
+met een lichamelijke en/of verstandelijke beperking en van neurodivergente mensen.
+
+Veiligheidsdriehoek
+: De samenwerking tussen drie personen/instanties (bijvoorbeeld de burgemeester, politie en justitie),
+meestal op regionaal niveau.
+
+VN-verdrag inzake rechten van personen met een handicap
+: Een sinds 2016 geldend verdrag waarmee de Nederlandse staat heeft toegezegd
+de situatie van mensen met een beperking dusdanig te verbeteren
+dat zij volwaardig mee mogen en kunnen doen in de samenleving.
+
+### W
+
+Warmtefonds
+: Een fonds waaruit woningbezitters, scholen en verenigingen van eigenaren kunnen lenen
+om de verduurzaming van hun woningen of panden te realiseren.
+
+Wereldbank
+: Het grootste internationale instituut voor ontwikkelingssamenwerking.
+Zij verstrekken leningen aan landen met financiële moeilijkheden.
+Vergelijkbaar met het IMF, wordt de besluitvorming gedomineerd
+door enkele grote kapitalistische landen, zoals de VS.
+De Wereldbank dwingt, net als het IMF, kapitalistisch beleid af,
+als voorwaarde voor landen om financiële bijstand te ontvangen.
+Bovendien hebben zij landen (met name in het globale zuiden) opgezadeld met schulden,
+wat leidt tot verslechterde leefomstandigheden in deze landen.
+
+Wet WRS
+: Wet Regulering Sekswerk. Deze stelt vergunning en registratie verplicht en zet in op handhaving en controle.
+
+Wijkrechtspraak
+: Een laagdrempelige vorm van rechtspraak waar geschillen van buurtbewoners worden bemiddeld,
+met als doel om een duurzame en menselijke oplossing te vinden.
+
+Wooncoöperatie
+: Een organisatie waarin huurders zeggenschap hebben over de woningbouw en huurwoningen.
+
+Zelfbewoningsplicht
+: Het verplichten van huizenkopers om ten minste een bepaald aantal jaren te wonen in het huis dat ze kopen.
+Dit is om speculatie tegen te gaan.
+
+### Z
+
+Zeggenschap
+: De mate waarin individuen en werknemers zelf beslissingen kunnen nemen
+en invloed kunnen uitoefenen over de manier waarop zij werken.
+
+Zelfbeschikking
+: Het kunnen en mogen maken van je eigen keuzes.
