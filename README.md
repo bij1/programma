@@ -1059,6 +1059,8 @@ Dit doen we op de volgende manieren:
 
 1.  In AZC's komt meer aandacht voor LHBTQI+ personen en in het bijzonder trans personen.
     Zij moeten toegang hebben tot zorg in een veilige omgeving.
+    De toegang tot hormoontherapieën en (HIV) medicatie moet permanent betrouwbaar georganiseerd zijn,
+    in alle vormen van opvang van vluchtelingen.
 
 ### Een Solidaire Asielprocedure
 
