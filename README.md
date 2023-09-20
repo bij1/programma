@@ -1590,7 +1590,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     Er komen ruimhartige genoegdoening en herstelbetalingen
     aan slachtoffers van Nederlandse overzeese militaire acties.
 
-1.  Nederland zet zich in voor een eind aan de invasie door Rusland in Oekraïne.
+1.  Nederland zet zich in voor blijvende vrede in Oekraïne.
     Nederland doet dit door humanitaire hulp
     en het toezien op naleving van het humanitair recht.
     Nederland stopt met het sturen van wapens en stuurt aan op een staakt-het-vuren.
