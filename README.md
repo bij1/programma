@@ -783,6 +783,13 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Zij moeten vanuit eigen regie toegang hebben
     tot een passend en samenhangend pakket aan zorg en ondersteuning.
 
+1.  We investeren in publieke volksgezondheid,
+    waarbij preventie, opsporing van uitbraken, en pro-actieve maatregelen essentieel zijn.
+    Ook hier staat menselijk welzijn centraal en niet de economie.
+    Er komt eerlijke communicatie over gezondheidsrisico's, waaronder pathogenen of vervuiling.
+    Ook wordt het gebruik van non-farmaceutische beschermingsmaatregelen bevorderd,
+    zoals luchtfilters op scholen en mondneusmaskers in de zorg en andere openbare gebouwen.
+
 ### Laat de Zorg weer Werken
 
 1.  Huisartsenpraktijken worden zorgcentra in de wijk,
