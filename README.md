@@ -1595,6 +1595,10 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     en het toezien op naleving van het humanitair recht.
     Nederland stopt met het sturen van wapens en stuurt aan op een staakt-het-vuren.
 
+1.  Nederland zoekt geen protectionistisch conflict met China.
+    China is niet het probleem maar de zondebok van westers suprematiedenken dat al decennia conflicten zoekt.
+    Alle oorlogsretoriek zullen wij bestrijden.
+
 1.  We krimpen onze krijgsmacht in om uiteindelijk de krijgsmacht te vervangen door een civiele hulporganisatie.
     Tot die tijd moet de krijgsmacht doordrongen zijn van anti-racistische en democratische waarden.
     Mensen met extreemrechtse opvattingen mogen geen deel uitmaken van de krijgsmacht.
