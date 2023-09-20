@@ -14,7 +14,7 @@ Wij wensen u veel leesplezier.
 
 <strong>
 BIJ1 droomt van een wereld zonder
-racisme, seksisme, islamofobie, LHBTQIA+ discriminatie, kapitalisme,
+racisme, seksisme, islamofobie, LHBTQIA+ discriminatie, kapitalisme, validisme,
 en alle andere vormen van onderdrukking.
 Een wereld waarin we erkennen dat we onvolledig zijn zonder elkaar,
 en daarom altijd solidair moeten zijn met elkaars strijd voor een volwaardig leven.
