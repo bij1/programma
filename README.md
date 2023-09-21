@@ -1424,6 +1424,11 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     zodat daders menswaardig worden behandeld.
     De voorwaarden om voor vervroegde vrijlating in aanmerking te komen worden versoepeld.
 
+1.  Femicide wordt, met inzet van expertisecentra als Atria en Movisie,
+    breed gedefinieerd en opgenomen in het Wetboek van Strafrecht.
+    Genderspecifieke data wordt verzameld om genderverschillen te erkennen
+    en mee te overwegen in verdere beleid.
+
 ### Van Politiecontrole naar Controle over de Politie
 
 1.  De politie mag niet langer aanwezig zijn op campussen
