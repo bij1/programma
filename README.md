@@ -1424,6 +1424,10 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     zodat daders menswaardig worden behandeld.
     De voorwaarden om voor vervroegde vrijlating in aanmerking te komen worden versoepeld.
 
+1.  Herstelrecht wordt als eerste optie gewogen bij het OM en de rechter,
+    zowel tijdens de procedure als bij uitspraken.
+    Bij het jeugdstrafrecht wordt dit de standaard.
+
 ### Van Politiecontrole naar Controle over de Politie
 
 1.  De politie mag niet langer aanwezig zijn op campussen
