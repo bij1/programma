@@ -708,6 +708,13 @@ heeft BIJ1 de volgende plannen:
     Huurders (zowel individueel als collectief),
     krijgen meer invloed op woningverbeteringen via initiatiefrecht.
 
+1.  Alle kinderen hebben het recht om veilig buiten te kunnen spelen.
+    Dit wordt aangemoedigd door in elke buurt voldoende mogelijkheden te bieden
+    voor buitensporten en groene speeltuinen.
+    Er komt speciale aandacht voor wijken met lage inkomen huishoudens,
+    en het creëren van autovrije zones op plekken waar kinderen spelen.
+    De faciliteiten zijn ook toegankelijk voor kinderen met beperkingen en kinderen zonder geld.
+
 ## 6. Zorg
 
 ### <mark>De Mens Centraal</mark>
