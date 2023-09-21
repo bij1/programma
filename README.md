@@ -1552,7 +1552,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     zodat extreme ongelijkheid en klimaatverandering aangepakt kunnen worden.
 
 1.  Nederland verzet zich tegen het [neokolonialisme](https://bij1.org/woordenlijst/)
-    van internationale ondemocratische instituties zoals de IMF en Wereldbank.
+    van internationale (ondemocratische) instituties zoals het IMF, de Wereldbank, en de Wereldhandelsorganisatie.
     Daarnaast zet Nederland zich internationaal actief in
     voor het kwijtschelden van alle schulden van landen
     die te lijden hebben gehad onder koloniaal bewind.
