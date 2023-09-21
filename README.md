@@ -409,7 +409,7 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
     Kwijtschelden van schulden wordt gestimuleerd,
     incassobureaus worden verboden.
 
-1.  Schuldhulporganisaties die geld verdienen aan andermans schulden worden verboden.
+1.  Schuldhulporganisaties en incassobureaus die geld verdienen aan andermans schulden worden verboden.
     De overheid neemt zelf de schuldhulpverlening weer in handen.
     De overheid neemt daarnaast schulden vaker over,
     zodat er maar één schuldeiser is en schulden niet oplopen.
