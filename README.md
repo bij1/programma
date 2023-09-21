@@ -1424,6 +1424,8 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     zodat daders menswaardig worden behandeld.
     De voorwaarden om voor vervroegde vrijlating in aanmerking te komen worden versoepeld.
 
+1.  De wettelijke leeftijd voor strafrechtelijke aansprakelijkheid wordt verhoogd naar minimaal 14 jaar.
+
 ### Van Politiecontrole naar Controle over de Politie
 
 1.  De politie mag niet langer aanwezig zijn op campussen
