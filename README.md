@@ -1091,6 +1091,13 @@ Dit doen we op de volgende manieren:
 1.  Minderjarige asielzoekers die langer dan 3 jaar in Nederland wonen, krijgen verblijfsrecht.
     Ze behouden hun verblijfsrecht als ze meerderjarig worden.
 
+1.  Vanwege het niet nakomen van afspraken sinds 2018,
+    vindt er een herbeoordeling plaats van alle sinds 2018 afgewezen LHBTQIA+ asielzoekers.
+    Dit wordt vanaf nu niet meer gedaan met een westers perspectief,
+    er komt duidelijkheid over wat de IND onder homoseksualiteit verstaat,
+    verklaringen van derden worden meegenomen als nieuwe feiten
+    en LHBTI-coordinatoren moeten een verplichte motivatie geven bij afwijzingen.
+
 ### Uitgeprocedeerde Asielzoekers en Ongedocumenteerde mensen
 
 1.  Er komt een generaal pardon voor alle uitgeprocedeerde asielzoekers
