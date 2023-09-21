@@ -621,6 +621,8 @@ heeft BIJ1 de volgende plannen:
     Daarbij wordt ook de opvang van dakloze EU-arbeiders en ongedocumenteerde mensen gegarandeerd.
 
 1.  Er wordt stevig ingezet op de bouw van meer sociale huurwoningen.
+    Er komt een nieuwe Nota Ruimtelijke Ordening
+    waarin collectief wordt vastgelegd hoe de ruimte in Nederland eerlijk wordt verdeeld.
     Dit doen we onder andere door grondbeleid,
     waarin het eenvoudiger wordt om grond te onteigenen voor volkshuisvesting,
     en door actieve verwerving van private grond.
