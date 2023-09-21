@@ -1776,7 +1776,8 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     waarin koloniale misdadigers verheerlijkt worden.
     De slavernij en koloniale geschiedenis krijgt een prominente plek
     in het lesmateriaal van het basis- en voortgezet onderwijs.
-    Ook wordt er fors meer aandacht besteed aan helden uit de (voormalige) koloniën.
+    Ook wordt er fors meer aandacht besteed aan verzetshelden
+    uit de (voormalige) koloniën en aan prekoloniale culturen.
     De manieren waarop het koloniale en slavernijverleden doorwerkt in het heden
     worden structureel besproken in alle lagen van het onderwijs.
 
