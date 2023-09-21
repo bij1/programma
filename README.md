@@ -1934,6 +1934,10 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 1.  De mogelijkheden om een dubbele nationaliteit te hebben of te behouden worden verbreed:
     een meerduidige identiteit heeft meerwaarde en mag niet worden onderdrukt.
 
+1.  Beleid wat gaat over kinderen en jongeren wordt getoetst
+    met de Child Rights Impact Assessment, of kinderrechtentoets,
+    en wordt in samenspraak met kinderen en jongeren gecreëerd.
+
 ### Informatie- en Demonstratierecht
 
 1.  Het recht op demonstratie wordt strikt beschermd.
