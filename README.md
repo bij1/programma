@@ -1504,11 +1504,6 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 
 ### Een Einde aan Imperialisme
 
-1.  Nederland stapt uit de NAVO.
-    Het vrijgekomen geld gaat naar preventie van conflicten, sociale doeleinden,
-    diplomatie en verdere investeringen in noodhulp,
-    waarbij er focus komt op humanitaire organisaties en de weerbaarheid van lokale gemeenschappen.
-
 1.  We steunen de strijd tegen de [neokoloniale](https://bij1.org/woordenlijst/) dominantie
     en uitbuiting van het Globale Zuiden door het Westen.
     Daarnaast steunen we niet-kapitalistische economische modellen
