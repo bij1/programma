@@ -708,6 +708,13 @@ heeft BIJ1 de volgende plannen:
     Huurders (zowel individueel als collectief),
     krijgen meer invloed op woningverbeteringen via initiatiefrecht.
 
+1.  Vijandige architectuur maakt steden minder leefbaar en toegankelijk,
+    en raakt daklozen en mensen met beperkingen het hardst.
+    Het lost dakloosheid niet op,
+    maar ontneemt men de kans om uit te rusten in de buitenruimte.
+    Steden krijgen subsidie om banken en zitplekken te plaatsen waar mensen op kunnen rusten,
+    en stations wisselen vijandige architectuur in voor reguliere banken.
+
 ## 6. Zorg
 
 ### <mark>De Mens Centraal</mark>
