@@ -534,6 +534,9 @@ BIJ1 heeft hiervoor de volgende plannen:
     moeten rechten krijgen om bescherming, behoud (en eventueel herstel) te waarborgen.
     De Waddenzee moet als eerste als zelfstandige rechtspersoonlijkheid aangemerkt worden.
 
+1.  De scheepvaart en havens worden waar kan vergroend en gereduceerd.
+    Cruiseschepen worden uitgefaseerd en verbannen uit Nederlandse havens.
+
 ### Internationale Klimaatrechtvaardigheid
 
 1.  Bedrijven die verantwoordelijk zijn
