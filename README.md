@@ -164,7 +164,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     en 18 maart (Dia di Himno y Bandera, de Arubaanse Dag van het Volkslied en de Vlag)
     worden nationale feestdagen.
 
-## 2. Werk En Bestaanszekerheid
+## 2. Werk En Bestaansrecht
 
 ### <mark>Alles is Altijd al van Ons</mark>
 
@@ -180,6 +180,12 @@ mantelzorg en vrijwilligerswerk is van onschatbare waarde voor onze maatschappij
 onze economie zou niet kunnen draaien zonder.
 Het is tijd dat we niet langer onderscheid maken
 tussen welk werk we wel en niet waarderen of belonen.
+In de grondwet staat dat 'discriminatie … welke grond dan ook' niet is toegestaan,
+en wij als partij vinden dat voor eerste levensbehoeften
+niet gediscrimineerd mag worden op inkomen of kapitaal.
+Mensen hebben het recht op bestaanszekerheid,
+dus moet de overheid bestaansrecht garanderen.
+Wij als Bij1 vechten daarvoor
 </strong>
 
 We moeten ruimte maken voor de grote diversiteit aan vormen waarop mensen hun leven inrichten,
