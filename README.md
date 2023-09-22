@@ -1601,6 +1601,9 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     Wie weigert mee te vechten in overzeese oorlogen wordt niet bestraft.
     Er komt (postuum) eerherstel voor dienstweigeraars uit het verleden.
 
+1.  In een geweldloze wereld is geen plek voor machtsblokken en militaire bondgenootschappen.
+    Nederland treedt daarom uit de NAVO en alle buitenlandse militairen worden uit Nederland teruggetrokken.
+
 1.  Er komt per direct een stop op het ontwikkelen van AI-systemen voor militaire doeleinden:
     de ontwikkeling en het gebruik van AI
     zijn nog altijd doordrongen van discriminerende algoritmes en data.
