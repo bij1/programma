@@ -218,9 +218,9 @@ Dit doen we op de volgende manieren:
     moeten dit kunnen melden zonder dat ze risico lopen op uitzetting.
     De rechten en beloning van arbeidsmigranten worden beter beschermd.
 
-1.  Onbetaald werk dat nog vaak als 'vrouwenwerk' wordt gezien,
+1.  Onbetaald werk dat historisch vaak nog 'vrouwenwerk' wordt bestempeld,
     zoals mantelzorg, huishoudelijk werk of zorg voor kinderen,
-    wordt beter gecompenseerd.
+    wordt beter gecompenseerd en gefaciliteerd.
 
 1.  We gaan strenger toezien op de geldende regels
     voor het faciliteren van noden van werknemers,
