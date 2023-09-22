@@ -847,6 +847,8 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Er wordt meer geïnvesteerd in onderzoek
     naar ziektebeelden, geneesmiddelen en behandelmethoden
     bij niet-witte mensen, vrouwen en niet-witte vrouwen.
+    De BMI als beoordeling voor het toezeggen van medische ingrepen (inclusief transzorg) wordt afgeschaft.
+    Artsen en verzekeringen die gebruik maken van deze verzonnen methode worden beboet.
 
 1.  In de opleiding van artsen, hulpverleners, thuis- en ouderenzorg en medisch personeel
     komt meer aandacht voor de bestrijding van racistische stereotypen.
