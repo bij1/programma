@@ -650,6 +650,13 @@ heeft BIJ1 de volgende plannen:
     Er wordt een verhuurvergunning met strenge kwalificatie-eisen ingevoerd
     en er wordt geïnvesteerd in de controlediensten van de gemeenten die hierop moeten toezien.
 
+1.  Het tijdslimiet van 2 jaar op het toetsen en dus kunnen terugeisen van het te veel betaalde aanvangshuur vervalt.
+    Tijdens het bewonen en voor een periode die gelijkt staat aan de tijd dat de oud-bewoner een huurcontract heeft gehad,
+    mag deze na het verlaten van de woning te veel betaalde huur terug eisen.
+    Verhuurders zijn verplicht na een periode van 5 jaar
+    bij een nieuwe bewoner de woning te toetsen met het punten systeem.
+    Deze informatie staat verplicht in elk huurcontract.
+
 1.  Huurcontracten voor onbepaalde tijd worden de standaard en
     ook private huur krijgt een huurplafond gebaseerd op een eerlijk puntenstelsel,
     waarin de kwaliteit van de woning wordt meegenomen.
