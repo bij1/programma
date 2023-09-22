@@ -783,6 +783,13 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Zij moeten vanuit eigen regie toegang hebben
     tot een passend en samenhangend pakket aan zorg en ondersteuning.
 
+1.  IVF volledig vergoed onder de basis verzekering ongeacht gender en gezinssamenstelling
+
+1.  mensen met een beperking, autisme of overige erfelijke aandoeningen —
+    die in een wereld vrij van validisme —
+    de menswaardigheid van een persoon niet aantasten in het dagelijks leven,
+    mogen ook eicellen doneren en gebruik maken van IVF.
+
 ### Laat de Zorg weer Werken
 
 1.  Huisartsenpraktijken worden zorgcentra in de wijk,
