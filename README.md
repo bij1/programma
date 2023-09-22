@@ -14,7 +14,7 @@ Wij wensen u veel leesplezier.
 
 <strong>
 BIJ1 droomt van een wereld zonder
-racisme, seksisme, islamofobie, LHBTQIA+ discriminatie, kapitalisme,
+racisme, seksisme, islamofobie, LGBTQIA+ discriminatie, kapitalisme,
 en alle andere vormen van onderdrukking.
 Een wereld waarin we erkennen dat we onvolledig zijn zonder elkaar,
 en daarom altijd solidair moeten zijn met elkaars strijd voor een volwaardig leven.
@@ -856,11 +856,11 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     uit het budget van de zorgvrager worden betaald,
     maar standaard vergoed worden vanuit de overheid.
 
-1.  Suïcidaliteit en dak- en thuisloosheid onder LHBTQIA+-jongeren is hoog.
+1.  Suïcidaliteit en dak- en thuisloosheid onder LGBTQIA+-jongeren is hoog.
     Er komt daarom meer aandacht voor passende zorg,
-    goede begeleiding en suïcidepreventie bij LHBTQIA+-mensen.
+    goede begeleiding en suïcidepreventie bij LGBTQIA+-mensen.
     Ook worden er safehouses voor hen ingericht, verspreid over het land.
-    We bevorderen (ervarings)deskundigheid over de LHBTQIA+-gemeenschap in de GGZ en de Jeugdzorg.
+    We bevorderen (ervarings)deskundigheid over de LGBTQIA+-gemeenschap in de GGZ en de Jeugdzorg.
 
 1.  De zorg voor trans personen moet worden gezien als een reguliere vorm van medische zorg
     en moet worden meegenomen in het basiscurriculum van medische gezondheidsopleidingen.
@@ -1057,7 +1057,7 @@ Dit doen we op de volgende manieren:
     Deze ondersteuning en voorzieningen moeten voldoen
     aan de minimumstandaarden die ook voor Nederlandse staatsburgers gelden.
 
-1.  In AZC's komt meer aandacht voor LHBTQI+ personen en in het bijzonder trans personen.
+1.  In AZC's komt meer aandacht voor LGBTQIA+ personen en in het bijzonder trans personen.
     Zij moeten toegang hebben tot zorg in een veilige omgeving.
 
 ### Een Solidaire Asielprocedure
@@ -1076,7 +1076,7 @@ Dit doen we op de volgende manieren:
     De criteria voor familieleden van EU-burgers worden ook toegepast op Nederlanders en migranten van buiten de EU.
     Extra ruime mogelijkheden voor vluchtelingen blijven bestaan.
     Ook niet-traditionale vormen van familie,
-    zoals LHBTQIA+ families en banden buiten het 'kerngezin',
+    zoals LGBTQIA+-families en banden buiten het 'kerngezin',
     komen in aanmerking voor hereniging.
 
 1.  De inburgeringstoets wordt door de overheid afgenomen
@@ -1204,7 +1204,7 @@ stelt BIJ1 de volgende beleidsveranderingen voor:
 
 1.  Vruchtbaarheidsbehandelingen zoals IVF en KID moeten vergoed worden.
     Het aantal vergoede behandelingen moet uitgebreid worden op basis van kansen, niet kosten.
-    Dit geldt ook voor LHBTQI+ stellen.
+    Dit geldt ook voor LGBTQIA+ stellen.
 
 1.  Mensen die zwanger zijn en gaan bevallen hebben altijd het recht
     om zelf beslissingen te nemen over wat er met hun lichaam gebeurt.
@@ -1571,7 +1571,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  Nederland zet zich in voor het versterken van gelijkwaardigheid in Europa.
     Meer middelen en capaciteit worden ingezet om de rechten van o.a.
-    migranten, asielzoekers, staatlozen, LHBTQIA+ mensen, en Roma en Sinti te beschermen.
+    migranten, asielzoekers, staatlozen, LGBTQIA+ mensen, en Roma en Sinti te beschermen.
     Er komt sociale wetgeving om een bestaansminimum in de hele EU mogelijk te maken.
 
 1.  Klimaat en natuur krijgen een nog belangrijkere plek in EU-beleid.
@@ -2488,7 +2488,7 @@ minderjarigen en slachtoffers van martelingen of seksueel misbruik.
 
 ### L
 
-LHBTQIA+
+LGBTQIA+
 : Een afkorting voor 'Lesbisch, Homoseksueel, Biseksueel, Trans, Queer, Intersekse, Aseksueel' en meer.
 
 Liberaal
