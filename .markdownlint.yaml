@@ -3,6 +3,11 @@ MD013:
   # Number of characters
   line_length: 120
 
+# MD026/no-trailing-punctuation - Trailing punctuation in heading
+MD026:
+  # Punctuation characters
+  punctuation: ".,;:"
+
 # MD030/list-marker-space - Spaces after list markers
 MD030:
   # Spaces for single-line unordered list items
