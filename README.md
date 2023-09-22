@@ -1315,7 +1315,8 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     met structurele oplossingen voor knellende wetgeving.
 
 1.  Er wordt onderzoek gedaan naar hoe gender, etniciteit en seksualiteit
-    invloed hebben op het leven en welzijn van mensen met een beperking.
+    invloed hebben op het leven en welzijn van mensen met een beperking
+    om zo wetgeving, beleid en infrastructuur te vormen wat de toegankelijkheid bevorderd.
 
 1.  Gemeentebeleid dat mensen met een beperking raakt wordt landelijk vastgelegd.
     Zo kunnen mensen in elke gemeente aanspraak maken
