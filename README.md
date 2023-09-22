@@ -872,6 +872,25 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Huisartsen worden opgeleid voor hormoonbehandelingen.
     Daarnaast hoeven trans personen geen diagnose meer te ontvangen om zorg te krijgen.
 
+### Menselijk beleid rondom pandemieën en langdurige ziekte
+
+1.  Er moet een internationaal solidair vaccinatieprogramma komen
+    om marktwerking tegen te gaan bij uitbraak van een nieuwe pandemie.
+    Ook wordt beleid rondom pandemieën voortaan
+    op basis van mentale, fysieke en financiële gezondheid van de mensen gemaakt,
+    niet op basis van winst.
+
+1.  Langdurige zorg is zorg. De zorg is nu ingesteld op kortdurend zieken.
+    Langdurige ziekte wordt opgenomen in het overheidsbeleid in samenspraak met ervaringsdeskundigen.
+
+1.  Het Ministerie van Volksgezondheid, Welzijn en Sport maakt een dashboard
+    met een eerlijk beeld van longcovid en andere langdurig zieken
+    en zet in op bewustwording van herkennen, omgaan met en eventueel voorkomen van langdurige ziektes
+    voor werkgevers, onderwijsinstellingen en ambtenaren.
+
+1.  Er komt een landelijke tegemoetkoming voor langdurig zieken,
+    waaronder de slachtoffers en nabestaanden van het Covid-19 "uitraasbeleid".
+
 ## 7. Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
 
 ### <mark>Radicale Gelijkwaardigheid en Herstel in het Koninkrijk</mark>
