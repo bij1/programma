@@ -1590,10 +1590,16 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     Er komen ruimhartige genoegdoening en herstelbetalingen
     aan slachtoffers van Nederlandse overzeese militaire acties.
 
-1.  Nederland zet zich in voor een eind aan de invasie door Rusland in Oekraïne.
-    Nederland doet dit door humanitaire hulp
-    en het toezien op naleving van het humanitair recht.
-    Nederland stopt met het sturen van wapens en stuurt aan op een staakt-het-vuren.
+1.  We veroordelen de imperialistische agressieoorlog van Rusland tegen Oekraïne.
+    Nederland zal ruimhartig humanitaire hulp aan Oekraïne blijven bieden zo lang als nodig is
+    en ook bijdragen aan de wederopbouw van Oekraïne wanneer de oorlog is beëindigd.
+    Hierbij zal Nederland zich inzetten om alle internationale schulden van Oekraïne te vergeven.
+    Nederland zal staakt-het-vuren faciliteren en, waar er ruimte is,
+    diplomatie en onderhandelingen ondersteunen met oog voor de behoeften en wensen van de Oekraïners.
+    Nederland zet zich in om Poetin en andere leiders juridisch ter verantwoording te roepen
+    voor schendingen van mensenrechten, oorlogsmisdrijven, misdrijven tegen de menselijkheid
+    en het plannen en uitvoeren van een agressieoorlog tegen Oekraïne.
+    Ook steunt Nederland Russische dissidenten en activisten die zich verzetten tegen de oorlog.
 
 1.  We krimpen onze krijgsmacht in om uiteindelijk de krijgsmacht te vervangen door een civiele hulporganisatie.
     Tot die tijd moet de krijgsmacht doordrongen zijn van anti-racistische en democratische waarden.
