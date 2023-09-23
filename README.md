@@ -494,6 +494,8 @@ BIJ1 heeft hiervoor de volgende plannen:
     zodat mensen met lagere inkomens
     niet de rekening gepresenteerd krijgen voor de energietransitie.
 
+1.  (Moderne) Kernenergie wordt onderdeel van de klimaat aanpak.
+
 ### Natuur en Vervoer
 
 1.  OV-bedrijven worden genationaliseerd.
