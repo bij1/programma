@@ -509,13 +509,15 @@ BIJ1 heeft hiervoor de volgende plannen:
     als gevolg van maatregelen om luchtverkeer te reduceren,
     geen invloed hebben op de mogelijkheid om het land van oorsprong te bezoeken.
 
-1.  Het Meerjarenprogramma Infrastructuur, Ruimte en Transport (MIRT)
+1.  We zorgen voor meer ruimte voor voetgangers, fietsers en het OV. (zowel fysiek als financieel)
+    Het Meerjarenprogramma Infrastructuur, Ruimte en Transport (MIRT)
     wordt een bereikbaarheidsfonds met als doel
-    niet alleen het financieren van beter openbaar vervoer,
-    maar ook (lokale) voorzieningen voor fietsen en deelvervoer.
+    het financieren van beter openbaar vervoer,
+    en ook (lokale) voorzieningen voor fietsen en deelvervoer.
     Er wordt een bereikbaarheidsnorm vastgesteld
     waaraan alle financieringsplannen worden getoetst.
-    Deze norm bepaalt de maximale afstand tussen burgers en openbaar vervoer.
+    Fiscale regelingen op het gebied van mobiliteit laten we ten goede komen
+    aan gezond, schoon en ruimte efficiënt verkeer (lopen, fietsen en OV) ipv aan autoverkeer(leaseauto's).
 
 1.  De bio-industrie moet afgebouwd worden en uiteindelijk verdwijnen.
     Dit moet deels gebeuren door het uitkopen, sluiten en onteigenen
