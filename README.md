@@ -480,13 +480,12 @@ BIJ1 heeft hiervoor de volgende plannen:
     De huidige olie- en gasproductie moet worden afgebouwd,
     waarbij rechtvaardige oplossingen voor de werknemers voorop staan.
 
-1.  Ziekmakende installaties, zoals Tata en Chemours,
-    worden uit klimaatrechtvaardige overwegingen niet gesloten,
-    maar genationaliseerd en vergroend.
-    Het sluiten van deze bedrijven zorgt niet alleen voor massaal banenverlies,
-    maar zal er ook toe leiden
-    dat we het probleem verplaatsen naar landen buiten Europa
-    en klimaatracisme verder in de hand werken.
+1.  Het dreigen met vertrek van ziekmakende productie is een kapitalistische hoax.
+    Wij sluiten vervuilende bedrijven maar niet zonder alternatief,
+    de werknemers blijven in dienst
+    en krijgen de kans om in arbeiderszelfbestuur de fabrieken volledig om te bouwen naar klimaatneutraal.
+    Wij verbieden in Nederland gevestigde bedrijven om elders in de wereld
+    klimaat- en leefomgevingontwrichtende activiteiten te ondernemen of op te starten.
 
 1.  Er wordt fors geïnvesteerd in (nieuwe) duurzame energie-alternatieven
     en het budget voor het warmtefonds wordt verhoogd.
