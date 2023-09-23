@@ -846,7 +846,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 1.  Niet alleen de witte cis man moet centraal staan bij medisch onderzoek.
     Er wordt meer geïnvesteerd in onderzoek
     naar ziektebeelden, geneesmiddelen en behandelmethoden
-    bij niet-witte mensen, vrouwen en niet-witte vrouwen.
+    bij niet-witte mensen, vrouwen, niet-witte vrouwen en transpersonen.
 
 1.  In de opleiding van artsen, hulpverleners, thuis- en ouderenzorg en medisch personeel
     komt meer aandacht voor de bestrijding van racistische stereotypen.
