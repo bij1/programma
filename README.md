@@ -1081,6 +1081,9 @@ Dit doen we op de volgende manieren:
 
 1.  De inburgeringstoets wordt door de overheid afgenomen
     en verandert naar een naturalisatiecursus die mensen in twee jaar tijd mogen afronden.
+    Iedereen krijgt de kans om Nederlands te leren:
+    er is gratis taalles tot C1 niveau voor iedereen die dat nodig heeft.
+    Dus ook voor mensen met de Nederlandse nationaliteit, ongedocumenteerden, arbeidsmigranten en asielzoekers.
 
 1.  De sociale advocatuur blijft bestaan
     en blijft onvoorwaardelijk beschikbaar gedurende de gehele asielprocedure.
