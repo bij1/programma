@@ -546,7 +546,10 @@ BIJ1 heeft hiervoor de volgende plannen:
     waarbij alleen nog subsidies worden verstrekt aan circulaire landbouw.
 
 1.  Nederland draagt er internationaal zorg voor
-    dat de duurzame energietransitie geen negatieve gevolgen heeft
+    dat de duurzame energietransitie geen koloniaal project is
+    dat mensen in het globale zuiden uitbuit en grondstoffen onttrekt aan landen in het globale zuiden
+    om de levenstijlen van mensen in rijke landen in stand te houden.
+    Tevens zetten we ons in tegen de negatieve gevolgen die de duurzame energietransitie heeft
     voor de mensenrechten in landen waar de benodigde grondstoffen worden gewonnen,
     vooral als dit conflictgebieden zijn.
 
