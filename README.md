@@ -1039,6 +1039,10 @@ Dit doen we op de volgende manieren:
 1.  Asielzoekers mogen tijdens hun procedure werk zoeken en een studie beginnen.
     Ook ongedocumenteerde mensen mogen werken en studeren.
 
+1.  Mensen die een werkvisum of tewerkstellingsvergunning hebben,
+    mogen overal werken, dus niet bij 1 werkgever.
+    Zo voorkomen we een machtspositie en mogelijke uitbuiting door de werkgever.
+
 1.  Er komt structurele doorstroom van AZC's naar vaste woningen:
     wonen is een recht van iedereen.
     Crisiscentra worden gesloten.
