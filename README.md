@@ -681,6 +681,9 @@ heeft BIJ1 de volgende plannen:
     ambtenaren, stagiairs en anderen uit Nederland,
     ten koste van de inwoners van de eilanden, wordt tegengegaan.
 
+1.  Medebewoners in een huurwoning krijgen het recht
+    om in de woning te blijven wonen na overlijden van de huurder van de woning.
+
 ### Een Toegankelijke, Inclusieve en Groene Woonomgeving
 
 1.  Zo veel mogelijk nieuwbouw- en bestaande woningen
