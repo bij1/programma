@@ -1202,9 +1202,9 @@ stelt BIJ1 de volgende beleidsveranderingen voor:
 
 ### Zwangerschap, Ouderschap en Adoptie
 
-1.  Vruchtbaarheidsbehandelingen zoals IVF en KID moeten vergoed worden.
+1.  Vruchtbaarheidsbehandelingen zoals IVF en KID moeten volledig vergoed worden
+    onder de basisverzekering ongeacht gender en relatievorm.
     Het aantal vergoede behandelingen moet uitgebreid worden op basis van kansen, niet kosten.
-    Dit geldt ook voor LHBTQI+ stellen.
 
 1.  Mensen die zwanger zijn en gaan bevallen hebben altijd het recht
     om zelf beslissingen te nemen over wat er met hun lichaam gebeurt.
