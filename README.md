@@ -1146,6 +1146,8 @@ Dit doen we op de volgende manieren:
 1.  Nederland draagt niet langer bij aan Europees grensgeweld.
     Het betaalt niet mee aan grenspolitie, wapens of hekken, detentie of quasi-detentie faciliteiten:
     binnen de EU en wereldwijd.
+    Er komt een fonds dat schadevergoedingen verstrekt
+    aan slachtoffers en nabestaanden van Europees grensgeweld.
 
 1.  Nederland zet zich binnen de EU actief in voor een solidair asielsysteem,
     waarbinnen een eerlijke (her)verdeling van asielzoekers plaatsvindt middels een verdeelsleutel,
