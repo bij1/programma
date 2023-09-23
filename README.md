@@ -1523,6 +1523,9 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 1.  [Dekolonisatie](https://bij1.org/woordenlijst/), emancipatie, en zelfbeschikking van volkeren
     geldt als uitgangspunt bij erkenning van nieuwe staten.
     Nederland erkent de Republik Maluku Selatan en steunt de onafhankelijkheidsstrijd van West-Papoea.
+    Wij maken ons internationaal hard voor revisies
+    van de procedures van de VN's Special Committee on Decolonization
+    en toevoegingen aan de Non-Self-Governing Territories lijst.
 
 1.  We maken een einde aan de bezetting en kolonisatie van Palestijns grond en het Palestijnse volk.
     Palestijnse vluchtelingen moeten het recht hebben op terugkeer naar hun huizen en bezittingen.
