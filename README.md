@@ -644,6 +644,11 @@ heeft BIJ1 de volgende plannen:
     door huurtoeslag onafhankelijk van woonvorm te maken
     en door huurprijzen onmiddellijk te bevriezen.
 
+1.  We stoppen met het subsidiëren van koopwoningen
+    door de hypotheekrente aftrek af te schaffen.
+    Het geld dat we hiermee besparen,
+    gebruiken we om meer toegankelijke en goede sociale huur woningen te bouwen.
+
 1.  Huisjesmelkers maken misbruik van de wooncrisis door veel te hoge huurprijzen te vragen,
     onderhoud te verwaarlozen en soms zelfs huurders te intimideren.
     Hier gaan we huurders tegen beschermen.
