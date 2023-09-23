@@ -1147,11 +1147,11 @@ Dit doen we op de volgende manieren:
     Het betaalt niet mee aan grenspolitie, wapens of hekken, detentie of quasi-detentie faciliteiten:
     binnen de EU en wereldwijd.
 
-1.  Nederland zet zich binnen de EU actief in voor een solidair asielsysteem,
-    waarbinnen een eerlijke (her)verdeling van asielzoekers plaatsvindt middels een verdeelsleutel,
-    en waarbij mediterrane landen ontlast worden.
-    Hierbij wordt rekening gehouden met de behoeften van de asielzoeker,
-    zoals culturele achtergrond en familiebanden.
+1.  De Dublin-verordening wordt in Europees verband afgeschaft.
+    Mensen die asiel aan willen vragen in Europa
+    kunnen zelf een land kiezen en vrij reizen door de EU.
+    Nederland handhaaft niet langer de Dublin-verordening,
+    en stuurt dus geen mensen terug naar andere EU-landen.
 
 1.  De 30%-regeling wordt afgeschaft:
     buitenlandse werknemers met hoogbetaalde banen
