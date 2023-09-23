@@ -500,14 +500,16 @@ BIJ1 heeft hiervoor de volgende plannen:
     Het openbaar vervoer wordt gratis en toegankelijk,
     en is uiterlijk in 2030 volledig elektrisch.
 
-1.  Nederlandse vliegvelden, waaronder Schiphol, mogen niet verder uitbreiden.
-    Er komt BTW en accijns op kerosine,
-    en we zetten ons op Europees niveau in om zo snel mogelijk
-    op duurzame wijze een Europees spoornetwerk te realiseren.
-    Op deze manier kunnen korteafstandsvluchten worden uitgefaseerd en afgeschaft.
-    Voor diasporische gemeenschappen uit de voormalige koloniën mogen eventuele prijsstijgingen,
-    als gevolg van maatregelen om luchtverkeer te reduceren,
-    geen invloed hebben op de mogelijkheid om het land van oorsprong te bezoeken.
+1.  Er ligt in Europa al veel rails.
+    Wij kiezen niet voor de suboptimale concurrentie op het spoor,
+    maar voor samenwerking tussen de nationale spoorbedrijven.
+    Het plan TEE 2.0 moet zo snel mogelijk gerealiseerd worden
+    door aanschaffen van internationale treinen fors te subsidiëren.
+    Schiphol is door toenemende geluidsoverlast en vervuiling onhoudbaar geworden voor de leefomgeving.
+    De megalomane overstapmachine moet minimaal halveren
+    door continentale vluchten over korte afstanden per direct te verbieden.
+    Voor diasporische gemeenschappen uit onder andere voormalige koloniën
+    komt een jaarlijkse vrijstelling van de verhoogde vliegbelasting om veelvliegen te ontmoedigen.
 
 1.  Het Meerjarenprogramma Infrastructuur, Ruimte en Transport (MIRT)
     wordt een bereikbaarheidsfonds met als doel
