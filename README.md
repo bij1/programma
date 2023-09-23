@@ -1041,6 +1041,8 @@ Dit doen we op de volgende manieren:
     wonen is een recht van iedereen.
     Crisiscentra worden gesloten.
 
+1.  Smokkelen wordt gedecriminaliseerd.
+
 1.  De Afdeling Vreemdelingenpolitie, Identificatie en Mensenhandel (vroeger Vreemdelingenpolitie genoemd)
     doet niet langer onderzoek naar de identiteit en de verblijfsrechtelijke status van asielzoekers,
     maar wordt omgevormd tot een taskforce die zich enkel nog bezighoudt
