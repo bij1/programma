@@ -494,6 +494,17 @@ BIJ1 heeft hiervoor de volgende plannen:
     zodat mensen met lagere inkomens
     niet de rekening gepresenteerd krijgen voor de energietransitie.
 
+1.  Kernenergie is een terraphthorane (aardvernietigende) hoax
+    in dezelfde categorie als biomassacentrales en "groene" waterstof.
+    De roof van grondstoffen uit Afrika - Niger, Namibië - het immense mijnen graven,
+    omgevingen vergiftigen gaat met uraniumwinning gewoon door.
+    Het kost decennia om centrales te bouwen met alle uitstoot van dien,
+    is onbetaalbaar en onrendabel,
+    verbruikt grote hoeveelheden broodnodig schoon water om te koelen
+    en dan is er nog de veiligheid en het 40.000 jarige afvalprobleem.
+    BIJ1 richt zich op serieuzere schone alternatieven
+    en bovenal op het verminderen van de energieverslaving van de kapitalistische industrie.
+
 ### Natuur en Vervoer
 
 1.  OV-bedrijven worden genationaliseerd.
