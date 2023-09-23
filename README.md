@@ -665,8 +665,8 @@ heeft BIJ1 de volgende plannen:
     De [kostendelersnorm](https://bij1.org/woordenlijst/) wordt afgeschaft.
     De partnertoets en inkomensafhankelijke bijdragen uit wetten zoals de Participatiewet worden afgeschaft,
     zodat samenwonen voor mensen met een beperking makkelijker wordt.
-    De mogelijkheden voor een urgentieverklaring worden verbreed
-    zodat slachtoffers van onveilige woonsituaties sneller geholpen kunnen worden.
+    Slachtoffers van onveilige woonsituaties kunnen aanspraak maken
+    op veilige huisvesting en eventuele begeleiding via Housing First.
     Voor de meest kwetsbare mensen komt er een extra klasse binnen de sociale huursector
     met huren die niet hoger zijn dan 350 euro per maand.
 
