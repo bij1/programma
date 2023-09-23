@@ -270,6 +270,8 @@ Dit doen we op de volgende manieren:
 1.  Staken is een recht.
     We zorgen dat alle bedrijfstakken een cao hebben,
     zodat bescherming van werknemers beter geregeld is.
+    Om het stakingsrecht beter te waarborgen
+    wordt het stakingsrecht in de Nederlandse wet verankerd.
     Bij cao-onderhandelingen doen alleen vakbonden mee
     die voldoende onafhankelijk zijn van werkgevers.
     Het stakingsrecht wordt uitgebreid:
