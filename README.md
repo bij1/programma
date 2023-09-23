@@ -497,7 +497,7 @@ BIJ1 heeft hiervoor de volgende plannen:
 ### Natuur en Vervoer
 
 1.  OV-bedrijven worden genationaliseerd.
-    Het openbaar vervoer wordt gratis en toegankelijk,
+    Het openbaar vervoer wordt gratis, fijnmazig, toegankelijk, ingericht op gebruikers
     en is uiterlijk in 2030 volledig elektrisch.
 
 1.  Nederlandse vliegvelden, waaronder Schiphol, mogen niet verder uitbreiden.
