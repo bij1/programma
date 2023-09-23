@@ -644,9 +644,8 @@ heeft BIJ1 de volgende plannen:
     door huurtoeslag onafhankelijk van woonvorm te maken
     en door huurprijzen onmiddellijk te bevriezen.
 
-1.  Huisjesmelkers maken misbruik van de wooncrisis door veel te hoge huurprijzen te vragen,
-    onderhoud te verwaarlozen en soms zelfs huurders te intimideren.
-    Hier gaan we huurders tegen beschermen.
+1.  Wij gaan huurders beschermen tegen huisjesmelkers, omdat zij misbruik maken van de wooncrisis
+    door veel te hoge huurprijzen te vragen, onderhoud te verwaarlozen en soms zelfs huurders te intimideren.
     Er wordt een verhuurvergunning met strenge kwalificatie-eisen ingevoerd
     en er wordt geïnvesteerd in de controlediensten van de gemeenten die hierop moeten toezien.
 
