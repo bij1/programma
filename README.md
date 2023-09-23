@@ -1969,7 +1969,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Hun bevoegdheden worden ingeperkt,
     en gegevensverstrekking aan buitenlandse geheime diensten wordt aan banden gelegd.
 
-## 16. Kunst, Cultuur en Media
+## 16. Kunst, Cultuur, Media en Teamsport
 
 ### <mark>Samen Verbeelden we een Nieuwe Toekomst</mark>
 
@@ -2052,6 +2052,11 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     en niet door de overheid of door de commercie wordt beïnvloed.
     Omroepen die ongrondwettelijke racistische denkbeelden en nepnieuws verspreiden
     worden verboden en krijgen geen vergunning.
+
+1.  Teamsport en spel stimuleert ontmoetingen en de sociale samenhang van de samenleving.
+
+1.  Doorgeslagen individualisering is te zien in het als paddestoelen uit de grond schieten van sportscholen.
+    BIJ1 wil niemand beperken maar vindt in gezamenlijk sporten op een vereniging belangrijker.
 
 ### Toegankelijkheid & Educatie
 
