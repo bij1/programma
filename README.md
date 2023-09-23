@@ -579,7 +579,7 @@ voor iedereen wordt gegarandeerd.
 
 BIJ1 wil dat iedereen van een woning verzekerd is.
 Ongeacht huidskleur, religie, levenswijze, gender,
-seksuele geaardheid, sociaaleconomische positie of verblijfsstatus.
+seksuele geaardheid, fysieke gesteldheid, sociaaleconomische positie of verblijfsstatus.
 We zetten ons in om dak- en thuisloosheid bij de wortels aan te pakken
 en een betaalbare woning te garanderen voor iedereen.
 Het huidige woonbeleid is ondemocratisch en niet toereikend:
