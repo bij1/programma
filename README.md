@@ -1555,7 +1555,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     van internationale ondemocratische instituties zoals de IMF en Wereldbank.
     Daarnaast zet Nederland zich internationaal actief in
     voor het kwijtschelden van alle schulden van landen
-    die te lijden hebben gehad onder koloniaal bewind.
+    die te maken hebben met koloniale en imperialistische uitbuiting.
 
 ### Een Nieuw Europa
 
