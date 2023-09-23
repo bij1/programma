@@ -1037,6 +1037,13 @@ Dit doen we op de volgende manieren:
 1.  Asielzoekers mogen tijdens hun procedure werk zoeken en een studie beginnen.
     Ook ongedocumenteerde mensen mogen werken en studeren.
 
+1.  Er komt, in navolging van Portugal en Duitsland,
+    een visum voor mensen die werk willen zoeken in Nederland.
+    Zij hoeven dus nog geen baan gevonden te hebben.
+    Opleidingsniveau speelt bij toekenning geen rol -
+    ieder mens verdient de kans om hier te werken, en is hier hard nodig.
+    Mensen uit oorlogsgebied kunnen er uiteraard ook aanspraak op maken.
+
 1.  Er komt structurele doorstroom van AZC's naar vaste woningen:
     wonen is een recht van iedereen.
     Crisiscentra worden gesloten.
