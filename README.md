@@ -163,6 +163,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     25 november (de onafhankelijkheidsdag van Suriname),
     en 18 maart (Dia di Himno y Bandera, de Arubaanse Dag van het Volkslied en de Vlag)
     worden nationale feestdagen.
+    Tevens wordt eid al fitr een nationale feestdag.
 
 ## 2. Werk En Bestaanszekerheid
 
