@@ -872,6 +872,35 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Huisartsen worden opgeleid voor hormoonbehandelingen.
     Daarnaast hoeven trans personen geen diagnose meer te ontvangen om zorg te krijgen.
 
+### COVID-19
+
+1.  De overheid erkent dat de COVID-19-pandemie in feite niet voorbij is
+    nu de zogenaamd endemische fase bereikt is,
+    en dat test- en andere maatregelen te vroeg zijn afgeschaald.
+    We heropenen test- en vaccinatielocaties
+    en de regelmatige officiële berichtgeving over positieve testen wordt weer herstart.
+    Quarantaine voor besmette individuen wordt weer de norm.
+
+1.  Vaccinaties tegen nieuwe varianten van het SARS-CoV-2
+    worden ontwikkeld en beschikbaar gesteld aan de gehele bevolking.
+    Dit gebeurt bij voorkeur in internationaal verband,
+    om alle beschikbare kennis te bundelen,
+    maar we wachten niet op actie in het buitenland.
+
+1.  We stimuleren meer onderzoek naar Long COVID,
+    zowel naar het voorkomen en de presentatie als naar behandelingen.
+    De overheid publiceert officiële informatie over dit syndroom die gebaseerd is op de wetenschap.
+
+1.  Alle openbare gebouwen en scholen worden verplicht voorzien
+    van luchtreinigingssystemen om gezonde luchtkwaliteit te verzekeren.
+    De arbeidsinspectie gaat handhaven dat deze standaard ook geïmplementeerd wordt op werkplekken.
+
+1.  Bij alle COVID-19 maatregelen wordt extra aandacht besteed
+    aan gemeenschappen die een grotere afstand hebben tot de reguliere medische zorg.
+
+1.  Nederland ondersteunt het heropstarten van COVID-19 maatregelen
+    in het Caribische deel van het Koninkrijk desgewenst financieel en logistiek.
+
 ## 7. Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
 
 ### <mark>Radicale Gelijkwaardigheid en Herstel in het Koninkrijk</mark>
