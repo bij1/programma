@@ -2038,8 +2038,10 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     om aandacht te hebben voor de Nederlandse koloniale geschiedenis en slavernijverleden,
     vanuit het perspectief van de voormalige koloniën.
 
-1.  We zorgen dat alle gestolen kunst door Nederlandse culturele instellingen wordt teruggegeven.
-    We helpen het mogelijk te maken de kunst te conserveren en exposeren op de plek waar het thuishoort.
+1.  We zorgen dat roofkunst die in Nederlandse handen is wordt teruggegeven.
+    Nederlandse musea gaan geen uitleenovereenkomsten meer aan met musea die grootschalig roofkunst tentoonstellen.
+    Daar waar er behoefte aan is helpen we het (financieel) mogelijk te maken
+    dat teruggegeven kunst wordt geconserveerd en tentoongesteld op de plek waar het thuishoort.
 
 1.  Er komt een sectorbreed onafhankelijk onderzoek
     naar de stand van zaken op het gebied van representatie en diversiteit
