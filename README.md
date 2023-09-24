@@ -1939,7 +1939,8 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 1.  Het recht op demonstratie wordt strikt beschermd.
     In lijn met onze mensenrechten mogen autoriteiten
     geen beperkingen meer stellen aan demonstraties op grond van het verkeersbelang.
-    Ook mogen autoriteiten geen protesten meer verbieden, beperken of beëindigen
+    Protesten hoeven niet aangemeld te worden.
+    Autoriteiten mogen geen protesten verbieden, beperken of beëindigen
     vanwege het ontbreken van (tijdige) kennisgeving of aanmelding van het protest.
     Autoriteiten mogen demonstranten niet bestraffen
     vanwege het deelnemen aan een niet-aangemeld protest.
