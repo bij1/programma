@@ -2120,10 +2120,6 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
     moet iedereen gratis toegang kunnen krijgen
     tot educatieprogramma's over (verantwoord) internetgebruik en digitale rechten.
 
-1.  Het aanbod van online diensten, zoals browsers, zoekmachines en social media platforms, moet diverser.
-    Internettoegang moet niet afhankelijk zijn
-    van het verplicht gebruiken van bepaalde diensten.
-
 1.  De rechten en behoeften van mensen en planeet staan centraal in het digitaliseringsbeleid.
     Toegankelijkheidseisen en de ervaringen van mensen met een beperking worden meegenomen.
     Alternatieve kanalen zoals telefoon of fysieke loketten,
