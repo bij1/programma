@@ -550,6 +550,11 @@ BIJ1 heeft hiervoor de volgende plannen:
     voor de mensenrechten in landen waar de benodigde grondstoffen worden gewonnen,
     vooral als dit conflictgebieden zijn.
 
+1.  Kernenergie is voor BIJ1 een optie, mits de veiligheid van centrales verzekerd is
+    en de winning van radioactieve grondstoffen niet op imperialistische wijze geschiedt.
+    Als kernbrandstof inkopen niet met respect voor de rechten van de bevolking van het herkomstland kan,
+    dan kan het helemaal niet.
+
 1.  Er komt een algeheel verbod op de import, handel en doorvoer
     van producten die leiden tot ontbossing.
     Hierbij wordt kritisch gekeken
