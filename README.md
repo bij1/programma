@@ -336,6 +336,12 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
     zoals banken, pensioenfondsen, het openbaar vervoer en de zorg,
     in publieke handen.
 
+1.  Het belastingstelsel wordt fundamenteel veranderd.
+    Veel indirecte consumentenbelastingen worden afgeschaft.
+    Dit wordt opgevangen door progressieve belastingen op inkomen en vooral op hoge vermogens en winst.
+    De erf- en schenkbelasting wordt sterk verhoogd.
+    Zo komt er een einde aan de dynastieke werking van kapitaal.
+
 1.  Nederland is niet langer een belastingparadijs.
     Het oprichten van een brievenbus-BV wordt onmogelijk gemaakt.
     Daarnaast wordt er grootschalig onderzoek gedaan
@@ -344,7 +350,6 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
 1.  Er komt een limiet op vermogen,
     waarboven een marginaal belastingtarief van 100% geldt.
     De hoogte van deze limiet wordt democratisch besloten.
-    Vermogens- en erfbelasting wordt drastisch verhoogd.
     Daarnaast versoepelen we de [onteigeningswetgeving](https://bij1.org/woordenlijst/),
     op het gebied van kapitaal, aandelen en bezit in grond.
 
