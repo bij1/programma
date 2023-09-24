@@ -1874,7 +1874,6 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 ### Naar een Democratische Republiek
 
 1.  Nederland krijgt een nieuwe Grondwet die de bestaande koloniale, kapitalistische Grondwet vervangt.
-    Daarnaast komt er een Constitutioneel Hof, dat Nederlandse wetten toetst aan die Grondwet.
 
 1.  De monarchie wordt afgeschaft: Nederland wordt een democratische republiek.
     We onteigenen het kapitaal van de adel en gebruiken dit voor rechtsherstel voor de voormalige koloniën.
