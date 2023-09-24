@@ -1244,7 +1244,7 @@ stelt BIJ1 de volgende beleidsveranderingen voor:
     Ook worden naast mannen en vrouwen,
     ook non-binaire personen opgenomen in bestaande wetgeving en beleid.
 
-1.  Non-binaire personen mogen hun voornaam kosteloos wijzigen in de gemeentelijke basisadministratie.
+1.  Trans en non-binaire personen mogen hun voornaam kosteloos wijzigen in de gemeentelijke basisadministratie.
 
 ### Ondraaglijk Lijden en Euthanasie
 
