@@ -1962,8 +1962,8 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     De overheid gaat zich harder inzetten voor het vergroten van
     de veiligheid, ondersteuning en noodhulp aan journalisten in binnen- en buitenland.
 
-1.  Veiligheidsdiensten (zoals de AIVD en de NCTV)
-    en politie-onderdelen zoals TOOI en ID-WIV, worden ontmanteld.
+1.  De veiligheidsdiensten (zoals de AIVD en de NCTV), politie-onderdelen zoals TOOI en IDWIV,
+    en alle andere onderdelen van het geheime staatsapparaat worden ontmanteld.
     Tot dit gerealiseerd is, intensiveren en verbeteren we
     de strenge, bindende, onafhankelijke democratische controle over deze diensten.
     Hun bevoegdheden worden ingeperkt,
