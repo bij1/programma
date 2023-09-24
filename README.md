@@ -1907,9 +1907,10 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 ### Democratie voor Iedereen
 
-1.  Alle mensenrechtenverdragen, zoals het Kinderrechtenverdrag, het Vrouwenrechtenverdrag
+1.  Internationale aanbevelingen en verdragen rond mensenrechten,
+    zoals het Kinderrechtenverdrag, het Vrouwenrechtenverdrag
     en het VN-verdrag inzake rechten van personen met een handicap,
-    krijgen rechtstreekse werking in het Nederlandse recht.
+    worden serieus genomen en, wanneer dat passend is, opgenomen in het Nederlandse recht.
     Etniciteit, afkomst, nationaliteit, genderidentiteit en genderexpressie
     worden in artikel 1 van de Grondwet opgenomen.
 
