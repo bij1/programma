@@ -210,7 +210,7 @@ Dit doen we op de volgende manieren:
     Mensen met een (onzichtbare) beperking krijgen evenveel betaald
     als vakgenoten zonder beperking met hetzelfde werk.
     We maken vóór 2025 een einde aan loon- en inkomensongelijkheid tussen mannen en vrouwen.
-    Discriminerende bedrijven worden strafrechtelijk verantwoordelijk gehouden.
+    Discriminerende bedrijven worden juridisch verantwoordelijk gehouden.
 
 1.  Arbeidsmigranten en ongedocumenteerde mensen verdienen dezelfde rechten
     als elke andere werknemer.
