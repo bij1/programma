@@ -747,20 +747,13 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Om dit te kunnen betalen, heffen we progressieve belastingen.
     De premies en eigen bijdragen worden afgeschaft.
 
-1.  Zorg mag geen winstmodel zijn.
-    We zetten een stop op private zorginstellingen
-    en nemen alle zorginstellingen weer in publieke handen.
-    Zo maken we een einde aan zogeheten zorgcowboys,
-    houden we noodlijdende zorgorganisaties overeind,
-    en werken we organisatiebelangen en concurrentie de deur uit.
-
-1.  In plaats van geld te verkwisten aan managers, commercie en aanbestedingstrajecten,
-    investeren we meer in personeel en kwalitatieve zorg.
-    Zo blijft ook de continuïteit van zorg gewaarborgd.
-    Door het in publieke handen nemen van de zorg,
-    wordt het aanbod daarbij beter afgestemd op de zorgvraag,
-    worden prijzen laag gehouden en werken we lange wachtlijsten weg.
-    Kleine initiatieven krijgen meer ruimte.
+1.  We brengen alle zorginstellingen in publieke handen.
+    Daardoor verdwijnt het winstmotief uit de zorg
+    en kan het zorgaanbod centraal worden afgestemd op de zorgvraag,
+    waardoor wachtlijsten kunnen worden verminderd
+    en er geen tijd en geld meer wordt verspild aan overbodige administratie en management.
+    Werknemers gaan democratisch bepalen welk van deze werkzaamheden
+    daadwerkelijk nodig is om goede zorg te verlenen.
 
 1.  De zorgprofessional komt weer aan het roer
     en niet langer mogen regeltjes, financiële verantwoording en overheidsinstanties de dienst uitmaken.
