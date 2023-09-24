@@ -1729,10 +1729,8 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 ### Voor Betaalbaar en Toegankelijk Onderwijs
 
 1.  Het collegegeld wordt afgeschaft:
-    beroepsonderwijs en universiteit worden gratis.
-    De basisbeurs wordt opnieuw ingevoerd en wordt inkomensafhankelijk,
-    gebaseerd op het inkomen van de ouder(s)/verzorger(s) en dat van de student zelf.
-    Studieschulden van de 'pechgeneratie' worden kwijtgescholden.
+    al het onderwijs wordt gratis.
+    Alle studieschulden worden kwijtgescholden.
 
 1.  Scholen moeten volledig toegankelijk worden voor leerlingen met een beperking
     en we maken extra budget vrij voor de ondersteuning van deze leerlingen.
