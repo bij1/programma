@@ -762,12 +762,6 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     worden prijzen laag gehouden en werken we lange wachtlijsten weg.
     Kleine initiatieven krijgen meer ruimte.
 
-1.  De zorgprofessional komt weer aan het roer
-    en niet langer mogen regeltjes, financiële verantwoording en overheidsinstanties de dienst uitmaken.
-    We slopen de bureaucratie uit de zorg
-    en zorgen ervoor dat zorgprofessionals indicaties stellen,
-    in plaats van de overheid en de gemeente.
-
 1.  We verlagen de werk- en regeldruk in de zorg
     door de administratieve lasten te verminderen en tijdschrijven af te schaffen.
     Ook gaan we alle zorgmedewerkers,
