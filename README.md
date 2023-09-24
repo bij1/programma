@@ -1886,12 +1886,12 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Geborgde zetels worden afgeschaft.
     De verkiezingen en de functie van de Eerste Kamer worden herzien en hervormd.
 
-1.  Het aantal Kamerleden in de Tweede Kamer moet proportioneel
-    meegroeien met het aantal inwoners in Nederland,
-    want volksvertegenwoordigers kunnen hun werk alleen goed doen
-    wanneer ze voldoende tijd en ondersteuning krijgen.
-    Dat betekent dat het huidige aantal van 150 Kamerleden flink moet worden vergroot.
-    Ook wordt het budget voor fractiemedewerkers verhoogd.
+1.  Het zeggenschap van de Tweede Kamer wordt vergroot,
+    ze krijgt onder meer een bindende manier om ministers en de premier af te zetten.
+    Het aantal Kamerleden in de Tweede Kamer wordt flink uitgebreid,
+    en stijgt met elke verkiezing verder mee met de groei van het aantal inwoners.
+    De ondersteuning van volksvertegenwoordigers wordt versterkt,
+    onder meer door het budget voor fractiemedewerkers flink te vergroten.
 
 1.  Het salaris van voltijdsvolksvertegenwoordigers wordt herzien en verlaagd.
     Deeltijdsvolksvertegenwoordigers, zoals gemeenteraadsleden,
