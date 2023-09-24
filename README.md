@@ -830,6 +830,11 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     De inzet van ervaringskennis wordt daarbij
     een vast onderdeel van het curriculum in alle opleidingen voor hulpverleners.
 
+1.  Prijsonderhandelingen tussen het Ministerie van VWS en farmaceuten over medicijnen
+    worden openbaar gemaakt zodra de deal gesloten is.
+    Zo is het voor iedereen duidelijk hoe veel de farmaceut aan middelen verdient
+    en hoe waardevol de onderhandelingen zijn.
+
 ### Toegankelijk en voor Iedereen
 
 1.  Er moet meer toezicht komen op naleving van het VN-verdrag Handicap
