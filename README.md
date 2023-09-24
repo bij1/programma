@@ -1880,8 +1880,8 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     We onteigenen het kapitaal van de adel en gebruiken dit voor rechtsherstel voor de voormalige koloniën.
     Het dragen van adellijke titels wordt, naar Oostenrijks voorbeeld, verboden.
 
-1.  De drempels voor het meedoen aan verkiezingen (als nieuwe politieke partij),
-    zoals waarborgsommen en (onofficiele) kiesdrempels, worden weggenomen.
+1.  Drempels voor het meedoen aan verkiezingen, zoals waarborgsommen, worden weggenomen.
+    In het kiesstelsel is geen plaats voor kiesdrempels.
     De waterschappen worden geheel democratisch verkozen.
     Geborgde zetels worden afgeschaft.
     De verkiezingen en de functie van de Eerste Kamer worden herzien en hervormd.
