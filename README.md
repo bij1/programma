@@ -1212,6 +1212,8 @@ stelt BIJ1 de volgende beleidsveranderingen voor:
 1.  Er komt een wet op draagouderschap
     op basis van het Wetsvoorstel kind, draagmoederschap en afstamming,
     met solide berscherming voor kinderen, draagouders en wensouders.
+    Deze bescherming houdt ook in dat internationaal draagouderschap
+    aan strenge eisen moet voldoen om voortplantingsimperialisme te voorkomen.
 
 1.  Er komt een wet voor meerouderschap.
     Het huidige huwelijksrecht en samenlevingsrecht worden op zo'n manier aangepast,
