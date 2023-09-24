@@ -275,6 +275,9 @@ Dit doen we op de volgende manieren:
     Het stakingsrecht wordt uitgebreid:
     werkgevers bepalen niet wanneer je wel of niet mag staken.
 
+1.  We vieren de werkende mens en hun bijdragen aan de maatschappij.
+    1 mei, de Dag van de Arbeid, wordt zoals in de rest van Europa een nationale feestdag.
+
 ### Een Goed Leven, ook als je niet (meer) Werkt
 
 1.  We steken meer geld in scholingsprogramma's voor mensen zonder werk.
