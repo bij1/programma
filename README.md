@@ -237,12 +237,6 @@ Dit doen we op de volgende manieren:
     BIJ1 zet hiertoe in op Sociale Ontwikkelbedrijven
     waarbij mensen meer eigen regie en ondersteuning op de werkvloer krijgen.
 
-1.  We zetten ons in voor duurzaam, passend werk
-    met fatsoenlijke en rechtvaardige arbeidsvoorwaarden
-    en zelfbeschikkingsrecht bij arbeidsongeschiktheid.
-    Daarom worden medische keuringen bij arbeidsongeschiktheid niet door het UWV gedaan,
-    maar in samenspraak met de persoon zelf en door onafhankelijke artsen.
-
 ### Eerlijke Waardering & Meer Zeggenschap
 
 1.  Het minimumloon wordt per direct verhoogd naar 16 euro per uur
