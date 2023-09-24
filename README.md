@@ -526,6 +526,13 @@ BIJ1 heeft hiervoor de volgende plannen:
     en in het bijzonder agrarische bedrijven die hiernaar overstappen,
     worden (financieel) ondersteund.
 
+1.  De Nederlandse subsidie aan de vis-, vlees- en zuivelindustrie worden afgeschaald,
+    op termijn naar 0.
+    Binnen Europa pleiten we voor hetzelfde.
+    Het vrijgemaakte geld wordt besteed aan het stimuleren
+    van banen in de plantaardige landbouw- en voedselindustrie
+    en omscholing van arbeiders in de bestaande dierlijke landbouw en visserij.
+
 1.  Biodiversiteit wordt prioriteit.
     Maaibeleid wordt aangepast om natuur de ruimte te geven
     en er wordt plaats gemaakt voor meer (kleine) ecosystemen in parken en natuurgebieden.
