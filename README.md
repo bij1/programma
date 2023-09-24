@@ -550,6 +550,14 @@ BIJ1 heeft hiervoor de volgende plannen:
     voor de mensenrechten in landen waar de benodigde grondstoffen worden gewonnen,
     vooral als dit conflictgebieden zijn.
 
+1.  De ABCSSS-eilanden liggen in de frontlinie van de klimaatcrisis
+    en zullen als eerst getroffen worden door de zeespiegelstijging.
+    De gevolgen van de klimaatcrisis zullen de bestaande armoede op de eilanden ook verergeren.
+    Er wordt daarom een eerlijk deel van het klimaatbudget beschikbaar gesteld voor de ABCSSS-eilanden.
+    Hier komt aandacht voor kustbescherming, bescherming van de koraalriffen,
+    en een omschakeling van de energievoorzieningen.
+    Het Rijk stelt expertise en middelen beschikbaar voor waterbeheer.
+
 1.  Er komt een algeheel verbod op de import, handel en doorvoer
     van producten die leiden tot ontbossing.
     Hierbij wordt kritisch gekeken
