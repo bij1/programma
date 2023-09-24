@@ -229,7 +229,7 @@ Dit doen we op de volgende manieren:
 
 1.  We werken aan toegankelijke werkplekken.
     Dit doen we door onder andere het recht op thuiswerk vast te leggen
-    en meer (onafhankelijke) ondersteuning op de werkvloer.
+    en meer (onafhankelijke) ondersteuning op de werkvloer te realiseren.
 
 1.  Mensen met een laag inkomen en een urenbeperking vanwege hun beperking,
     kunnen zich nooit uit de bijstand werken.
