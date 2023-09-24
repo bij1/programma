@@ -146,7 +146,9 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  Het toekomstige Nationale Slavernij Museum wordt gratis
     en is gegarandeerd van een structurele financiële basis.
-    Daarnaast komen er dependances in het Caribische gedeelte van het Koninkrijk.
+    Daarnaast bieden het Nationaal Slavernij Museum en de Nederlandse staat waar gewenst financiële en andere hulp
+    bij het opzetten van verwante musea in het Caribische gedeelte van het Koninkrijk
+    en de samenwerking tussen deze musea.
 
 1.  Er komt speciale aandacht voor mentale en geestelijke dekolonisatie.
     De infrastructuur die het koloniale gedachtegoed en witte superioriteitsdenken
