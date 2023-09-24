@@ -1366,20 +1366,16 @@ En waarin elk mens de kans krijgt om hun fouten te herstellen
 en de waardigheid te krijgen waar wij allen recht op hebben.
 </strong>
 
-Veiligheid gaat namelijk over veel meer
-dan het onderdrukken van criminaliteit en het bestraffen van misdaad.
-Veiligheid gaat over bestaanszekerheid:
-over een menswaardig bestaan kunnen leven.
+Veiligheid ontstaat niet
+door het onderdrukken van criminaliteit en het bestraffen van misdaad.
+Veiligheid ontstaat door het garanderen van bestaanszekerheid;
+een menswaardig bestaan kunnen leven.
 BIJ1 strijdt voor een rechtssysteem waarin mens en planeet worden beschermd,
 en wij gezamenlijk de plicht dragen om veiligheid te garanderen.
-Ons huidige systeem is een systeem dat misdaad niet voorkomt,
-maar eerder creëert met een cultuur van bestraffing, geweld en opsluiting.
-Ons is wijsgemaakt dat een systeem als de politie
-het enige middel is voor het creëren van veiligheid in onze buurten,
-maar wij geloven dat veiligheid op geen enkele manier kan worden gegarandeerd
-door een gewapend orgaan.
-Daarom investeren we niet langer in staatsgeweld, bestraffing en opsluiting,
-maar in collectieve voorzieningen en bestaanszekerheid:
+Ons huidige systeem is gebaseerd op bestraffing, geweld en opsluiting.
+Dit systeem voorkomt misdaad en onveiligheid niet, maar creëert ze juist.
+We investeren daarom niet langer in staatsgeweld, bestraffing en opsluiting,
+maar in collectieve voorzieningen en bestaanszekerheid;
 zaken die onze gemeenschappen wél veilig houden.
 
 <mark>
