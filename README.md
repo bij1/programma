@@ -862,15 +862,17 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Ook worden er safehouses voor hen ingericht, verspreid over het land.
     We bevorderen (ervarings)deskundigheid over de LHBTQIA+-gemeenschap in de GGZ en de Jeugdzorg.
 
-1.  De zorg voor trans personen moet worden gezien als een reguliere vorm van medische zorg
-    en moet worden meegenomen in het basiscurriculum van medische gezondheidsopleidingen.
-    We vergroten het aanbod van transzorg en er worden meer transklinieken geopend.
-    Expertise wordt gedeeld tussen de vijf grootste ziekenhuizen,
-    zodat wachtlijsten kunnen worden weggewerkt.
-    (Hormoon)behandelingen en operaties worden vergoed,
-    zonder toestemming van 'experts' en verzekeringen.
-    Huisartsen worden opgeleid voor hormoonbehandelingen.
-    Daarnaast hoeven trans personen geen diagnose meer te ontvangen om zorg te krijgen.
+1.  Het aanbod van transzorg wordt vergroot,
+    waardoor wachtlijsten snel afnemen en monopolievorming wordt bestreden
+    door kennis te delen tussen huidige behandelcentra en nieuw te openen genderpoli's.
+    De toegang tot transzorg wordt gemakkelijker en niet belemmerd door gatekeepende zorgverleners.
+    Zelfbeschikking wordt het uitgangspunt: de trans persoon bepaalt zelf welke zorg nodig is.
+    We zien transgender zijn dus niet meer als een aandoening waarvoor een diagnose nodig is,
+    maar als een normale variatie op het menselijk bestaan.
+    Transgenderzorg wordt volledig vergoed.
+    Hormoonbehandelingen worden gemakkelijk verkrijgbaar via de huisarts.
+    In de opleiding van artsen en andere zorgverleners wordt voldoende aandacht besteed
+    aan transzorg en gendersensitiviteit.
 
 ## 7. Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
 
