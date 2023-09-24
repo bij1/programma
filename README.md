@@ -534,6 +534,11 @@ BIJ1 heeft hiervoor de volgende plannen:
     moeten rechten krijgen om bescherming, behoud (en eventueel herstel) te waarborgen.
     De Waddenzee moet als eerste als zelfstandige rechtspersoonlijkheid aangemerkt worden.
 
+1.  Het spuiten van glyfosaat wordt ook voor agrarische bedrijven illegaal.
+    De verkoop van het middel wordt in Nederland verboden.
+    Ook wordt ook het uitrijden van mest buiten de toegestane periodes strenger bestreden.
+    Overtredingen van deze aard op boerenland moeten het maximale uitkoopbedrag doen dalen.
+
 ### Internationale Klimaatrechtvaardigheid
 
 1.  Bedrijven die verantwoordelijk zijn
