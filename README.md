@@ -1841,7 +1841,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     en er komen diversiteitsquota in alle onderwijs- en bestuurslagen
     in het theoretisch en wetenschappelijk onderwijs.
 
-## 15. Democratie & Staatsrecht
+## 15. Democratie & staatsinrichting
 
 ### <mark>Naar een Echte Democratie</mark>
 
