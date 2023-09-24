@@ -299,35 +299,30 @@ Dit doen we op de volgende manieren:
 ### <mark>Een Economie voor en door Iedereen</mark>
 
 <strong>
-BIJ1 staat voor een economie die werkt voor iedereen
-en niet alleen voor een klein groepje mensen.
-Onze ideale economie is socialistisch:
-een economie die de rechten en gezondheid van mens,
+Ons huidige kapitalistische systeem is onhoudbaar.
+BIJ1 staat voor een economie die werkt voor iedereen,
+niet alleen voor de kapitalisten, een heel kleine minderheid van de bevolking.
+Een socialistische economie die de rechten en gezondheid van mens,
 dier en planeet altijd voorop stelt.
-Ons huidige kapitalistische systeem, is onhoudbaar.
-Voor een toekomstbestendige economie,
-moeten we afscheid nemen van een systeem dat
-vermogenden, aandeelhouders en grote beursgenoteerde bedrijven
-in staat stelt onze democratie in te perken
+Waarin de productiemiddelen niet langer in handen van de kapitalisten, maar van de werkenden,
+en waarin vermogenden, aandeelhouders en grote bedrijven niet langer
+in staat zijn onze democratie in te perken
 en mensen wereldwijd uit te buiten.
-Want er is meer dan genoeg voor iedereen.
 </strong>
 
-Dat betekent een radicale democratisering van de economie.
-BIJ1 durft te dromen van een systeem dat er nu nog niet is
-en werkt stapsgewijs, van de grond af aan, naar een democratisch socialisme.
-De groeiende kloof tussen Nederlanders met lage lonen en de allerrijksten wordt gedicht.
-Een rechtvaardige economie die voor ons allemaal werkt
+BIJ1 durft te dromen van dit systeem,
+waarin de kloof tussen Nederlanders met lage lonen en de allerrijksten niet meer bestaat.
+Van een rechtvaardige, radicaal gedemocratiseerde economie die voor ons allemaal werkt
 en waarbij iedereen gelijkwaardig kan deelnemen.
-Vrij van racisme, genderongelijkheid, [validisme](https://bij1.org/woordenlijst/)
-en andere vormen van discriminatie.
-Dat betekent ook dat we een einde maken aan ons aandeel in het economisch imperialisme,
-waarbij het Globale Noorden, het Globale Zuiden uitbuit.
+Van een economie vrij van racisme, genderongelijkheid, [validisme](https://bij1.org/woordenlijst/)
+en andere vormen van discriminatie,
+en waarin er een einde is gemaakt aan economisch imperialisme
+en het Globale Noorden het Globale Zuiden niet langer uitbuit.
 
 <mark>
 Niet groei en winst,
-maar vrijheid en gelijkwaardigheid horen het einddoel te zijn van een economie.
-Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
+maar vrijheid en gelijkwaardigheid moeten het einddoel zijn van deze economie.
+Om de weg naar deze economie vrij te maken strijdt BIJ1 onder meer voor de volgende punten:
 </mark>
 
 ### Van Privatisering naar Nationalisering
