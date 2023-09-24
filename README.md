@@ -330,7 +330,7 @@ maar vrijheid en gelijkwaardigheid horen het einddoel te zijn van een economie.
 Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
 </mark>
 
-### Van Privatisering naar Nationalisering
+### Van Privatisering naar Socialisering
 
 1.  We brengen belangrijke sectoren van de economie,
     zoals banken, pensioenfondsen, het openbaar vervoer en de zorg,
