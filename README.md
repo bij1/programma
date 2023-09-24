@@ -562,6 +562,34 @@ BIJ1 heeft hiervoor de volgende plannen:
     De financiering van ontbossing, landroof en productie van fossiele brandstoffen
     wordt voor zowel private als publieke financiële instellingen onmogelijk.
 
+### Dierenwelzijn
+
+1.  Dierenwelzijn moet overal in Nederland worden gegarandeerd, ook in het wild.
+    Het voor sport doden van dieren die in het wild leven wordt daarom verboden.
+    Sportvissen is een vorm van plezierjacht en wordt dus ook verboden.
+    Het alleenrecht voor het doden van wilde dieren komt bij de overheid,
+    die na raadpleging van onafhankelijke deskundigen een besluit kan maken
+    om één of enkele individuele dieren te doden voor zwaarwegende redenen
+    of bepaalde soorten te bestrijden.
+
+1.  Kroondomein Het Loo wordt het hele jaar publiek toegankelijk en er wordt niet meer gejaagd.
+    Daarnaast wordt heel het Koninklijk Jachtdepartement onmiddellijk opgeheven.
+
+1.  De zeer beschermde status van de wolf blijft behouden,
+    en het doden van wolven blijft dus ook strafbaar.
+    Veehouders en boeren krijgen voorlichting over het beschermen van hun dieren zonder wolven te doden.
+    Voor preventieve maatregelen zoals wolfwerende hekken komt subsidie waar dat nodig is.
+
+1.  Er komt meer zicht en controle op de zwerfkattenpopulatie in Nederland,
+    die erg veel schade toebrengt aan vogelsoorten.
+    We zetten grootschalig in op een Trap-Neuter-Release,
+    die de populatie vanzelf zal doen minderen.
+
+1.  Het organiseren van jachttoerisme in binnen- en buitenland
+    wordt voor Nederlandse bedrijven verboden,
+    evenals het organiseren van en het adverteren voor deze activiteiten.
+    Zo leveren we onze bijdrage ook in het buitenland.
+
 ## 5. Wonen
 
 ### <mark>Van Woningmarkt naar Volkshuisvesting</mark>
