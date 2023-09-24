@@ -8,7 +8,7 @@ Wij wensen u veel leesplezier.
 
 <strong>Programmacommissie BIJ1<strong>
 
-## 1. Anti-Racisme en Dekolonisatie
+## Anti-Racisme en Dekolonisatie
 
 ### <mark>Na de Komma Begint Nu</mark>
 
@@ -164,7 +164,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     en 18 maart (Dia di Himno y Bandera, de Arubaanse Dag van het Volkslied en de Vlag)
     worden nationale feestdagen.
 
-## 2. Werk En Bestaanszekerheid
+## Werk En Bestaanszekerheid
 
 ### <mark>Alles is Altijd al van Ons</mark>
 
@@ -294,7 +294,7 @@ Dit doen we op de volgende manieren:
 1.  De regels voor de AIO (aanvullende inkomensondersteuning),
     waar veel ouderen met een migratieachtergrond aanspraak op maken vanwege het AOW-gat, worden versoepeld.
 
-## 3. Economie
+## Economie
 
 ### <mark>Een Economie voor en door Iedereen</mark>
 
@@ -416,7 +416,7 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
     Ook saneert de overheid vaker schulden,
     zodat mensen een nieuwe start kunnen maken.
 
-## 4. Klimaat
+## Klimaat
 
 ### <mark>Een Leefbare Planeet</mark>
 
@@ -494,28 +494,7 @@ BIJ1 heeft hiervoor de volgende plannen:
     zodat mensen met lagere inkomens
     niet de rekening gepresenteerd krijgen voor de energietransitie.
 
-### Natuur en Vervoer
-
-1.  OV-bedrijven worden genationaliseerd.
-    Het openbaar vervoer wordt gratis en toegankelijk,
-    en is uiterlijk in 2030 volledig elektrisch.
-
-1.  Nederlandse vliegvelden, waaronder Schiphol, mogen niet verder uitbreiden.
-    Er komt BTW en accijns op kerosine,
-    en we zetten ons op Europees niveau in om zo snel mogelijk
-    op duurzame wijze een Europees spoornetwerk te realiseren.
-    Op deze manier kunnen korteafstandsvluchten worden uitgefaseerd en afgeschaft.
-    Voor diasporische gemeenschappen uit de voormalige koloniën mogen eventuele prijsstijgingen,
-    als gevolg van maatregelen om luchtverkeer te reduceren,
-    geen invloed hebben op de mogelijkheid om het land van oorsprong te bezoeken.
-
-1.  Het Meerjarenprogramma Infrastructuur, Ruimte en Transport (MIRT)
-    wordt een bereikbaarheidsfonds met als doel
-    niet alleen het financieren van beter openbaar vervoer,
-    maar ook (lokale) voorzieningen voor fietsen en deelvervoer.
-    Er wordt een bereikbaarheidsnorm vastgesteld
-    waaraan alle financieringsplannen worden getoetst.
-    Deze norm bepaalt de maximale afstand tussen burgers en openbaar vervoer.
+### Natuur
 
 1.  De bio-industrie moet afgebouwd worden en uiteindelijk verdwijnen.
     Dit moet deels gebeuren door het uitkopen, sluiten en onteigenen
@@ -562,7 +541,30 @@ BIJ1 heeft hiervoor de volgende plannen:
     De financiering van ontbossing, landroof en productie van fossiele brandstoffen
     wordt voor zowel private als publieke financiële instellingen onmogelijk.
 
-## 5. Wonen
+## Vervoer
+
+1.  OV-bedrijven worden genationaliseerd.
+    Het openbaar vervoer wordt gratis en toegankelijk,
+    en is uiterlijk in 2030 volledig elektrisch.
+
+1.  Nederlandse vliegvelden, waaronder Schiphol, mogen niet verder uitbreiden.
+    Er komt BTW en accijns op kerosine,
+    en we zetten ons op Europees niveau in om zo snel mogelijk
+    op duurzame wijze een Europees spoornetwerk te realiseren.
+    Op deze manier kunnen korteafstandsvluchten worden uitgefaseerd en afgeschaft.
+    Voor diasporische gemeenschappen uit de voormalige koloniën mogen eventuele prijsstijgingen,
+    als gevolg van maatregelen om luchtverkeer te reduceren,
+    geen invloed hebben op de mogelijkheid om het land van oorsprong te bezoeken.
+
+1.  Het Meerjarenprogramma Infrastructuur, Ruimte en Transport (MIRT)
+    wordt een bereikbaarheidsfonds met als doel
+    niet alleen het financieren van beter openbaar vervoer,
+    maar ook (lokale) voorzieningen voor fietsen en deelvervoer.
+    Er wordt een bereikbaarheidsnorm vastgesteld
+    waaraan alle financieringsplannen worden getoetst.
+    Deze norm bepaalt de maximale afstand tussen burgers en openbaar vervoer.
+
+## Wonen
 
 ### <mark>Van Woningmarkt naar Volkshuisvesting</mark>
 
@@ -708,7 +710,7 @@ heeft BIJ1 de volgende plannen:
     Huurders (zowel individueel als collectief),
     krijgen meer invloed op woningverbeteringen via initiatiefrecht.
 
-## 6. Zorg
+## Zorg
 
 ### <mark>De Mens Centraal</mark>
 
@@ -872,7 +874,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Huisartsen worden opgeleid voor hormoonbehandelingen.
     Daarnaast hoeven trans personen geen diagnose meer te ontvangen om zorg te krijgen.
 
-## 7. Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
+## Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
 
 ### <mark>Radicale Gelijkwaardigheid en Herstel in het Koninkrijk</mark>
 
@@ -991,7 +993,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Nederland start gesprekken om samen met de eilanden
     tot een structurele oplossing voor het democratisch deficit te komen.
 
-## 8. Asiel en Migratie
+## Asiel en Migratie
 
 ### <mark>Bescherm Mensen, Geen Grenzen</mark>
 
@@ -1157,7 +1159,7 @@ Dit doen we op de volgende manieren:
     buitenlandse werknemers met hoogbetaalde banen
     gaan net zoveel belasting betalen als ieder ander.
 
-## 9. Zelfbeschikking
+## Zelfbeschikking
 
 ### <mark>Jouw Lichaam, Jouw Keuzes</mark>
 
@@ -1278,7 +1280,7 @@ stelt BIJ1 de volgende beleidsveranderingen voor:
 
 1.  Er komen meer begraafplaatsen voor eeuwige grafrust.
 
-## 10. Toegankelijkheid en Inclusie
+## Toegankelijkheid en Inclusie
 
 ### <mark>Niets Over Ons, Zonder Ons</mark>
 
@@ -1351,7 +1353,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 1.  Informatie van de overheid wordt standaard toegankelijk gemaakt,
     in begrijpelijke taal en beschikbaar in braille.
 
-## 11. Veiligheid en Justitie
+## Veiligheid en Justitie
 
 ### <mark>Bestaanszekerheid Boven Repressie</mark>
 
@@ -1472,7 +1474,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     Het afnemen van DNA wordt alleen toegestaan
     bij zeer ernstige misdrijven en na toetsing door een rechter.
 
-## 12. Internationale Samenwerking
+## Internationale Samenwerking
 
 ### <mark>Een Wereld van Vrede en Solidariteit</mark>
 
@@ -1616,7 +1618,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     zolang deze nog niet is hervormd.
     We stimuleren de inzet van ontwikkelde technische kennis in de wapenindustrie voor de civiele industrie.
 
-## 13. Sekswerk
+## Sekswerk
 
 ### <mark>Zij aan Zij met Sekswerkers</mark>
 
@@ -1691,7 +1693,7 @@ Dit doen we op de volgende manieren:
     Als sekswerkers het willen, moet het makkelijk zijn werkplekken te creëren
     waar zij kunnen werken met gedeelde voorzieningen en in nabijheid van collega's.
 
-## 14. Onderwijs en Wetenschap
+## Onderwijs en Wetenschap
 
 ### <mark>Kennis is Kracht</mark>
 
@@ -1841,7 +1843,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     en er komen diversiteitsquota in alle onderwijs- en bestuurslagen
     in het theoretisch en wetenschappelijk onderwijs.
 
-## 15. Democratie & Staatsrecht
+## Democratie & Staatsrecht
 
 ### <mark>Naar een Echte Democratie</mark>
 
@@ -1969,7 +1971,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Hun bevoegdheden worden ingeperkt,
     en gegevensverstrekking aan buitenlandse geheime diensten wordt aan banden gelegd.
 
-## 16. Kunst, Cultuur en Media
+## Kunst, Cultuur en Media
 
 ### <mark>Samen Verbeelden we een Nieuwe Toekomst</mark>
 
@@ -2073,7 +2075,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     de culturele omgeving van de school en de kunst- en cultuursector.
     Ook participatie in de vrije tijd is toegankelijk en betaalbaar voor ieder kind.
 
-## 17. Digitale Rechten en Technologie
+## Digitale Rechten en Technologie
 
 ### <mark>Technologie voor Mens, Dier en Planeet</mark>
 
