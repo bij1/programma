@@ -1568,15 +1568,15 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     Het Europees Parlement moet een belangrijkere rol krijgen bij het vormen van beleid.
     De Europese Raad, Raad van de Europese Unie, de Europese Commissie
     en andere vormen van onderhandelingen moeten transparant worden.
+    Lobbyen wordt aan banden gelegd.
 
 1.  Nederland zet zich in voor het versterken van gelijkwaardigheid in Europa.
     Meer middelen en capaciteit worden ingezet om de rechten van o.a.
     migranten, asielzoekers, staatlozen, LHBTQIA+ mensen, en Roma en Sinti te beschermen.
     Er komt sociale wetgeving om een bestaansminimum in de hele EU mogelijk te maken.
 
-1.  Klimaat en natuur krijgen een nog belangrijkere plek in EU-beleid.
-    Lobbyen door multinationals en industrieën wordt verboden.
-    Nederland stemt ook niet in met verdragen die bedrijven een claimrecht geven
+1.  Klimaat en natuur krijgen een belangrijke plek in EU-beleid.
+    Nederland accepteert verdragen die bedrijven een claimrecht geven niet
     en stuurt de EU erop aan deze in te trekken.
 
 1.  Nederland neemt als eerste westerse land de verantwoordelijkheid
