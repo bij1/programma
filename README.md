@@ -1830,6 +1830,9 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     Het geldbedrag dat onderwijsinstellingen ontvangen,
     hangt niet langer af van het percentage afgestudeerden.
 
+1.  Nederland neemt maatregelen tegen uitgeversmonopolies en hoge kosten in de publicatie van wetenschap.
+    Het zogenaamd illegaal distributeren en downloaden van wetenschappelijke publicaties wordt niet bestreden.
+
 1.  De invloed van de fossiele industrie op onderwijs en onderzoek moet stoppen.
     Om de macht van academische uitgevers tegen te gaan,
     moet de overheid investeren in "open access",
