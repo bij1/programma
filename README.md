@@ -1867,7 +1867,7 @@ Volksvertegenwoordigers moeten worden gesteund in hun steeds zwaarder wordende w
 maar zullen worden beperkt als ze te veel macht naar zich toe trekken.
 
 <mark>
-Het is tijd voor een radicale democratisering van onze samenleving.
+BIJ1 wil de samenleving radicaal democratiseren.
 Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 </mark>
 
