@@ -370,13 +370,6 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
 1.  De werknemerscoöperatie wordt de standaard eigendomsstructuur
     voor nieuw opgerichte rechtspersoonlijkheden.
 
-1.  Elk bestaand beursgenoteerd bedrijf met meer dan 100 werknemers
-    wordt verplicht een werknemersfonds op te richten,
-    waaraan zij jaarlijks een aantal nieuwe aandelen,
-    proportioneel aan de jaarwinst, uitschrijven.
-    Het werknemersfonds wordt uitsluitend beheerd
-    door de werknemers van de firma die haar heeft opgericht.
-
 1.  Er wordt grootschalig onderzoek gedaan naar het duurzaam oprichten
     van publieke banken en investeringsfondsen
     die uitsluitend coöperatieven bedienen.
