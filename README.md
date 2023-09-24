@@ -31,8 +31,8 @@ Want het koloniale- en slavernijverleden van Nederland is geen afgesloten zwarte
 ook vandaag de dag wordt dit boek nog geschreven.
 De koloniale basis van onze samenleving heeft een negatieve impact op iedereen,
 ook op witte mensen.
-Alleen de allerrijksten profiteren van onze racistische en koloniale wereld
-die solidariteit en echte verandering tegenwerkt.
+Alleen de bezittende klasse profiteert van racisme en kolonialisme.
+Ze verdelen de werkende klasse, en voorkomen daardoor solidariteit en echte verandering.
 
 <mark>
 Daarom moeten we deze systemen nu voor eens en voor altijd afbreken,
