@@ -1893,9 +1893,12 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Dat betekent dat het huidige aantal van 150 Kamerleden flink moet worden vergroot.
     Ook wordt het budget voor fractiemedewerkers verhoogd.
 
-1.  Het salaris van voltijdsvolksvertegenwoordigers wordt herzien en verlaagd.
-    Deeltijdsvolksvertegenwoordigers, zoals gemeenteraadsleden,
-    gaan er in salaris juist op vooruit.
+1.  Politici en bestuurders mogen niet boven het volk staan,
+    maar moeten zelf de effecten van hun beleid voelen.
+    Tegelijkertijd moeten (lokale) volksvertegenwoordigers
+    (financieel) beter in staat worden gesteld voldoende tijd aan hun werk te besteden.
+    De inkomsten van alle volksvertegenwoordigers en bewindspersonen worden in lijn gebracht met het modale inkomen,
+    en al hun neveninkomsten en financiële belangen worden openbaar gemaakt.
 
 1.  De macht van burgemeesters wordt ingeperkt,
     in het bijzonder rond openbare orde en veiligheid.
