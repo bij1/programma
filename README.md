@@ -1509,6 +1509,12 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     diplomatie en verdere investeringen in noodhulp,
     waarbij er focus komt op humanitaire organisaties en de weerbaarheid van lokale gemeenschappen.
 
+    Nederland stapt uit de NAVO.
+    Al het buitenlandse personeel, wapentuig en infrastructuur in het kader van NAVO wordt uit Nederland verwijderd.
+    Vrijgekomen geld gaat naar preventie van conflicten,
+    diplomatiek, investeringen in noodhulp en andere sociale doeleinden,
+    waarbij er focus ligt bij humanitaire organisaties en de weerbaarheid van lokale gemeenschappen.
+
 1.  We steunen de strijd tegen de [neokoloniale](https://bij1.org/woordenlijst/) dominantie
     en uitbuiting van het Globale Zuiden door het Westen.
     Daarnaast steunen we niet-kapitalistische economische modellen
