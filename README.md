@@ -742,10 +742,8 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 ### Zorg in Publieke Handen
 
-1.  We zetten een Nationaal Zorgfonds op dat de zorgverzekeraars gaat vervangen.
-    Het Nationaal Zorgfonds gaat alle zorg en tandheelkunde dekken.
-    Om dit te kunnen betalen, heffen we progressieve belastingen.
-    De premies en eigen bijdragen worden afgeschaft.
+1.  We zetten een door de staat gefinancierd Nationaal Zorgfonds op dat de zorgverzekeraars vervangt.
+    Het zorgfonds dekt alle zorg, ook tandheelkunde, zonder premies en eigen risico.
 
 1.  Zorg mag geen winstmodel zijn.
     We zetten een stop op private zorginstellingen
