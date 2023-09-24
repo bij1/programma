@@ -1846,15 +1846,15 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 ### <mark>Naar een Echte Democratie</mark>
 
 <strong>
-BIJ1 staat pal achter een democratie die gebaseerd is op gelijkwaardigheid,
-en niet op de belangen van de vrije markt en de rijken.
-Onze huidige liberale parlementaire democratie maakt haar beloftes zelden waar.
-De belangen van machtige groepen winnen het te vaak
-van de belangen van gemarginaliseerde gemeenschappen.
-We willen een rechtsstaat die vrij en veilig is.
-Een rechtsstaat waarin klokkenluiders en journalisten goed worden beschermd.
-Waar democratie niet leidt tot competitie, maar tot solidariteit en respect.
-Want een échte democratie is er voor iedereen.
+BIJ1 staat pal achter democratie, een ideaal dat gebaseerd is op gelijkwaardigheid.
+Onze huidige kapitalistische democratie is geen echte democratie.
+De belangen van een kleine groep, de kapitalisten, zijn dominant.
+Zij hebben het alleenrecht over een groot deel van de samenleving de economie.
+Echte democratie kan alleen ontstaan wanneer die de gehele samenleving omvat.
+BIJ1 wil bouwen aan een echt democratische samenleving.
+We strijden voor een democratische republiek, een rechtsstaat die vrij en veilig is,
+een systeem waarin klokkenluiders en journalisten goed worden beschermd,
+en gemarginaliseerde groepen geëmancipeerd zijn.
 </strong>
 
 Dat betekent dat het democratisch principe nog verder moet worden doorgevoerd.
