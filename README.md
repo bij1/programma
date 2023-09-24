@@ -2050,8 +2050,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  We willen een publieke omroep die onafhankelijk blijft
     en niet door de overheid of door de commercie wordt beïnvloed.
-    Omroepen die ongrondwettelijke racistische denkbeelden en nepnieuws verspreiden
-    worden verboden en krijgen geen vergunning.
+    Omroepen die racistische en discriminatoire denkbeelden verspreiden krijgen geen ruimte.
 
 ### Toegankelijkheid & Educatie
 
