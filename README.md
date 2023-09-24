@@ -1897,9 +1897,9 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Deeltijdsvolksvertegenwoordigers, zoals gemeenteraadsleden,
     gaan er in salaris juist op vooruit.
 
-1.  De macht van burgemeesters wordt ingeperkt,
+1.  De macht van burgemeesters wordt aan banden gelegd,
     in het bijzonder rond openbare orde en veiligheid.
-    Zo wordt hun sluitingsbevoegdheid van woningen in het belang van de openbare orde teruggedraaid.
+    Burgemeesters worden volledig ondergeschikt aan de democratisch gekozen gemeenteraad.
 
 1.  Gemeenten krijgen meer zeggenschap over en geld voor het dagelijks bestuur.
     Gemeenten staan namelijk veel dichter bij de burgers voor wie ze het beleid maken en uitvoeren.
