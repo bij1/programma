@@ -1360,7 +1360,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 BIJ1 staat voor een samenleving die voor iedereen vrij, veilig en rechtvaardig is.
 Een samenleving waarin mensen, zonder de dreiging van staatsgeweld, vreedzaam kunnen samenleven.
 We streven ernaar dat collectieve voorzieningen zo goed geregeld zijn en preventie zo goed werkt,
-dat de politie en gevangenissen zoals we die nu kennen niet meer hoeven te bestaan.
+dat politie en gevangenissen zoals we die nu kennen niet meer hoeven te bestaan.
 Een wereld waarin we collectieve zorg dragen voor elkaar.
 En waarin elk mens de kans krijgt om hun fouten te herstellen
 en de waardigheid te krijgen waar wij allen recht op hebben.
