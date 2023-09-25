@@ -277,8 +277,10 @@ Dit doen we op de volgende manieren:
 
 ### Een Goed Leven, ook als je niet (meer) Werkt
 
-1.  We steken meer geld in scholingsprogramma's voor mensen zonder werk.
-    De tegenprestaties en sancties voor mensen in de bijstand worden afgeschaft.
+1.  BIJ1 schaft de opjaagindustrie (verplicht solliciteren, boetes)
+    met haar bijbehorende bureaucratische apparaat af.
+    Dat geldt ook voor het narratief van "levenslang leren"
+    om maar door het kapitalisme uitgebuit te kunnen worden.
 
 1.  De medische keuringen bij arbeidsongeschiktheid worden niet meer
     door de uitkeringsinstantie zelf gedaan,
