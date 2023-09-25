@@ -257,7 +257,7 @@ Dit doen we op de volgende manieren:
 
 1.  Krapte op de arbeidsmarkt in sectoren
     als de zorg, onderwijs en het openbaar vervoer,
-    worden bestreden door flinke loonsverhogingen.
+    wordt bestreden door flinke loonsverhogingen.
 
 1.  Werknemers die langer dan negen maanden met een tijdelijk contract werken,
     krijgen een vast contract.
