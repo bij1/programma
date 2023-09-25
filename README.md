@@ -534,6 +534,12 @@ BIJ1 heeft hiervoor de volgende plannen:
     moeten rechten krijgen om bescherming, behoud (en eventueel herstel) te waarborgen.
     De Waddenzee moet als eerste als zelfstandige rechtspersoonlijkheid aangemerkt worden.
 
+1.  Nederland zal nooit klimaat- en natuurbeschermingsverdragen ontduiken
+    of aanpassen in het belang van de industrie.
+    De belangen van natuur gaan altijd boven de belangen van haar uitbuiters.
+    Aalscholvers blijven bijvoorbeeld beschermd
+    en het aanleggen van racebanen in natuurgebied wordt verboden.
+
 ### Internationale Klimaatrechtvaardigheid
 
 1.  Bedrijven die verantwoordelijk zijn
