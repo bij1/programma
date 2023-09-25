@@ -1564,7 +1564,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     rechtvaardigheid, anti-imperialisme en solidariteit
     centraal stelt in beleid, wetgeving en budgettering.
 
-1.  De Europese Unie wordt veel democratischer.
+1.  De Europese Unie wordt gedemocratiseerd.
     Het Europees Parlement moet een belangrijkere rol krijgen bij het vormen van beleid.
     De Europese Raad, Raad van de Europese Unie, de Europese Commissie
     en andere vormen van onderhandelingen moeten transparant worden.
