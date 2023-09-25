@@ -2021,7 +2021,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 1.  We investeren in betaalbare en toegankelijke plekken en vrijplaatsen,
     waar kunst gemaakt en getoond kan worden.
     Bestaande vrijplaatsen worden erkend en behouden.
-    Nieuwe vrijplaatsen worden praktisch en legaal ondersteund.
+    Nieuwe vrijplaatsen worden praktisch, financieel en juridisch ondersteund.
 
 1.  Bij toekomstige crises, zoals een bankencrisis of een pandemie,
     worden zzp-ers, flexwerkers, makers en instellingen die weinig of geen subsidie krijgen
