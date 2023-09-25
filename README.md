@@ -641,8 +641,11 @@ heeft BIJ1 de volgende plannen:
 ### Betaalbaar en Zeker Wonen
 
 1.  We maken huren betaalbaarder voor mensen,
-    door huurtoeslag onafhankelijk van woonvorm te maken
-    en door huurprijzen onmiddellijk te bevriezen.
+    door alle huurprijzen onmiddellijk te bevriezen en reguleren.
+    We verhogen de maximale inkomensgrens voor sociale huur naar 75.000 euro.
+    We stoppen met het inzetten van huurtoeslag
+    als oplossing voor het structurele probleem dat wonen onbetaalbaar is
+    en gebruiken dit geld voor de bouw van betaalbare, toegankelijke en kwalitatief goede sociale huur.
 
 1.  Huisjesmelkers maken misbruik van de wooncrisis door veel te hoge huurprijzen te vragen,
     onderhoud te verwaarlozen en soms zelfs huurders te intimideren.
