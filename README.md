@@ -1486,7 +1486,7 @@ in het Nederlandse beleid voor internationale samenwerking, Europa en defensie.
 </strong>
 
 De Europese Unie moet dan ook drastisch veranderen.
-We gaan van een liberaal, imperialistisch racistisch
+We gaan van een liberaal, imperialistisch en racistisch
 verlengstuk van de CEO's en multinationals van deze wereld,
 naar een unie die werkt in het belang van mens, dier en planeet.
 BIJ1 wil een einde maken aan de oorlogszucht van Westerse landen
