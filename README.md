@@ -53,8 +53,8 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     Het is tijd om op basis daarvan antiracistisch beleid vorm te geven,
     onder andere door gentrificatie tegen te gaan.
     Woningcorporaties moeten actief aantonen dat zij niet discrimineren.
-    Leegstaande panden worden daarnaast ook gebruikt voor de ontwikkeling en emancipatie
-    van jongeren van kleur en voor de opvang van ongedocumenteerde mensen.
+    Leegstaande panden krijgen maatschappelijke functies
+    en worden gebruikt voor de ontwikkeling en emancipatie van jongeren van kleur.
 
 1.  We pakken racisme in het onderwijs aan.
     Antiracisme krijgt een belangrijke plek in lerarenopleidingen,
