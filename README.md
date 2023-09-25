@@ -1905,6 +1905,8 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Gemeenten staan namelijk veel dichter bij de burgers voor wie ze het beleid maken en uitvoeren.
     Zij weten daarom beter dan de landelijke overheid wat er lokaal het hardst nodig is.
 
+1.  Er komt een bindend referendum naar Zwitsers model.
+
 ### Democratie voor Iedereen
 
 1.  Alle mensenrechtenverdragen, zoals het Kinderrechtenverdrag, het Vrouwenrechtenverdrag
