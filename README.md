@@ -1147,6 +1147,15 @@ Dit doen we op de volgende manieren:
     Het betaalt niet mee aan grenspolitie, wapens of hekken, detentie of quasi-detentie faciliteiten:
     binnen de EU en wereldwijd.
 
+1.  Mensen die mee hebben gewerkt aan de bouw van Fort Europa,
+    en daarbij misdaden hebben gepleegd of medeplichtig waren
+    (bijvoorbeeld het opzettelijk tot zinken brengen van bootjes,
+    het martelen van mensen, of medeplichtigheid daaraan)
+    worden daarvoor strafrechtelijk vervolgd.
+    Daar vallen ook Nederlandse politici en ambtenaren onder.
+    In sommige gevallen is er zelfs sprake van medeplichtigheid aan misdaden tegen de menselijkheid,
+    zoals bij de Libië deal, die op grote schaal leidde tot dood, slavernij en marteling.
+
 1.  Nederland zet zich binnen de EU actief in voor een solidair asielsysteem,
     waarbinnen een eerlijke (her)verdeling van asielzoekers plaatsvindt middels een verdeelsleutel,
     en waarbij mediterrane landen ontlast worden.
