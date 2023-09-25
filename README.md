@@ -534,6 +534,8 @@ BIJ1 heeft hiervoor de volgende plannen:
     moeten rechten krijgen om bescherming, behoud (en eventueel herstel) te waarborgen.
     De Waddenzee moet als eerste als zelfstandige rechtspersoonlijkheid aangemerkt worden.
 
+1.  Er komt een internationaal verbod op bejagen en afschieten van wilde dieren.
+
 ### Internationale Klimaatrechtvaardigheid
 
 1.  Bedrijven die verantwoordelijk zijn
