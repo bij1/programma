@@ -494,6 +494,31 @@ BIJ1 heeft hiervoor de volgende plannen:
     zodat mensen met lagere inkomens
     niet de rekening gepresenteerd krijgen voor de energietransitie.
 
+### Luchtvaart en luxeconsumptie
+
+1.  De BTW op vliegtickets komt terug en er komt accijns op kerosine.
+    Zo stimuleren we andere vormen van vervoer die beter zijn voor het klimaat.
+
+1.  We gaan vliegvelden strenger reguleren om binnen het luchtverkeer dat blijft bestaan uitstoot te beperken.
+    Het gebruik van synthetische kerosine en elektrisch taxiën worden bijvoorbeeld verplicht.
+
+1.  Er komt een vliegtaks voor zakelijke veelvliegers.
+    Zo stimuleren we bedrijven om te kiezen voor openbaar vervoer
+    en/of remote opties in plaats van het vliegtuig.
+
+1.  Privévliegtuigen mogen buiten noodsituaties niet langer landen op
+    en opstijgen vanaf Nederlandse vliegvelden.
+    Deze bijzonder inefficiënte vorm van personenvervoer
+    past niet in een klimaatvriendelijk Nederland.
+
+1.  We geven Lelystad Airport geen natuurvergunning en openen het vliegveld dus niet.
+
+1.  Commerciële cruiseschepen gaan extra belasting betalen bij het aanleggen,
+    en het totale aantal verstrekte aanlegvergunningen wordt beperkt.
+    Bij de keuze om wel of geen aanlegvergunning te verlenen
+    wordt de voorrang gegeven aan schepen die geregistreerd staan
+    in landen met eerlijke belastingconstructies en kwalitatieve arbeidswetgeving.
+
 ### Natuur en Vervoer
 
 1.  OV-bedrijven worden genationaliseerd.
