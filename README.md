@@ -1392,6 +1392,8 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  De rol van politie en BOA's in de samenleving wordt geminimaliseerd
     en zal uiteindelijk verdwijnen.
+    BOA's die werkzaam zijn in de domeinen Milieu, Welzijn en Infrastructuur en Werk, Inkomen en Zorg
+    worden op een andere wijze dan de BOA-titel bevoegd om op te treden tegen overtreders.
     We stoppen met investeren in handhaving,
     en investeren dat geld in goede collectieve voorzieningen.
     Iedereen krijgt goede toegang tot onderwijs, een leefbaar inkomen,
