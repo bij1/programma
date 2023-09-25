@@ -1857,14 +1857,12 @@ Waar democratie niet leidt tot competitie, maar tot solidariteit en respect.
 Want een échte democratie is er voor iedereen.
 </strong>
 
-Dat betekent dat het democratisch principe nog verder moet worden doorgevoerd.
-Democratie behoort een levend, dagelijks iets te zijn;
-niet enkel elke vier jaar een vakje rood kleuren.
-Er kan geen emancipatie zijn, en geen herstel,
-zonder dat historisch onderdrukte gemeenschappen daarbij worden betrokken.
-De markt en bedrijven mogen niet langer ons democratisch proces vervuilen.
-Volksvertegenwoordigers moeten worden gesteund in hun steeds zwaarder wordende werklast,
-maar zullen worden beperkt als ze te veel macht naar zich toe trekken.
+Democratie is veel meer dan elke vier jaar een vakje rood kleuren.
+Democratie is alleen echte democratie wanneer dit een onderdeel van het dagelijks leven van iedereen is,
+en wanneer historisch onderdrukte gemeenschappen moeten hun plaats kunnen opeisen in het democratisch stelsel.
+De markt, de kapitalisten en de bedrijven moeten ondergeschikt zijn aan de democratie,
+en de zittende macht moet ondergeschikt zijn aan de verkozen volksvertegenwoordiging,
+die alle middelen moet hebben om haar belangrijke taak goed te vervullen.
 
 <mark>
 Het is tijd voor een radicale democratisering van onze samenleving.
