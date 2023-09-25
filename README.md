@@ -171,7 +171,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
 <strong>
 Bestaanszekerheid en een goed leven voor iedereen moet de norm zijn.
 In de huidige economie wordt onze arbeidskracht als product verkocht.
-Op het werk dat wij doen maken de bazen enorme winsten.
+Op het werk dat wij doen maken de bedrijven en aandeelhouders enorme winsten.
 BIJ1 gelooft in een wereld waar werk geen uitbuiting meer is
 en waarin werkende mensen de vruchten plukken van hun eigen arbeid.
 Een wereld waarin je waarde als mens niet afhangt van of je werkt of hoe productief je bent.
