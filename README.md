@@ -201,7 +201,8 @@ Dit doen we op de volgende manieren:
 
 ### Een Inclusieve en Gelijkwaardige Arbeidsmarkt
 
-1.  We schaffen de 40-urige werkweek af en gaan naar een 30-urige werkweek met loonbehoud.
+1.  We schaffen de 40-urige werkweek af en gaan naar een 30-urige werkweek met loonbehoud
+    en een evenredige werving van personeel opdat de werkdruk niet wordt verhoogd.
     Partnerverlof wordt gelijkgetrokken met het kraam- en bevallingsverlof.
     Voor alle ouders op verlof wordt er 100% inkomen doorbetaald.
     Kinderopvang wordt gratis.
