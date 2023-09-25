@@ -640,7 +640,7 @@ heeft BIJ1 de volgende plannen:
 
 ### Betaalbaar en Zeker Wonen
 
-1.  We maken huren betaalbaarder voor mensen,
+1.  We maken huren betaalbaarder
     door huurtoeslag onafhankelijk van woonvorm te maken
     en door huurprijzen onmiddellijk te bevriezen.
 
