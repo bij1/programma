@@ -539,6 +539,9 @@ BIJ1 heeft hiervoor de volgende plannen:
 1.  Bedrijven die verantwoordelijk zijn
     voor het aanrichten van klimaatschade en humanitaire rampen,
     worden verantwoordelijk gehouden voor misdaden tegen mens en natuur.
+    Om dit te bereiken werken we mee aan uitlevering van Nederlandse daders
+    naar landen waar ecologische misdaden zijn gepleegd.
+    Vereiste hiervoor is dat deze landen een degelijk rechtssysteem hebben.
     Ecocide wordt strafbaar
     en er komt een reclameverbod voor de fossiele industrie en vliegmaatschappijen.
 
