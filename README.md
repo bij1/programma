@@ -1462,7 +1462,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     Training en protocollen omtrent gewelds- en wapengebruik worden fors strenger.
 
 1.  De inzet van geweldsmiddelen zoals waterkanonnen, elektrische wapenstok,
-    rubberkogels, traangas, "sonische wapens" zoals mosquito's,
+    rubberkogels, traangas, "sonische wapens" (zoals mosquito's),
     politiepaarden en zogenaamde surveillancehonden wordt verboden.
 
 1.  De politie-inzet van camera's wordt tot een minimum beperkt.
