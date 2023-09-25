@@ -2120,6 +2120,14 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
     moet iedereen gratis toegang kunnen krijgen
     tot educatieprogramma's over (verantwoord) internetgebruik en digitale rechten.
 
+1.  Technologie, informatie en innovatie zijn verdiensten van de hele mensheid
+    waarop niemand het alleenrecht mag claimen.
+    Patenten en alle andere vormen van "intellectueel eigendom" worden afgeschaft
+    en er komt een eind aan bedrijfsgeheimen.
+    Tot dit is gerealiseerd zet BIJ1 zich in voor het gebruik van open source en open standaarden
+    in de publieke en private sector en voor het toestaan van piraterij.
+    Niet alleen van media en software, maar van alle andere innovaties, zoals medicijnen en apparaten.
+
 1.  Het aanbod van online diensten, zoals browsers, zoekmachines en social media platforms, moet diverser.
     Internettoegang moet niet afhankelijk zijn
     van het verplicht gebruiken van bepaalde diensten.
