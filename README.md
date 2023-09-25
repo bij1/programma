@@ -1323,7 +1323,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  Gemeenten worden verplicht om mensen met een beperking en hun vertegenwoordigers
     te betrekken bij het maken, uitvoeren en evalueren van beleid.
-    Daarnaast moet zij een lokale inclusieagenda opstellen,
+    Daarnaast moeten zij een lokale inclusieagenda opstellen,
     waarin zij aangeven hoe zij de positie van mensen met een beperking gaan verbeteren.
 
 1.  In elke gemeente wordt een lokale gehandicaptenraad ingesteld.
