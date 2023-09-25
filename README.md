@@ -1336,8 +1336,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  Alle openbare toiletten worden toegankelijk en gratis.
 
-1.  Geleidestroken voor mensen die er afhankelijk van zijn,
-    worden beschermd en blijven onbelemmerd.
+1.  Geleidestroken worden beschermd en blijven onbelemmerd.
 
 1.  De landelijke overheid, gemeenten en vervoerders nemen gezamenlijk maatregelen
     om toegankelijkheid van openbaar vervoer en doelgroepenvervoer te verbeteren
