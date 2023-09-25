@@ -166,7 +166,7 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 ## 2. Werk En Bestaanszekerheid
 
-### <mark>Alles is Altijd al van Ons</mark>
+### <mark>Alles voor Iedereen</mark>
 
 <strong>
 Bestaanszekerheid en een goed leven voor iedereen moet de norm zijn.
@@ -190,13 +190,13 @@ en er een eerlijke verdeling is van betaald én onbetaald werk.
 Daarnaast pleiten wij voor het per direct fors verhogen van het minimumloon,
 om de grote inkomenskloof te dichten
 en de groeiende armoede onder werkende mensen tegen te gaan.
-Vaste contracten en zekerheid worden weer de norm in plaats van de uitzondering,
+Vaste contracten en zekerheid worden weerde norm in plaats van de uitzondering,
 en met goede cao's en betere rechten voor stakers
 brengen we de macht terug naar de werknemers.
 
 <mark>
-Samen pakken we terug wat altijd al van ons was.
-Dit doen we op de volgende manieren:
+Samen pakken we wat van iedereen zou moeten zijn.
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Een Inclusieve en Gelijkwaardige Arbeidsmarkt
