@@ -1032,7 +1032,10 @@ Dit doen we op de volgende manieren:
     We pleiten in EU-verband voor onmiddellijke opzegging van dit soort deals,
     en sluiten ook geen nieuwe migratiedeals.
 
-1.  Nederland hervestigt jaarlijks een groeiend aantal kwetsbare vluchtelingen uit vluchtelingenkampen.
+1.  Alle vluchtelingen zijn welkom.
+    Mensen die aanspraak willen maken op vluchtstatus
+    kunnen bij Nederlandse ambassades een aanvraag indienen.
+    Er komt geen maximum aantal aanvragen en inwilligingen.
 
 1.  Asielzoekers mogen tijdens hun procedure werk zoeken en een studie beginnen.
     Ook ongedocumenteerde mensen mogen werken en studeren.
