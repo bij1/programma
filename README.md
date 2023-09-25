@@ -1937,8 +1937,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 ### Informatie- en Demonstratierecht
 
 1.  Het recht op demonstratie wordt strikt beschermd.
-    In lijn met onze mensenrechten mogen autoriteiten
-    geen beperkingen meer stellen aan demonstraties op grond van het verkeersbelang.
+    Autoriteiten mogen geen beperkingen opleggen aan demonstraties op grond van het verkeersbelang.
     Ook mogen autoriteiten geen protesten meer verbieden, beperken of beëindigen
     vanwege het ontbreken van (tijdige) kennisgeving of aanmelding van het protest.
     Autoriteiten mogen demonstranten niet bestraffen
