@@ -1284,7 +1284,7 @@ stelt BIJ1 de volgende beleidsveranderingen voor:
 
 <strong>
 In Nederland leven ongeveer 3 miljoen mensen met een beperking.
-Deze mensen kunnen niet vanzelfsprekend meedoen in de maatschappij,
+Deze mensen kunnen niet vanzelfsprekend meedoen in de maatschappij
 zonder extra zaken te regelen en extra kosten te maken.
 BIJ1 staat voor een inclusieve samenleving in de breedste zin van het woord.
 Een beperking is een onderdeel van de diversiteit van de mensheid,
