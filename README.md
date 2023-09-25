@@ -337,7 +337,7 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
     in publieke handen.
 
 1.  Nederland is niet langer een belastingparadijs.
-    Het oprichten van een brievenbus-BV wordt onmogelijk gemaakt.
+    Het oprichten van een brievenbus-BV wordt onmogelijk gemaakt, en bestaande brievenbus-BV's worden aangepakt.
     Daarnaast wordt er grootschalig onderzoek gedaan
     naar mazen in de wet die belastingontwijking faciliteren.
 
