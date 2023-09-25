@@ -280,9 +280,13 @@ Dit doen we op de volgende manieren:
 1.  We steken meer geld in scholingsprogramma's voor mensen zonder werk.
     De tegenprestaties en sancties voor mensen in de bijstand worden afgeschaft.
 
-1.  De medische keuringen bij arbeidsongeschiktheid worden niet meer
-    door de uitkeringsinstantie zelf gedaan,
-    maar door onafhankelijke artsen.
+1.  Mensen die niet kunnen werken om welke reden dan ook
+    ontvangen een (arbeidsongeschiktheids)uitkering die bestaanszekerheid waarborgt.
+    Wij vertrouwen mensen.
+    Sociale diensten waaronder het UWV proberen mensen te helpen in hun leven
+    en waar nodig gratis (om)scholing aan te bieden.
+    Werken is niet de hoogste trede die als mens te bereiken is,
+    vrije tijd voor ontplooiing achten wij minimaal even belangrijk.
 
 1.  Er komt een Nationaal Pensioenfonds waarbij collectiviteit voorop staat
     en waarop ook zzp'ers aanspraak maken.
