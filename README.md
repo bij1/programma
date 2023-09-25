@@ -1884,7 +1884,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     zoals waarborgsommen en (onofficiele) kiesdrempels, worden weggenomen.
     De waterschappen worden geheel democratisch verkozen.
     Geborgde zetels worden afgeschaft.
-    De verkiezingen en de functie van de Eerste Kamer worden herzien en hervormd.
+    De Eerste Kamer, met haar ondemocratische getrapte verkiezingen, wordt afgeschaft.
 
 1.  Het aantal Kamerleden in de Tweede Kamer moet proportioneel
     meegroeien met het aantal inwoners in Nederland,
