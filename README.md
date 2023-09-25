@@ -2190,12 +2190,13 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
     die de software reguleert en keurt voordat het op de markt komt,
     zodat discriminatie wordt voorkomen en mensenrechten bevorderd en beschermd.
 
-1.  Er komt een ministerie van Digitale Zaken.
-    Zij overzien alle digitaliseringsprojecten bij alle overheidsdiensten.
-    Zij bewaken dat mens en planeet hierbij centraal staan,
-    en bouwen hierin voort op bestaande kennis in het veld,
-    van NGOs tot aan de Autoriteit Persoonsgegevens (AP).
-    De AP krijgt daarnaast meer middelen
+1.  Er komt een minister voor digitale zaken
+    die zich onder andere inzet voor de bescherming van digitale mensenrechten.
+    Deze minister overziet digitaliseringsprojecten bij de overheid
+    en zorgt dat mens en planeet hierbij centraal staan.
+    Er wordt voortgebouwd op bestaande kennis in het veld,
+    van NGO's tot aan de Autoriteit Persoonsgegevens (AP).
+    De AP krijgt meer middelen
     om hun taak als waakhond ter bescherming van persoonsgegevens goed te kunnen uitvoeren.
 
 1.  De overheid investeert in (digitale) infrastructuur en technologie,
