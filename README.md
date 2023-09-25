@@ -351,9 +351,13 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
 1.  Private bedrijven die in Nederland hun producten verkopen
     gaan forse winstbelasting betalen.
     Voordelige belastingconstructies gericht op beursgenoteerde bedrijven worden gestopt.
-    Er komt een grootschalig onderzoek naar de impact
-    van import- en exportproducten uit alle sectoren
-    op mens en klimaat overal ter wereld.
+    Alle bedrijven die in Nederland producten produceren en/of verkopen
+    zijn verplicht te handelen in lijn met internationale richtlijnen rond "due diligence" (gepaste zorgvuldigheid),
+    d.w.z. actief de impact van hun producten op mens en klimaat in kaart te brengen,
+    onder andere door middel van een toegankelijk klachtenmechanisme voor arbeiders
+    in hun toeleveringsketen en andere rechthebbenden.
+    In het geval van misstanden moeten bedrijven zorgen
+    voor genoegdoening en structurele aanpassingen in hun bedrijfsvoering.
     Daarnaast wordt lokale productie en distributie zo veel mogelijk gestimuleerd.
 
 1.  De private effectenbeurs wordt stapsgewijs afgeschaald en vervangen
