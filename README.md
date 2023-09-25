@@ -2112,7 +2112,7 @@ om technologie te laten werken in het belang van mens, dier en planeet.
 Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
 </mark>
 
-### Technologie en Digitalisering: van en voor Iedereen
+### Technologie en Digitalisering van en voor Iedereen
 
 1.  Toegang tot het internet is een basisrecht en moet daarom voor iedereen toegankelijk zijn.
     Er komt gratis internettoegang voor iedereen.
