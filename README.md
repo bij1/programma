@@ -1390,6 +1390,12 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 ### Van Strafketen naar een Rechtvaardige Maatschappij
 
+1.  De politie wordt afgeschaft en vervangen met een dienstplichtige ordedienst.
+    Alle inwoners van Nederland die daartoe in staat zijn volgen een verplichte opleiding in handhavingstaken.
+    Zij kunnen vervolgens worden opgeroepen voor een korte dienst.
+    Zo verzekeren we dat enkele belangrijke taken die nu bij de politie ondergebracht zijn
+    nog steeds uit worden gevoerd.
+
 1.  De rol van politie en BOA's in de samenleving wordt geminimaliseerd
     en zal uiteindelijk verdwijnen.
     We stoppen met investeren in handhaving,
