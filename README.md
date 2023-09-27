@@ -562,6 +562,37 @@ BIJ1 heeft hiervoor de volgende plannen:
     De financiering van ontbossing, landroof en productie van fossiele brandstoffen
     wordt voor zowel private als publieke financiële instellingen onmogelijk.
 
+### Geef dieren rechten!
+
+<mark>
+Een Westerse blik op de natuur en dieren maakt een onderscheid tussen mens en de rest.
+In veel inheemse en prekoloniale culturen is dit niet zo.
+Ook vanuit de wetenschap leren we dat intelligentie en gevoel op veel manieren werken.
+</mark>
+
+1.  Dieren zijn er voor zichzelf, niet voor ons.
+    We nemen dierenrechten op in de grondwet.
+    We verbieden dierenfokkerijen en handhaven op illegale verkoop en mishandeling van dieren.
+
+1.  Er worden subsidies uitgekeerd aan dierenasiels, dierenartsen en de dierenambulance
+    om opgevangen dieren een prettig thuis te geven,
+    euthanasie tot een minimum te beperken
+    en dieren de betaalbare zorg te geven die ze nodig hebben.
+
+1.  Dolfinarium, en op termijn alle dierentuinen, worden gesloten.
+    Eisen voor het welzijn van dieren op de kinderboerderij worden strenger.
+    Dieren uit de entertainmentindustrie worden opgevangen en krijgen een rustige verblijfplaats.
+
+1.  Hobbyjacht wordt verboden, en mishandeling van wilde dieren wordt gestraft
+    volgens de richtlijnen voor strafvordering dierenmishandeling.
+    Fokkerijen voor bont en import van bont wordt verboden
+    en er wordt gehandhaafd op het foie gras verbod.
+
+1.  Niet-medische producten in onze winkels en drogisterijen zijn proefdiervrij.
+    Ondertussen investeren we in een transitie naar een proefdiervrije wetenschap.
+
+1.  De inzet van dieren tijdens politieoptredens, zoals politiepaarden en -honden, wordt afgeschaft.
+
 ## 5. Wonen
 
 ### <mark>Van Woningmarkt naar Volkshuisvesting</mark>
