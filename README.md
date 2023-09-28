@@ -1731,7 +1731,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 1.  Het collegegeld wordt afgeschaft:
     beroepsonderwijs en universiteit worden gratis.
     De basisbeurs wordt opnieuw ingevoerd en wordt inkomensafhankelijk,
-    gebaseerd op het inkomen van de ouder(s)/verzorger(s) en dat van de student zelf.
+    gebaseerd op het inkomen van de student zelf.
     Studieschulden van de 'pechgeneratie' worden kwijtgescholden.
 
 1.  Scholen moeten volledig toegankelijk worden voor leerlingen met een beperking
