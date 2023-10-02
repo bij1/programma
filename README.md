@@ -1169,6 +1169,13 @@ Dit doen we op de volgende manieren:
     en ongedocumenteerde mensen die zich in Nederland bevinden.
     Hierbij wordt speciaal aandacht besteed aan ongedocumenteerde mensen uit de voormalige koloniën, zoals Suriname.
 
+1.  Persoonsgegevens worden beter beschermd.
+    Overheidsorganen en semi-overheidsorganen mogen geen
+    informatie over iemands verblijfsstatus delen met andere organen.
+    Zij worden dus verplicht om geen melding te doen van (vermoeden van) illegaliteit.
+    De DT&V en Vreemdelingenpolitie worden opgeheven.
+    Ook vervalt de identificatieplicht.
+
 1.  Nederland verleent verblijfsrecht aan staatlozen in Nederland
     door hen een Nederlands paspoort te geven.
 
