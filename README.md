@@ -2229,12 +2229,13 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
 1.  Handel in privé-informatie wordt volledig verboden
     en het opslaan van privé-gegevens door bedrijven en overheid wordt verder geminimaliseerd.
 
-1.  Online en offline surveillance wordt flink ingeperkt en in sommige gevallen verboden.
-    Zo wordt het cameratoezicht in de openbare ruimte
-    en het aantal camera's in de publieke ruimte teruggebracht.
+1.  Online en offline surveillance wordt flink ingeperkt en grotendeels verboden.
+    Zo wordt het cameratoezicht in de openbare ruimte en het aantal camera's in de publieke ruimte teruggebracht,
+    wordt bestaande wetgeving tegen het filmen van de openbare weg met beveiligingscamera's strikt gehandhaafd,
+    en worden politiesurveillanceprogramma's zoals 'camera in beeld' ontmanteld.
     Technologie die het mogelijk maakt om mensen op afstand te identificeren,
     zoals gezichtsherkenningstechnologie, wordt verboden.
-    Surveillance van activisten, vreedzame demonstraties en protest stopt.
+    Surveillance van activisten, demonstraties en protest stopt.
 
 1.  Communicatie wordt veilig verstuurd en is alleen te lezen voor de afzender en ontvanger.
     De inhoud van iemands telefoon, cloud of ander apparaten blijft privé.
