@@ -679,7 +679,8 @@ heeft BIJ1 de volgende plannen:
 1.  We maken het bestrijden van dak- en thuisloosheid
     een doelstelling van het nationaal woonbeleid.
     Dit doen we door middel van de Housing First aanpak.
-    Hiervoor worden er direct genoeg gratis zelfstandige woningen voor alle dak- en thuislozen gerealiseerd,
+    Hiervoor worden direct genoeg gratis zelfstandige woningen voor alle dak- en thuislozen mensen gerealiseerd
+    en genoeg capaciteit voor zorg en begeleiding beschikbaar gesteld,
     met het doel om in 2030 nul dakloze mensen te hebben (Lissabon Verklaring).
     Daarbij wordt ook de opvang van dakloze EU-arbeiders en ongedocumenteerde mensen gegarandeerd.
 
