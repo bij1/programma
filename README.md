@@ -1646,7 +1646,7 @@ strijdt BIJ1 onder meer voor de volgende punten:
     centraal stelt in beleid, wetgeving en budgettering.
 
 1.  De Europese Unie wordt veel democratischer.
-    Het Europees Parlement moet een belangrijkere rol krijgen bij het vormen van beleid.
+    Het Europees Parlement moet de centrale rol krijgen bij het vormen van beleid.
     De Europese Raad, Raad van de Europese Unie, de Europese Commissie
     en andere vormen van onderhandelingen moeten transparant worden.
 
