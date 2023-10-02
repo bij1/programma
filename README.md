@@ -1428,14 +1428,14 @@ strijdt BIJ1 onder meer voor de volgende punten:
 ### <mark>Bestaanszekerheid Boven Repressie</mark>
 
 <strong>
-
 BIJ1 staat voor een samenleving die voor iedereen vrij, veilig en rechtvaardig is.
-Een samenleving waarin mensen, zonder de dreiging van staatsgeweld, vreedzaam kunnen samenleven.
-We streven ernaar dat collectieve voorzieningen zo goed geregeld zijn en preventie zo goed werkt,
-dat de politie en gevangenissen zoals we die nu kennen niet meer hoeven te bestaan.
-Een wereld waarin we collectieve zorg dragen voor elkaar.
-En waarin elk mens de kans krijgt om hun fouten te herstellen
-en de waardigheid te krijgen waar wij allen recht op hebben.
+Een samenleving waarin mensen, zonder de dreiging van staatsgeweld, vreedzaam samenleven.
+We streven naar goede collectieve voorzieningen en een hoge levensstandaard,
+waardoor een groot deel van de oorzaken van criminaliteit wegvalt.
+We bouwen aan een wereld waarin preventie en medemenselijkheid
+de functie van politie en gevangenissen zoals we die nu kennen vervangen.
+Een wereld waarin we collectieve zorg dragen voor elkaar,
+en waarin elk mens de kans krijgt om hun fouten te herstellen en in waardigheid te leven.
 </strong>
 
 Veiligheid ontstaat niet
