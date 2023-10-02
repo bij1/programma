@@ -1116,7 +1116,7 @@ Dit doen we op de volgende manieren:
 1.  De Afdeling Vreemdelingenpolitie, Identificatie en Mensenhandel (vroeger Vreemdelingenpolitie genoemd)
     doet niet langer onderzoek naar de identiteit en de verblijfsrechtelijke status van asielzoekers,
     maar wordt omgevormd tot een taskforce die zich enkel nog bezighoudt
-    met onderzoek naar mensenhandel, mensensmokkel en (online) identiteitsfraude.
+    met onderzoek naar mensenhandel en (online) identiteitsfraude.
     Mensenhandel wordt beter aangepakt
     en er komt een integrale strategie voor het bestrijden
     van (mensen)handel in minderjarige asielzoekers.
