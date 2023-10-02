@@ -1496,6 +1496,11 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     zodat daders menswaardig worden behandeld.
     De voorwaarden om voor vervroegde vrijlating in aanmerking te komen worden versoepeld.
 
+1.  Er wordt preventief beleid opgezet in samenspraak met experts en ervaringsdeskundigen
+    om alle vormen van geweld tegen te gaan.
+    Er is hier specifiek aandacht voor geweld tegen
+    vrouwen, kinderen, queer personen, trans personen, mensen van kleur, mensen met beperkingen en vluchtelingen.
+
 1.  Femicide wordt, met inzet van expertisecentra als Atria en Movisie,
     breed gedefinieerd en opgenomen in het Wetboek van Strafrecht.
     Genderspecifieke data wordt verzameld om genderverschillen te erkennen
