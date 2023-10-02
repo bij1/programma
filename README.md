@@ -1104,6 +1104,17 @@ Dit doen we op de volgende manieren:
     We pleiten in EU-verband voor onmiddellijke opzegging van dit soort deals,
     en sluiten ook geen nieuwe migratiedeals.
 
+1.  De overheid handelt niet in mensenlevens.
+    Betere bescherming van 'echte vluchtelingen' ten koste van andere migranten,
+    het bevoordelen van mensen op basis van nationaliteit,
+    of het afdwingen van medewerking aan deportaties
+    en terugkeer van de ene persoon in ruil voor werkvisa voor een ander,
+    zijn onaanvaardbaar.
+    Hulpverlening heeft als doel om hulp te verlenen waar nodig.
+    Geld voor ontwikkelingssamenwerking wordt niet gebruikt voor grensbewaking,
+    om mensen te ontmoedigen naar Europa te reizen,
+    of om migratie deals af te dwingen.
+
 1.  Nederland hervestigt jaarlijks een groeiend aantal kwetsbare vluchtelingen uit vluchtelingenkampen.
 
 1.  Asielzoekers mogen tijdens hun procedure werk zoeken en een studie beginnen.
