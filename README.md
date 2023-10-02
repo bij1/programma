@@ -806,7 +806,7 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
 ### Zorg in Publieke Handen
 
 1.  We zetten een Nationaal Zorgfonds op dat de zorgverzekeraars gaat vervangen.
-    Het Nationaal Zorgfonds gaat alle zorg en tandheelkunde dekken.
+    Het Nationaal Zorgfonds gaat alle zorg inclusief tandheelkunde dekken.
     Om dit te kunnen betalen, heffen we progressieve belastingen.
     De premies en eigen bijdragen worden afgeschaft.
 
