@@ -1858,6 +1858,11 @@ strijdt BIJ1 onder meer voor de volgende punten:
     en scholengemeenschappen met verschillende schoolsoorten (vmbo, havo, vwo).
     Diploma's in het voortgezet onderwijs moeten gestapeld kunnen worden zonder aanvullende eisen.
 
+1.  kinderen en jongeren die later instappen in het Nederlandse onderwijs
+    of jaren onderwijs door omstandigheden moeten missen,
+    krijgen voldoende tijd om Nederlands te leren en/of onderwijsjaren in het halen
+    in schakelonderwijs met maatwerk, zonder beperking in tijd of leeftijd
+
 1.  Er wordt geen lesmateriaal meer gebruikt
     waarin een eenzijdig en eurocentrisch verhaal over de geschiedenis wordt gepresenteerd.
     Scholen stoppen onmiddellijk met het gebruik van lesmateriaal
