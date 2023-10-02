@@ -1114,6 +1114,13 @@ Dit doen we op de volgende manieren:
     Ook het recht om een coöperatie of een eigen bedrijf te starten
     of als freelancer te werken is toegankelijk voor iedereen.
 
+1.  Mensen die een werkvisum of tewerkstellingsvergunning hebben,
+    mogen overal werken, dus niet bij 1 werkgever.
+    Zo voorkomen we een machtspositie en mogelijke uitbuiting door de werkgever.
+
+1.  Derdelanders die een visum of verblijfsvergunning hebben
+    in een ander EU land mogen ook vrij in Nederland werken.
+
 1.  Er komt structurele doorstroom van AZC's naar vaste woningen:
     wonen is een recht van iedereen.
     Crisiscentra worden gesloten.
