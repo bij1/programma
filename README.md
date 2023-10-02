@@ -1618,7 +1618,7 @@ strijdt BIJ1 onder meer voor de volgende punten:
     zowel binnen als buiten Nederland.
     We verbinden consequenties aan het niet naleven van deze richtlijnen.
 
-1.  Het budget voor internationale armoedebestrijding
+1.  Het budget voor internationale ontwikkelingssamenwerking
     wordt opgehoogd tot 1% van het Bruto Nationaal Product (BNP).
     Het beschermen van mensenrechten en het wereldwijd behalen van de SDG's
     staat centraal in ons buitenlandbeleid.
