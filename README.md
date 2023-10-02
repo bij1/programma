@@ -2032,7 +2032,7 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     Autoriteiten mogen demonstranten niet bestraffen
     vanwege het deelnemen aan een niet-aangemeld protest.
 
-1.  ID-controles tijdens vreedzame demonstraties mogen niet meer worden uitgevoerd
+1.  ID-controles tijdens demonstraties mogen niet meer worden uitgevoerd
     zonder wettige bevoegdheid om een identiteitsbewijs te vorderen.
     De politie wordt verplicht om de ID-controles die ze wel uitvoeren, te registreren.
     In de registraties worden onder andere de omstandigheden en verdenkingen vastgelegd.
