@@ -684,9 +684,9 @@ heeft BIJ1 de volgende plannen:
     Daarbij wordt ook de opvang van dakloze EU-arbeiders en ongedocumenteerde mensen gegarandeerd.
 
 1.  Er wordt stevig ingezet op de bouw van meer sociale huurwoningen.
-    Dit doen we onder andere door grondbeleid,
-    waarin het eenvoudiger wordt om grond te onteigenen voor volkshuisvesting,
-    en door actieve verwerving van private grond.
+    Er komt beter grondbeleid.
+    Private grond wordt actief verworven voor sociale woningbouw
+    en het wordt eenvoudiger om grond te onteigenen.
     We zetten extra in op het bouwen van
     passende, betaalbare en goede woningen voor jongeren en ouderen.
 
