@@ -2165,37 +2165,33 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
 ### <mark>Technologie voor Mens, Dier en Planeet</mark>
 
 <strong>
-BIJ1 staat voor een wereld waarin technologie, mens, dier en planeet ondersteunt.
-Voor ons is er technologische vooruitgang, als technologie ons leven echt beter maakt,
-en niet alleen de zakken van bedrijven vult of maatschappelijke ongelijkheid versterkt.
-Technologie moet eerlijker worden ingezet om discriminatie tegen te gaan,
-onderdrukte groepen een stem te geven, levensreddende medicatie te maken,
-het klimaat te redden, en welvaart eerlijker te verdelen.
+BIJ1 staat voor een wereld waarin technologie mens, dier en planeet dient,
+en niet wordt gebruikt om hen uit te buiten.
+We willen naar een wereld waarin technologische vooruitgang het leven van ons allemaal verbetert.
+Waarin technologie wordt gebruikt om discriminatie tegen te gaan, schaarste te verminderen,
+levens te redden, het klimaat te beschermen, onderdrukte groepen een stem te geven,
+om werk gemakkelijker en minder vervreemdend te maken en voor zo veel meer.
 </strong>
 
-Dat betekent onder andere dat technologie toegankelijk moet zijn voor iedereen,
-dat mensen en planeet centraal staan in de ontwikkeling,
-dat het bouwt op eerlijk verkregen data en informatie,
-en dat het mensen vrij laat en niet in de gaten houdt.
-Verschillende overheidsinstanties maken gebruik van algoritmes
-om gegevens van burgers te analyseren en mogelijke risico's in te schatten.
-De ontwikkelaars van deze nieuwe technologische innovaties en algoritmes
-zijn zelf niet altijd vrij van vooroordelen
-en kunnen die vooroordelen, al dan niet bewust, in hun algoritmes verwerken.
-Dat leidt vaak tot racistische en discriminerende rekenmodellen.
-Dit is onrechtvaardig, werkt etnisch profileren en klassenprofilering in de hand,
-en heeft rampzalige gevolgen op burgers,
-zoals we hebben gezien bij het Toeslagenschandaal.
-Discriminatie en etnisch profileren in de digitalisering van overheidsdiensten
-moeten daarom de kop in worden gedrukt.
-We maken per direct middelen vrij voor om (mogelijke) discriminatie en racisme
-in algoritmes en gegevensverwerking te bestrijden en bestraffen.
-Mensenrechtentoetsen worden voortaan vooraf uitgevoerd
-en een onafhankelijke partij houdt toezicht over dit proces.
+Onder het kapitalisme wordt technologische vooruitgang niet gebruikt in het voordeel van iedereen,
+maar om de winsten van een kleine groep kapitalisten te vergroten.
+Ideeën en innovaties, zoals levensreddende medicijnen, worden met patenten gemonopoliseerd,
+zodat ze door niemand zonder betaling en toestemming mogen worden gebruikt.
+Automatisering wordt niet gebruikt om mensen te bevrijden van zwaar en vervreemdend werk,
+maar om mensen juist steeds meer te kunnen behandelen als machines.
+Het internet wordt gebruikt door enorme bedrijven
+die uit winstbejag de lelijkste kanten van de mensheid aanmoedigen.
+Enorme hoeveelheden energie en werk worden gebruikt
+voor het verzamelen en verwerken van data,
+maar niet om mens en planeet te helpen.
+In plaats daarvan gebruiken bedrijven het om mensen verder uit te buiten,
+en overheidsinstanties zoals de politie, inlichtingendiensten, de belastingdienst en UWV
+om mensen te discrimineren, onderdrukken en surveilleren.
 
 <mark>
-We strijden voor het waarborgen van digitale veiligheid en zetten ons in
-om technologie te laten werken in het belang van mens, dier en planeet.
+Om de weg naar een betere wereld voor iedereen vrij te maken,
+wil BIJ1 dat technologie niet in dienst staat
+van een kleine groep kapitalisten en onderdrukkende instanties, maar van de hele mensheid.
 BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
