@@ -749,7 +749,7 @@ heeft BIJ1 de volgende plannen:
 1.  Zo veel mogelijk nieuwbouw- en bestaande woningen
     worden geschikt gemaakt voor mensen met een beperking.
     [Het VN-verdrag Handicap](https://bij1.org/woordenlijst/) is hierin het uitgangspunt.
-    Ook worden nieuwe wijken op toegankelijkheid getoetst,
+    Ook worden nieuwe wijken door ervaringsdeskundigen op toegankelijkheid getoetst,
     waaronder toegankelijkheid voor vrouwen, jongeren, en mensen van kleur.
 
 1.  Er wordt ingezet op de vergroening van de woonomgeving.
