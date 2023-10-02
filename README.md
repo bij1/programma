@@ -524,6 +524,23 @@ BIJ1 heeft hiervoor de volgende plannen:
     en ProRail tot samen één overheidsdienst,
     die verantwoordelijk wordt voor heel het Nederlandse spoornetwerk.
 
+### Autoverkeer
+
+1.  Het verbreden van snelwegen in Nederland wordt gestopt.
+    De toevoeging van extra rijstroken aan de snelwegen A15 en de A27 wordt gestaakt,
+    gezien de hoge kosten, de natuurschade en het beperkte nut van deze maatregel.
+
+1.  De kosten voor het behalen van een rijbewijs worden uniform,
+    onafhankelijk van het aantal benodigde rijlessen.
+    Zo garanderen we dat neurodivergente personen,
+    die mogelijk meer lessen nodig hebben om het rijbewijs te behalen,
+    niet financieel gestraft worden voor de benodigde extra begeleiding.
+
+1.  Het een-op-een vervangen van alle auto's in Nederland door elektrische personenvoertuigen
+    legt een te groot beslag op de wereldvoorraad van benodigde grondstoffen.
+    Daarom zetten we in op het verminderen van het autobezit
+    door te investeren in openbaar vervoer en het stimuleren van flex- en thuiswerken.
+
 ### Natuur en Vervoer
 
 1.  OV-bedrijven worden genationaliseerd.
