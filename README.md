@@ -2207,6 +2207,10 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     moet iedereen gratis toegang kunnen krijgen
     tot educatieprogramma's over (verantwoord) internetgebruik en digitale rechten.
 
+1.  Iedereen krijgt het recht producten te repareren en te verbeteren, zonder dat de garantie vervalt.
+    Fabrikanten worden verplicht rekening te houden met repairability,
+    en moeten benodigdheden voor reparatie, zoals reserveonderdelen en reparatiehandleidingen, aanbieden.
+
 1.  Het aanbod van online diensten, zoals browsers, zoekmachines en social media platforms, moet diverser.
     Internettoegang moet niet afhankelijk zijn
     van het verplicht gebruiken van bepaalde diensten.
