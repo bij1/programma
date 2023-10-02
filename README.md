@@ -707,6 +707,11 @@ heeft BIJ1 de volgende plannen:
     door de regels voor huurprijzen te koppelen aan het minimumloon
     waardoor het huurtoeslag-systeem overbodig wordt.
 
+1.  We stoppen met het subsidiëren van koopwoningen
+    door de hypotheekrente aftrek af te schaffen.
+    Het geld dat we hiermee besparen,
+    gebruiken we om meer toegankelijke en goede sociale huur woningen te bouwen.
+
 1.  Wij gaan huurders beschermen tegen huisjesmelkers, omdat zij misbruik maken van de wooncrisis
     door veel te hoge huurprijzen te vragen, onderhoud te verwaarlozen en soms zelfs huurders te intimideren.
     Er wordt een verhuurvergunning met strenge kwalificatie-eisen ingevoerd
