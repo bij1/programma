@@ -1688,8 +1688,9 @@ strijdt BIJ1 onder meer voor de volgende punten:
     Wie weigert mee te vechten in overzeese oorlogen wordt niet bestraft.
     Er komt (postuum) eerherstel voor dienstweigeraars uit het verleden.
 
-1.  Er komt per direct een stop op het ontwikkelen van AI-systemen voor militaire doeleinden:
-    de ontwikkeling en het gebruik van AI
+1.  Er komt per direct een stop op het ontwikkelen van AI-systemen voor militaire doeleinden.
+    Computers mogen nooit beslissingen maken over leven en dood.
+    De ontwikkeling en het gebruik van AI
     zijn nog altijd doordrongen van discriminerende algoritmes en data.
     In de praktijk leidt dit ertoe dat gemarginaliseerde groepen
     disproportioneel harder worden getroffen
