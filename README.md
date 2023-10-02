@@ -1424,6 +1424,22 @@ strijdt BIJ1 onder meer voor de volgende punten:
 1.  Informatie van de overheid wordt standaard toegankelijk gemaakt,
     in begrijpelijke taal en beschikbaar in braille.
 
+### Toegankelijkheid, Inclusie en Welzijn
+
+1.  Er komt structureel meer geld voor passende dagelijkse ondersteuning voor mensen met een beperking.
+    Toekenning van het persoonsgebonden budget (PGB) wordt gelijkwaardiger en laagdrempeliger.
+    De uitvoering van de Wet maatschappelijke ondersteuning (Wmo) wordt weer op landelijk niveau gecoördineerd
+    en de eigen bijdrage verdwijnt.
+
+1.  Stigmatisering op basis van gezondheid wordt tegengegaan
+    en het gebruiken van persoonlijke hulp- en beschermingsmiddelen
+    zoals orthesen, mondneusmaskers of gehoorbeschermers
+    wordt ondersteund, ook op het werk en op school.
+
+1.  We zetten ons in voor een inclusieve sport- en cultuursector,
+    en maken extra geld vrij om sport en culturele activiteiten
+    toegankelijker te maken voor mensen met een beperking.
+
 ## 11. Veiligheid en Justitie
 
 ### <mark>Bestaanszekerheid Boven Repressie</mark>
