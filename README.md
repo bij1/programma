@@ -755,7 +755,7 @@ heeft BIJ1 de volgende plannen:
 1.  Er wordt ingezet op de vergroening van de woonomgeving.
     Verhuurders worden verplicht om woningen op te knappen naar energielabel B of hoger,
     en van het aardgas te halen zonder kosten voor de verhuurder.
-    Er wordt geld beschikbaar gesteld voor de verduurzaming van (sociale) woningen.
+    Er wordt geld beschikbaar gesteld voor de verduurzaming en isolatie tegen hitte en kou van (sociale) woningen.
 
 1.  Er komt een adequate schadecompensatieregeling voor woningen met aardbevingsschade.
     Ook wordt er onderzoek gedaan naar de gevolgen en gevaren van extremer weer
