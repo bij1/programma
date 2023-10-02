@@ -1881,7 +1881,7 @@ strijdt BIJ1 onder meer voor de volgende punten:
 
 1.  De voorschool wordt gratis voor alle kinderen.
     De vrijwillige ouderbijdrage in het basisonderwijs en voortgezet onderwijs wordt afgeschaft,
-    en bijles moet gratis zijn voor mensen die het anders niet kunnen betalen.
+    en bijles moet gratis zijn.
 
 ### Docenten Verdienen Beter
 
