@@ -1218,6 +1218,10 @@ Dit doen we op de volgende manieren:
 1.  Nederland draagt niet langer bij aan Europees grensgeweld.
     Het betaalt niet mee aan grenspolitie, wapens of hekken, detentie of quasi-detentie faciliteiten:
     binnen de EU en wereldwijd.
+    Reddingswerkers worden gefaciliteerd, niet gecriminaliseerd.
+    Dat geldt op de Middellandse Zee, aan de grens met Belarus, maar ook in Ter Apel:
+    niet de hulpverleners, maar de verantwoordelijke politici die vluchtelingen en migranten
+    willens en wetens in gevaar brengen moeten gevangenisstraf riskeren.
 
 1.  De Dublin-verordening wordt in Europees verband afgeschaft.
     Mensen die asiel aan willen vragen in Europa
