@@ -2057,6 +2057,13 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     Hun bevoegdheden worden ingeperkt,
     en gegevensverstrekking aan buitenlandse geheime diensten wordt aan banden gelegd.
 
+1.  Onafhankelijke NGO's en stichtingen die toezicht houden op onze politiek, rechtsstaat en handhaving
+    zijn onmisbaar voor een gezonde democratie.
+    Deze moeten effectief te werk kunnen gaan met voldoende middelen,
+    zonder onafhankelijkheid te verliezen.
+    Er wordt onderzocht hoe de overheid deze instanties kan steunen,
+    zonder onafhankelijkheid te schaden.
+
 ## 16. Kunst, Cultuur en Media
 
 ### <mark>Samen Verbeelden we een Nieuwe Toekomst</mark>
