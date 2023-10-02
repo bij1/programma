@@ -2105,6 +2105,10 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
 1.  De Wet Werk & Inkomen Kunstenaars wordt weer in het leven geroepen
     en er komt structurele inzet om een einde te maken
     aan de armoede in de kunst, cultuur en mediasector.
+    Hierbij wordt extra aandacht besteed aan de gender pay gap die onder kunstenaars groter is dan in andere sectoren.
+    Er wordt een omvangrijk onderzoek ingesteld naar de oorzaken van dit grote inkomensverschil,
+    waarbij zaken als de baby-boete ('child-penalty'), de rol die kunstinstellingen, galeries,
+    verzamelaars en kunstacademies spelen in het in stand houden van deze ongelijkheid, onderzocht worden.
 
 1.  We investeren in betaalbare en toegankelijke plekken en vrijplaatsen,
     waar kunst gemaakt en getoond kan worden.
