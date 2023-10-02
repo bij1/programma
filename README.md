@@ -2144,6 +2144,7 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
 
 1.  De toegangsprijzen van musea en culturele instellingen gaan flink omlaag,
     zodat iedereen van kunst en cultuur kan genieten, ongeacht hun inkomen.
+    De toegang tot Rijksmusea wordt gratis.
 
 1.  Culturele instellingen, mediamakers en creatieve makers worden bij subsidieaanvragen
     ook beoordeeld op toegankelijkheid voor mensen met een beperking.
