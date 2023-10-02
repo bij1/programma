@@ -1682,8 +1682,13 @@ strijdt BIJ1 onder meer voor de volgende punten:
     en het plannen en uitvoeren van een agressieoorlog tegen Oekraïne.
     Ook steunt Nederland Russische dissidenten en activisten die zich verzetten tegen de oorlog.
 
-1.  We krimpen onze krijgsmacht in om uiteindelijk de krijgsmacht te vervangen door een civiele hulporganisatie.
-    Tot die tijd moet de krijgsmacht doordrongen zijn van anti-racistische en democratische waarden.
+1.  We streven een geweldloze wereld na, in binnen- en buitenland.
+    In plaats van te investeren in het verdedigen van grondgebied tegen ingebeelde vijanden,
+    bouwen we aan een solidaire, rechtvaardige en veilige wereld voor iedereen, overal.
+    De krijgsmacht moet daarom inkrimpen en op termijn worden vervangen door een civiele hulporganisatie.
+    Vrijgekomen middelen gaan onder andere naar diplomatie, de preventie van conflicten,
+    noodhulp en het versterken van de capaciteiten van humanitaire organisaties.
+    Tot die tijd moet de krijgsmacht doordrongen zijn van democratische en anti-racistische waarden.
     Mensen met extreemrechtse opvattingen mogen geen deel uitmaken van de krijgsmacht.
     Wie weigert te vechten in oorlogen wordt niet bestraft,
     en Nederland wordt een veilige haven voor dienstweigeraars van beide kanten in alle conflicten.
