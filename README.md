@@ -37,7 +37,7 @@ die solidariteit en echte verandering tegenwerkt.
 <mark>
 Daarom moeten we deze systemen nu voor eens en voor altijd afbreken,
 en vanuit intersectionele solidariteit werken naar een wereld gebaseerd op radicale gelijkwaardigheid.
-Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Institutioneel Antiracisme
@@ -329,7 +329,7 @@ waarbij het Globale Noorden, het Globale Zuiden uitbuit.
 <mark>
 Niet groei en winst,
 maar vrijheid en gelijkwaardigheid horen het einddoel te zijn van een economie.
-Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
+Om de weg naar deze economie vrij te maken, strijdt BIJ1 onder meer voor de volgende punten:
 </mark>
 
 ### Van Privatisering naar Nationalisering
@@ -786,7 +786,7 @@ en zetten we ons in voor een betaalbaar, toegankelijk en rechtvaardig zorgsystee
 
 <mark>
 De zorg moet niet langer draaien om geld, maar om mensen.
-Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Zorg in Publieke Handen
@@ -955,7 +955,7 @@ BIJ1 strijd voor het herstellen en repareren van koloniale schade,
 en wil de eilanden de macht geven om dingen zelf te kunnen bepalen.
 Nederland heeft daarbij de plicht om, waar gewenst,
 de eilanden te ondersteunen zonder voorwaarden.
-Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Herstellen van Koloniale Schade
@@ -1354,7 +1354,7 @@ Zo nodig met sancties.
 
 <mark>
 Voor een samenleving die toegankelijk is voor iedereen,
-heeft BIJ1 de volgende kernpunten voor ogen:
+strijdt BIJ1 onder meer voor de volgende punten:
 </mark>
 
 ### Gelijke Behandeling en Rechtspositie
@@ -1434,7 +1434,7 @@ zaken die onze gemeenschappen wél veilig houden.
 <mark>
 Wij staan voor een samenleving waar niet afstraffing,
 maar medemenselijkheid centraal staat.
-Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Van Strafketen naar een Rechtvaardige Maatschappij
@@ -1548,7 +1548,7 @@ Zolang er kernwapens in de wereld zijn, is de toekomst van de mensheid onzeker.
 
 <mark>
 Om langdurige vrede, stabiliteit en internationale rechtvaardigheid te bereiken
-heeft BIJ1 de volgende kernpunten voor ogen:
+strijdt BIJ1 onder meer voor de volgende punten:
 </mark>
 
 ### Een Einde aan Imperialisme
@@ -1697,7 +1697,7 @@ Daarom praten wij met hen, in plaats van over hen.
 <mark>
 BIJ1 strijdt voor een beleid waarin zelfbeschikking en goede werkomstandigheden centraal staan,
 en sekswerkers zeggenschap krijgen over hun eigen werk.
-Dit doen we op de volgende manieren:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Sekswerk is Werk
@@ -1771,7 +1771,7 @@ Daarnaast willen we meer en structureel investeren in salarissen van leraren.
 
 <mark>
 Voor het creëren van inclusief, toegankelijk en kwalitatief hoogwaardig onderwijs,
-heeft BIJ1 de volgende kernpunten voor ogen:
+strijdt BIJ1 onder meer voor de volgende punten:
 </mark>
 
 ### Voor Betaalbaar en Toegankelijk Onderwijs
@@ -1916,7 +1916,7 @@ maar zullen worden beperkt als ze te veel macht naar zich toe trekken.
 
 <mark>
 Het is tijd voor een radicale democratisering van onze samenleving.
-Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Naar een Democratische Republiek
@@ -2053,7 +2053,7 @@ Want alle kunstenaars en creatieven moeten kunnen leven van hun werk.
 <mark>
 Samen bouwen we aan een duurzame sector en een samenleving
 waarin ruimte is voor creativiteit en radicale verbeeldingskracht.
-Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Voor de Makers
@@ -2156,7 +2156,7 @@ en een onafhankelijke partij houdt toezicht over dit proces.
 <mark>
 We strijden voor het waarborgen van digitale veiligheid en zetten ons in
 om technologie te laten werken in het belang van mens, dier en planeet.
-Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Technologie en Digitalisering: van en voor Iedereen
