@@ -1108,6 +1108,11 @@ Dit doen we op de volgende manieren:
 
 1.  Asielzoekers mogen tijdens hun procedure werk zoeken en een studie beginnen.
     Ook ongedocumenteerde mensen mogen werken en studeren.
+    Asielzoekers krijgen gelijk vanaf aankomst een BSN-nummer en toegang tot de arbeidsmarkt.
+    Ook andere migranten, zoals ongedocumenteerden en derdelanders
+    krijgen een BSN-nummer en toegang tot de arbeidsmarkt.
+    Ook het recht om een coöperatie of een eigen bedrijf te starten
+    of als freelancer te werken is toegankelijk voor iedereen.
 
 1.  Er komt structurele doorstroom van AZC's naar vaste woningen:
     wonen is een recht van iedereen.
