@@ -1130,7 +1130,8 @@ Dit doen we op de volgende manieren:
     aan de minimumstandaarden die ook voor Nederlandse staatsburgers gelden.
 
 1.  In AZC's komt meer aandacht voor LHBTQI+ personen en in het bijzonder trans personen.
-    Zij moeten toegang hebben tot zorg in een veilige omgeving.
+    Zij moeten toegang hebben op zorg die wordt geboden in een veilige omgeving
+    en wanneer wenselijk is afgestemd op niet-Westerse ideeën over gender en seksualiteit
 
 ### Een Solidaire Asielprocedure
 
