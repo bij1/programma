@@ -1169,6 +1169,10 @@ Dit doen we op de volgende manieren:
     en ongedocumenteerde mensen die zich in Nederland bevinden.
     Hierbij wordt speciaal aandacht besteed aan ongedocumenteerde mensen uit de voormalige koloniën, zoals Suriname.
 
+    1.  De Koppelingswet die ongedocumenteerden toegang beperkt of ontzegt
+    tot zorg, onderwijs, onderdak, werk en nog veel meer levensbehoeften, schaffen we af.
+    Ongedocumenteerden worden niet gesegregeerd, maar juist verwelkomd en gelijk behandeld.
+
 1.  Persoonsgegevens worden beter beschermd.
     Overheidsorganen en semi-overheidsorganen mogen geen
     informatie over iemands verblijfsstatus delen met andere organen.
