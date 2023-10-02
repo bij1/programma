@@ -2111,6 +2111,9 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     Bestaande vrijplaatsen worden erkend en behouden.
     Nieuwe vrijplaatsen worden praktisch en legaal ondersteund.
 
+1.  Onafhankelijke (lokale) media en journalistiek worden gestimuleerd en versterkt.
+    Monopolievorming wordt tegengegaan.
+
 1.  Bij toekomstige crises, zoals een bankencrisis of een pandemie,
     worden zzp-ers, flexwerkers, makers en instellingen die weinig of geen subsidie krijgen
     net zo ruimhartig gecompenseerd als de instellingen die onder de basisinfrastructuur vallen.
