@@ -2207,6 +2207,14 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     moet iedereen gratis toegang kunnen krijgen
     tot educatieprogramma's over (verantwoord) internetgebruik en digitale rechten.
 
+1.  Technologie, informatie en innovatie zijn verdiensten van de hele mensheid
+    waarop niemand het alleenrecht mag claimen.
+    Patenten en alle andere vormen van "intellectueel eigendom" worden afgeschaft
+    en er komt een eind aan bedrijfsgeheimen.
+    Tot dit is gerealiseerd zet BIJ1 zich in voor het gebruik van open source en open standaarden
+    in de publieke en private sector en voor het toestaan van piraterij.
+    Niet alleen van media en software, maar van alle andere innovaties, zoals medicijnen en apparaten.
+
 1.  Iedereen krijgt het recht producten te repareren en te verbeteren, zonder dat de garantie vervalt.
     Fabrikanten worden verplicht rekening te houden met repairability,
     en moeten benodigdheden voor reparatie, zoals reserveonderdelen en reparatiehandleidingen, aanbieden.
