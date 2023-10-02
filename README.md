@@ -2160,6 +2160,10 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     de culturele omgeving van de school en de kunst- en cultuursector.
     Ook participatie in de vrije tijd is toegankelijk en betaalbaar voor ieder kind.
 
+1.  Initiatieven die kunst en cultuur toegankelijk maken voor jeugd en jongeren
+    moeten hetzelfde beoordeeld worden als initiatieven voor volwassenen.
+    De waardering hiervan ligt nu (te) ver uit elkaar.
+
 ## 17. Digitale Rechten en Technologie
 
 ### <mark>Technologie voor Mens, Dier en Planeet</mark>
