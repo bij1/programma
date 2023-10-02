@@ -1993,6 +1993,8 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     Gemeenten staan namelijk veel dichter bij de burgers voor wie ze het beleid maken en uitvoeren.
     Zij weten daarom beter dan de landelijke overheid wat er lokaal het hardst nodig is.
 
+1.  Er komt een maximum termijn van 8 jaar aan de rollen van ministers en premier.
+
 ### Democratie voor Iedereen
 
 1.  Internationale aanbevelingen en verdragen rond mensenrechten,
