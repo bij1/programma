@@ -37,7 +37,7 @@ die solidariteit en echte verandering tegenwerkt.
 <mark>
 Daarom moeten we deze systemen nu voor eens en voor altijd afbreken,
 en vanuit intersectionele solidariteit werken naar een wereld gebaseerd op radicale gelijkwaardigheid.
-Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Institutioneel Antiracisme
@@ -251,6 +251,8 @@ Dit doen we op de volgende manieren:
     zodat het structureel meestijgt met andere lonen.
     Het minimumjeugdloon wordt afgeschaft
     en gelijkgetrokken met het minimumloon voor volwassenen.
+    We leggen inflatiecorrectie van de lonen wettelijk vast,
+    zodat de lonen automatisch met de inflatie meestijgen.
 
 1.  Bedrijven en werkplekken worden democratisch bestuurd
     en komen in handen van werknemers in plaats van bedrijfseigenaren.
@@ -296,7 +298,7 @@ Dit doen we op de volgende manieren:
 
 ## 3. Economie
 
-### <mark>Een Economie voor en door Iedereen</mark>
+### <mark>Een Economie van Iedereen</mark>
 
 <strong>
 BIJ1 staat voor een economie die werkt voor iedereen
@@ -327,7 +329,7 @@ waarbij het Globale Noorden, het Globale Zuiden uitbuit.
 <mark>
 Niet groei en winst,
 maar vrijheid en gelijkwaardigheid horen het einddoel te zijn van een economie.
-Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
+Om de weg naar deze economie vrij te maken, strijdt BIJ1 onder meer voor de volgende punten:
 </mark>
 
 ### Van Privatisering naar Nationalisering
@@ -416,7 +418,7 @@ Om tot deze economie te komen, heeft BIJ1 de volgende kernpunten voor ogen:
     Ook saneert de overheid vaker schulden,
     zodat mensen een nieuwe start kunnen maken.
 
-## 4. Klimaat
+## 4. Natuur, Milieu, Klimaat en Dierenrechten
 
 ### <mark>Een Leefbare Planeet</mark>
 
@@ -494,6 +496,53 @@ BIJ1 heeft hiervoor de volgende plannen:
     zodat mensen met lagere inkomens
     niet de rekening gepresenteerd krijgen voor de energietransitie.
 
+### Openbaar Vervoer
+
+1.  Het openbaar vervoer wordt gratis voor alle gebruikers.
+    In de tussentijd wordt BTW op OV tickets afgeschaft.
+    Zo wordt het OV direct en overal goedkoper.
+
+1.  In alle treinen wordt het klassensysteem afgeschaft.
+    Ook komt er meer ruimte voor het meenemen van de fiets in de trein,
+    en wordt er geïnvesteerd in meer ov-fietsen en ov-fietslocaties.
+
+1.  Alle OV-voertuigen en -haltes dienen rolstoeltoegankelijk te zijn.
+    Haltes en stations die hier in de praktijk niet aan voldoen worden verbouwd, niet afgeschaft.
+    Alle openbare vervoersmiddelen worden waar mogelijk gefabriceerd
+    met een gelijkvloerse instap en/of betrouwbare schansen.
+    Storingen aan liften en roltrappen op stations
+    worden openbaar geregistreerd en met hoge prioriteit opgelost.
+
+1.  In dunbevolkte gebieden wordt fors geïnvesteerd in beter openbaar vervoer en deelmobiliteit,
+    zodat mensen minder afhankelijk worden van de eigen auto.
+
+1.  De voorgestelde Lelylijn en Nedersaksenlijn worden gerealiseerd, nog voor 2030.
+    Deze nieuwe spoorlijnen zullen fungeren als een aanvullende ruggengraat voor het openbaar vervoersnetwerk,
+    en zullen bijdragen aan een efficiëntere mobiliteit en economische ontwikkeling
+    in tot nu toe onderbediende regio's.
+
+1.  Concurreren in het spoor schaffen we af.
+    De Nederlandse Spoorwegen fuseert met alle andere personenvervoerders op het spoor
+    en ProRail tot samen één overheidsdienst,
+    die verantwoordelijk wordt voor heel het Nederlandse spoornetwerk.
+
+### Autoverkeer
+
+1.  Het verbreden van snelwegen in Nederland wordt gestopt.
+    De toevoeging van extra rijstroken aan de snelwegen A15 en de A27 wordt gestaakt,
+    gezien de hoge kosten, de natuurschade en het beperkte nut van deze maatregel.
+
+1.  De kosten voor het behalen van een rijbewijs worden uniform,
+    onafhankelijk van het aantal benodigde rijlessen.
+    Zo garanderen we dat neurodivergente personen,
+    die mogelijk meer lessen nodig hebben om het rijbewijs te behalen,
+    niet financieel gestraft worden voor de benodigde extra begeleiding.
+
+1.  Het een-op-een vervangen van alle auto's in Nederland door elektrische personenvoertuigen
+    legt een te groot beslag op de wereldvoorraad van benodigde grondstoffen.
+    Daarom zetten we in op het verminderen van het autobezit
+    door te investeren in openbaar vervoer en het stimuleren van flex- en thuiswerken.
+
 ### Natuur en Vervoer
 
 1.  OV-bedrijven worden genationaliseerd.
@@ -533,6 +582,20 @@ BIJ1 heeft hiervoor de volgende plannen:
     Belangrijke ecosystemen, natuurgebieden en wilde dieren
     moeten rechten krijgen om bescherming, behoud (en eventueel herstel) te waarborgen.
     De Waddenzee moet als eerste als zelfstandige rechtspersoonlijkheid aangemerkt worden.
+
+1.  Autorijden is voor mensen met een handicap, vele gezinnen en mensen buiten de randstad essentieel.
+    We pleiten niet voor een kilometerheffing of een verdere accijnsverhogingen op brandstoffen.
+    Met onze MIRT gaan we de concurrentie aan met auto's,
+    waardoor mensen eerder hun auto laten staan of er geen aanschaffen.
+    Zo zorgen we ervoor dat de kosten van klimaatverandering niet bij de gewone burger komt te liggen.
+
+1.  Voor mensen met een gehandicaptenpas komt er vrijstelling komen
+    op de motorrijtuigenbelasting (MRB) en aanschafbelasting (BPM).
+    Ook als dit geen aangepaste rolstoelbus betreft. Mobiliteit is een recht.
+
+1.  Wij schromen niet om auto's om te laten rijden ten opzichte van het openbaar vervoer of de fiets.
+    Zo worden fietsroute's en OV-routes automatisch efficiënter.
+    Het gebruik van 30km wegen moedigen wij aan.
 
 ### Internationale Klimaatrechtvaardigheid
 
@@ -737,7 +800,7 @@ en zetten we ons in voor een betaalbaar, toegankelijk en rechtvaardig zorgsystee
 
 <mark>
 De zorg moet niet langer draaien om geld, maar om mensen.
-Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Zorg in Publieke Handen
@@ -830,6 +893,13 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     De inzet van ervaringskennis wordt daarbij
     een vast onderdeel van het curriculum in alle opleidingen voor hulpverleners.
 
+1.  Voor een zorg die werkt is een betrouwbaar aanbod essentieel.
+    We reguleren strenger wat makers van supplementen en dergelijke middelen
+    op hun producten mogen zetten zonder bewijs.
+    Waar de bewijslast voor middelen of procedures ontbreekt,
+    vereisen we gedegen wetenschappelijk onderzoek
+    om het verschil tussen zorg en kwakzalverij voor de consument duidelijk te maken.
+
 ### Toegankelijk en voor Iedereen
 
 1.  Er moet meer toezicht komen op naleving van het VN-verdrag Handicap
@@ -862,15 +932,17 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
     Ook worden er safehouses voor hen ingericht, verspreid over het land.
     We bevorderen (ervarings)deskundigheid over de LHBTQIA+-gemeenschap in de GGZ en de Jeugdzorg.
 
-1.  De zorg voor trans personen moet worden gezien als een reguliere vorm van medische zorg
-    en moet worden meegenomen in het basiscurriculum van medische gezondheidsopleidingen.
-    We vergroten het aanbod van transzorg en er worden meer transklinieken geopend.
-    Expertise wordt gedeeld tussen de vijf grootste ziekenhuizen,
-    zodat wachtlijsten kunnen worden weggewerkt.
-    (Hormoon)behandelingen en operaties worden vergoed,
-    zonder toestemming van 'experts' en verzekeringen.
-    Huisartsen worden opgeleid voor hormoonbehandelingen.
-    Daarnaast hoeven trans personen geen diagnose meer te ontvangen om zorg te krijgen.
+1.  Het aanbod van transzorg wordt vergroot,
+    waardoor wachtlijsten snel afnemen en monopolievorming wordt bestreden
+    door kennis te delen tussen huidige behandelcentra en nieuw te openen genderpoli's.
+    De toegang tot transzorg wordt gemakkelijker en niet belemmerd door gatekeepende zorgverleners.
+    Zelfbeschikking wordt het uitgangspunt: de trans persoon bepaalt zelf welke zorg nodig is.
+    We zien transgender zijn dus niet meer als een aandoening waarvoor een diagnose nodig is,
+    maar als een normale variatie op het menselijk bestaan.
+    Transgenderzorg wordt volledig vergoed.
+    Hormoonbehandelingen worden gemakkelijk verkrijgbaar via de huisarts.
+    In de opleiding van artsen en andere zorgverleners wordt voldoende aandacht besteed
+    aan transzorg en gendersensitiviteit.
 
 ## 7. Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
 
@@ -906,7 +978,7 @@ BIJ1 strijd voor het herstellen en repareren van koloniale schade,
 en wil de eilanden de macht geven om dingen zelf te kunnen bepalen.
 Nederland heeft daarbij de plicht om, waar gewenst,
 de eilanden te ondersteunen zonder voorwaarden.
-Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Herstellen van Koloniale Schade
@@ -1093,7 +1165,7 @@ Dit doen we op de volgende manieren:
 
 ### Uitgeprocedeerde Asielzoekers en Ongedocumenteerde mensen
 
-1.  Er komt een generaal pardon voor alle uitgeprocedeerde asielzoekers
+1.  Er komt een permanente eerst een generaal pardon en daarna permanente regularisatie programma's voor alle uitgeprocedeerde asielzoekers
     en ongedocumenteerde mensen die zich in Nederland bevinden.
     Hierbij wordt speciaal aandacht besteed aan ongedocumenteerde mensen uit de voormalige koloniën, zoals Suriname.
 
@@ -1202,9 +1274,9 @@ stelt BIJ1 de volgende beleidsveranderingen voor:
 
 ### Zwangerschap, Ouderschap en Adoptie
 
-1.  Vruchtbaarheidsbehandelingen zoals IVF en KID moeten vergoed worden.
+1.  Vruchtbaarheidsbehandelingen zoals IVF en KID moeten volledig vergoed worden
+    onder de basisverzekering ongeacht gender en relatievorm.
     Het aantal vergoede behandelingen moet uitgebreid worden op basis van kansen, niet kosten.
-    Dit geldt ook voor LHBTQI+ stellen.
 
 1.  Mensen die zwanger zijn en gaan bevallen hebben altijd het recht
     om zelf beslissingen te nemen over wat er met hun lichaam gebeurt.
@@ -1305,7 +1377,7 @@ Zo nodig met sancties.
 
 <mark>
 Voor een samenleving die toegankelijk is voor iedereen,
-heeft BIJ1 de volgende kernpunten voor ogen:
+strijdt BIJ1 onder meer voor de volgende punten:
 </mark>
 
 ### Gelijke Behandeling en Rechtspositie
@@ -1385,7 +1457,7 @@ zaken die onze gemeenschappen wél veilig houden.
 <mark>
 Wij staan voor een samenleving waar niet afstraffing,
 maar medemenselijkheid centraal staat.
-Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Van Strafketen naar een Rechtvaardige Maatschappij
@@ -1423,6 +1495,10 @@ Hiervoor heeft BIJ1 de volgende kernpunten voor ogen:
     Gevangenissen worden omgevormd naar Fins 'open' model,
     zodat daders menswaardig worden behandeld.
     De voorwaarden om voor vervroegde vrijlating in aanmerking te komen worden versoepeld.
+
+1.  Herstelrecht wordt als eerste optie gewogen bij het OM en de rechter,
+    zowel tijdens de procedure als bij uitspraken.
+    Bij het jeugdstrafrecht wordt dit de standaard.
 
 ### Van Politiecontrole naar Controle over de Politie
 
@@ -1486,7 +1562,7 @@ in het Nederlandse beleid voor internationale samenwerking, Europa en defensie.
 </strong>
 
 De Europese Unie moet dan ook drastisch veranderen.
-We gaan van een liberaal, imperialistisch racistisch
+We gaan van een kapitalistisch, imperialistisch racistisch
 verlengstuk van de CEO's en multinationals van deze wereld,
 naar een unie die werkt in het belang van mens, dier en planeet.
 BIJ1 wil een einde maken aan de oorlogszucht van Westerse landen
@@ -1499,7 +1575,7 @@ Zolang er kernwapens in de wereld zijn, is de toekomst van de mensheid onzeker.
 
 <mark>
 Om langdurige vrede, stabiliteit en internationale rechtvaardigheid te bereiken
-heeft BIJ1 de volgende kernpunten voor ogen:
+strijdt BIJ1 onder meer voor de volgende punten:
 </mark>
 
 ### Een Einde aan Imperialisme
@@ -1508,6 +1584,12 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     Het vrijgekomen geld gaat naar preventie van conflicten, sociale doeleinden,
     diplomatie en verdere investeringen in noodhulp,
     waarbij er focus komt op humanitaire organisaties en de weerbaarheid van lokale gemeenschappen.
+
+    Nederland stapt uit de NAVO.
+    Al het buitenlandse personeel, wapentuig en infrastructuur in het kader van NAVO wordt uit Nederland verwijderd.
+    Vrijgekomen geld gaat naar preventie van conflicten,
+    diplomatiek, investeringen in noodhulp en andere sociale doeleinden,
+    waarbij er focus ligt bij humanitaire organisaties en de weerbaarheid van lokale gemeenschappen.
 
 1.  We steunen de strijd tegen de [neokoloniale](https://bij1.org/woordenlijst/) dominantie
     en uitbuiting van het Globale Zuiden door het Westen.
@@ -1522,7 +1604,6 @@ heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  [Dekolonisatie](https://bij1.org/woordenlijst/), emancipatie, en zelfbeschikking van volkeren
     geldt als uitgangspunt bij erkenning van nieuwe staten.
-    Nederland erkent de Republik Maluku Selatan en steunt de onafhankelijkheidsstrijd van West-Papoea.
 
 1.  We maken een einde aan de bezetting en kolonisatie van Palestijns grond en het Palestijnse volk.
     Palestijnse vluchtelingen moeten het recht hebben op terugkeer naar hun huizen en bezittingen.
@@ -1590,10 +1671,16 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     Er komen ruimhartige genoegdoening en herstelbetalingen
     aan slachtoffers van Nederlandse overzeese militaire acties.
 
-1.  Nederland zet zich in voor een eind aan de invasie door Rusland in Oekraïne.
-    Nederland doet dit door humanitaire hulp
-    en het toezien op naleving van het humanitair recht.
-    Nederland stopt met het sturen van wapens en stuurt aan op een staakt-het-vuren.
+1.  We veroordelen de imperialistische agressieoorlog van Rusland tegen Oekraïne.
+    Nederland zal ruimhartig humanitaire hulp aan Oekraïne blijven bieden zo lang als nodig is
+    en ook bijdragen aan de wederopbouw van Oekraïne wanneer de oorlog is beëindigd.
+    Hierbij zal Nederland zich inzetten om alle internationale schulden van Oekraïne te vergeven.
+    Nederland zal staakt-het-vuren faciliteren en, waar er ruimte is,
+    diplomatie en onderhandelingen ondersteunen met oog voor de behoeften en wensen van de Oekraïners.
+    Nederland zet zich in om Poetin en andere leiders juridisch ter verantwoording te roepen
+    voor schendingen van mensenrechten, oorlogsmisdrijven, misdrijven tegen de menselijkheid
+    en het plannen en uitvoeren van een agressieoorlog tegen Oekraïne.
+    Ook steunt Nederland Russische dissidenten en activisten die zich verzetten tegen de oorlog.
 
 1.  We krimpen onze krijgsmacht in om uiteindelijk de krijgsmacht te vervangen door een civiele hulporganisatie.
     Tot die tijd moet de krijgsmacht doordrongen zijn van anti-racistische en democratische waarden.
@@ -1609,6 +1696,7 @@ heeft BIJ1 de volgende kernpunten voor ogen:
     door de gevolgen van onrechtvaardige AI systemen.
 
 1.  Nederland ondertekent het verbodsverdrag voor kernwapens en toont zich ambassadeur van deze verdragen.
+    Alle kernwapens op Nederlandse bodem worden vernietigd.
     Financiële instellingen en bedrijven mogen niet langer meer investeren in nucleaire wapens.
 
 1.  We verbieden de vestiging van wapenbedrijven in Nederland
@@ -1649,7 +1737,7 @@ Daarom praten wij met hen, in plaats van over hen.
 <mark>
 BIJ1 strijdt voor een beleid waarin zelfbeschikking en goede werkomstandigheden centraal staan,
 en sekswerkers zeggenschap krijgen over hun eigen werk.
-Dit doen we op de volgende manieren:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Sekswerk is Werk
@@ -1723,7 +1811,7 @@ Daarnaast willen we meer en structureel investeren in salarissen van leraren.
 
 <mark>
 Voor het creëren van inclusief, toegankelijk en kwalitatief hoogwaardig onderwijs,
-heeft BIJ1 de volgende kernpunten voor ogen:
+strijdt BIJ1 onder meer voor de volgende punten:
 </mark>
 
 ### Voor Betaalbaar en Toegankelijk Onderwijs
@@ -1868,7 +1956,7 @@ maar zullen worden beperkt als ze te veel macht naar zich toe trekken.
 
 <mark>
 Het is tijd voor een radicale democratisering van onze samenleving.
-Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Naar een Democratische Republiek
@@ -2005,7 +2093,7 @@ Want alle kunstenaars en creatieven moeten kunnen leven van hun werk.
 <mark>
 Samen bouwen we aan een duurzame sector en een samenleving
 waarin ruimte is voor creativiteit en radicale verbeeldingskracht.
-Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Voor de Makers
@@ -2050,8 +2138,7 @@ Daarvoor heeft BIJ1 de volgende kernpunten voor ogen:
 
 1.  We willen een publieke omroep die onafhankelijk blijft
     en niet door de overheid of door de commercie wordt beïnvloed.
-    Omroepen die ongrondwettelijke racistische denkbeelden en nepnieuws verspreiden
-    worden verboden en krijgen geen vergunning.
+    Omroepen die racistische en discriminatoire denkbeelden verspreiden krijgen geen ruimte.
 
 ### Toegankelijkheid & Educatie
 
@@ -2109,7 +2196,7 @@ en een onafhankelijke partij houdt toezicht over dit proces.
 <mark>
 We strijden voor het waarborgen van digitale veiligheid en zetten ons in
 om technologie te laten werken in het belang van mens, dier en planeet.
-Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
+BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
 ### Technologie en Digitalisering: van en voor Iedereen
@@ -2127,6 +2214,10 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
     Tot dit is gerealiseerd zet BIJ1 zich in voor het gebruik van open source en open standaarden
     in de publieke en private sector en voor het toestaan van piraterij.
     Niet alleen van media en software, maar van alle andere innovaties, zoals medicijnen en apparaten.
+
+1.  Iedereen krijgt het recht producten te repareren en te verbeteren, zonder dat de garantie vervalt.
+    Fabrikanten worden verplicht rekening te houden met repairability,
+    en moeten benodigdheden voor reparatie, zoals reserveonderdelen en reparatiehandleidingen, aanbieden.
 
 1.  Het aanbod van online diensten, zoals browsers, zoekmachines en social media platforms, moet diverser.
     Internettoegang moet niet afhankelijk zijn
@@ -2150,12 +2241,17 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
 1.  Handel in privé-informatie wordt volledig verboden
     en het opslaan van privé-gegevens door bedrijven en overheid wordt verder geminimaliseerd.
 
-1.  Online en offline surveillance wordt flink ingeperkt en in sommige gevallen verboden.
-    Zo wordt het cameratoezicht in de openbare ruimte
-    en het aantal camera's in de publieke ruimte teruggebracht.
+1.  End-to-end encryptie blijft gewaarborgd en wordt gestimuleerd.
+    Client side device scanning, zoals het Chat Control voorstel van de Europese Unie, wordt tegengehouden.
+    Netneutraliteit blijft beschermd.
+
+1.  Online en offline surveillance wordt flink ingeperkt en grotendeels verboden.
+    Zo wordt het cameratoezicht in de openbare ruimte en het aantal camera's in de publieke ruimte teruggebracht,
+    wordt bestaande wetgeving tegen het filmen van de openbare weg met beveiligingscamera's strikt gehandhaafd,
+    en worden politiesurveillanceprogramma's zoals 'camera in beeld' ontmanteld.
     Technologie die het mogelijk maakt om mensen op afstand te identificeren,
     zoals gezichtsherkenningstechnologie, wordt verboden.
-    Surveillance van activisten, vreedzame demonstraties en protest stopt.
+    Surveillance van activisten, demonstraties en protest stopt.
 
 1.  Communicatie wordt veilig verstuurd en is alleen te lezen voor de afzender en ontvanger.
     De inhoud van iemands telefoon, cloud of ander apparaten blijft privé.
@@ -2198,12 +2294,13 @@ Om dit te bereiken, heeft BIJ1 de volgende kernpunten voor ogen:
     die de software reguleert en keurt voordat het op de markt komt,
     zodat discriminatie wordt voorkomen en mensenrechten bevorderd en beschermd.
 
-1.  Er komt een ministerie van Digitale Zaken.
-    Zij overzien alle digitaliseringsprojecten bij alle overheidsdiensten.
-    Zij bewaken dat mens en planeet hierbij centraal staan,
-    en bouwen hierin voort op bestaande kennis in het veld,
-    van NGOs tot aan de Autoriteit Persoonsgegevens (AP).
-    De AP krijgt daarnaast meer middelen
+1.  Er komt een minister voor digitale zaken
+    die zich onder andere inzet voor de bescherming van digitale mensenrechten.
+    Deze minister overziet digitaliseringsprojecten bij de overheid
+    en zorgt dat mens en planeet hierbij centraal staan.
+    Er wordt voortgebouwd op bestaande kennis in het veld,
+    van NGO's tot aan de Autoriteit Persoonsgegevens (AP).
+    De AP krijgt meer middelen
     om hun taak als waakhond ter bescherming van persoonsgegevens goed te kunnen uitvoeren.
 
 1.  De overheid investeert in (digitale) infrastructuur en technologie,
