@@ -1633,7 +1633,7 @@ strijdt BIJ1 onder meer voor de volgende punten:
     zodat extreme ongelijkheid en klimaatverandering aangepakt kunnen worden.
 
 1.  Nederland verzet zich tegen het [neokolonialisme](https://bij1.org/woordenlijst/)
-    van internationale (ondemocratische) instituties zoals het IMF, de Wereldbank, en de Wereldhandelsorganisatie.
+    van internationale (ondemocratische) kapitalistische instituties zoals het IMF, de Wereldbank, en de Wereldhandelsorganisatie.
     Daarnaast zet Nederland zich internationaal actief in
     voor het kwijtschelden van alle schulden van landen
     die te maken hebben met koloniale en imperialistische uitbuiting.
