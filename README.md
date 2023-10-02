@@ -1170,7 +1170,7 @@ Dit doen we op de volgende manieren:
     Hierbij wordt speciaal aandacht besteed aan ongedocumenteerde mensen uit de voormalige koloniën, zoals Suriname.
 
 1.  Nederland verleent verblijfsrecht aan staatlozen in Nederland
-    door hen een Nederlands of staatloosheidspaspoort te geven.
+    door hen een Nederlands paspoort te geven.
 
 1.  Niemand komt in vreemdelingenbewaring.
     Alle detentiecentra voor uitgeprocedeerde asielzoekers en ongedocumenteerde mensen worden gesloten,
