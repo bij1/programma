@@ -296,7 +296,7 @@ Dit doen we op de volgende manieren:
 
 ## 3. Economie
 
-### <mark>Een Economie voor en door Iedereen</mark>
+### <mark>Een Economie van Iedereen</mark>
 
 <strong>
 BIJ1 staat voor een economie die werkt voor iedereen
