@@ -1920,7 +1920,7 @@ strijdt BIJ1 onder meer voor de volgende punten:
 
 1.  De invloed van de fossiele industrie op onderwijs en onderzoek moet stoppen.
     Om de macht van academische uitgevers tegen te gaan,
-    moet de overheid investeren in "open access",
+    moet de overheid investeren in gratis "open access",
     door middel van digitale infrastructuur en internationale lobby.
 
 1.  Er komt meer aandacht voor de verbindende werking van kunst- en cultuureducatie.
