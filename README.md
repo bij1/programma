@@ -1114,9 +1114,12 @@ Dit doen we op de volgende manieren:
     Ook het recht om een coöperatie of een eigen bedrijf te starten
     of als freelancer te werken is toegankelijk voor iedereen.
 
-1.  Mensen die een werkvisum of tewerkstellingsvergunning hebben,
-    mogen overal werken, dus niet bij 1 werkgever.
-    Zo voorkomen we een machtspositie en mogelijke uitbuiting door de werkgever.
+1.  Er komt, in navolging van Portugal en Duitsland,
+    een visum voor mensen die werk willen zoeken in Nederland.
+    Zij hoeven dus nog geen baan gevonden te hebben.
+    Opleidingsniveau speelt bij toekenning geen rol -
+    ieder mens verdient de kans om hier te werken, en is hier hard nodig.
+    Mensen uit oorlogsgebied kunnen er uiteraard ook aanspraak op maken.
 
 1.  Derdelanders die een visum of verblijfsvergunning hebben
     in een ander EU land mogen ook vrij in Nederland werken.
