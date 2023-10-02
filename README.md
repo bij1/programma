@@ -1222,6 +1222,8 @@ Dit doen we op de volgende manieren:
     Dat geldt op de Middellandse Zee, aan de grens met Belarus, maar ook in Ter Apel:
     niet de hulpverleners, maar de verantwoordelijke politici die vluchtelingen en migranten
     willens en wetens in gevaar brengen moeten gevangenisstraf riskeren.
+    Er komt een fonds dat schadevergoedingen verstrekt
+    aan slachtoffers en nabestaanden van Europees grensgeweld.
 
 1.  De Dublin-verordening wordt in Europees verband afgeschaft.
     Mensen die asiel aan willen vragen in Europa
