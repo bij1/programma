@@ -752,7 +752,8 @@ heeft BIJ1 de volgende plannen:
     Ook worden nieuwe wijken door ervaringsdeskundigen op toegankelijkheid getoetst,
     waaronder toegankelijkheid voor vrouwen, jongeren, en mensen van kleur.
 
-1.  Er wordt ingezet op de vergroening van de woonomgeving.
+1.  Er wordt ingezet op de vergroening van de woonomgeving,
+    tenzij dit andere recreationele mogelijkheden zoals skaten of basketballen verhindert.
     Verhuurders worden verplicht om woningen op te knappen naar energielabel B of hoger,
     en van het aardgas te halen zonder kosten voor de verhuurder.
     Er wordt geld beschikbaar gesteld voor de verduurzaming en isolatie tegen hitte en kou van (sociale) woningen.
