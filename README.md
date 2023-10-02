@@ -1124,6 +1124,11 @@ Dit doen we op de volgende manieren:
 1.  Derdelanders die een visum of verblijfsvergunning hebben
     in een ander EU land mogen ook vrij in Nederland werken.
 
+1.  De criteria voor werkvisa worden versoepeld.
+    De inkomenseis vervalt en bedrijven hoeven niet te bewijzen
+    dat er op de Nederlandse arbeidsmarkt geen personeel te vinden is.
+    Zo wordt migratie niet alleen toegankelijk voor de elite, maar voor iedereen.
+
 1.  Er komt structurele doorstroom van AZC's naar vaste woningen:
     wonen is een recht van iedereen.
     Crisiscentra worden gesloten.
