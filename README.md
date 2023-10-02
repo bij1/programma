@@ -2229,6 +2229,10 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
 1.  Handel in privé-informatie wordt volledig verboden
     en het opslaan van privé-gegevens door bedrijven en overheid wordt verder geminimaliseerd.
 
+1.  End-to-end encryptie blijft gewaarborgd en wordt gestimuleerd.
+    Client side device scanning, zoals het Chat Control voorstel van de Europese Unie, wordt tegengehouden.
+    Netneutraliteit blijft beschermd.
+
 1.  Online en offline surveillance wordt flink ingeperkt en grotendeels verboden.
     Zo wordt het cameratoezicht in de openbare ruimte en het aantal camera's in de publieke ruimte teruggebracht,
     wordt bestaande wetgeving tegen het filmen van de openbare weg met beveiligingscamera's strikt gehandhaafd,
