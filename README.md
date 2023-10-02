@@ -494,6 +494,36 @@ BIJ1 heeft hiervoor de volgende plannen:
     zodat mensen met lagere inkomens
     niet de rekening gepresenteerd krijgen voor de energietransitie.
 
+### Openbaar Vervoer
+
+1.  Het openbaar vervoer wordt gratis voor alle gebruikers.
+    In de tussentijd wordt BTW op OV tickets afgeschaft.
+    Zo wordt het OV direct en overal goedkoper.
+
+1.  In alle treinen wordt het klassensysteem afgeschaft.
+    Ook komt er meer ruimte voor het meenemen van de fiets in de trein,
+    en wordt er geïnvesteerd in meer ov-fietsen en ov-fietslocaties.
+
+1.  Alle OV-voertuigen en -haltes dienen rolstoeltoegankelijk te zijn.
+    Haltes en stations die hier in de praktijk niet aan voldoen worden verbouwd, niet afgeschaft.
+    Alle openbare vervoersmiddelen worden waar mogelijk gefabriceerd
+    met een gelijkvloerse instap en/of betrouwbare schansen.
+    Storingen aan liften en roltrappen op stations
+    worden openbaar geregistreerd en met hoge prioriteit opgelost.
+
+1.  In dunbevolkte gebieden wordt fors geïnvesteerd in beter openbaar vervoer en deelmobiliteit,
+    zodat mensen minder afhankelijk worden van de eigen auto.
+
+1.  De voorgestelde Lelylijn en Nedersaksenlijn worden gerealiseerd, nog voor 2030.
+    Deze nieuwe spoorlijnen zullen fungeren als een aanvullende ruggengraat voor het openbaar vervoersnetwerk,
+    en zullen bijdragen aan een efficiëntere mobiliteit en economische ontwikkeling
+    in tot nu toe onderbediende regio's.
+
+1.  Concurreren in het spoor schaffen we af.
+    De Nederlandse Spoorwegen fuseert met alle andere personenvervoerders op het spoor
+    en ProRail tot samen één overheidsdienst,
+    die verantwoordelijk wordt voor heel het Nederlandse spoornetwerk.
+
 ### Autoverkeer
 
 1.  Het verbreden van snelwegen in Nederland wordt gestopt.
