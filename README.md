@@ -907,7 +907,7 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
 
 1.  In opleidingen van GGZ-hulpverleners krijgt neurodiversiteit voldoende plek.
     Zo krijgen toekomstige hulpverleners meer kennis over de variatie in het menselijk brein.
-    ABA-genezingstherapie voor autisme wordt verboden.
+    ABA-genezingstherapie voor autisme en therapieën die daarvan afgeleid zijn worden verboden.
 
 1.  Chronische stress en trauma veroorzaakt door racisme
     krijgen meer erkenning als oorzaken van gezondheidsproblemen,
