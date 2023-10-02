@@ -1923,6 +1923,11 @@ strijdt BIJ1 onder meer voor de volgende punten:
     moet de overheid investeren in "open access",
     door middel van digitale infrastructuur en internationale lobby.
 
+1.  Er komt meer aandacht voor de verbindende werking van kunst- en cultuureducatie.
+    Hier moet meer aandacht voor zijn in het lesprogramma
+    om bij te dragen aan een gezond schoolklimaat.
+    De overheid maakt hier extra gelden voor vrij.
+
 1.  Besturen en raden van toezicht van hogescholen en universiteiten worden democratisch verkozen,
     bijvoorbeeld met een "academische senaat" als bestuursmodel.
     Elke instelling krijgt een diversiteitscommissie
