@@ -646,8 +646,8 @@ seksuele geaardheid, sociaaleconomische positie of verblijfsstatus.
 We zetten ons in om dak- en thuisloosheid bij de wortels aan te pakken
 en een betaalbare woning te garanderen voor iedereen.
 Het huidige woonbeleid is ondemocratisch en niet toereikend:
-daarom strijden we voor het stimuleren van andere manieren van wonen,
-zoals wooncoöperaties.
+daarom strijden we voor het stimuleren van andere manieren van wonen, zoals wooncoöperaties,
+stoppen we met het subsidiëren van koopwoningen via de hypotheekrenteaftrek en reguleren we huurprijzen.
 Daarnaast mag het opknappen van traditionele volkswijken
 niet langer leiden tot het verdringen van de bewoners.
 Gentrificatie raakt gezinnen met een kleinere portemonnee
