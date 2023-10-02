@@ -1917,6 +1917,11 @@ strijdt BIJ1 onder meer voor de volgende punten:
 1.  "Outputfinanciering" wordt afgeschaft.
     Het geldbedrag dat onderwijsinstellingen ontvangen,
     hangt niet langer af van het percentage afgestudeerden.
+    Tijdelijke financiering van onderzoeksinstellingen door middel van beurzen en prijzen
+    creëert perverse prikkels om maar zo veel mogelijk projecten te verzinnen,
+    onafhankelijk van of deze projecten maatschappelijk of wetenschappelijk nut hebben.
+    De financiering voor onderzoeksinstellingen wordt daarom structureler
+    zodat deze instellingen niet constant van beurs naar beurs hoeven te springen.
 
 1.  Nederland neemt maatregelen tegen uitgeversmonopolies en hoge kosten in de publicatie van wetenschap.
     Het zogenaamd illegaal distributeren en downloaden van wetenschappelijke publicaties wordt niet bestreden.
