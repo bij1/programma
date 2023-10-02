@@ -879,6 +879,13 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     De inzet van ervaringskennis wordt daarbij
     een vast onderdeel van het curriculum in alle opleidingen voor hulpverleners.
 
+1.  Voor een zorg die werkt is een betrouwbaar aanbod essentieel.
+    We reguleren strenger wat makers van supplementen en dergelijke middelen
+    op hun producten mogen zetten zonder bewijs.
+    Waar de bewijslast voor middelen of procedures ontbreekt,
+    vereisen we gedegen wetenschappelijk onderzoek
+    om het verschil tussen zorg en kwakzalverij voor de consument duidelijk te maken.
+
 ### Toegankelijk en voor Iedereen
 
 1.  Er moet meer toezicht komen op naleving van het VN-verdrag Handicap
