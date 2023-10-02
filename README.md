@@ -1836,6 +1836,10 @@ strijdt BIJ1 onder meer voor de volgende punten:
 1.  Op elke vorm van beroeps- en hoger onderwijs
     komt er een schoolpsycholoog waar studenten met mentale problemen terecht kunnen.
 
+1.  De uitzonderingspositie van de zogeheten "bijzonder universiteiten" verdwijnt,
+    op termijn worden de "bijzondere universiteiten" gelijk getrokken met,
+    en omgevormd tot, normale openbare universiteiten.
+
 1.  We werken aan toegankelijk onderwijs door het recht op thuisstudie vast te leggen.
     Ook komt er meer (onafhankelijke) ondersteuning
     zodat mensen met een beperking beter naar eigen wensen kunnen studeren,
