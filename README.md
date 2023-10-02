@@ -1496,6 +1496,8 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     zodat daders menswaardig worden behandeld.
     De voorwaarden om voor vervroegde vrijlating in aanmerking te komen worden versoepeld.
 
+1.  Het volwassenenstrafrecht wordt nooit toegepast op kinderen onder de 18.
+
 1.  De wettelijke leeftijd voor strafrechtelijke aansprakelijkheid wordt verhoogd naar minimaal 14 jaar.
 
 1.  Er wordt preventief beleid opgezet in samenspraak met experts en ervaringsdeskundigen
