@@ -1169,7 +1169,22 @@ Dit doen we op de volgende manieren:
     en ongedocumenteerde mensen die zich in Nederland bevinden.
     Hierbij wordt speciaal aandacht besteed aan ongedocumenteerde mensen uit de voormalige koloniën, zoals Suriname.
 
-    1.  De Koppelingswet die ongedocumenteerden toegang beperkt of ontzegt
+1.  Er komen permanente en ruime regularisatie mechanismen,
+    in ieder geval op basis van de volgende criteria:
+
+    1.  Mensen die werk zoeken of hebben gevonden
+        kunnen via de aanvraag van werkvisa of werkzoekvisa regulariseren.
+        Ook mensen in de asielprocedure of met een tijdelijke vergunning kunnen de aanvraag doen.
+        De aanvraag kan in Nederland ingediend en toegekend worden.
+    1.  Na een (irregulier) verblijf van 3 jaar hebben mensen
+        stevige banden opgebouwd en hebben zij recht op regularisatie.
+    1.  Ouderen, zieken, kinderen en andere kwetsbaren
+        hebben om humanitaire gronden recht op regularisatie.
+    1.  Burgemeesters en staatsecretaris krijgen de discretionaire bevoegdheid
+        om aan mensen die niet in bovenstaande categorieën vallen
+        alsnog een verblijfsvergunning te verstrekken.
+
+1.  De Koppelingswet die ongedocumenteerden toegang beperkt of ontzegt
     tot zorg, onderwijs, onderdak, werk en nog veel meer levensbehoeften, schaffen we af.
     Ongedocumenteerden worden niet gesegregeerd, maar juist verwelkomd en gelijk behandeld.
 
