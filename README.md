@@ -473,9 +473,8 @@ BIJ1 heeft hiervoor de volgende plannen:
     en staat in 2030 op 0.
     Deze doelen worden wettelijk vastgelegd en zijn bindend.
 
-1.  Subsidies op (de productie van) fossiele brandstoffen
-    en financiële steun aan de fossiele industrie
-    worden zo snel mogelijk beëindigd.
+1.  Er wordt direct begonnen met het stopzetten van subsidies op
+    (de productie van) fossiele brandstoffen en de fossiele industrie.
     Subsidies voor biomassacentrales worden per direct stopgezet.
     Er komen geen nieuwe vergunningen voor olie- en gasvelden,
     op land en op zee.
