@@ -496,6 +496,10 @@ BIJ1 heeft hiervoor de volgende plannen:
     zodat mensen met lagere inkomens
     niet de rekening gepresenteerd krijgen voor de energietransitie.
 
+1.  We schaffen de marktwerking in de energie volledig af.
+    Alle energiebedrijven worden weer nutsbedrijven.
+    Elektriciteit en warmte wordt gratis voor huishoudelijk gebruik.
+
 ### Openbaar Vervoer
 
 1.  Het openbaar vervoer wordt gratis voor alle gebruikers.
