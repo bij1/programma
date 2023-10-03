@@ -345,7 +345,7 @@ Om de weg naar deze economie vrij te maken, strijdt BIJ1 onder meer voor de volg
     Zo komt er een einde aan de dynastieke werking van kapitaal.
 
 1.  Nederland is niet langer een belastingparadijs.
-    Het oprichten van een brievenbus-BV wordt onmogelijk gemaakt.
+    Het oprichten van een brievenbus-BV wordt onmogelijk gemaakt, en bestaande brievenbus-BV's worden aangepakt.
     Daarnaast worden mazen in de wet die belastingontwijking faciliteren opgespoord en gesloten.
 
 1.  Er komt een limiet op vermogen,
