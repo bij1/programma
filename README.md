@@ -245,11 +245,12 @@ Dit doen we op de volgende manieren:
 
 ### Eerlijke Waardering & Meer Zeggenschap
 
-1.  Het minimumloon wordt per direct verhoogd naar 16 euro per uur
-    met een gelijke verhoging van de AOW en de bijstand.
-    We koppelen het minimumloon aan 60% van het mediaan inkomen,
-    zodat het structureel meestijgt met andere lonen.
-    Het minimumjeugdloon wordt afgeschaft
+1.  Het minimumloon wordt per direct verhoogd naar 16 euro per uur.
+    Het minimumloon stijgt verder jaarlijks tenminste mee met de prijzen (APC, Automatische Prijscompensatie)
+    en is niet minder dan 60% van het mediaanloon.
+    Het AOW en de bijstand stijgen automatisch mee met het minimumloon.
+    Het minimumloon geldt voor iedereen, zonder uitzonderingen.
+    Het minimumjeugdloon wordt dus afgeschaft
     en gelijkgetrokken met het minimumloon voor volwassenen.
     We leggen inflatiecorrectie van de lonen wettelijk vast,
     zodat de lonen automatisch met de inflatie meestijgen.
