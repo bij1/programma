@@ -1240,7 +1240,8 @@ Dit doen we op de volgende manieren:
 
 ### Uitgeprocedeerde Asielzoekers en Ongedocumenteerde mensen
 
-1.  Er komt een permanente eerst een generaal pardon en daarna permanente regularisatie programma's voor alle uitgeprocedeerde asielzoekers
+1.  Er komt een permanente eerst een generaal pardon
+    en daarna permanente regularisatie programma's voor alle uitgeprocedeerde asielzoekers
     en ongedocumenteerde mensen die zich in Nederland bevinden.
     Hierbij wordt speciaal aandacht besteed aan ongedocumenteerde mensen uit de voormalige koloniën, zoals Suriname.
 
