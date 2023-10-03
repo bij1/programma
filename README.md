@@ -269,13 +269,13 @@ Dit doen we op de volgende manieren:
 1.  We creëren vrijheid voor werknemers om eigen werktijden te bepalen
     of in deeltijd te werken en zorgen voor eerlijke vergoedingen voor stages.
 
-1.  Staken is een recht.
+1.  De positie van de vakbonden wordt versterkt en het stakingsrecht wordt uitgebreid.
+    Niet de werkgevers en de rechter bepalen of een staking proportioneel is, maar de werkers.
+    Loon moet worden doorbetaald tijdens een staking.
     We zorgen dat alle bedrijfstakken een cao hebben,
     zodat bescherming van werknemers beter geregeld is.
-    Bij cao-onderhandelingen doen alleen vakbonden mee
-    die voldoende onafhankelijk zijn van werkgevers.
-    Het stakingsrecht wordt uitgebreid:
-    werkgevers bepalen niet wanneer je wel of niet mag staken.
+    Bij cao-onderhandelingen doen alleen vakbonden mee die onafhankelijk zijn van werkgevers,
+    geen zogenaamde Gele Bonden.
 
 1.  We vieren de werkende mens en hun bijdragen aan de maatschappij.
     1 mei, de Dag van de Arbeid, wordt zoals in de rest van Europa een nationale feestdag.
