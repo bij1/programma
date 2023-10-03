@@ -199,7 +199,7 @@ Samen pakken we terug wat altijd al van ons was.
 Dit doen we op de volgende manieren:
 </mark>
 
-### Een Inclusieve en Gelijkwaardige Arbeidsmarkt
+### Inclusie en Gelijkwaardigheid in Werk en Inkomen
 
 1.  We schaffen de 40-urige werkweek af en gaan naar een 30-urige werkweek met loonbehoud
     en een evenredige werving van personeel opdat de werkdruk niet wordt verhoogd.
