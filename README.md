@@ -271,7 +271,7 @@ Dit doen we op de volgende manieren:
 
 1.  Krapte op de arbeidsmarkt in sectoren
     als de zorg, onderwijs en het openbaar vervoer,
-    worden bestreden door flinke loonsverhogingen.
+    wordt bestreden door flinke loonsverhogingen.
     Zo maken we duurdere flexwerkers in deze sectoren grotendeels onnodig.
 
 1.  Werknemers die langer dan negen maanden met een tijdelijk contract werken,
@@ -742,7 +742,7 @@ heeft BIJ1 de volgende plannen:
     en het niet benutten van woningen en panden wordt verboden.
     Er komt actieve handhaving om leegstand te bestrijden,
     onder andere door middel van [onteigening](https://bij1.org/woordenlijst/).
-    Daarnaast hanteren we een [zelfbewoningsplicht](https://bij1.org/woordenlijst/) en anti-speculatie.
+    Daarnaast wordt er een zelfbewoningsplicht ingevoerd en wordt speculatie bestreden.
 
 1.  We maken het bestrijden van dak- en thuisloosheid
     een doelstelling van het nationaal woonbeleid.
