@@ -48,6 +48,11 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     doen grondig onderzoek naar racisme binnen hun organisaties en functioneren,
     en voeren actief antiracistisch beleid.
 
+1.  We pakken discriminatie in het migratiebeleid aan.
+    Europees en Nederlands migratiebeleid discrimineert op basis van afkomst en klasse.
+    Mensen uit voornamelijk Azie en Afrika toegang tot Europa ontzeggen is neokoloniaal en racistisch.
+    Discriminatie op basis van nationaliteit of verblijfsstatus wordt verboden.
+
 1.  We pakken racisme in wonen en omgeving aan.
     Er zijn talloze onderzoeken uitgevoerd naar discriminatie op de woningmarkt.
     Het is tijd om op basis daarvan antiracistisch beleid vorm te geven,
