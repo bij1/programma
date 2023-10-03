@@ -575,6 +575,11 @@ BIJ1 heeft hiervoor de volgende plannen:
     en in het bijzonder agrarische bedrijven die hiernaar overstappen,
     worden (financieel) ondersteund.
 
+1.  Er komen meer beschermde zeereservaten en bestaande reservaten worden uitgebreid.
+    In deze reservaten is geen plaats voor visserij, gaswinning of andere schadelijke activiteiten.
+    Buiten deze zeereservaten wordt het 'nee, tenzij'-principe toegepast
+    voor economische activiteiten voor herstel en behoud van mariene ecosystemen.
+
 1.  Biodiversiteit wordt prioriteit.
     Maaibeleid wordt aangepast om natuur de ruimte te geven
     en er wordt plaats gemaakt voor meer (kleine) ecosystemen in parken en natuurgebieden.
