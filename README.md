@@ -164,6 +164,12 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     en 18 maart (Dia di Himno y Bandera, de Arubaanse Dag van het Volkslied en de Vlag)
     worden nationale feestdagen.
 
+1.  Tevens wordt de 'dag van empathie' op 3 mei ingevoerd
+    als onderdeel van de 4-5 mei herdenking/viering.
+    Op de dag van empathie komen mensen samen
+    en herdenken we het koloniaal verleden
+    en de (vele) slachtoffers die Nederland heeft gemaakt in het verleden.
+
 ## 2. Werk En Bestaanszekerheid
 
 ### <mark>Alles is Altijd al van Ons</mark>
