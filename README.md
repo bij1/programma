@@ -231,11 +231,12 @@ Dit doen we op de volgende manieren:
     Dit doen we door onder andere het recht op thuiswerk vast te leggen
     en meer (onafhankelijke) ondersteuning op de werkvloer.
 
-1.  Mensen met een laag inkomen en een urenbeperking vanwege hun beperking,
-    kunnen zich nooit uit de bijstand werken.
-    Daarmee gaat veel talent voor de arbeidsmarkt verloren.
-    BIJ1 zet hiertoe in op Sociale Ontwikkelbedrijven
+1.  BIJ1 zet in op Sociale Ontwikkelbedrijven
     waarbij mensen meer eigen regie en ondersteuning op de werkvloer krijgen.
+    Zo krijgen werkende mensen die door een beperking urenbeperkt zijn
+    de optie om weer te gaan werken als ze hier zelf voor kiezen.
+    Mensen voor wie een Sociaal Ontwikkelbedrijf naar eigen inzicht geen gepaste optie is,
+    moeten hier niet voor bestraft worden.
 
 1.  We zetten ons in voor duurzaam, passend werk
     met fatsoenlijke en rechtvaardige arbeidsvoorwaarden
