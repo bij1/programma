@@ -1627,7 +1627,7 @@ maar in collectieve voorzieningen en bestaanszekerheid;
 zaken die onze gemeenschappen wél veilig houden.
 
 <mark>
-Wij staan voor een samenleving waar niet afstraffing,
+BIJ1 staat voor een samenleving waar niet afstraffing,
 maar medemenselijkheid centraal staat.
 BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
