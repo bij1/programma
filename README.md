@@ -1005,7 +1005,7 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
 1.  Niet alleen de witte cis man moet centraal staan bij medisch onderzoek.
     Er wordt meer geïnvesteerd in onderzoek
     naar ziektebeelden, geneesmiddelen en behandelmethoden
-    bij niet-witte mensen, vrouwen en niet-witte vrouwen.
+    bij mensen die niet wit, cis, en/of man zijn.
     De BMI als beoordeling voor het toezeggen van medische ingrepen (inclusief transzorg) wordt afgeschaft.
     Artsen en verzekeringen die gebruik maken van deze verzonnen methode worden beboet.
 
