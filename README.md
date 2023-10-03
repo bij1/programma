@@ -2339,7 +2339,7 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
 1.  We investeren in betaalbare en toegankelijke plekken en vrijplaatsen,
     waar kunst gemaakt en getoond kan worden.
     Bestaande vrijplaatsen worden erkend en behouden.
-    Nieuwe vrijplaatsen worden praktisch en legaal ondersteund.
+    Nieuwe vrijplaatsen worden praktisch, financieel en juridisch ondersteund.
 
 1.  Onafhankelijke (lokale) media en journalistiek worden gestimuleerd en versterkt.
     Monopolievorming wordt tegengegaan.
