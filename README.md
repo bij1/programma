@@ -389,7 +389,7 @@ Om de weg naar deze economie vrij te maken, strijdt BIJ1 onder meer voor de volg
     een gelijk aantal niet-verkoopbare coupons ontvangt
     op hun 18<sup>e</sup> verjaardag.
     Deze coupons kunnen worden geïnvesteerd in publieke beleggingsfondsen
-    en worden na overlijden niet ge-erft door nabestaanden,
+    en worden na overlijden niet geërfd door nabestaanden,
     maar wederom eigendom van de overheid.
     Deze kan ze vervolgens weer uitschrijven aan een volgende generatie.
 
