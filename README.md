@@ -1639,7 +1639,7 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     BOA's die werkzaam zijn in de domeinen Milieu, Welzijn en Infrastructuur en Werk, Inkomen en Zorg
     worden op een andere wijze dan de BOA-titel bevoegd om op te treden tegen overtreders.
     We stoppen met investeren in handhaving,
-    en investeren dat geld in goede collectieve voorzieningen.
+    en investeren in goede collectieve voorzieningen.
     Iedereen krijgt goede toegang tot onderwijs, een leefbaar inkomen,
     en racisme wordt maatschappijbreed aangepakt.
     Er wordt geïnvesteerd in goede hulp voor mensen met onbegrepen gedrag:
