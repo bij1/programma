@@ -82,7 +82,7 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     Het effect van racisme in de zorg wordt uitgebreid onderzocht en bestreden,
     zowel in de vorm van vooroordelen van zorgmedewerkers
     als behandelsmethoden die gebaseerd zijn op onderzoek
-    waarin niet-witte mensen worden buitengesloten.
+    waarin niet-witte mensen en vrouwen ondervertegenwoordigd zijn.
 
 1.  Er komt een daadkrachtige aanpak tegen Islamofobie en Moslimhaat,
     die na een jarenlange hetze tegen moslims inmiddels zijn genormaliseerd.
