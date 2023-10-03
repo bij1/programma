@@ -1564,7 +1564,7 @@ strijdt BIJ1 onder meer voor de volgende punten:
 ### Toegankelijkheid in de Openbare Ruimte
 
 1.  Alle overheidsgebouwen worden en blijven volledig toegankelijk.
-    Er komen doelgerichte budgetten voor gemeenten
+    Er komen budgetten voor gemeenten
     om toegankelijkheid in de openbare ruimte te bevorderen.
 
 1.  Alle openbare toiletten worden toegankelijk en gratis.
