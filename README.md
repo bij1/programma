@@ -490,11 +490,12 @@ BIJ1 heeft hiervoor de volgende plannen:
     dat we het probleem verplaatsen naar landen buiten Europa
     en klimaatracisme verder in de hand werken.
 
-1.  Er wordt fors geïnvesteerd in (nieuwe) duurzame energie-alternatieven
-    en het budget voor het warmtefonds wordt verhoogd.
-    Hierbij wordt rekening gehouden met inkomenspositie,
-    zodat mensen met lagere inkomens
-    niet de rekening gepresenteerd krijgen voor de energietransitie.
+1.  We nationaliseren energiebedrijven en investeren in (nieuwe) duurzame energie-alternatieven.
+    We passen op dat de energietransitie niet leidt tot dezelfde
+    koloniale en mens en natuur uitputtende eigenschappen heeft als de fossiele industrie.
+    Het budget voor het warmtefonds wordt verhoogd
+    en laten mensen met lagere inkomens
+    niet opdraaien voor de kosten van de energietransitie.
 
 1.  We schaffen de marktwerking in de energie volledig af.
     Alle energiebedrijven worden weer nutsbedrijven.
