@@ -115,9 +115,8 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     als antisemitisch beoordeelt, wordt verworpen.
     Er komt ook erkenning voor het antisemitisme binnen de Zionistische beweging,
     zoals dat van Viktor Orbán en extremistische christenen.
-    Het bezit van nazi-attributen mag voortaan alleen met een vergunning,
-    behalve in musea.
-    Hitleraanbidding wordt bij wet verboden.
+    Het bezit van nazi-attributen mag voortaan alleen met een vergunning.
+    Aanbidding of verheerlijking van prominente fascisten, zoals Hitler, wordt bij wet verboden.
 
 ### Koloniale Schade Herstellen en Hedendaags Kolonialisme Afbreken
 
