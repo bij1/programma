@@ -326,6 +326,11 @@ en andere vormen van discriminatie.
 Dat betekent ook dat we een einde maken aan ons aandeel in het economisch imperialisme,
 waarbij het Globale Noorden, het Globale Zuiden uitbuit.
 
+Oneindige groei is niet mogelijk op onze eindige wereld.
+Daarom sturen we op "degrowth" - ontgroeien.
+Onze overproductie en onstilbare honger naar grondstoffen en energie
+putten mens, dier en planeet uit, met name in het Globale Zuiden.
+
 <mark>
 Niet groei en winst,
 maar vrijheid en gelijkwaardigheid horen het einddoel te zijn van een economie.
