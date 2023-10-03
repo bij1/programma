@@ -2442,7 +2442,7 @@ van een kleine groep kapitalisten en onderdrukkende instanties, maar van de hele
 BIJ1 strijdt daarom onder meer voor de volgende punten:
 </mark>
 
-### Technologie en Digitalisering: van en voor Iedereen
+### Technologie en Digitalisering van en voor Iedereen
 
 1.  Toegang tot het internet is een basisrecht en moet daarom voor iedereen toegankelijk zijn.
     Er komt gratis internettoegang voor iedereen.
