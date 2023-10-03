@@ -1109,7 +1109,7 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     Het uitgangspunt wordt een nieuw Statuut waar daadwerkelijke gelijkwaardigheid centraal staat.
     Nederland maakt dit financieel mogelijk.
 
-1.  Er komt onmiddellijk een bestaansminimum voor de Bonaire, Statia en Saba gebaseerd op de werkelijke levenskosten.
+1.  Er komt onmiddellijk een bestaansminimum voor Bonaire, Statia en Saba gebaseerd op de werkelijke levenskosten.
     Het minimumloon mag niet lager liggen dan het bestaansminimum.
     Kinderopvang wordt gratis en andere regelingen van het Nederlandse socialezekerheidsstelsel worden ingevoerd.
     Deze uitkeringen zijn hetzelfde of hoger dan in Europees Nederland.
