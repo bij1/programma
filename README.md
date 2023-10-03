@@ -113,8 +113,7 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     De [IHRA-definitie](https://bij1.org/woordenlijst/),
     die het benoemen van het racistische karakter van de staat Israël
     als antisemitisch beoordeelt, wordt verworpen.
-    Er komt ook erkenning voor het antisemitisme binnen de Zionistische beweging,
-    zoals dat van Viktor Orbán en extremistische christenen.
+    Er komt ook erkenning voor het antisemitisme binnen de Zionistische beweging.
     Het bezit van nazi-attributen mag voortaan alleen met een vergunning.
     Aanbidding of verheerlijking van prominente fascisten, zoals Hitler, wordt bij wet verboden.
 
