@@ -1420,8 +1420,9 @@ stelt BIJ1 de volgende beleidsveranderingen voor:
 1.  Het taboe rondom abortus wordt actief bestreden:
     abortus wordt uit het Wetboek van Strafrecht gehaald.
 
-1.  De overheid stopt met het subsidiëren van organisaties
-    die geen onafhankelijke hulp bieden aan ongewenst zwangere personen.
+1.  Organisaties die pretenderen hulp te bieden aan ongewenst zwangere personen,
+    maar geen keuzeruimte voor de zwangere bieden, worden niet langer gesubsidieerd.
+    Alleen onafhankelijke hulp die autonomie respecteert verdient subsidie.
 
 1.  Ervaringsdeskundigen worden actief betrokken bij het ontwikkelen van beleid rond abortuszorg.
 
