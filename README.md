@@ -335,8 +335,9 @@ Om de weg naar deze economie vrij te maken, strijdt BIJ1 onder meer voor de volg
 ### Van Privatisering naar Nationalisering
 
 1.  We brengen belangrijke sectoren van de economie,
-    zoals banken, pensioenfondsen, het openbaar vervoer en de zorg,
+    zoals banken, pensioenfondsen, energie, het openbaar vervoer en de zorg,
     in publieke handen.
+    De financiële en energiesector hebben hierbij de hoogste urgentie.
 
 1.  Het belastingstelsel wordt fundamenteel veranderd.
     Veel indirecte consumentenbelastingen worden afgeschaft.
