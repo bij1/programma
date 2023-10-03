@@ -340,8 +340,7 @@ Om de weg naar deze economie vrij te maken, strijdt BIJ1 onder meer voor de volg
 
 1.  Nederland is niet langer een belastingparadijs.
     Het oprichten van een brievenbus-BV wordt onmogelijk gemaakt.
-    Daarnaast wordt er grootschalig onderzoek gedaan
-    naar mazen in de wet die belastingontwijking faciliteren.
+    Daarnaast worden mazen in de wet die belastingontwijking faciliteren opgespoord en gesloten.
 
 1.  Er komt een limiet op vermogen,
     waarboven een marginaal belastingtarief van 100% geldt.
