@@ -1830,7 +1830,7 @@ strijdt BIJ1 onder meer voor de volgende punten:
     rechtvaardigheid, anti-imperialisme en solidariteit
     centraal stelt in beleid, wetgeving en budgettering.
 
-1.  De Europese Unie wordt veel democratischer.
+1.  De Europese Unie wordt gedemocratiseerd.
     Het Europees Parlement moet de centrale rol krijgen bij het vormen van beleid.
     De Europese Raad, Raad van de Europese Unie, de Europese Commissie
     en andere vormen van onderhandelingen moeten transparant worden.
