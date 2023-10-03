@@ -565,6 +565,8 @@ BIJ1 heeft hiervoor de volgende plannen:
     Er wordt een bereikbaarheidsnorm vastgesteld
     waaraan alle financieringsplannen worden getoetst.
     Deze norm bepaalt de maximale afstand tussen burgers en openbaar vervoer.
+    We stoppen met snelwegverbredingen en leggen alleen nog nieuwe wegen aan
+    als deze de bereikbaarheidsnorm bevorderen en niet ten koste gaan van natuurgebieden.
 
 1.  De dierlijke bio-industrie moet afgebouwd worden en uiteindelijk verdwijnen.
     Dit moet deels gebeuren door het uitkopen, sluiten en onteigenen
