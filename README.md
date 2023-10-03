@@ -88,7 +88,7 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     die na een jarenlange hetze tegen moslims inmiddels zijn genormaliseerd.
     We schaffen het hoofddoekverbod en verbod op gezichtsbedekkende kleding af,
     en we verbieden het vernielen van heilige schriften.
-    Wetgeving die moslims onterecht koppelt aan veiligheid wordt ingetrokken.
+    Wetgeving die moslims onterecht koppelt aan onveiligheid wordt ingetrokken.
 
 ### Geen Plek voor Fascisme en Racistisch Geweld
 
