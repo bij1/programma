@@ -772,7 +772,7 @@ heeft BIJ1 de volgende plannen:
 
 ### Betaalbaar en Zeker Wonen
 
-1.  We maken huren betaalbaarder voor mensen,
+1.  We maken huren betaalbaarder
     door de regels voor huurprijzen te koppelen aan het minimumloon
     waardoor het huurtoeslag-systeem overbodig wordt.
 
