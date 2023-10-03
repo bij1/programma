@@ -62,7 +62,7 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     Ook wordt er speciaal aandacht besteed aan het leren van
     het herkennen van en ingrijpen bij racisme op school.
     Elke student die stage moet lopen,
-    krijgt gegarandeerd een stageplek binnen het MKB en de overheid.
+    krijgt gegarandeerd een stageplek op een passende plek.
     Stagediscriminatie wordt streng aangepakt.
 
 1.  We pakken het grootschalige racisme op de arbeidsmarkt aan.
