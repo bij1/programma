@@ -257,6 +257,9 @@ Dit doen we op de volgende manieren:
 1.  Bedrijven en werkplekken worden democratisch bestuurd
     en komen in handen van werknemers in plaats van bedrijfseigenaren.
 
+1.  Bedrijven worden verplicht op de werkplek ruimtes te bieden
+    waar werknemers kunnen samenkomen om elkaar te spreken en gezamenlijke (vakbonds)acties te organiseren.
+
 1.  Krapte op de arbeidsmarkt in sectoren
     als de zorg, onderwijs en het openbaar vervoer,
     worden bestreden door flinke loonsverhogingen.
