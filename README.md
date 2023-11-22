@@ -1446,8 +1446,10 @@ stelt BIJ1 de volgende beleidsveranderingen voor:
 
 1.  Er komt een wet voor meerouderschap.
     Het huidige huwelijksrecht en samenlevingsrecht worden op zo'n manier aangepast,
-    dat er gelijke sociale en financiële rechten worden geboden
-    aan alle gezinnen, samenwonenden en samenlevenden.
+    dat alle mensen (of relaties) die meervoudig ouderschap verkiezen
+    gelijke sociale en financiële rechten verkrijgen.
+    De overheid stelt geen voorwaarden aan de vorm van de relatie
+    waarbinnen mensen meervoudig ouderschap verkiezen.
 
 1.  Er wordt een einde gemaakt aan interlandelijke adoptie.
 
