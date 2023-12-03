@@ -1035,6 +1035,14 @@ BIJ1 strijdt daarom onder meer voor de volgende punten:
     In de opleiding van artsen en andere zorgverleners wordt voldoende aandacht besteed
     aan transzorg en gendersensitiviteit.
 
+1.  Wij zetten ons in voor het per direct opnemen van een vergoeding
+    voor afbouwmedicatie doormiddel van de taperingstrip.
+    Dit is een bewezen effectieve methode om veilig (hyperbool) psychofarmaca af te bouwen.
+    Dit zal langdurige gezondheidswinst opleveren voor vele Nederlanders, langdurige zorgkosten drukken
+    en zal een positief effect hebben op de hoeveelheid medicijnresten in het oppervlakte water.
+    Daarnaast gaan wij ervoor zorgen dat medicatie afbouwen en GGZ behandelingen positief afsluiten
+    worden opgenomen in het curriculum van alle hulpverleners.
+
 ## 7. Aruba, Bonaire, Curaçao, Saba, Statia en Sint Maarten
 
 ### <mark>Radicale Gelijkwaardigheid en Herstel in het Koninkrijk</mark>
